@@ -1,0 +1,22 @@
+{
+  "uuid": "048fd34b-6c69-4492-855e-6eb8d23bc50a",
+  "file_type": 11,
+
+  "name": "[STORY_MAIN_1_1_1_NAME]",
+  "desc": "[STORY_MAIN_1_1_1_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "track": [
+    "OST_10", "OST_2", "OST_10"
+  ],
+  "is_battle": false
+}

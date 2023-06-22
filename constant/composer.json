@@ -12,5 +12,17 @@
         "short_desc": ""
       }
     }
+  },
+  "2": {
+    "realname": "",
+    "nickname": "KARUT",
+    "contact": {
+      "platform": 1,
+      "url": {
+        "platform": 1,
+        "value": "https://twitter.com/triplebullets",
+        "short_desc": ""
+      }
+    }
   }
 }
