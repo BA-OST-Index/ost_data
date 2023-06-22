@@ -1,0 +1,19 @@
+{
+  "file_type": 0,
+  "file_id": "platform",
+  "1": {
+    "en": "Twitter",
+    "zh_tw": "Twitter",
+    "zh_cn": "Twitter"
+  },
+  "2": {
+    "en": "bilibili",
+    "zh_tw": "bilibili",
+    "zh_cn": "哔哩哔哩"
+  },
+  "3": {
+    "en": "YouTube",
+    "zh_tw": "YouTube",
+    "zh_cn": "YouTube"
+  }
+}
