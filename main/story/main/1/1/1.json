@@ -1,6 +1,6 @@
 {
   "uuid": "048fd34b-6c69-4492-855e-6eb8d23bc50a",
-  "file_type": 11,
+  "filetype": 11,
 
   "name": "[STORY_MAIN_1_1_1_NAME]",
   "desc": "[STORY_MAIN_1_1_1_DESC]",
@@ -15,8 +15,39 @@
     "short_desc": ""
   },
 
-  "track": [
-    "OST_10", "OST_2", "OST_10"
+  "part": [
+    {
+      "name": "收到来信",
+      "desc": "在上任几天后，阿罗娜表示许多学生都送来了求助信，而其中一篇则来自阿拜多斯高中。",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_MainOffice.jpg"],
+      "character": ["Arona"]
+    },
+    {
+      "name": "阿拜多斯的困境",
+      "desc": "老师阅读了阿拜多斯的信，信中提到了阿拜多斯遭受暴力组织攻击、弹药耗尽等问题，并由此请求老师的帮助。",
+      "is_battle": false,
+      "track": ["OST_2"],
+      "background": ["BG_CommitteeRoom_Night_Blur.jpg"],
+      "character": []
+    },
+    {
+      "name": "阿拜多斯简介",
+      "desc": "阿罗娜向老师简单介绍了一下阿拜多斯当地的情况，并对“阿拜多斯学院”被攻击一事感到惊异。之后，老师立刻到阿拜多斯自治区出差。",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_MainOffice.jpg"],
+      "character": ["Arona"]
+    },
+    {
+      "name": "阿拜多斯自治区",
+      "desc": "到达阿拜多斯自治区之后，老师找不到学校，迷路了。",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_Residence.jpg"],
+      "character": []
+    }
   ],
   "is_battle": false
 }

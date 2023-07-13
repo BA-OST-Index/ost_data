@@ -1,0 +1,45 @@
+{
+  "uuid": "74489a51-5d14-4327-9f9b-812dad6d596f",
+  "filetype": 16,
+
+  "name": "[STORY_OTHER_1_1_1_NAME]",
+  "desc": "[STORY_OTHER_1_1_1_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "进入系统",
+      "desc": "系统的欢迎界面，快速切换了多个剧情的内容。",
+      "is_battle": false,
+      "track": ["OST_34"],
+      "background": ["BG_CS_PR_00.jpg", "BG_View_Kivotos.jpg", "BG_CityDowntown.jpg", "BG_DesertResidence_Night.jpg", "BG_SchoolRooftop.jpg", "BG_Wilderness_Night.jpg", "BG_CityOffice.jpg", "BG_CS_PR_01.jpg", "BG_CS_PR_08.jpg", "BG_CS_PR_09.jpg", "BG_CS_PR_07.jpg", "BG_CS_PR_12.jpg", "BG_CS_Trinity_01.jpg", "BG_CS_Gehenna_02_Letter.jpg","BG_CS_Gehenna_03_Letter.jpg", "BG_CS_Gehenna_01_Letter.jpg", "BG_CS_Abydos_01_Letter.jpg", "BG_CS_PR_19.jpg"],
+      "character": []
+    },
+    {
+      "name": "醒来",
+      "desc": "琳向老师说明了基沃托斯的一些基本情况，然后把老师带到了招待室。",
+      "is_battle": false,
+      "track": ["OST_10", "OST_11"],
+      "background": ["BG_UpperOffice.jpg", "BG_CS_PR_16.jpg", "BG_CS_PR_10.jpg"],
+      "character": ["琳"]
+    },
+    {
+      "name": "招待室里的争吵",
+      "desc": "在招待室里，来自千年的优香，三一的莲实和铃美，以及格黑娜的千夏，正在为学生会会长消失后的各种混乱情况要个说法。琳在众人面前坦白了学生会会长下落不明的新闻，而老师则向所有人打招呼。琳向众人介绍了老师，并要众人保卫老师到达夏莱；路上，众人受到攻击，三人开始作战，老师则在后方指挥。",
+      "is_battle": false,
+      "track": ["OST_11", "OST_28"],
+      "background": ["BG_ReceptionRoom.jpg"],
+      "character": ["Yukka", "Hasumi", "Chinatsu", "Suzumi", "琳", "桃香"]
+    }
+  ],
+  "is_battle": false
+}

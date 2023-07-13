@@ -1,0 +1,45 @@
+{
+  "uuid": "2407b218-9042-4036-98fd-4c77b17fadcb",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_5_NAME]",
+  "desc": "[STORY_MAIN_1_1_5_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "撞见茜香",
+      "desc": "老师撞见了茜香，向她亲切地问好，并表示想知道她去哪里、做什么。茜香躲闪着，但老师步步紧跟；茜香后承认是打工，并要求老师不再跟随，但老师并没有听从。",
+      "is_battle": false,
+      "track": ["OST_11"],
+      "background": ["BG_Residence.jpg", "BG_VillaComplex.jpg", "Unknown"],
+      "character": ["Serika"]
+    },
+    {
+      "name": "拉面店",
+      "desc": "老师带着对策委员会的其它人来到了茜香打工的拉面店，茜香大为震撼。然后，茜香带领大家就坐；之后，野乃美主动提出结账，但老师最终还是用大人的卡片结了账。吃饱后，大家在茜香的难堪与强烈要求下返回了学校",
+      "is_battle": false,
+      "track": ["OST_4"],
+      "background": ["BG_RamenYa.jpg", "BG_CS_Abydos_03.jpg"],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino", "柴大将"]
+    },
+    {
+      "name": "下班",
+      "desc": "茜香晚上终于下班，但却遭到了头盔圈的前后夹击，茜香被活捉。",
+      "is_battle": false,
+      "track": ["OST_9", "OST_29"],
+      "background": ["BG_CityOffice_Night.jpg", "BG_CityDowntown_Night.jpg"],
+      "character": ["Serika"]
+    }
+  ],
+  "is_battle": false
+}

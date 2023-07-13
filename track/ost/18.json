@@ -11,7 +11,7 @@
   "no": 18,
   "track_type": 0,
   "duration": 123,
-  "file_type": 1,
+  "filetype": 1,
 
   "composer": {
     "composer_id": 2

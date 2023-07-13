@@ -1,0 +1,45 @@
+{
+  "uuid": "0eb77784-117b-4522-b99b-c7360ed22b26",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_3_NAME]",
+  "desc": "[STORY_MAIN_1_1_3_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "讨论作战计划",
+      "desc": "在击退头盔圈后，众人对老师刚刚的指挥感到赞叹不已；之后众人分别介绍了自己。星野此时提出要去袭击头盔圈的前哨基地，老师表示同意，众人立刻出发。",
+      "is_battle": false,
+      "track": ["OST_10", "OST_5"],
+      "background": ["BG_CommitteeRoom.jpg", "BG_CityOffice.jpg"],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
+    },
+    {
+      "name": "返回学校",
+      "desc": "众人在作战成功后，返回学校。",
+      "is_battle": false,
+      "track": ["OST_11"],
+      "background": ["BG_CityOffice.jpg"],
+      "character": ["Shiroko", "Ayane", "Hoshino"]
+    }
+  ],
+  "is_battle": true
+}

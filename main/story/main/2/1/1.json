@@ -1,0 +1,53 @@
+{
+  "uuid": "2407b218-9042-4036-98fd-4c77b17fadcb",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_1_NAME]",
+  "desc": "[STORY_MAIN_2_1_1_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "勇者的剧情",
+      "desc": "老师在意识模糊之际，听到了一段奇怪的关于勇者的故事。",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_View_Sky.jpg", "BG_CS_PV_44.jpg"],
+      "character": []
+    },
+    {
+      "name": "游戏开发部",
+      "desc": "老师最终醒了过来，发现自己到了游戏开发部，并得知是被桃井扔出窗外的PreyStation砸中了才昏迷过去。桃井和绿提到了他们的那封信。",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi"]
+    },
+    {
+      "name": "收到信件",
+      "desc": "老师收到了游戏开发部的信件，并从中得知了游戏开发部将要被废社的消息；阿罗娜顺便介绍了一些千年学院的概况。",
+      "is_battle": false,
+      "track": ["OST_2"],
+      "background": ["BG_MainOffice.jpg"],
+      "character": ["Arona"]
+    },
+    {
+      "name": "游戏开发部",
+      "desc": "桃井和绿向老师做了自我介绍，并提议一起前往废墟；同时提及废社是优香要求的——然而，此时众人却被一阵声音打断。",
+      "is_battle": false,
+      "track": ["OST_2"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi"]
+    }
+  ],
+  "is_battle": false
+}
