@@ -1,0 +1,9 @@
+{
+  "uuid": "9d96515d-eca0-411c-9060-7acf693fa907",
+  "filetype": -53,
+  "namespace": "koharu",
+  "name": "Koharu",
+  "include": [
+    "[AUTO]"
+  ]
+}

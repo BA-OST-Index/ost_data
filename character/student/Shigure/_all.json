@@ -1,0 +1,9 @@
+{
+  "uuid": "a19ce9cf-7dd1-4a95-9209-6090feb979b2",
+  "filetype": -53,
+  "namespace": "shigure",
+  "name": "Shigure",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "d1bbe009-3b67-4191-989e-41c4e3572f3a",
+  "filetype": -53,
+  "namespace": "izumi_swimsuit",
+  "name": "Izumi_Swimsuit",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "1d3626ac-1dca-436a-ae91-adfa6277dee5",
+  "filetype": -53,
+  "namespace": "kayoko",
+  "name": "Kayoko",
+  "include": [
+    "[AUTO]"
+  ]
+}

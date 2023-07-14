@@ -1,0 +1,9 @@
+{
+  "uuid": "dc2fcd4e-d374-4c24-85ad-f6b7cc624fad",
+  "filetype": -53,
+  "namespace": "neru",
+  "name": "Neru",
+  "include": [
+    "[AUTO]"
+  ]
+}

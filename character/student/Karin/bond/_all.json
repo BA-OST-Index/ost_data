@@ -1,0 +1,9 @@
+{
+  "uuid": "781f5403-b6a4-45a4-9f1c-654e5121677d",
+  "filetype": -53,
+  "namespace": "karin",
+  "name": "Karin",
+  "include": [
+    "[AUTO]"
+  ]
+}

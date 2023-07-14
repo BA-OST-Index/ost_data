@@ -1,0 +1,9 @@
+{
+  "uuid": "3ad387ad-455c-4b1f-8b4a-5032571ed17e",
+  "filetype": -53,
+  "namespace": "marina",
+  "name": "Marina",
+  "include": [
+    "[AUTO]"
+  ]
+}

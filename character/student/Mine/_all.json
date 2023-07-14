@@ -1,0 +1,9 @@
+{
+  "uuid": "fff5702b-a943-4b8e-a937-626b88b14dcc",
+  "filetype": -53,
+  "namespace": "mine",
+  "name": "Mine",
+  "include": [
+    "[AUTO]"
+  ]
+}

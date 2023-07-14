@@ -1,0 +1,9 @@
+{
+  "uuid": "1de50270-2c5f-4b5a-9cd4-8a979cd20409",
+  "filetype": -53,
+  "namespace": "iori",
+  "name": "Iori",
+  "include": [
+    "[AUTO]"
+  ]
+}

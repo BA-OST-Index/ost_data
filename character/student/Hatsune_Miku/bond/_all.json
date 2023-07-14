@@ -1,0 +1,9 @@
+{
+  "uuid": "53b47414-d638-4977-85a3-20ccc00018f1",
+  "filetype": -53,
+  "namespace": "hatsune_miku",
+  "name": "Hatsune_Miku",
+  "include": [
+    "[AUTO]"
+  ]
+}

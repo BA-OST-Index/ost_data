@@ -1,0 +1,9 @@
+{
+  "uuid": "9c0400d6-ad36-4152-8a1f-97041d744099",
+  "filetype": -53,
+  "namespace": "chinatsu",
+  "name": "Chinatsu",
+  "include": [
+    "[AUTO]"
+  ]
+}

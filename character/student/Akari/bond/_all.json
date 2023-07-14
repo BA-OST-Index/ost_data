@@ -1,0 +1,9 @@
+{
+  "uuid": "46deee77-035e-4e71-a0f6-072961b1c670",
+  "filetype": -53,
+  "namespace": "akari",
+  "name": "Akari",
+  "include": [
+    "[AUTO]"
+  ]
+}

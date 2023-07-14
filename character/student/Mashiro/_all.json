@@ -1,0 +1,9 @@
+{
+  "uuid": "a356eb05-2d34-4caa-8cea-d06cc3b19bba",
+  "filetype": -53,
+  "namespace": "mashiro",
+  "name": "Mashiro",
+  "include": [
+    "[AUTO]"
+  ]
+}

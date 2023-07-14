@@ -1,0 +1,9 @@
+{
+  "uuid": "849e680f-e3c6-4a5a-987c-6d31ae02f6fc",
+  "filetype": -53,
+  "namespace": "sumire",
+  "name": "Sumire",
+  "include": [
+    "[AUTO]"
+  ]
+}

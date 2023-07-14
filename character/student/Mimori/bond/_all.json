@@ -1,0 +1,9 @@
+{
+  "uuid": "c1897661-a92f-44df-ab5f-16de183f2761",
+  "filetype": -53,
+  "namespace": "mimori",
+  "name": "Mimori",
+  "include": [
+    "[AUTO]"
+  ]
+}

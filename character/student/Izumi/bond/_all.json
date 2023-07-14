@@ -1,0 +1,9 @@
+{
+  "uuid": "fd8f35a7-1b3b-4d14-a5ab-b7363a39fc1f",
+  "filetype": -53,
+  "namespace": "izumi",
+  "name": "Izumi",
+  "include": [
+    "[AUTO]"
+  ]
+}

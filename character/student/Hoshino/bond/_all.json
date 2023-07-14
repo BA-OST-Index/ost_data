@@ -1,0 +1,9 @@
+{
+  "uuid": "67230a6e-55b9-4f73-afcd-044f1fe78845",
+  "filetype": -53,
+  "namespace": "hoshino",
+  "name": "Hoshino",
+  "include": [
+    "[AUTO]"
+  ]
+}

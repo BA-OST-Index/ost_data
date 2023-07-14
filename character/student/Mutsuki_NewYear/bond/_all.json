@@ -1,0 +1,9 @@
+{
+  "uuid": "2aa7e88f-9def-45dd-bafb-90ce20656813",
+  "filetype": -53,
+  "namespace": "mutsuki_newyear",
+  "name": "Mutsuki_NewYear",
+  "include": [
+    "[AUTO]"
+  ]
+}

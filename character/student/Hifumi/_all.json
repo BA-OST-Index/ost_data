@@ -1,0 +1,9 @@
+{
+  "uuid": "e25975d4-1277-46e7-a2b4-7c032581f8b5",
+  "filetype": -53,
+  "namespace": "hifumi",
+  "name": "Hifumi",
+  "include": [
+    "[AUTO]"
+  ]
+}

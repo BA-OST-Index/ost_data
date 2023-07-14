@@ -1,0 +1,9 @@
+{
+  "uuid": "db74bfed-8b3b-4f65-9992-299e665a1ea5",
+  "filetype": -53,
+  "namespace": "chise_swimsuit",
+  "name": "Chise_Swimsuit",
+  "include": [
+    "[AUTO]"
+  ]
+}

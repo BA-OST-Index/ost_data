@@ -1,0 +1,9 @@
+{
+  "uuid": "2fdbfbf1-8c45-4f04-a554-9f49daaa43b0",
+  "filetype": -53,
+  "namespace": "momoi",
+  "name": "Momoi",
+  "include": [
+    "[AUTO]"
+  ]
+}

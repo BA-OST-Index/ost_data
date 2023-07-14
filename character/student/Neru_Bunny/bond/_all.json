@@ -1,0 +1,9 @@
+{
+  "uuid": "4d8968fb-01b2-4629-a006-c98399decd53",
+  "filetype": -53,
+  "namespace": "neru_bunny",
+  "name": "Neru_Bunny",
+  "include": [
+    "[AUTO]"
+  ]
+}

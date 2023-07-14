@@ -1,0 +1,9 @@
+{
+  "uuid": "92f2be54-416b-485f-aaa7-cdeb6084fbea",
+  "filetype": -53,
+  "namespace": "michiru",
+  "name": "Michiru",
+  "include": [
+    "[AUTO]"
+  ]
+}

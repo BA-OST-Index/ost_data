@@ -3,7 +3,7 @@
   "filetype": -11,
   "name": "",
   "namespace": "track",
-  "description": "",
+  "desc": "",
 
   "include": [
     "ost",

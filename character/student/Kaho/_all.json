@@ -1,0 +1,9 @@
+{
+  "uuid": "ac4c87aa-9155-4825-988b-fee72b76e169",
+  "filetype": -53,
+  "namespace": "kaho",
+  "name": "Kaho",
+  "include": [
+    "[AUTO]"
+  ]
+}

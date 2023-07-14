@@ -1,0 +1,9 @@
+{
+  "uuid": "d3d8d9c6-5498-45ad-b84c-adc64e049a51",
+  "filetype": -53,
+  "namespace": "rumi",
+  "name": "Rumi",
+  "include": [
+    "[AUTO]"
+  ]
+}

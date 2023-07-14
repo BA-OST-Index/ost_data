@@ -1,0 +1,9 @@
+{
+  "uuid": "17c4b9f3-7ed2-4691-b2f6-2a3015bd0457",
+  "filetype": -53,
+  "namespace": "saki",
+  "name": "Saki",
+  "include": [
+    "[AUTO]"
+  ]
+}

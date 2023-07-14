@@ -1,0 +1,9 @@
+{
+  "uuid": "b5e86b18-ff0d-4c76-bf6b-d59b33285277",
+  "filetype": -53,
+  "namespace": "izuna",
+  "name": "Izuna",
+  "include": [
+    "[AUTO]"
+  ]
+}

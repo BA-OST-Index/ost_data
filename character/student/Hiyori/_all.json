@@ -1,0 +1,9 @@
+{
+  "uuid": "d3ecfcdc-ee0e-4e05-9878-73a4711440c7",
+  "filetype": -53,
+  "namespace": "hiyori",
+  "name": "Hiyori",
+  "include": [
+    "[AUTO]"
+  ]
+}

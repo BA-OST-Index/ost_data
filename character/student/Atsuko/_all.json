@@ -1,0 +1,9 @@
+{
+  "uuid": "f9bcb05e-3ec4-48bd-bd1b-29f3af77c528",
+  "filetype": -53,
+  "namespace": "atsuko",
+  "name": "Atsuko",
+  "include": [
+    "[AUTO]"
+  ]
+}

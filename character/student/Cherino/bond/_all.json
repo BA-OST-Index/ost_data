@@ -1,0 +1,9 @@
+{
+  "uuid": "5ad11d4c-1714-43ce-b52a-68500ba2bfde",
+  "filetype": -53,
+  "namespace": "cherino",
+  "name": "Cherino",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "ffca7651-6b88-4c3c-8a84-14fd83d61faa",
+  "filetype": -53,
+  "namespace": "hifumi_swimsuit",
+  "name": "Hifumi_Swimsuit",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "b6580186-6225-47bd-9527-8a6fe8443c02",
+  "filetype": -53,
+  "namespace": "noa",
+  "name": "Noa",
+  "include": [
+    "[AUTO]"
+  ]
+}

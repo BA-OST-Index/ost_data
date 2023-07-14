@@ -1,0 +1,9 @@
+{
+  "uuid": "41593821-50b1-478e-9b08-b52904fb4354",
+  "filetype": -53,
+  "namespace": "wakamo",
+  "name": "Wakamo",
+  "include": [
+    "[AUTO]"
+  ]
+}

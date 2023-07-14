@@ -1,0 +1,9 @@
+{
+  "uuid": "69117d40-c126-4dff-abbd-a9449440dee4",
+  "filetype": -53,
+  "namespace": "kotama",
+  "name": "Kotama",
+  "include": [
+    "[AUTO]"
+  ]
+}

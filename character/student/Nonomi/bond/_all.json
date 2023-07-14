@@ -1,0 +1,9 @@
+{
+  "uuid": "980131cc-7ae6-483b-90c8-d4ac38aac4b5",
+  "filetype": -53,
+  "namespace": "nonomi",
+  "name": "Nonomi",
+  "include": [
+    "[AUTO]"
+  ]
+}

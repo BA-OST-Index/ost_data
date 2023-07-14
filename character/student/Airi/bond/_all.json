@@ -1,0 +1,9 @@
+{
+  "uuid": "6c70ee9f-0c69-4f9e-89bd-9e1d76f801e8",
+  "filetype": -53,
+  "namespace": "airi",
+  "name": "Airi",
+  "include": [
+    "[AUTO]"
+  ]
+}

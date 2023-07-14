@@ -1,0 +1,9 @@
+{
+  "uuid": "68590553-49d6-4aa7-b471-176c0c00b08e",
+  "filetype": -53,
+  "namespace": "fubuki",
+  "name": "Fubuki",
+  "include": [
+    "[AUTO]"
+  ]
+}

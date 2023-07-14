@@ -1,0 +1,9 @@
+{
+  "uuid": "54dcb28d-e256-44a3-bf93-0054f90729c3",
+  "filetype": -53,
+  "namespace": "kazusa",
+  "name": "Kazusa",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "60433058-083f-4f28-8186-92cb02728867",
+  "filetype": -53,
+  "namespace": "himari",
+  "name": "Himari",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "af19e781-5f12-4abc-8804-466c193d6f8e",
+  "filetype": -53,
+  "namespace": "serina",
+  "name": "Serina",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "dff194b0-bf02-4870-8aff-b72bd4b09fa3",
+  "filetype": -53,
+  "namespace": "hibiki",
+  "name": "Hibiki",
+  "include": [
+    "[AUTO]"
+  ]
+}

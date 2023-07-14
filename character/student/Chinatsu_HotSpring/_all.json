@@ -1,0 +1,9 @@
+{
+  "uuid": "4f0de679-6e84-4837-a89f-6d7650748a9c",
+  "filetype": -53,
+  "namespace": "chinatsu_hotspring",
+  "name": "Chinatsu_HotSpring",
+  "include": [
+    "[AUTO]"
+  ]
+}

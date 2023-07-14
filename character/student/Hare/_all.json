@@ -1,0 +1,9 @@
+{
+  "uuid": "29aecbe1-6c7b-44d5-be41-b95597559f88",
+  "filetype": -53,
+  "namespace": "hare",
+  "name": "Hare",
+  "include": [
+    "[AUTO]"
+  ]
+}

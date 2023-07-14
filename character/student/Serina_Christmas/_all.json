@@ -1,0 +1,9 @@
+{
+  "uuid": "26c516d9-629a-4429-8bda-7db315b9eff5",
+  "filetype": -53,
+  "namespace": "serina_christmas",
+  "name": "Serina_Christmas",
+  "include": [
+    "[AUTO]"
+  ]
+}

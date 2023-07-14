@@ -1,0 +1,9 @@
+{
+  "uuid": "78006891-9fe6-4ba2-ae7d-9f5b0e783a3f",
+  "filetype": -53,
+  "namespace": "yoshimi",
+  "name": "Yoshimi",
+  "include": [
+    "[AUTO]"
+  ]
+}

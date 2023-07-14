@@ -1,0 +1,9 @@
+{
+  "uuid": "05ae0182-9d9e-478e-8f2d-073b937e5cf8",
+  "filetype": -53,
+  "namespace": "juri",
+  "name": "Juri",
+  "include": [
+    "[AUTO]"
+  ]
+}

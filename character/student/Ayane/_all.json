@@ -1,0 +1,9 @@
+{
+  "uuid": "52a9be05-b3a4-4e6c-99c7-6cf577ef2daa",
+  "filetype": -53,
+  "namespace": "ayane",
+  "name": "Ayane",
+  "include": [
+    "[AUTO]"
+  ]
+}

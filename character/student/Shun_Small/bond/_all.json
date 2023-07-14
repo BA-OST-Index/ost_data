@@ -1,0 +1,9 @@
+{
+  "uuid": "9900cf54-b07c-44c7-9366-8935bd8e0773",
+  "filetype": -53,
+  "namespace": "shun_small",
+  "name": "Shun_Small",
+  "include": [
+    "[AUTO]"
+  ]
+}

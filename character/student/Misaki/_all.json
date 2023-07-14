@@ -1,0 +1,9 @@
+{
+  "uuid": "dd34214c-d1df-4a6b-ac31-8dc2e13529be",
+  "filetype": -53,
+  "namespace": "misaki",
+  "name": "Misaki",
+  "include": [
+    "[AUTO]"
+  ]
+}

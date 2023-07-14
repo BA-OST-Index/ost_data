@@ -1,0 +1,9 @@
+{
+  "uuid": "7f810ea1-c024-4008-9091-6fa8380595f3",
+  "filetype": -53,
+  "namespace": "hasumi",
+  "name": "Hasumi",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "uuid": "b3fa1182-67c8-484d-b317-1313236cfec4",
+  "filetype": -53,
+  "namespace": "nagisa",
+  "name": "Nagisa",
+  "include": [
+    "[AUTO]"
+  ]
+}

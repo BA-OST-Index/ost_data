@@ -1,0 +1,9 @@
+{
+  "uuid": "36e6c9b2-f483-4e5a-ae52-79b05f80537a",
+  "filetype": -53,
+  "namespace": "kokona",
+  "name": "Kokona",
+  "include": [
+    "[AUTO]"
+  ]
+}

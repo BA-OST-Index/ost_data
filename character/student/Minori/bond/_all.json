@@ -1,0 +1,9 @@
+{
+  "uuid": "29ea6156-7dbb-44cd-ad44-fafc70021d2a",
+  "filetype": -53,
+  "namespace": "minori",
+  "name": "Minori",
+  "include": [
+    "[AUTO]"
+  ]
+}

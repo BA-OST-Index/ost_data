@@ -1,0 +1,9 @@
+{
+  "uuid": "581327d3-4cb8-407e-9fde-674a9cb8784c",
+  "filetype": -53,
+  "namespace": "mari",
+  "name": "Mari",
+  "include": [
+    "[AUTO]"
+  ]
+}
