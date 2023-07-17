@@ -1,0 +1,13 @@
+{
+  "uuid": "96694511-75e0-412e-97af-b3428b5777fd",
+  "filetype": 71,
+  "filename": "BG_CraftChamber.jpg",
+  "name": "[BG_CraftChamber.jpg_NAME]",
+  "desc": "[BG_CraftChamber.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CraftChamber.jpg",
+    "short_desc": ""
+  }
+}

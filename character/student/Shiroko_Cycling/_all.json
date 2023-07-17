@@ -1,8 +1,9 @@
 {
-  "uuid": "f339ac77-c3b8-4cbc-9c5d-a7b22e1abec8",
+  "uuid": "97e6570a-2293-437b-bfad-bee7d47599f9",
   "filetype": -53,
   "namespace": "shiroko_cycling",
   "name": "Shiroko_Cycling",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

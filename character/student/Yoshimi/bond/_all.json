@@ -1,8 +1,9 @@
 {
-  "uuid": "78006891-9fe6-4ba2-ae7d-9f5b0e783a3f",
-  "filetype": -53,
-  "namespace": "yoshimi",
-  "name": "Yoshimi",
+  "uuid": "a022589e-9aad-4275-9d58-a185c424f067",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

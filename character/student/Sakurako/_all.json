@@ -1,8 +1,9 @@
 {
-  "uuid": "e71b6036-e5d4-4331-bae5-f36035d94138",
+  "uuid": "0c15755f-0d5a-47f4-a847-1fa72da7c5c8",
   "filetype": -53,
   "namespace": "sakurako",
   "name": "Sakurako",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

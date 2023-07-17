@@ -1,8 +1,9 @@
 {
-  "uuid": "5d767576-395a-44de-99fd-d64d04e52bec",
+  "uuid": "64647a59-215e-49e8-b42d-8240170e1053",
   "filetype": -53,
   "namespace": "haruka",
   "name": "Haruka",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

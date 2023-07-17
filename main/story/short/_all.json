@@ -1,0 +1,17 @@
+{
+  "uuid": "6d0274bc-8086-4be9-9a57-e25fbb85b28f",
+  "filetype": -23,
+  "name": "[STORY_SHORT_NAME]",
+  "namespace": "short",
+  "desc": "[STORY_SHORT_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

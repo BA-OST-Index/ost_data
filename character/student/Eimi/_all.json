@@ -1,8 +1,9 @@
 {
-  "uuid": "a5971396-3949-4719-a1df-4cf0dbc1f6bf",
+  "uuid": "354c5712-c09d-4212-830f-5d293678be91",
   "filetype": -53,
   "namespace": "eimi",
   "name": "Eimi",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

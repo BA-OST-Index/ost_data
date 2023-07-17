@@ -1,0 +1,13 @@
+{
+  "uuid": "105f2dab-0054-48a2-8a91-16182e4eee67",
+  "filetype": 71,
+  "filename": "BG_CoastRoad.jpg",
+  "name": "[BG_CoastRoad.jpg_NAME]",
+  "desc": "[BG_CoastRoad.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CoastRoad.jpg",
+    "short_desc": ""
+  }
+}

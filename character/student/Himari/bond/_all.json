@@ -1,8 +1,9 @@
 {
-  "uuid": "60433058-083f-4f28-8186-92cb02728867",
-  "filetype": -53,
-  "namespace": "himari",
-  "name": "Himari",
+  "uuid": "8690f862-01e0-4dea-98e7-9a0572e04587",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

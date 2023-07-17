@@ -1,0 +1,13 @@
+{
+  "uuid": "be608276-7792-4c09-a0d6-79fe16dc8aec",
+  "filetype": 71,
+  "filename": "BG_PartyRoom_Night.jpg",
+  "name": "[BG_PartyRoom_Night.jpg_NAME]",
+  "desc": "[BG_PartyRoom_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_PartyRoom_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "e71b6036-e5d4-4331-bae5-f36035d94138",
-  "filetype": -53,
-  "namespace": "sakurako",
-  "name": "Sakurako",
+  "uuid": "fe294d9f-c844-4602-9e62-d13b76ead968",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

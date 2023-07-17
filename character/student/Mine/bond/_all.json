@@ -1,8 +1,9 @@
 {
-  "uuid": "fff5702b-a943-4b8e-a937-626b88b14dcc",
-  "filetype": -53,
-  "namespace": "mine",
-  "name": "Mine",
+  "uuid": "b26f251c-308e-4792-b80b-0ef5741e1f7f",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,11 @@
+{
+  "uuid": "14074a20-415d-44fb-bf93-04ef57d1818a",
+  "filetype": -52,
+  "name": "",
+  "namespace": "npc",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

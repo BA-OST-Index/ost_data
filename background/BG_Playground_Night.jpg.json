@@ -1,0 +1,13 @@
+{
+  "uuid": "8fc3c01a-1933-4d01-87b9-644325a28765",
+  "filetype": 71,
+  "filename": "BG_Playground_Night.jpg",
+  "name": "[BG_Playground_Night.jpg_NAME]",
+  "desc": "[BG_Playground_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Playground_Night.jpg",
+    "short_desc": ""
+  }
+}

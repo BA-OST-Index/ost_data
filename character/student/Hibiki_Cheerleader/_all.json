@@ -1,8 +1,9 @@
 {
-  "uuid": "225b162f-a97c-4344-9f5d-d9ce103f4dfa",
+  "uuid": "ab9ebc0c-df43-436c-861a-a025c4feb74a",
   "filetype": -53,
   "namespace": "hibiki_cheerleader",
   "name": "Hibiki_Cheerleader",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

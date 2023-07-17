@@ -1,0 +1,13 @@
+{
+  "uuid": "f8c51c3c-57ac-45a8-817f-e8c473c2462c",
+  "filetype": 71,
+  "filename": "BG_Campus.jpg",
+  "name": "[BG_Campus.jpg_NAME]",
+  "desc": "[BG_Campus.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Campus.jpg",
+    "short_desc": ""
+  }
+}

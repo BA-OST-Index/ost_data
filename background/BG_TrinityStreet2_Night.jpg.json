@@ -1,0 +1,13 @@
+{
+  "uuid": "a2c121c7-1b4d-42fd-9914-c439a62d1708",
+  "filetype": 71,
+  "filename": "BG_TrinityStreet2_Night.jpg",
+  "name": "[BG_TrinityStreet2_Night.jpg_NAME]",
+  "desc": "[BG_TrinityStreet2_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityStreet2_Night.jpg",
+    "short_desc": ""
+  }
+}

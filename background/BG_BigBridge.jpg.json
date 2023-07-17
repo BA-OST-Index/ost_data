@@ -1,0 +1,13 @@
+{
+  "uuid": "122a0f72-d864-4722-abdd-34f79d4db510",
+  "filetype": 71,
+  "filename": "BG_BigBridge.jpg",
+  "name": "[BG_BigBridge.jpg_NAME]",
+  "desc": "[BG_BigBridge.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BigBridge.jpg",
+    "short_desc": ""
+  }
+}

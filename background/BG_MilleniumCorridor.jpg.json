@@ -1,0 +1,13 @@
+{
+  "uuid": "528e96d1-45e1-4813-b4d5-7b5af5020b23",
+  "filetype": 71,
+  "filename": "BG_MilleniumCorridor.jpg",
+  "name": "[BG_MilleniumCorridor.jpg_NAME]",
+  "desc": "[BG_MilleniumCorridor.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_MilleniumCorridor.jpg",
+    "short_desc": ""
+  }
+}

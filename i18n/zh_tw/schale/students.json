@@ -9,7 +9,9 @@
     "CharacterSSRNew": "哼哼哼，這是明智的選擇唷\n老師",
     "ProfileIntroduction": "格黑娜學園所屬，便利屋68的自稱社長。\n\n在格黑娜學園的社團便利屋68裡胡亂進行非法事業的少女。\n雖然亞瑠本人希望自己看起來像帥氣的壞蛋，但卻時常事與願違，馬上就會露出自己的真面目。",
     "Hobby": "學習經營",
-    "BirthDay": "3/12"
+    "BirthDay": "3/12",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Eimi": {
     "PathName": "Eimi",
@@ -21,7 +23,9 @@
     "CharacterSSRNew": "沒有更有效率的戰鬥方法嗎……？",
     "ProfileIntroduction": "千年科學學園所屬，特異現象搜查部的成員。\n\n是很少開口說話，難以得知其想法的少女。經常無來由地呆呆站著。\n但是只有在受研討會委託執行任務時，會以比任何人都有效率的行動迅速達成目標。",
     "Hobby": "發呆、聽音樂",
-    "BirthDay": "5/1"
+    "BirthDay": "5/1",
+    "School": "Millennium",
+    "Club": "SPTF"
   },
   "Haruna": {
     "PathName": "Haruna",
@@ -33,7 +37,9 @@
     "CharacterSSRNew": "要一起啟程前往，美食的世界嗎？",
     "ProfileIntroduction": "格黑娜學園所屬，美食研究會的會長。\n\n雖然從外表來看是個散發高傲氣質的富家千金，但是只要和食物有關，她就是個不顧一切的熱血美食家。\n和想吃美食的心情相反，胃口很小，所以吃得並不多。\n據說她愛吃大腸鍋和內臟燒烤等油膩的食物。",
     "Hobby": "尋找好吃的東西",
-    "BirthDay": "3/1"
+    "BirthDay": "3/1",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Hifumi": {
     "PathName": "Hifumi",
@@ -45,7 +51,9 @@
     "CharacterSSRNew": "今後和老師一起……\n我，會加油的！",
     "ProfileIntroduction": "三一綜合學園所屬，補課部的感情豐富的少女。\n\n雖然外貌和成績都不出眾，但穩重且溫柔的性格很受人歡迎。\n時常傾聽身邊人們的煩惱及心事，但有時也會因而在無意中惹出麻煩。",
     "Hobby": "收集佩洛洛商品、收集可愛的東西、購物、參加諮詢",
-    "BirthDay": "11/27"
+    "BirthDay": "11/27",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Hina": {
     "PathName": "Hina",
@@ -57,7 +65,9 @@
     "CharacterSSRNew": "雖然很麻煩，不過必須做該做的事\n因為那就是我的義務",
     "ProfileIntroduction": "格黑娜學園所屬，所有人都害怕的風紀委員長。\n\n雖然基本上是個怕麻煩少女，但是面對校規相關的問題時就會變得嚴格。\n嘴上說著「真麻煩」，在戰場上卻能毫不迷惘、冷靜且迅速地判斷情況並採取行動。\n戰鬥能力相當驚人，因此和格黑娜敵對的組織比什麼都害怕她的登場。",
     "Hobby": "睡眠、休息",
-    "BirthDay": "2/19"
+    "BirthDay": "2/19",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Hoshino": {
     "PathName": "Hoshino",
@@ -69,7 +79,9 @@
     "CharacterSSRNew": "完全沒睡到午覺耶，\n嘛，也沒辦法吧",
     "ProfileIntroduction": "阿拜多斯高中所屬，阿拜多斯學生會的前副會長，現在擔任對策委員會委員長的懶惰蟲少女。\n\n特徵是像大叔一樣的口氣，比起工作更喜歡玩樂。\n因此她平常老是被委員會的成員們罵，不過一旦任務開始，她就會為了保護其他成員在最前線奮戰。",
     "Hobby": "午睡、無所事事",
-    "BirthDay": "1/2"
+    "BirthDay": "1/2",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Iori": {
     "PathName": "Iori",
@@ -81,7 +93,9 @@
     "CharacterSSRNew": "違反校規的傢伙們不可原諒！",
     "ProfileIntroduction": "格黑娜學園所屬，風紀委員會的冷酷專家。\n\n身為風紀委員會的突擊隊長，只要發現違反校規的學生，就會以壓倒性的力量立刻進行懲處。\n雖然腦袋轉得很快、辦事迅速且戰鬥判斷力也不差，不過有著一旦發現敵人就無法瞻前顧後的一面，連地洞這種單純的陷阱也很容易中。",
     "Hobby": "巡邏、斥罵",
-    "BirthDay": "11/8"
+    "BirthDay": "11/8",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Maki": {
     "PathName": "Maki",
@@ -93,7 +107,9 @@
     "CharacterSSRNew": "我體內的藝術魂正在呼喊！",
     "ProfileIntroduction": "千年科學學園所屬，駭客社團「貝里塔斯」的成員。\n\n是個喜歡街頭塗鴉的調皮少女，貝里塔斯的徽章也是她的作品。\n基本上是樂天且隨心所欲的類型，因此和其他社團間經常發生問題。",
     "Hobby": "畫圖、玩遊戲",
-    "BirthDay": "8/1"
+    "BirthDay": "8/1",
+    "School": "Millennium",
+    "Club": "Veritas"
   },
   "Neru": {
     "PathName": "Neru",
@@ -105,7 +121,9 @@
     "CharacterSSRNew": "給我鼓起幹勁哦。要全力上了！",
     "ProfileIntroduction": "千年科學學園所屬，秘密組織「C&amp;C」的隊長。\n\n乍看之下只是個在女僕服上穿著絲卡將的小小不良少女，但其實是擁有千年學園最強戰鬥能力的特務。\n因此她的代號「Double O」被周圍的人視為是誓約勝利的象徵。",
     "Hobby": "勝利",
-    "BirthDay": "8/17"
+    "BirthDay": "8/17",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Izumi": {
     "PathName": "Izumi",
@@ -117,7 +135,9 @@
     "CharacterSSRNew": "世界上，有很多好吃的東西唷～！",
     "ProfileIntroduction": "格黑娜學園所屬，美食研究會的一員，什麼都愛吃的大胃王少女。\n\n因為實在太愛食物了，就連別人敬謝不敏的古怪食物都能快樂的吃下。",
     "Hobby": "製作古怪食物、吃古怪食物",
-    "BirthDay": "5/11"
+    "BirthDay": "5/11",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Shiroko": {
     "PathName": "Shiroko",
@@ -129,7 +149,9 @@
     "CharacterSSRNew": "需要我的幫助？",
     "ProfileIntroduction": "阿拜多斯高中所屬，喜歡運動的阿拜多斯對策委員會的突擊隊長。\n\n雖然給人沉默寡言且幾乎沒有表情變化的冷淡印象，但其實是個說她比任何人都珍惜阿拜多斯高中也不為過的少女。\n為了復興學園會不擇手段，因此偶爾會提出令人意想不到的想法。",
     "Hobby": "慢跑、鍛鍊體力、騎自行車",
-    "BirthDay": "5/16"
+    "BirthDay": "5/16",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Shun": {
     "PathName": "Shun",
@@ -141,7 +163,9 @@
     "CharacterSSRNew": "乖乖地等著嗎？\n真是個好孩子呢～",
     "ProfileIntroduction": "山海經高級中學所屬，培育支援部「梅花園」的教官。\n\n「梅花園」除了是園的名字之外也是社團的名字。個性善良且為人寬厚，除了梅花園的學生之外，也深得山海經其他學生的信任。\n由於擔任教官許久，就算年幼學生惡作劇也不太會生氣。唯獨只要有人提及自己的年紀，就會產生​敏感反應。",
     "Hobby": "陪小朋友玩",
-    "BirthDay": "2/5"
+    "BirthDay": "2/5",
+    "School": "Shanhaijing",
+    "Club": "Meihuayuan"
   },
   "Sumire": {
     "PathName": "Sumire",
@@ -153,7 +177,9 @@
     "CharacterSSRNew": "開始今天的鍛鍊吧！",
     "ProfileIntroduction": "千年科學學園所屬，訓練部的隊長。\n\n無論何時都積極投入運動的體育系少女。她相信世界上的所有問題都能靠運動解決，根本連腦袋都是肌肉。",
     "Hobby": "園藝、運動",
-    "BirthDay": "8/20"
+    "BirthDay": "8/20",
+    "School": "Millennium",
+    "Club": "TrainingClub"
   },
   "Tsurugi": {
     "PathName": "Tsurugi",
@@ -165,7 +191,9 @@
     "CharacterSSRNew": "來吧，到了狩獵的時間啦～！",
     "ProfileIntroduction": "三一綜合學園所屬，實現正義部的部長，同時也是三一的戰略兵器。\n\n生性好戰且暴力，一旦遇到不滿的事物就會先破壞再說。\n幸虧有副部長蓮實而勉強帶領著實現正義部。雖然弦生就像無法控制的狂犬，但在老師面前卻會表現出如同藏不住害羞的少女的一面。",
     "Hobby": "電影鑑賞、讀書（戀愛小說）",
-    "BirthDay": "6/24"
+    "BirthDay": "6/24",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Akane": {
     "PathName": "Akane",
@@ -177,7 +205,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，秘密組織「C&amp;C」的特務。\n\n代號為「Zero Three」，專門負責「清掃」的成員。\n會以溫柔的印象為武器潛入敵陣，用炸藥把敵方陣營一掃而空，因而以「清掃專家」的綽號廣為人知。",
     "Hobby": "清掃",
-    "BirthDay": "4/1"
+    "BirthDay": "4/1",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Chise": {
     "PathName": "Chise",
@@ -189,7 +219,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，陰陽部的天然電波系少女。\n\n因為極其喜愛俳句之類的傳統文化而加入了陰陽部。\n由於外貌和舉止充滿著獨特的神秘氣息，因而成為百鬼夜行學生們羨慕的對象，但本人對此幾乎沒有自覺。",
     "Hobby": "俳句",
-    "BirthDay": "7/13"
+    "BirthDay": "7/13",
+    "School": "Hyakkiyako",
+    "Club": "Onmyobu"
   },
   "Akari": {
     "PathName": "Akari",
@@ -201,7 +233,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，美食研究會的成員。\n\n常常被認為是個老實的少女，但其實是在奇普托斯的大胃王比賽中不曾錯失冠軍寶座的美食鬥士。\n基本上品性溫和善良，但她也有像格黑娜的學生一樣無法抗拒讓他人受苦的一面。",
     "Hobby": "暴食",
-    "BirthDay": "12/9"
+    "BirthDay": "12/9",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Hasumi": {
     "PathName": "Hasumi",
@@ -213,7 +247,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，實現正義部的第二把交椅。\n\n代替象徵狂亂的部長弦生，擔任實現正義部的戰術指揮官。\n因此，雖然第一眼看起來是沉穩知性、「這就是三一的學生」的模範學生，但她也毫無疑問是實現正義部的一員。\n比任何人都冷靜，偶爾也會做出魯莽的舉動。",
     "Hobby": "讀書、觀察人類",
-    "BirthDay": "12/12"
+    "BirthDay": "12/12",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Nonomi": {
     "PathName": "Nonomi",
@@ -225,7 +261,9 @@
     "CharacterSSRNew": "終於輪到我出場了呢！",
     "ProfileIntroduction": "阿拜多斯高中所屬，阿拜多斯對策委員會的一員。\n\n感情豐富且品性善良，是讓極端性格成員眾多的對策委員會成員們團結一致的精神支柱。\n雖然沒有表露出來，但她是富裕人家的千金。對策委員會的零食費幾乎都由她的零用錢支付。",
     "Hobby": "購物",
-    "BirthDay": "9/1"
+    "BirthDay": "9/1",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Kayoko": {
     "PathName": "Kayoko",
@@ -237,7 +275,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，便利屋68的課長。\n\n和其他便利屋68的成員不同，儘管她沒有惡意，只因為天生擁有著一張嚇人的臉蛋，經常被誤認為是不良少女。\n面對那種誤會，佳世子本人一律沉默以對。但反而因此陷入了加深自己可怕形象的惡性循環。",
     "Hobby": "收集音樂CD",
-    "BirthDay": "3/17"
+    "BirthDay": "3/17",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Mutsuki": {
     "PathName": "Mutsuki",
@@ -249,7 +289,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，便利屋68的行動派。\n\n和時常因罪惡感而煩惱的亞瑠不同，是個可以毫不猶豫地做壞事、以混亂為樂的小惡魔一般的少女。\n和亞瑠是青梅竹馬，因此比任何人都清楚她只是在虛張聲勢，然而卻不會特別為她著想。",
     "Hobby": "收集炸彈",
-    "BirthDay": "7/29"
+    "BirthDay": "7/29",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Junko": {
     "PathName": "Junko",
@@ -261,7 +303,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，美食研究會裝作一本正經的暴食家。\n\n和喜歡吃古怪的食物、總是暴飲暴食的其他美食研究會的成員不同，某種程度上是可以有常識地享受美食，但只要美食出現在眼前，就有可能失去理性。",
     "Hobby": "探訪美食店",
-    "BirthDay": "12/27"
+    "BirthDay": "12/27",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Serika": {
     "PathName": "Serika",
@@ -273,7 +317,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "阿拜多斯高中所屬，阿拜多斯對策委員會的難相處會計。\n\n時常碎碎念，是會毫不猶豫地表露自己感情的類型。\n雖然時常把「這種學園最好快點完蛋！」當成口頭禪，但其實是個能為了償還學園的債務而瞞著大家打工的、深愛著學校的孩子。",
     "Hobby": "存錢、打工",
-    "BirthDay": "6/25"
+    "BirthDay": "6/25",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Tsubaki": {
     "PathName": "Tsubaki",
@@ -285,7 +331,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行學園修行部的部長。\n\n她平常修行的目的就是為了「睡得更安穩、更完全地熟睡」。\n歸功於此，無論是坐著還是站著，甚至連用餐時都能邊吃邊睡。\n所以她的綽號是「睡美人」。\n雖然總是一副在打瞌睡的樣子，\n但是一到了晚上，就會為了保護大街而暗中活躍。",
     "Hobby": "午睡",
-    "BirthDay": "2/3"
+    "BirthDay": "2/3",
+    "School": "Hyakkiyako",
+    "Club": "Shugyobu"
   },
   "Yuuka": {
     "PathName": "Yuuka",
@@ -297,7 +345,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，學生會「研討會」的會計。\n\n在理科比例較高的千年學園中也是首屈一指的數學奇才，總攬千年學園的預算管理。\n專長珠算。有著煩惱複雜的事情或心理糾結時靠打算盤冷靜下來的習慣。",
     "Hobby": "計算",
-    "BirthDay": "3/14"
+    "BirthDay": "3/14",
+    "School": "Millennium",
+    "Club": "TheSeminar"
   },
   "Haruka": {
     "PathName": "Haruka",
@@ -309,7 +359,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，便利屋68的職員。\n\n由於個性黑暗陰沉，從小就一直被欺負。直到最近才在亞瑠的幫助下擺脫被欺負的困境。之後，她便作為便利屋68年紀最小的員工活動著。\n雖然膽小且自尊心很低，但她的突發奇想說是便利屋職員中最可怕的也不為過。",
     "Hobby": "種雜草",
-    "BirthDay": "5/13"
+    "BirthDay": "5/13",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Asuna": {
     "PathName": "Asuna",
@@ -321,7 +373,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，秘密組織「C&amp;C」的特務。\n\n代號為「Zero One」，是透過卓越且如同動物般的感覺與直覺度過無數難關的老手。\n雖然經常在執行任務時隨便相信他人而自曝身分，或者把可疑的物品全部摧毀之類令人難以理解的行動，但最終總是能拿出好成果。",
     "Hobby": "襲擊",
-    "BirthDay": "3/24"
+    "BirthDay": "3/24",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Kotori": {
     "PathName": "Kotori",
@@ -333,7 +387,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，工程師部的成員。\n\n遇到有關物理學和機器結構的事就會講個不停，喜歡說話的女孩子。\n如果千年學園發生和機器有關的問題就會率先出現在現場解說情況。",
     "Hobby": "聊天",
-    "BirthDay": "12/31"
+    "BirthDay": "12/31",
+    "School": "Millennium",
+    "Club": "Engineer"
   },
   "Suzumi": {
     "PathName": "Suzumi",
@@ -345,7 +401,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，維護學生安全的自衛隊的成員。\n\n因為三一學生受到其他學園襲擊的事件頻繁發生而開始到街上巡邏。\n由於火熱的正義感而常被誤會是個性​冷酷的人，其實是個溫柔的女孩子。",
     "Hobby": "巡邏、散步",
-    "BirthDay": "8/31"
+    "BirthDay": "8/31",
+    "School": "Trinity",
+    "Club": "TrinityVigilance"
   },
   "Pina": {
     "PathName": "Pina",
@@ -357,7 +415,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行聯合學園，對任俠充滿著憧憬的少女。\n\n總是一副開朗爽快的樣子，是能從幫助他人獲得快樂的類型的女孩子。\n對於任俠的知識全都是由電影中獲得，因此各種地方都有些奇怪……\n是個筆直地朝著心中的任俠之路前進的少女。",
     "Hobby": "看任俠電影",
-    "BirthDay": "11/3"
+    "BirthDay": "11/3",
+    "School": "Hyakkiyako",
+    "Club": "MatsuriOffice"
   },
   "Hibiki": {
     "PathName": "Hibiki",
@@ -369,7 +429,9 @@
     "CharacterSSRNew": "有什麼需要改造的東西嗎？",
     "ProfileIntroduction": "千年科學學園所屬，工程師部的成員。\n\n雖然稍微缺乏社交能力且說話較木訥，但她與生俱有的工學才能相當突出，發明了不少神奇的物品。\n她的發明幾乎毫無缺點，全部都被稱為傑作也不為過。但每個作品一定會帶有一個奇怪的功能，經常讓使用者不知所措。",
     "Hobby": "Cosplay、購物",
-    "BirthDay": "4/2"
+    "BirthDay": "4/2",
+    "School": "Millennium",
+    "Club": "Engineer"
   },
   "Karin": {
     "PathName": "Karin",
@@ -381,7 +443,9 @@
     "CharacterSSRNew": "遵照主人的指示",
     "ProfileIntroduction": "千年科學學園所屬，秘密組織「C&amp;C」的特務。\n\n代號為「Zero Two」，使用強大的火力負責後援。\n和看似兇惡的外表不同，其實是C&amp;C特務中最謹慎的人。每天在都為了阻止在作戰中時常暴走的明日奈和朱音而傷腦筋。",
     "Hobby": "清掃",
-    "BirthDay": "2/2"
+    "BirthDay": "2/2",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Saya": {
     "PathName": "Saya",
@@ -393,7 +457,9 @@
     "CharacterSSRNew": "實驗的話，就交給我吧！",
     "ProfileIntroduction": "山海經高級中學所屬的天才發明家。\n\n雖然是個讀小學時就已經取得六個學位的天才。但比起天才這個稱號，她更以是愛整人鬧事的麻煩製造者為人所知。\n總是一起行動的老鼠根津助從小就是沙耶的好夥伴。對沙耶來說，牠是如同家人一般重要的存在。",
     "Hobby": "研究",
-    "BirthDay": "1/3"
+    "BirthDay": "1/3",
+    "School": "Shanhaijing",
+    "Club": "Endanbou"
   },
   "Airi": {
     "PathName": "Airi",
@@ -405,7 +471,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，放學後的甜點部的開朗成員。\n\n個性悠然自得，最重視和朋友一邊享用甜點一邊聊天的時光。\n喜歡的東西是冰淇淋，最近迷上了薄荷巧克力的滋味。",
     "Hobby": "探訪甜點店、茶會",
-    "BirthDay": "1/30"
+    "BirthDay": "1/30",
+    "School": "Trinity",
+    "Club": "HoukagoDessert"
   },
   "Fuuka": {
     "PathName": "Fuuka",
@@ -417,7 +485,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，負責管理格黑娜學園餐廳的供給部的成員。\n\n每天早上都為格黑娜學生準備非常大量的食物，是格黑娜少有的，善良認真的學生。\n料理手藝還算不錯，但由於餐廳人手不足，其料理實力時常被低估。\n但她並未就此放棄，每天都為了提供更好的餐點而不斷努力著。",
     "Hobby": "做料理、做便當",
-    "BirthDay": "4/30"
+    "BirthDay": "4/30",
+    "School": "Gehenna",
+    "Club": "FoodService"
   },
   "Hanae": {
     "PathName": "Hanae",
@@ -429,7 +499,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，救護騎士團的開朗新人。\n\n雖然是個對每件事都很積極且充滿活力的少女。但有時看到病患就會過於小題大作，反而讓情況惡化。\n雖然有點少根筋，但神奇的是，她照顧的病患不管什麼病都會馬上痊癒。",
     "Hobby": "跳舞、啦啦隊",
-    "BirthDay": "5/12"
+    "BirthDay": "5/12",
+    "School": "Trinity",
+    "Club": "KnightsHospitaller"
   },
   "Hare": {
     "PathName": "Hare",
@@ -441,7 +513,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，駭客集團「貝里塔斯」的工程師。\n\n在以聰明的人眾多聞名的千年學園中，她依然是首屈一指的天才少女。千年學園產出最先進的機器，絕大多數都是從她手中開發出來的。\n儘管有著如此輝煌的實力和成果，她也不會擺架子自以為是，反而願意傾聽其他學生的心聲，是名善良的少女。",
     "Hobby": "玩遊戲、看電影",
-    "BirthDay": "4/19"
+    "BirthDay": "4/19",
+    "School": "Millennium",
+    "Club": "Veritas"
   },
   "Utaha": {
     "PathName": "Utaha",
@@ -453,7 +527,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，工程師部的部長。\n\n如同她的頭銜一般，持續發明著各式各樣的機器人。尤其是她的寵物機器人「雷醬」更有著能夠匹敵數百台PMC戰鬥機器人的戰鬥能力。",
     "Hobby": "發明、修理",
-    "BirthDay": "11/13"
+    "BirthDay": "11/13",
+    "School": "Millennium",
+    "Club": "Engineer"
   },
   "Ayane": {
     "PathName": "Ayane",
@@ -465,7 +541,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "阿拜多斯高中所屬，阿拜多斯對策委員會認真的書記。\n\n是重視原則與規定的類型，正為了復興阿拜多斯高中而一心一意地努力著。",
     "Hobby": "寫家計簿、收集古董",
-    "BirthDay": "11/12"
+    "BirthDay": "11/12",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Chinatsu": {
     "PathName": "Chinatsu",
@@ -477,7 +555,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，風紀委員會的救護負責人。\n\n重視規定、紀律及程序，是風紀委員會裡為數不多有常識的人。在亞子或伊織等等風紀委員暴走時負責阻止他們的人。\n說話語氣生硬，雖然給人「典型的風紀委員」的冷漠印象，但其實是個對可愛的動物毫無招架之力的善良少女。",
     "Hobby": "讀哲學書",
-    "BirthDay": "8/22"
+    "BirthDay": "8/22",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Kotama": {
     "PathName": "Kotama",
@@ -489,7 +569,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，駭客集團「貝里塔斯」的駭客。\n\n專長是竊聽，是個喜歡偷聽別人私密談話的、有點怪異的少女。\n不太擅長人際關係，是對年紀較小的1年級學生也會用敬語的類型。\n雖然在現實生活中是內向且沉默寡言的少女，在網路上卻非常會聊。",
     "Hobby": "無線通訊、竊聽",
-    "BirthDay": "1/5"
+    "BirthDay": "1/5",
+    "School": "Millennium",
+    "Club": "Veritas"
   },
   "Juri": {
     "PathName": "Juri",
@@ -501,7 +583,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，負責管理格黑娜學園餐廳的供給部的成員。\n\n和風華一樣是為了學生們努力製作餐點的少女，但她的料理手藝已經超越糟糕的等級來到毀滅的境界，因此對供餐並沒有什麼幫助。\n然而在風華的鼓勵和指導下，她今天也為了做出更好的料理而努力著。",
     "Hobby": "研究料理",
-    "BirthDay": "10/20"
+    "BirthDay": "10/20",
+    "School": "Gehenna",
+    "Club": "FoodService"
   },
   "Serina": {
     "PathName": "Serina",
@@ -513,7 +597,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，為救護騎士團獻身的善良少女。\n\n熱愛公益服務且品性善良，由於對健康問題時常過度擔心，周圍的同學經常說「她像媽媽一樣」。\n儘管討厭紛爭，但面對威脅和平的敵人，她也會毅然決然與之對抗。",
     "Hobby": "醫院的志工",
-    "BirthDay": "1/6"
+    "BirthDay": "1/6",
+    "School": "Trinity",
+    "Club": "KnightsHospitaller"
   },
   "Shimiko": {
     "PathName": "Shimiko",
@@ -525,7 +611,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，圖書委員會的圖書管理員。\n\n超愛書的讀書狂，是把三一圖書館的龐大藏書全部讀完的少數學生之一。\n和看書一樣地喜歡推薦書，見到任何人都會先思考「這個人會喜歡的書是什麼呢」這件事。",
     "Hobby": "讀書、做書籤",
-    "BirthDay": "11/30"
+    "BirthDay": "11/30",
+    "School": "Trinity",
+    "Club": "BookClub"
   },
   "Yoshimi": {
     "PathName": "Yoshimi",
@@ -537,7 +625,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，放學後的甜點部的成員。\n\n對嬌小的身高與體型感到自卑，是個如同兇暴小動物一般的少女。\n雖然一直想變得成熟，然而她心裡想的都表現在臉上，所以一直受周圍人們的喜愛。\n興趣是巡迴咖啡廳，在品嚐限定版甜點時會露出比任何人都明亮的笑容。",
     "Hobby": "參加活動、收集限定版甜點",
-    "BirthDay": "8/29"
+    "BirthDay": "8/29",
+    "School": "Trinity",
+    "Club": "HoukagoDessert"
   },
   "Mashiro": {
     "PathName": "Mashiro",
@@ -549,7 +639,9 @@
     "CharacterSSRNew": "如果正義被需要的話，不管何處我都會前往",
     "ProfileIntroduction": "三一綜合學園所屬，實現正義部的率直成員。\n\n隨身帶著一把和身高不合的反物資步槍，默默執行火力支援任務的少女。\n平時雖然話少但並不怕生，也並非不擅長人際關係。如果提及和正義有關的話題，她反而會變得多話。",
     "Hobby": "爬到高處、寫觀察日記",
-    "BirthDay": "6/5"
+    "BirthDay": "6/5",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Izuna": {
     "PathName": "Izuna",
@@ -561,7 +653,9 @@
     "CharacterSSRNew": "如果是為了主公的話！",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，忍術研究部的少女。\n\n雖然是個性格開朗且充滿活力的少女，因為追求他人無法理解的夢想，至今為止都是一個人孤獨的成長。\n那個夢想就是「成為奇普托斯最強的忍者」。\n為了成為出色的忍者，今天也過著一邊稱老師為「主公！」一邊進行護衛(也可以單純說是跟著老師)的生活。",
     "Hobby": "鑽研忍術、護衛主公",
-    "BirthDay": "12/16"
+    "BirthDay": "12/16",
+    "School": "Hyakkiyako",
+    "Club": "NinpoKenkyubu"
   },
   "Shizuko": {
     "PathName": "Shizuko",
@@ -573,7 +667,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，節慶營運管理部的部長。\n\n同時也是百鬼夜行的傳統茶室「百夜堂」的看板娘兼老闆。\n雖然平常是「在百夜堂工作的冒失女孩」，不過那只不過是身為看板娘的一面而已。\n實際上是為了慶典成功和提高百夜堂的營收的話，什麼事都會完成的、具有專家氣質的少女。\n然而只要鬆懈下來就會率直地表現出感情，因此不只是親近的朋友，就連老師已經看穿了。",
     "Hobby": "可愛地接待客人、看板娘拳",
-    "BirthDay": "7/7"
+    "BirthDay": "7/7",
+    "School": "Hyakkiyako",
+    "Club": "MatsuriOffice"
   },
   "Aris": {
     "PathName": "Aris",
@@ -585,7 +681,9 @@
     "CharacterSSRNew": "……我一直在等待，被那道聲音呼喚的時刻",
     "ProfileIntroduction": "千年科學學園所屬，遊戲開發部的成員。\n\n是在廢墟發現的來歷不明的少女。包含年齡在內的所有情報都無從得知。\n現在和桃井、綠和柚子一起享受遊戲，已經變成重度​遊戲狂熱者了。\n說話時有點生硬不自然，但那是因為她的語句幾乎都是由懷舊遊戲的台詞所構成。",
     "Hobby": "遊戲（特別是RPG）",
-    "BirthDay": "3/25"
+    "BirthDay": "3/25",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Midori": {
     "PathName": "Midori",
@@ -597,7 +695,9 @@
     "CharacterSSRNew": "這次的插圖是自信作！",
     "ProfileIntroduction": "千年科學學園所屬，遊戲開發部的插畫家。\n\n是和雙胞胎姐姐桃井一起在遊戲開發部開發遊戲的少女。\n個性害羞內向，本來和外向的姐姐處得不太好，但兩人對遊戲的熱愛意氣相投，現在相處得非常好。",
     "Hobby": "畫圖",
-    "BirthDay": "12/8"
+    "BirthDay": "12/8",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Momoi": {
     "PathName": "Momoi",
@@ -609,7 +709,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，遊戲開發部的編劇。\n\n是個和雙胞胎妹妹綠一起在遊戲開發部開發遊戲的少女。\n個性爽快開朗，本來和內向的妹妹處得不太好，但兩人對遊戲的熱愛意氣相投，現在相處得非常好。",
     "Hobby": "遊戲",
-    "BirthDay": "12/8"
+    "BirthDay": "12/8",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Cherino": {
     "PathName": "Cherino",
@@ -621,7 +723,9 @@
     "CharacterSSRNew": "為與我這個最高權力者相遇，感到幸運吧！",
     "ProfileIntroduction": "赤冬聯邦學園所屬，蠻橫又孩子氣的學生會長。\n\n對權力的執著與慾望十分驚人，即使每週都因為革命而失勢，卻能不斷設法回到學生會長的寶座。\n貼在鼻子下面的鬍子據潔莉諾所說是「權威的象徵」、以及「所謂的權威就是由鬍子而來的」。",
     "Hobby": "肅清、打雪仗",
-    "BirthDay": "10/27"
+    "BirthDay": "10/27",
+    "School": "RedWinter",
+    "Club": "RedwinterSecretary"
   },
   "Nodoka": {
     "PathName": "Nodoka",
@@ -633,7 +737,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "赤冬聯邦學園所屬，然而受到停學處分，現在是在舊校舍227號特別班裡反省中的學生。\n\n被停學的原因是「用望遠鏡之類的物品進行騷擾行為」。\n想親眼觀察世界上美好事物的欲望很強，而老師也是其對象之一。因為在227號特別班吃苦很長一段時間，已經染上了貧窮的性格。",
     "Hobby": "天體觀測",
-    "BirthDay": "2/20"
+    "BirthDay": "2/20",
+    "School": "RedWinter",
+    "Club": "Class227"
   },
   "Yuzu": {
     "PathName": "Yuzu",
@@ -645,7 +751,9 @@
     "CharacterSSRNew": "被，被發現了……",
     "ProfileIntroduction": "千年科學學園所屬，遊戲開發部的部長。\n\n非常害怕與人對話，因此幾乎沒有到外面去，大部分的時間都是在遊戲開發部的置物櫃中度過。\n製作遊戲和玩遊戲都很喜歡，對遊戲的熱情非同小可。",
     "Hobby": "遊戲製作",
-    "BirthDay": "8/12"
+    "BirthDay": "8/12",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Azusa": {
     "PathName": "Azusa",
@@ -657,7 +765,9 @@
     "CharacterSSRNew": "所有事物都是徒勞的，生命不具有意義\n不過，我想相信……你的話語",
     "ProfileIntroduction": "三一綜合學園所屬，補課部的冰之魔女。\n\n從原本就讀的學校中途退學，因為某些原因而就讀三一學園，重新開始學業。雖然是害怕寂寞的人，卻因為擔心造成他人的困擾而會主動與人保持距離，讓其他補課部的學生都很擔心。",
     "Hobby": "無",
-    "BirthDay": "12/26"
+    "BirthDay": "12/26",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Hanako": {
     "PathName": "Hanako",
@@ -669,7 +779,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，補課部的感情豐富的女孩子。\n\n雖然一眼看起來有端莊氣質大小姐……的感覺，其實是一開口就無法停止色情話題的問題學生。\n知道花子真面目的補課部學生，每當花子準備開口都會提心吊膽。",
     "Hobby": "散步",
-    "BirthDay": "1/3"
+    "BirthDay": "1/3",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Koharu": {
     "PathName": "Koharu",
@@ -681,7 +793,9 @@
     "CharacterSSRNew": "色色的東西全部燒毀唷！燒毀！",
     "ProfileIntroduction": "三一綜合學園所屬，補課部的一員。\n\n原本隸屬實現正義部，由於成績下滑而面臨留級危機，而被強制編入補課部。\n雖然自認是菁英，實際上腦袋糟到完全跟不上學校的課程。\n有偷偷收集色情雜誌的興趣（？），會因為一些平凡的事情讓妄想膨脹，並自顧自地害羞起來。",
     "Hobby": "幻想、妄想、收集色情雜誌",
-    "BirthDay": "4/16"
+    "BirthDay": "4/16",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Azusa_Swimsuit": {
     "PathName": "Azusa_Swimsuit",
@@ -693,7 +807,9 @@
     "CharacterSSRNew": "……首先，從習慣海邊開始",
     "ProfileIntroduction": "三一綜合學園所屬，初次來到海邊玩耍的補課部冰之魔女。\n\n雖然為了不給任何人添麻煩而想要保持著「一如往常冷靜的自己」，不過第一次的海邊以及與友人的同行，看來無法讓她沉著下來。因為是初次來海邊，加上周圍投來的視線，這些因素促使她感到格外的緊張，使她和平常相比有些坐立難安。",
     "Hobby": "無",
-    "BirthDay": "12/26"
+    "BirthDay": "12/26",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Mashiro_Swimsuit": {
     "PathName": "Mashiro_Swimsuit",
@@ -705,7 +821,9 @@
     "CharacterSSRNew": "正義不會屈服於炎熱！",
     "ProfileIntroduction": "三一綜合學園所屬，以陪同弦生部長的形式來到了海邊，實現正義部的誠實委員。\n\n閃耀的大海，熠熠發光的沙灘。即使身處於這樣任誰會興奮的情境，麻白首先思考的仍是正義和訓練。要說為何的話，因為那就是她所相信的正義。",
     "Hobby": "爬到高處、寫觀察日記",
-    "BirthDay": "6/5"
+    "BirthDay": "6/5",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Tsurugi_Swimsuit": {
     "PathName": "Tsurugi_Swimsuit",
@@ -717,7 +835,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，追求青春的浪漫而降臨於海邊，同時身兼實現正義部的部長及戰略兵器。\n\n想要享受難得的暑假，所以壓抑著自身的暴力氣質……但看來，夏天的海邊無法讓她如願以償。",
     "Hobby": "電影鑑賞、讀書（戀愛小說）",
-    "BirthDay": "6/24"
+    "BirthDay": "6/24",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Hifumi_Swimsuit": {
     "PathName": "Hifumi_Swimsuit",
@@ -729,7 +849,9 @@
     "CharacterSSRNew": "那個……是普通的，泳衣唷？",
     "ProfileIntroduction": "三一綜合學園所屬，與友人一起來到海邊，補課部情感豐富的少女。\n\n為了沒有去過海邊的梓，她悄悄偷走了三一的十字軍戰車（本人說是「借的」）這等如此誇張的行動。但不出所料被實現正義部發現，她因此契機而被捲入了大型的事件內。即使坐上了戰車，冒失的性格仍分毫不減，倒不如說是多了戰車反而讓騷動變得更加嚴重。",
     "Hobby": "收集佩洛洛商品、購物、參加諮詢",
-    "BirthDay": "11/27"
+    "BirthDay": "11/27",
+    "School": "Trinity",
+    "Club": "RemedialClass"
   },
   "Hina_Swimsuit": {
     "PathName": "Hina_Swimsuit",
@@ -741,7 +863,9 @@
     "CharacterSSRNew": "就算是夏天，要做的事也沒有改變",
     "ProfileIntroduction": "格黑娜學園所屬，為了夏季合宿而來到海邊的風紀委員長。\n\n基本上怕麻煩的她，還是為了訓練而無奈地來到海邊。她幾乎沒有在海邊玩耍過，泳衣和泳圈看起來都是以前的東西。即使說著「因為很浪費」這樣的理由，卻還是對自己仍能穿下那件泳衣而打心底感到有些在意。不過無論是什麼樣的打扮、季節或是地點，都無法改變她對風紀的嚴謹。",
     "Hobby": "睡眠、休息",
-    "BirthDay": "2/19"
+    "BirthDay": "2/19",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Iori_Swimsuit": {
     "PathName": "Iori_Swimsuit",
@@ -753,7 +877,9 @@
     "CharacterSSRNew": "沒有在夏天玩過頭，而違反校規的笨蛋吧？",
     "ProfileIntroduction": "格黑娜學園所屬，參加夏季合宿訓練的風紀委員會之「冷酷的專家」。\n\n為了不讓問題兒童們因為夏天而得意忘形，和其他的風紀委員前來海邊監視。因為問題兒童們源源不絕，導致難得來海邊卻一直在戰鬥，內心感到不滿，但沒有表現出來。",
     "Hobby": "巡邏、大聲說話",
-    "BirthDay": "11/8"
+    "BirthDay": "11/8",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Izumi_Swimsuit": {
     "PathName": "Izumi_Swimsuit",
@@ -765,7 +891,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，在悶熱的夏天仍食欲旺盛的美食研究會貪吃少女。\n\n右手持西瓜，左手拿冰桶。即使如此，為了追求更多的夏日美食，她仍動身來到了海邊。既然是夏天，「巧克力口味的蒲燒鰻魚」、「激辣刨冰」、「沾上薄荷巧克力的西瓜」等季節限定奇怪菜單自然是不能缺少。包含那種獵奇事物在內，追求任何食物的熱情，甚至比夏天的炎熱還更加猛烈。",
     "Hobby": "製作古怪食物、吃古怪食物",
-    "BirthDay": "5/11"
+    "BirthDay": "5/11",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Shiroko_Cycling": {
     "PathName": "Shiroko_Cycling",
@@ -777,7 +905,9 @@
     "CharacterSSRNew": "那麼，老師。我到了會馬上連絡你哦",
     "ProfileIntroduction": "阿拜多斯高級中學所屬，換上了騎行用的正式裝束，阿拜多斯對策委員會的突擊隊長。\n\n脫下平常的制服，鼓起幹勁換上騎行服的她，總覺得看起來比平常還要開朗。目標雖然是誇張的「縱貫奇普托斯」，但不知是否因為有著值得信賴的夥伴，本人看來並沒有不安和擔心的樣子。",
     "Hobby": "慢跑、體力訓練、公路車",
-    "BirthDay": "5/16"
+    "BirthDay": "5/16",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Shun_Small": {
     "PathName": "Shun_Small",
@@ -789,7 +919,9 @@
     "CharacterSSRNew": "小小的身體真是方便呢！",
     "ProfileIntroduction": "山海經高級中學所屬，因為喝了沙耶的藥而變成年幼的身體，培育支援部「梅花園」的教官。\n\n因為變年幼的只有身體，所以一如往常……不過也沒那麼順利。被年幼的身體所影響，精神似乎也被本能給牽著走。",
     "Hobby": "吃甜食",
-    "BirthDay": "2/5"
+    "BirthDay": "2/5",
+    "School": "Shanhaijing",
+    "Club": "Meihuayuan"
   },
   "Kirino": {
     "PathName": "Kirino",
@@ -801,7 +933,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "女武神警察學園所屬，生活安全局的熱血系學生。\n\n因為憧憬警察維持學園都市治安的英姿而就讀女武神警察學園，但由於槍法上的致命傷，所以被安插在生活安全局。\n即使如此，她仍為了當上能華麗壓制犯人的警察的夢想而不放棄，每天都在努力著。",
     "Hobby": "邊走邊吃",
-    "BirthDay": "10/22"
+    "BirthDay": "10/22",
+    "School": "Valkyrie",
+    "Club": "anzenkyoku"
   },
   "Saya_Casual": {
     "PathName": "Saya_Casual",
@@ -813,7 +947,9 @@
     "CharacterSSRNew": "哼哼哼……就算被說是天才，也是需要休息的！",
     "ProfileIntroduction": "山海經高級中學所屬，脫離繁忙日常，久違地享受假日的天才發明家。\n\n和平時關在研究室埋頭研究新藥的身姿不同，假日的沙耶展現出活潑的樣子，以滑板在街上來回奔走。\n不過即使是假日，她追求新穎事物與知識的好奇心也依然沒有改變。",
     "Hobby": "研究",
-    "BirthDay": "1/3"
+    "BirthDay": "1/3",
+    "School": "Shanhaijing",
+    "Club": "Endanbou"
   },
   "Neru_Bunny": {
     "PathName": "Neru_Bunny",
@@ -825,7 +961,9 @@
     "CharacterSSRNew": "真是，沒辦法接受……",
     "ProfileIntroduction": "千年科學學園所屬，為了任務而換上兔女郎裝的「C&amp;C」隊長。\n\n平常的話，她是絕對不會穿上這身服裝，但為了任務也沒辦法。平常為了作戰，她能忍耐各種事，但只有那件絲卡將是絕對不肯脫下。",
     "Hobby": "勝利",
-    "BirthDay": "8/17"
+    "BirthDay": "8/17",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Karin_Bunny": {
     "PathName": "Karin_Bunny",
@@ -837,7 +975,9 @@
     "CharacterSSRNew": "無論是什麼樣的任務，都和我沒關係",
     "ProfileIntroduction": "千年科學學園所屬，直接參加這次作戰最前線的「C&amp;C」特務。\n\n嘴裡雖說著「如果是為了任務的話」，仍然興沖沖地換裝。不過，卻比平時更在意周圍的人投來的視線。",
     "Hobby": "打掃",
-    "BirthDay": "2/2"
+    "BirthDay": "2/2",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Asuna_Bunny": {
     "PathName": "Asuna_Bunny",
@@ -849,7 +989,9 @@
     "CharacterSSRNew": "今天也開心的玩吧，主人！",
     "ProfileIntroduction": "千年科學學園所屬，為了潛入任務而換裝成兔女郎的「C&amp;C」特務。\n\n雖然不是平常的女僕裝，但完全不受影響，一如既往的情緒高昂。甚至能說因為身處在新的地方體驗新的事物，看起來比平時還要開心。",
     "Hobby": "襲擊",
-    "BirthDay": "3/24"
+    "BirthDay": "3/24",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Natsu": {
     "PathName": "Natsu",
@@ -861,7 +1003,9 @@
     "CharacterSSRNew": "……老師有認真思考過，關於海綿蛋糕的事嗎？",
     "ProfileIntroduction": "三一綜合學園所屬，放學後的甜點部的首席麻煩製造者，自稱是浪漫主義者。\n\n會突然說些富有哲學性的奇怪發言，愛用甜點作譬喻的女孩。總會說出離奇的話，將大家捲入其中，但本意只是「想和大家一起分享浪漫」這種純粹的心情。不過，因為「浪漫」的定義總是在改變，所以也無法否定「被她牽著鼻子走」的印象。",
     "Hobby": "浪漫的事物、思索",
-    "BirthDay": "12/4"
+    "BirthDay": "12/4",
+    "School": "Trinity",
+    "Club": "HoukagoDessert"
   },
   "Mari": {
     "PathName": "Mari",
@@ -873,7 +1017,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，修女會虔誠且誠實的少女。\n\n乍看之下給人一種可愛的印象，但久了便被她一貫的溫柔笑容及沉穩的氣質所吸引，前來諮詢的學生不勝枚舉。覺得自己還不夠成熟，想早點和其他前輩一樣成為出色的修女。",
     "Hobby": "祈禱、思考",
-    "BirthDay": "9/12"
+    "BirthDay": "9/12",
+    "School": "Trinity",
+    "Club": "SisterHood"
   },
   "Hatsune_Miku": {
     "PathName": "Hatsune_Miku",
@@ -885,7 +1031,9 @@
     "CharacterSSRNew": "請傾聽，我的歌聲！",
     "ProfileIntroduction": "常保開朗，最喜歡唱歌的虛擬歌手。\n\n原本是沒有現實身體的電子存在，但在奇普托斯的技術幫助下獲得了肉體，來到這個世界。因為虛擬歌手的歌聲可以超越時間與空間，奇普托斯也有許多她的隱藏粉絲，非常期待能在這個世界舉辦預定的演唱會。",
     "Hobby": "唱歌、跳舞",
-    "BirthDay": "8/31"
+    "BirthDay": "8/31",
+    "School": "ETC",
+    "Club": "EmptyClub"
   },
   "Ako": {
     "PathName": "Ako",
@@ -897,7 +1045,9 @@
     "CharacterSSRNew": "既然有我的協助，就不允許失誤唷？",
     "ProfileIntroduction": "格黑娜學園所屬，除了是風紀委員會的行政官，對風紀委員長陽奈來說也是如祕書般的存在。\n\n乍看之下給人一種親切善良的印象，但對於違規的學生可是毫不留情。總是在風紀委員長陽奈的身邊輔佐她。因此也被格黑娜的學生稱為「陽奈的寵物」，不過本人並不是特別在意。",
     "Hobby": "陽奈委員長",
-    "BirthDay": "12/22"
+    "BirthDay": "12/22",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Cherino_HotSpring": {
     "PathName": "Cherino_HotSpring",
@@ -909,7 +1059,9 @@
     "CharacterSSRNew": "在「肅清君1號」的面前，跪下吧！",
     "ProfileIntroduction": "赤冬聯邦學園所屬，於227號溫泉浴場享樂的學生會長。\n\n最初雖然無法容忍在未經自己許可下建設溫泉浴場，認為這種東西必須撤除並肅清才行。然而，抵達後馬上被和香她們說服，在溫泉浴場盡情享受了一番。雖然對於溫泉浴場和食物感到滿足，但好像不太喜歡溫泉本身。",
     "Hobby": "肅清、打雪仗",
-    "BirthDay": "10/27"
+    "BirthDay": "10/27",
+    "School": "RedWinter",
+    "Club": "RedwinterSecretary"
   },
   "Chinatsu_HotSpring": {
     "PathName": "Chinatsu_HotSpring",
@@ -921,7 +1073,9 @@
     "CharacterSSRNew": "……至少今天，悠閒地度過吧",
     "ProfileIntroduction": "格黑娜學園所屬，因為任務偶然來到赤冬溫泉浴場的格黑娜風紀委員會的救護擔當。\n\n從下訂新醫藥品，到處理格黑娜溫泉開發部。即使身在溫泉浴場，令她煩惱的問題依然堆積如山。即使如此，不知是不是因為溫泉浴場美麗的景色和悠閒的氣氛，使她的表情比以往還要柔和。",
     "Hobby": "讀哲學書",
-    "BirthDay": "8/22"
+    "BirthDay": "8/22",
+    "School": "Gehenna",
+    "Club": "Fuuki"
   },
   "Tomoe": {
     "PathName": "Tomoe",
@@ -933,7 +1087,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "赤冬聯邦學園所屬，赤冬事務局的秘書室長同時也是潔莉諾的第一親信。\n\n無論什麼事，只要她說出口都會變成事實的話術達人，定期前往各個地方灌輸對潔莉諾會長的忠誠心。潔莉諾認為智惠是「被自己的魅力感化而有忠誠心」的，但事實上智惠只是盲目地寵愛潔莉諾。",
     "Hobby": "煽動",
-    "BirthDay": "11/10"
+    "BirthDay": "11/10",
+    "School": "RedWinter",
+    "Club": "RedwinterSecretary"
   },
   "Nodoka_HotSpring": {
     "PathName": "Nodoka_HotSpring",
@@ -945,7 +1101,9 @@
     "CharacterSSRNew": "真心誠意地迎接客人！",
     "ProfileIntroduction": "赤冬聯邦學園所屬，受到停學處分而被禁閉於舊校舍227號特別班級中，碰巧成為了「227號溫泉浴場」女將的學生。\n\n突然於舊校舍湧出的溫泉，使她一口氣變成了有錢人。但也因此，以赤冬為首，開始有許多形形色色的學生來訪，或者是以各種理由來妨礙營業，使她依舊備嘗辛苦。",
     "Hobby": "天體觀測",
-    "BirthDay": "2/20"
+    "BirthDay": "2/20",
+    "School": "RedWinter",
+    "Club": "Class227"
   },
   "Aru_NewYear": {
     "PathName": "Aru_NewYear",
@@ -957,7 +1115,9 @@
     "CharacterSSRNew": "原來如此，今年第一項的委託呢？看好了，讓我來絢麗的解決",
     "ProfileIntroduction": "格黑娜學園所屬，迎接新年的便利屋68自稱社長。\n\n為了祈願便利屋在新的一年更加興旺，便先從形式上著手，花大錢設計髮型和租借和服，從新年初就幹勁滿滿。因其身上的裝束，比平時還要有精神，情緒也更高昂。以符合自己想像的方式展現從容的步伐和語調，扮演著有氣質的社長（但內心還是一如往常）",
     "Hobby": "學習經營",
-    "BirthDay": "3/12"
+    "BirthDay": "3/12",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Mutsuki_NewYear": {
     "PathName": "Mutsuki_NewYear",
@@ -969,7 +1129,9 @@
     "CharacterSSRNew": "咕呵呵♪今年也一起盡情的玩吧，老師！",
     "ProfileIntroduction": "格黑娜學園所屬，便利屋68的行動隊長兼突擊隊長。\n\n為了迎接新年和亞瑠去參拜（玩耍），重新打扮了一番。因為是難得的新年所以打扮起來特別有幹勁，但內心卻一如往常，享受著惡作劇及製造糾紛。面對即使新年也一如往常遇到問題的亞瑠，自己也一如往常地坐在特等席旁觀。以自己的風格享受新年，我行我素的小惡魔系少女。",
     "Hobby": "收集炸彈",
-    "BirthDay": "7/29"
+    "BirthDay": "7/29",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Serika_NewYear": {
     "PathName": "Serika_NewYear",
@@ -981,7 +1143,9 @@
     "CharacterSSRNew": "祈禱而已，如果是為了老師的話不管幾次都……",
     "ProfileIntroduction": "阿拜多斯對策委員會所屬，身穿巫女服裝的可靠（？）會計擔當。\n\n為了盡可能地幫上對策委員會的忙，一直從事著各式各樣的兼職打工，認真且努力。迎接新年的她，選擇了當巫女的兼差。即便不是特別喜歡巫女，對其也沒有深厚的認識，但因為具備了「被交付了就會好好完成」的性格，所以這次仍是全力以赴（但背後也有「如果更像巫女的話，時薪會上升」的原因）。",
     "Hobby": "存錢、打工",
-    "BirthDay": "6/25"
+    "BirthDay": "6/25",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Wakamo": {
     "PathName": "Wakamo",
@@ -993,7 +1157,9 @@
     "CharacterSSRNew": "啊啊……終於見面了呢，閣下♡",
     "ProfileIntroduction": "百鬼夜行學園所屬，因為停學處分而被送入矯正局，但從中越獄的「七罪人」之一。\n\n由於無差別且大規模的破壞行為而被稱為「災厄之狐」，令人畏懼的少女。動機及目的也被謎團所包圍。隱藏在假面下的素顏有如「惡鬼般恐怖」、「惡魔般醜陋」等的傳聞雖然不絕於耳，但人們只是畏懼著未知的事物。",
     "Hobby": "破壞、掠奪",
-    "BirthDay": "4/3"
+    "BirthDay": "4/3",
+    "School": "Hyakkiyako",
+    "Club": "EmptyClub"
   },
   "Fubuki": {
     "PathName": "Fubuki",
@@ -1005,7 +1171,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "女武神警察學園所屬，生活安全局的懶散學生。\n\n憧憬悠閒的公務員生活，因此就讀女武神警察學園。每當生活安全局收到什麼投訴，基本上都以一貫毫無誠意的態度處理，享受著不受金錢和名譽影響的窗邊族生活。最喜歡的事是邊吃甜甜圈邊聽廣播。",
     "Hobby": "填字遊戲、廣播",
-    "BirthDay": "10/21"
+    "BirthDay": "10/21",
+    "School": "Valkyrie",
+    "Club": "anzenkyoku"
   },
   "Sena": {
     "PathName": "Sena",
@@ -1017,7 +1185,9 @@
     "CharacterSSRNew": "屍體……不，傷員在哪裡呢？",
     "ProfileIntroduction": "格黑娜學園所屬，急救醫學部的部長。\n\n總是在格黑娜每日發生的事故中運送著傷患，表情平淡，從未流露出絲毫不滿。雖然擁有無數拯救傷員的經歷，但因其稱呼傷患為「屍體」的習慣和粗魯的手法，被一部分的學生敬而遠之。",
     "Hobby": "待命、整備藥品",
-    "BirthDay": "4/7"
+    "BirthDay": "4/7",
+    "School": "Gehenna",
+    "Club": "Emergentology"
   },
   "Chihiro": {
     "PathName": "Chihiro",
@@ -1029,7 +1199,9 @@
     "CharacterSSRNew": "……發現新的安全漏洞",
     "ProfileIntroduction": "千年科學學園所屬，駭客集團「貝里塔斯」的副部長。\n\n是擁有卓越程式設計能力的駭客，同時也具有「不可濫用這項能力」的常識。是聚集了眾多搗蛋鬼的貝里塔斯中有如良心的存在，平時就和部員們爭辯「正確的駭客倫理」，但也是積極主動的類型，必要時會毫不猶豫地滲透進現場。",
     "Hobby": "選購電子產品",
-    "BirthDay": "4/26"
+    "BirthDay": "4/26",
+    "School": "Millennium",
+    "Club": "Veritas"
   },
   "Mimori": {
     "PathName": "Mimori",
@@ -1041,7 +1213,9 @@
     "CharacterSSRNew": "雖然還尚未成才……\n不過，我會向老師展現修行的成果",
     "ProfileIntroduction": "百鬼夜行學園所屬，修行部的溫柔副部長。\n\n總是保持著開朗的笑容與沉穩的舉止，因此非常受大家景仰。受年幼時閱讀的少女漫畫影響，抱有成為「大和撫子」的夢想，從而進入了修行部。與青梅竹馬兼部長的椿一起，每天都在進行料理及打掃之類的修行。",
     "Hobby": "少女漫畫、所有家事",
-    "BirthDay": "3/15"
+    "BirthDay": "3/15",
+    "School": "Hyakkiyako",
+    "Club": "Shugyobu"
   },
   "Ui": {
     "PathName": "Ui",
@@ -1053,7 +1227,9 @@
     "CharacterSSRNew": "那，那個，再稍微安靜一點……",
     "ProfileIntroduction": "三一綜合學園所屬，圖書委員會的委員長。\n\n是一位非常愛書的但討厭人類的少女，至於何為因何為果，並不清楚。特別喜歡古書，每天都待在被稱為「古書館」的地方解讀並管理古書，閉門不出。對知識的求知慾以及古書相關的技術都是一流的水準，被周圍的人稱為「古書館的魔術師」。",
     "Hobby": "讀書、管理書、古書研究",
-    "BirthDay": "4/23"
+    "BirthDay": "4/23",
+    "School": "Trinity",
+    "Club": "BookClub"
   },
   "Hinata": {
     "PathName": "Hinata",
@@ -1065,7 +1241,9 @@
     "CharacterSSRNew": "有什麼，我可以做到的事嗎？",
     "ProfileIntroduction": "所屬修女會的勤勞又善良的少女。\n\n負責三一大聖堂的管理重責，能勤勞的完成交付的工作，對任何人都很親切。但是個性迷糊，經常會出錯，對自己比較沒有信心。\n雖然每天帶在身上的背包裡裝著巨大的設置型榴彈機關槍，但從來都沒有顯露出很重的感覺。",
     "Hobby": "祈禱、整理整頓",
-    "BirthDay": "5/17"
+    "BirthDay": "5/17",
+    "School": "Trinity",
+    "Club": "SisterHood"
   },
   "Marina": {
     "PathName": "Marina",
@@ -1077,7 +1255,9 @@
     "CharacterSSRNew": "我，既不會逃也不會躲！",
     "ProfileIntroduction": "負責赤冬學園治安的保安委員會委員長。\n\n傳說只要發現違反校規的學生時，會毫不猶豫的直接用殘忍的懲戒處罰，是個沒血沒淚的冷血人，但實際上只是個沒什麼想法，只會執行潔莉諾會長命令的笨蛋。喜歡突擊這個詞，只要在赤冬學園內發生問題，就會第一個跳出去，但因為是天生路癡，所以經常迷路。",
     "Hobby": "散步、突擊",
-    "BirthDay": "11/4"
+    "BirthDay": "11/4",
+    "School": "RedWinter",
+    "Club": "RedwinterSecretary"
   },
   "Miyako": {
     "PathName": "Miyako",
@@ -1089,7 +1269,9 @@
     "CharacterSSRNew": "這裡是RABBIT1，即刻開始作戰",
     "ProfileIntroduction": "SRT特殊學園所屬，RABBIT小隊的小隊長。\n\n因為憧憬著前輩們的活躍而進入SRT特殊學園就讀，然而學園卻突然被關閉。現在過著和小隊成員們一起在公園露宿的生活。因為表情的變化很少，也幾乎不曾表露感情，身邊的人都覺得她很木訥。不過其實時常在心裡關心著隊員們，擁有一顆溫柔的心。\n代號為「RABBIT1」。",
     "Hobby": "動物影片鑑賞",
-    "BirthDay": "1/7"
+    "BirthDay": "1/7",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Saki": {
     "PathName": "Saki",
@@ -1101,7 +1283,9 @@
     "CharacterSSRNew": "這裡是RABBIT2，感度良好",
     "ProfileIntroduction": "SRT特殊學園所屬，RABBIT小隊的斥侯。\n\n為了追求規矩嚴格的生活而進入SRT特殊學園就讀，然而學園卻突然被關閉。現在過著和小隊成員們一起在公園露宿的生活。隨身攜帶寫著SRT學園戰術的教科書，是重視原則行動的類型。因為有採集山菜和收集廢棄品的興趣，似乎對現在總是資源不足的公園生活能有各種幫助。\n代號為「RABBIT2」",
     "Hobby": "槍枝整備、採集植物",
-    "BirthDay": "4/9"
+    "BirthDay": "4/9",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Miyu": {
     "PathName": "Miyu",
@@ -1113,7 +1297,9 @@
     "CharacterSSRNew": "這，這裡是RABBIT4……\n那個，剛才有叫我嗎？",
     "ProfileIntroduction": "SRT特殊學園所屬，RABBIT小隊的狙擊手。\n\n因為具有狙擊手的才能而進入SRT特殊學院就讀，然而學園卻突然被關閉。現在過著和小隊成員們一起在公園露宿的生活。存在感薄弱，雖然對狙擊任務很有幫助，但不僅是敵人，就連隊友也時常忘記她的存在。\n代號為「RABBIT4」。",
     "Hobby": "負面的妄想、逃避現實、收集小石頭",
-    "BirthDay": "7/12"
+    "BirthDay": "7/12",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Kaede": {
     "PathName": "Kaede",
@@ -1125,7 +1311,9 @@
     "CharacterSSRNew": "為了成為出色的淑女！\n來吧，老師，今天也鼓足幹勁向前走吧！",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，修行部的元氣成員。\n\n原本是個住在百鬼夜行相當鄉下的地方的搗蛋鬼，偶然遇見椿和三森之後，萌生了「想要成為像她們一樣的淑女！」的想法而加入了修行部。雖然每天都為了接近理想而努力著，她的修行卻不知為何大多都與麻煩相連。",
     "Hobby": "惡作劇（盡可能忍耐中）、抓獨角仙",
-    "BirthDay": "7/9"
+    "BirthDay": "7/9",
+    "School": "Hyakkiyako",
+    "Club": "Shugyobu"
   },
   "Iroha": {
     "PathName": "Iroha",
@@ -1137,7 +1325,9 @@
     "CharacterSSRNew": "……需要我？\n真是的，真沒辦法呢",
     "ProfileIntroduction": "格黑娜學園所屬，「萬魔殿」的議員之一。\n\n雖然基本上是個討厭麻煩的人，但她所屬的格黑娜學園卻總是問題百出，且學生會「萬魔殿」（準確來說是真琴）自然是不會讓她如意的。\n是個時常把「真沒辦法」、「好麻煩」掛在嘴邊，淡然面對源源不斷產生的問題與業務的中階主管。被同樣所屬「萬魔殿」，如吉祥物一般的存在「伊吹」所治癒，今天也一邊嘆著氣一邊執行著業務。",
     "Hobby": "讀書、偷懶",
-    "BirthDay": "11/16"
+    "BirthDay": "11/16",
+    "School": "Gehenna",
+    "Club": "PandemoniumSociety"
   },
   "Michiru": {
     "PathName": "Michiru",
@@ -1149,7 +1339,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，總是莫名充滿自信的忍術研究部部長。\n\n是個電影、動畫和周邊都喜歡的忍者宅，因而成立了「忍術研究部」和創立了「少女忍法帖 小小三千留」頻道，並上傳了許多影片。為了讓整個奇普托斯都了解忍者的好，今天也和忍術研究部的成員們一起四處奔走著。",
     "Hobby": "新的自創忍術開發、影片製作",
-    "BirthDay": "2/22"
+    "BirthDay": "2/22",
+    "School": "Hyakkiyako",
+    "Club": "NinpoKenkyubu"
   },
   "Tsukuyo": {
     "PathName": "Tsukuyo",
@@ -1161,7 +1353,9 @@
     "CharacterSSRNew": "雖然是，只有高大的我……\n不過會為了可以幫上老師，盡全力加油……！",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，忍術研究部成員。\n\n從小就發育得比人早，也因此經常有人拿她的體型來開玩笑，造成她現在內向消極的個性。膽小、不善與人交談的她，只要下定決心，就會跳入任何情況之中。雖然對忍者還不是太了解，但仍快樂地和她尊敬的三千留、伊樹菜一起埋首於忍術研究部的活動中。",
     "Hobby": "替身術、隱藏氣息",
-    "BirthDay": "4/5"
+    "BirthDay": "4/5",
+    "School": "Hyakkiyako",
+    "Club": "NinpoKenkyubu"
   },
   "Misaki": {
     "PathName": "Misaki",
@@ -1173,7 +1367,9 @@
     "CharacterSSRNew": "這份空虛，沒有所謂的解答。\n即使如此……",
     "ProfileIntroduction": "奧利斯分校所屬，不愛說話，令人覺得冷淡的奧利斯小隊成員。\n\n不論對他人對自己都沒什麼興趣，有時也會做出自暴自棄的舉動。手腕和脖子包著厚厚的繃帶，像是要隱藏什麼一樣。",
     "Hobby": "獨處",
-    "BirthDay": "1/13"
+    "BirthDay": "1/13",
+    "School": "Arius",
+    "Club": "AriusSqud"
   },
   "Hiyori": {
     "PathName": "Hiyori",
@@ -1185,7 +1381,9 @@
     "CharacterSSRNew": "今，今天運氣真好。\n欸嘿嘿……",
     "ProfileIntroduction": "奧利斯分校所屬，膽小怕事、個性抑鬱的奧利斯小隊成員。\n\n自尊心低、大多時間都很悲觀，經常說些自虐發言。時常看到她背著沉重的行李，跟在大家後面。",
     "Hobby": "蒐集雜誌",
-    "BirthDay": "1/8"
+    "BirthDay": "1/8",
+    "School": "Arius",
+    "Club": "AriusSqud"
   },
   "Atsuko": {
     "PathName": "Atsuko",
@@ -1197,7 +1395,9 @@
     "CharacterSSRNew": "這裡也能，開滿很多花就好了呢",
     "ProfileIntroduction": "奧利斯分校所屬，總是戴著防毒面具無法看到她的表情，有點神秘的奧利斯小隊成員。\n\n雖然也不是要刻意要遮住臉，但依然除了吃飯睡覺，幾乎總是戴著防毒面具。被奧利斯小隊隊長的沙織稱為「公主」，但本人不會多談自己的私事，充滿了謎團。",
     "Hobby": "栽培花朵",
-    "BirthDay": "1/20"
+    "BirthDay": "1/20",
+    "School": "Arius",
+    "Club": "AriusSqud"
   },
   "Wakamo_Swimsuit": {
     "PathName": "Wakamo_Swimsuit",
@@ -1209,7 +1409,9 @@
     "CharacterSSRNew": "哼哼哼……若藻的這副身姿，\n請勿錯過任何一瞬。\n閣．下♡",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，「七罪人」之一，為了迎接夏天，綻放得更加艷麗的少女。\n\n她會穿泳裝到海邊，都是為了讓老師看見。她之所以露出微笑，也都是因為和老師相遇。不論夏天豔陽有多炎熱，她都會用不輸夏天的熱情向老師獻殷情。在戀情上依舊比任何人都全力以赴的少女 in 夏日版。",
     "Hobby": "破壞、掠奪",
-    "BirthDay": "4/3"
+    "BirthDay": "4/3",
+    "School": "Hyakkiyako",
+    "Club": "EmptyClub"
   },
   "Nonomi_Swimsuit": {
     "PathName": "Nonomi_Swimsuit",
@@ -1221,7 +1423,9 @@
     "CharacterSSRNew": "說到夏天的話，果然是大家一起去海邊呢☆",
     "ProfileIntroduction": "阿拜多斯高級中學所屬，來到夏天海邊非常開心的阿拜多斯對策委員會成員。\n\n即使來到度假勝地，依然會溫柔地照顧大家。順帶一提，因為太過期待這次的旅行，聽說她買了比平常更多東西做準備。",
     "Hobby": "購物",
-    "BirthDay": "9/1"
+    "BirthDay": "9/1",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Ayane_Swimsuit": {
     "PathName": "Ayane_Swimsuit",
@@ -1233,7 +1437,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "阿拜多斯高級中學所屬，來到夏日海邊的阿拜多斯對策委員會書記。\n\n雖然下定決心要趁機忘記平日的辛勞，徹底玩樂……但還是沒辦法排除天生的認真做事態度。",
     "Hobby": "寫家計簿、蒐集古董",
-    "BirthDay": "11/12"
+    "BirthDay": "11/12",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Hoshino_Swimsuit": {
     "PathName": "Hoshino_Swimsuit",
@@ -1245,7 +1451,9 @@
     "CharacterSSRNew": "來這邊呀老師～ \n還挺涼快的唷？",
     "ProfileIntroduction": "阿拜多斯高級中學所屬，為了追求悠閒夏日，而來到無人島的對策委員會委員長。\n\n跟她怕麻煩的態度相反，各項準備都非常確實。而她本人並沒有發現自己比平常還要積極。",
     "Hobby": "午睡、無所事事",
-    "BirthDay": "1/2"
+    "BirthDay": "1/2",
+    "School": "Abydos",
+    "Club": "Countermeasure"
   },
   "Shizuko_Swimsuit": {
     "PathName": "Shizuko_Swimsuit",
@@ -1257,7 +1465,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，即使在夏天也依然充滿野心的節慶營運管理部部長。\n\n為了讓百夜堂成長為奇普托斯頂尖連鎖店，今天也要燃燒熱情。無論任何阻礙，只要有偶像鐵拳就不成問題。只要是伸手可及的東西就都要爭取，夏日少女天下無敵。",
     "Hobby": "可愛地接待客人、看板娘拳",
-    "BirthDay": "7/7"
+    "BirthDay": "7/7",
+    "School": "Hyakkiyako",
+    "Club": "MatsuriOffice"
   },
   "Izuna_Swimsuit": {
     "PathName": "Izuna_Swimsuit",
@@ -1269,7 +1479,9 @@
     "CharacterSSRNew": "不才伊樹菜！這個夏天也\n與主公一同盡全力修行！",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，為了修行而造訪海邊的忍術研究部少女。\n雖然伊樹奈平常就很有活力，但這次似乎受到夏日能量的影響，將以200%的活力迎接主公。為了成為更適合夏天的忍者，伊樹菜今天也要以修行的名目，和主公一起盡情享受夏天。",
     "Hobby": "鑽研忍術、護衛主公。",
-    "BirthDay": "12/16"
+    "BirthDay": "12/16",
+    "School": "Hyakkiyako",
+    "Club": "NinpoKenkyubu"
   },
   "Chise_Swimsuit": {
     "PathName": "Chise_Swimsuit",
@@ -1281,7 +1493,9 @@
     "CharacterSSRNew": "海裡有很多不可思議的東西呢～",
     "ProfileIntroduction": "百鬼夜行聯合學園所屬，即使在夏日豔陽下，也依然思緒放空的陰陽部電波系少女。\n\n換上泳裝後偶像魅力（？）更加提升，使關注她的粉絲尖叫聲變得和夏日豔陽一樣火熱。然而知世本人對此毫不在意。今天也和老師一起尋找閃亮，過著充實的夏天。",
     "Hobby": "俳句",
-    "BirthDay": "7/13"
+    "BirthDay": "7/13",
+    "School": "Hyakkiyako",
+    "Club": "Onmyobu"
   },
   "Saori": {
     "PathName": "Saori",
@@ -1293,7 +1507,9 @@
     "CharacterSSRNew": "還在，中途上迷惘──\n即使如此，總有一天……",
     "ProfileIntroduction": "奧利斯分校所屬，學園內被視為精英特殊部隊的奧利斯小隊隊長。\n\n同時具有為達目的不擇手段的冷靜，以及時而表現出的激情。在游擊戰術上是他人無法匹敵的專家，但日常生活方面可見到她不諳世事的一面。據說奧利斯小隊的戰鬥力，正是她所訓練出來的結果。",
     "Hobby": "無",
-    "BirthDay": "9/3"
+    "BirthDay": "9/3",
+    "School": "Arius",
+    "Club": "AriusSqud"
   },
   "Moe": {
     "PathName": "Moe",
@@ -1305,7 +1521,9 @@
     "CharacterSSRNew": "這裡是RABBIT3。下一個爆破地點在哪？",
     "ProfileIntroduction": "SRT特殊學園所屬，RABBIT小隊的報務員。代號為「RABBIT3」。\n\n因為憧憬強大火力的SRT特殊學園武器而入學就讀，但學園卻突然關閉，現在和其他小隊員一起露宿公園。雖然有著奇特的癖好，對於爆破或讓事情功虧一簣感到愉悅，但身為報務員的能力無庸置疑。重度愛好甜食，隨時都會咬著棒棒糖。",
     "Hobby": "放煙火",
-    "BirthDay": "9/13"
+    "BirthDay": "9/13",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Kazusa": {
     "PathName": "Kazusa",
@@ -1317,7 +1535,9 @@
     "CharacterSSRNew": "啊，老師。\n竟然在這種地方見到真巧呢",
     "ProfileIntroduction": "三一綜合學園所屬，個性溫和安靜的「放學後的甜點部」成員。\n\n不常表現自己，大多時間都只會默默跟在其他成員後面。\n雖然總是被周遭的怪異行為牽累，但同時也認為這些時光很珍貴。",
     "Hobby": "「平凡地」吃甜點",
-    "BirthDay": "8/5"
+    "BirthDay": "8/5",
+    "School": "Trinity",
+    "Club": "HoukagoDessert"
   },
   "Kokona": {
     "PathName": "Kokona",
@@ -1329,7 +1549,9 @@
     "CharacterSSRNew": "我是培育支援部「梅花園」的心菜！\n不，不是的！我就算這樣也是貨真價實的教官唷！？",
     "ProfileIntroduction": "山海經高級中學所屬，擔任培育支援部「梅花園」教官的1年級學生。\n\n雖然是該就讀小學的年紀，但因為卓越的學習能力受到認可，而獲得教官的權限。\n園生們都親切地叫她「心菜醬」，但心菜本人並不喜歡那個稱呼。",
     "Hobby": "閱讀繪本",
-    "BirthDay": "6/1"
+    "BirthDay": "6/1",
+    "School": "Shanhaijing",
+    "Club": "Meihuayuan"
   },
   "Utaha_Cheerleader": {
     "PathName": "Utaha_Cheerleader",
@@ -1341,7 +1563,9 @@
     "CharacterSSRNew": "注入熊熊燃燒的熱情！",
     "ProfileIntroduction": "千年科學學園所屬，為了迎接大運動會，打扮成應援團的工程師部部長。\n\n儘管是突然被賦予了應援的任務，她仍不失巨匠的風範，只要接下委託就會全力以赴。她的熱情比任何應援團都還要強烈。但有時候為因為熱情過頭了，反而忘了原本的目的……",
     "Hobby": "發明、修理",
-    "BirthDay": "11/13"
+    "BirthDay": "11/13",
+    "School": "Millennium",
+    "Club": "Engineer"
   },
   "Noa": {
     "PathName": "Noa",
@@ -1353,7 +1577,9 @@
     "CharacterSSRNew": "要和我一起前往，\n合理與理性的世界嗎？",
     "ProfileIntroduction": "千年科學學園所屬，學生會「研討會」的書記。\n\n主要工作是記錄研討會的決定和會議內容，也負責產品專利代理人的業務，幫千年的學生鑑定與註冊他們開發的產品。擁有非常卓越的記憶力，只要聽一次就能將內容完美地背下來。",
     "Hobby": "讀書、背誦",
-    "BirthDay": "4/13"
+    "BirthDay": "4/13",
+    "School": "Millennium",
+    "Club": "TheSeminar"
   },
   "Hibiki_Cheerleader": {
     "PathName": "Hibiki_Cheerleader",
@@ -1365,7 +1591,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "千年科學學園所屬，為了迎接大運動會而打扮成啦啦隊的工程師部成員。\n\n發揮平常因Cosplay的興趣而培養出的裁縫技能，製作了給工程師部成員們穿的服裝。但可能因為啦啦隊服是拿以前做好的服裝進行改良，所以對裙子的長度有些在意。",
     "Hobby": "購物、cosplay",
-    "BirthDay": "4/2"
+    "BirthDay": "4/2",
+    "School": "Millennium",
+    "Club": "Engineer"
   },
   "Akane_Bunny": {
     "PathName": "Akane_Bunny",
@@ -1377,7 +1605,9 @@
     "CharacterSSRNew": "我是主人的女僕……\n不對，現在\n應該說是主人的兔子吧",
     "ProfileIntroduction": "千年科學學園所屬，為了潛入任務而換上兔女郎服裝的「C&amp;C」特務。\n\n即使身處陌生的環境，依然率先準備兔女郎服裝、引爆C4清除障礙物，和平常一樣沉著地執行作戰。不知是不是因為穿著和平常不同的服裝，隨時都可以窺見興奮的神情。",
     "Hobby": "清掃",
-    "BirthDay": "4/1"
+    "BirthDay": "4/1",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Yuuka_Track": {
     "PathName": "Yuuka_Track",
@@ -1389,7 +1619,9 @@
     "CharacterSSRNew": "晄輪大祭的準備也很完美！",
     "ProfileIntroduction": "千年科學學園所屬，為了參加晄輪大祭而換上體育服的研討會會計。\n\n為了準備由千年主辦的大型活動而忙得不可開交，但在活動舉辦的前一天，因為其他學生的照顧而好好睡了一覺，現在身體處於最佳狀態。優香身為主辦學校學生會的幹部兼實行委員，雖然想以理性面對大會，但求勝心強的學生們卻一直刺激著他的好勝心。",
     "Hobby": "計算",
-    "BirthDay": "3/14"
+    "BirthDay": "3/14",
+    "School": "Millennium",
+    "Club": "TheSeminar"
   },
   "Mari_Track": {
     "PathName": "Mari_Track",
@@ -1401,7 +1633,9 @@
     "CharacterSSRNew": "希望大家能帶著微笑\n度過這次的大運動會……",
     "ProfileIntroduction": "三一綜合學園所屬，為了參加晄輪大祭而換上體育服的修女會少女。\n\n聽到「為奇普托斯的和平祈禱的慶典」這句話，他便以愉悅的心情自願接下實行委員的工作。但出乎意料的是，大會期間爭執與糾紛不斷，再加上特有的獻身性格，使得她一直被捲入麻煩之中。",
     "Hobby": "祈禱、思考",
-    "BirthDay": "9/12"
+    "BirthDay": "9/12",
+    "School": "Trinity",
+    "Club": "SisterHood"
   },
   "Hasumi_Track": {
     "PathName": "Hasumi_Track",
@@ -1413,7 +1647,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "三一綜合學園所屬，為了參加晄輪大祭而換上體育服的實現正義部副部長。\n\n代替不熟對外業務的弦生擔任實行委員。即使會場充滿熱烈的氣氛，蓮實依然想保持冷靜，克盡執行委員的職責……但不斷出現的問題學生和攤販的陣陣撲鼻香氣讓她飽受折磨。",
     "Hobby": "讀書、觀察人類",
-    "BirthDay": "12/12"
+    "BirthDay": "12/12",
+    "School": "Trinity",
+    "Club": "Justice"
   },
   "Himari": {
     "PathName": "Himari",
@@ -1425,7 +1661,9 @@
     "CharacterSSRNew": "呵呵，輪到千年的超天才清楚系病弱美少女駭客\n出場了嗎？",
     "ProfileIntroduction": "千年科學學園所屬，駭客集團「貝里塔斯」的前部長，現為特異現象搜查部的部長。\n\n自稱是超天才清楚系病弱美少女，並取得千年史上僅有三人得到的「全知」學位……至於其說法是真是假，以及該學位是否實存，目前仍包覆在神秘的面紗中。陽葵說，越是神秘的女孩越美麗……也許吧。不過她確實是能力首屈一指的天才駭客，同時也非常喜歡神秘的事物，是個擁有奇特愛好的少女。",
     "Hobby": "確認今天的運勢、所有的神秘事物",
-    "BirthDay": "12/10"
+    "BirthDay": "12/10",
+    "School": "Millennium",
+    "Club": "SPTF"
   },
   "Shigure": {
     "PathName": "Shigure",
@@ -1437,7 +1675,9 @@
     "CharacterSSRNew": "需要能溫暖身體的東西嗎？\n呵呵……交給我吧。",
     "ProfileIntroduction": "赤冬聯邦學園所屬，但遭受停學處分，目前在舊校舍227號特別班反省中的學生。\n\n停學原因是在「配給用康波特」中偷偷加入酒精。和227號特別班的和香是青梅竹馬，根據傳聞，當和香受到懲戒處分被趕去特別班時，她便藉故惹禍。但與事件的真相無關的是，她非常喜歡自己做的康波特，因此總是裝在口袋的威士忌瓶裡隨身攜帶。",
     "Hobby": "製造自製飲料",
-    "BirthDay": "1/22"
+    "BirthDay": "1/22",
+    "School": "RedWinter",
+    "Club": "Class227"
   },
   "Serina_Christmas": {
     "PathName": "Serina_Christmas",
@@ -1449,7 +1689,9 @@
     "CharacterSSRNew": "救護騎士團來傳遞聖誕節的祝福了！\n祝你有個美好的聖誕節！",
     "ProfileIntroduction": "三一綜合學園所屬，為了迎接聖誕節而穿上聖誕老人服裝的芹奈。\n\n為了聖誕節的慈善活動，芹奈穿上了合適的服裝。她一邊唱著頌歌，一邊分發親手做的禮物，那模樣感覺就像是在聖誕節降臨的天使一樣。",
     "Hobby": "醫院的志工",
-    "BirthDay": "1/6"
+    "BirthDay": "1/6",
+    "School": "Trinity",
+    "Club": "KnightsHospitaller"
   },
   "Hanae_Christmas": {
     "PathName": "Hanae_Christmas",
@@ -1461,7 +1703,9 @@
     "CharacterSSRNew": "聖誕快樂！\n救護天使代替聖誕老人來了～！",
     "ProfileIntroduction": "三一綜合學園所屬，為了迎接聖誕節而穿上聖誕老人服裝的花繪。\n\n平時就活潑的花繪，選擇了方便活動的聖誕老人服裝。對於一切都充滿歡樂的花繪來說，聖誕節本身就個慶典。拿著禮物，敲著鐘，為了把喜悅傳遞給大家而參加了慈善活動。",
     "Hobby": "跳舞、啦啦隊",
-    "BirthDay": "5/12"
+    "BirthDay": "5/12",
+    "School": "Trinity",
+    "Club": "KnightsHospitaller"
   },
   "Haruna_NewYear": {
     "PathName": "Haruna_NewYear",
@@ -1473,7 +1717,9 @@
     "CharacterSSRNew": "這個時期的料理都很有魅力呢……\n說到新年，就會想到御節料理、年糕湯、紅豆湯……\n啊啊……肚子都餓了呢",
     "ProfileIntroduction": "格黑娜學園所屬，迎接新年換上和服的美食研究會會長。\n\n抱持著對美食來說，穿著符合時節的服裝也是探索美食一環的信念，盛裝打扮後踏上了美食之路。雖然從外表看起來是無比優雅的大小姐……\n還是祈禱準備的食物能符合她心中的美食吧。",
     "Hobby": "尋找美食",
-    "BirthDay": "3/1"
+    "BirthDay": "3/1",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Fuuka_NewYear": {
     "PathName": "Fuuka_NewYear",
@@ -1485,7 +1731,9 @@
     "CharacterSSRNew": "老師，吃過跨年蕎麥麵了嗎？\n希望今年對我們彼此都是平安順利的一年",
     "ProfileIntroduction": "格黑娜學園所屬，迎接新年換上和服的供給部成員。\n\n雖然希望今年能一直維持平靜的生活，但周圍的環境是否允許她過著平靜生活，還是一個未知數。",
     "Hobby": "製作家庭料理、做便當",
-    "BirthDay": "4/30"
+    "BirthDay": "4/30",
+    "School": "Gehenna",
+    "Club": "FoodService"
   },
   "Junko_NewYear": {
     "PathName": "Junko_NewYear",
@@ -1497,7 +1745,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜學園所屬，迎接新年換上和服的美食研究會成員。\n\n期待著新年的料理，換上新衣的淳子。似乎還是無法忍受在吃東西時被妨礙。",
     "Hobby": "美食巡迴",
-    "BirthDay": "12/27"
+    "BirthDay": "12/27",
+    "School": "Gehenna",
+    "Club": "GourmetClub"
   },
   "Mine": {
     "PathName": "Mine",
@@ -1509,7 +1759,9 @@
     "CharacterSSRNew": "我是救護騎士團團長蒼森美禰。\n需要救護的人在哪裡呢？",
     "ProfileIntroduction": "三一綜合學園所屬，救護騎士團的團長。性格正直堅定，卻也有著過激一面的白衣戰士。\n\n據說「美禰團長來破壞，騎士團來治療」這個救護騎士團的傳言已經傳遍整個三一。然而即使是這樣的她，也有藉由整頓自己的裝備和邀請熟人舉行茶會來療癒心靈的一面。此外，據說其對紅茶的造詣之深，甚至能和實現正義部的蓮實匹敵。",
     "Hobby": "收集醫療用品",
-    "BirthDay": "11/23"
+    "BirthDay": "11/23",
+    "School": "Trinity",
+    "Club": "KnightsHospitaller"
   },
   "Mika": {
     "PathName": "Mika",
@@ -1521,7 +1773,9 @@
     "CharacterSSRNew": "うん、お待たせ！\nこれからはなんでも私に任せてね☆",
     "ProfileIntroduction": "トリニティ総合学園所属、トリニティを構成している生徒連合「パテル」の元リーダーだった少女。\n\n元ティーパーティーの一人で、リーダーであるナギサとは幼馴染でもある。しかし、政治的には対立している立場のため、公私の区別はしっかりしている。いつも楽しそうに笑い、無邪気な姿を見せる彼女だが、人に言えない悩みを胸の裡に抱えているらしい。",
     "Hobby": "おしゃべり、アクセサリー集め",
-    "BirthDay": "5/8"
+    "BirthDay": "5/8",
+    "School": "Trinity",
+    "Club": "TeaParty"
   },
   "Megu": {
     "PathName": "Megu",
@@ -1533,7 +1787,9 @@
     "CharacterSSRNew": "障害物？私に任せて！撤去しちゃうよ～！",
     "ProfileIntroduction": "ゲヘナ学園所属、温泉開発部の心臓であり、開発現場の作業班長。\n\nすべての問題事を「撤去する」ことで解決できると心の底から信じている。豪快で竹を割ったような性格、抜群の撤去能力で温泉開発部員から厚い信頼を得ている。",
     "Hobby": "撤去",
-    "BirthDay": "4/25"
+    "BirthDay": "4/25",
+    "School": "Gehenna",
+    "Club": "HotSpringsDepartment"
   },
   "Kanna": {
     "PathName": "Kanna",
@@ -1545,7 +1801,9 @@
     "CharacterSSRNew": "市民のため、誠心誠意奉仕します",
     "ProfileIntroduction": "ヴァルキューレ警察学校所属、公安局の局長を務める生徒。\n\n担当すると決めた犯罪に対して、諦めるという文字を知らないほどに執拗に聞き込み、真相を明らかにすることから世間では「狂犬」というあだ名で知られている。固い空気とあだ名のせいで激情型だと誤解されがちだが、実際は常に冷静で、現実的な価値観の持ち主である。",
     "Hobby": "読書、映画鑑賞（推理もの）",
-    "BirthDay": "9/7"
+    "BirthDay": "9/7",
+    "School": "Valkyrie",
+    "Club": "PublicPeaceBureau"
   },
   "Sakurako": {
     "PathName": "Sakurako",
@@ -1557,7 +1815,9 @@
     "CharacterSSRNew": "あなたの一挙手一投足……。\nいつも、見守っておりますよ",
     "ProfileIntroduction": "トリニティ総合学園所属、シスターフッドの敬虔な生徒。\n\n何事に対しても真剣に向き合うため、多くの生徒から厚い信頼を受けている。生真面目すぎるせいで流行や常識からズレてしまうことも。",
     "Hobby": "お祈り",
-    "BirthDay": "10/4"
+    "BirthDay": "10/4",
+    "School": "Trinity",
+    "Club": "SisterHood"
   },
   "Toki": {
     "PathName": "Toki",
@@ -1569,7 +1829,9 @@
     "CharacterSSRNew": "何なりとお申し付けください。\n私は完璧なエージェントであり、メイドですので",
     "ProfileIntroduction": "ミレニアムサイエンススクール所属、秘密組織「C&amp;C」の5番目のエージェント。\n\nC&amp;C所属だが、これまではリオの専属メイド兼ボディーガードとして活動してきたため、トキの顔を知っている人はほとんどいない。ハイテク兵器や技術に基づいて戦う優れたエージェント。今までは単独行動がメインだったが、実は寂しがり屋という一面も。",
     "Hobby": "探している最中",
-    "BirthDay": "8/16"
+    "BirthDay": "8/16",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Nagisa": {
     "PathName": "Nagisa",
@@ -1581,7 +1843,9 @@
     "CharacterSSRNew": "……ごきげんよう。\nトリニティを代表してご挨拶申し上げます",
     "ProfileIntroduction": "トリニティ総合学園所属、トリニティを構成している生徒連合「フィリウス」のリーダーであり、生徒会「ティーパーティー」のホスト。\n\n穏やかで優しい言葉遣いだが、本音をほとんど明かさないため、気難しく謎の多い人物と評されている。趣味はお茶会に使う茶葉やお茶菓子を用意すること。多くのトリニティ生が彼女のお茶会に招待される日を夢見ている。",
     "Hobby": "茶葉収集、お菓子作り、庭の手入れ",
-    "BirthDay": "7/4"
+    "BirthDay": "7/4",
+    "School": "Trinity",
+    "Club": "TeaParty"
   },
   "Koyuki": {
     "PathName": "Koyuki",
@@ -1593,7 +1857,9 @@
     "CharacterSSRNew": "思い通りにいかない時こそ、\n人生は面白くなるんですよ！",
     "ProfileIntroduction": "ミレニアムサイエンススクール所属、生徒会「セミナー」のトラブルメーカーな天才少女。\n\n数学的な暗号の解読に関して、天賦の才を持っているが、本人にはその自覚が全くない。また、自分では制御できない運が絡む要素が好きで、様々な方法で自分の運を試している。苦難にあっても諦めない。",
     "Hobby": "運試し、脱出",
-    "BirthDay": "2/14"
+    "BirthDay": "2/14",
+    "School": "Millennium",
+    "Club": "TheSeminar"
   },
   "Kayoko_NewYear": {
     "PathName": "Kayoko_NewYear",
@@ -1605,7 +1871,9 @@
     "CharacterSSRNew": "今年はどうか、\nいい事がたくさんありますように",
     "ProfileIntroduction": "新年を迎えたゲヘナ学園所属、便利屋68の課長。\n\n新年を迎えて他のメンバーと同じく着飾ったはずなのに、まるで普段から袖を通しているかのように、その立ち居振る舞いには貫禄がある。騒動を面倒くさがってはいるものの、便利屋68のためなら知恵を貸してくれる。",
     "Hobby": "音楽CD収集",
-    "BirthDay": "3/17"
+    "BirthDay": "3/17",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Haruka_NewYear": {
     "PathName": "Haruka_NewYear",
@@ -1617,7 +1885,9 @@
     "CharacterSSRNew": "今年も……。\n死ぬほど頑張ります！！",
     "ProfileIntroduction": "新年を迎えたゲヘナ学園所属、便利屋68の平社員。\n\n大切な人たちと新年を過ごす事に慣れておらず、みんなと合わせるために、普段着ない服に袖を通して着飾った。",
     "Hobby": "雑草を育てること",
-    "BirthDay": "5/13"
+    "BirthDay": "5/13",
+    "School": "Gehenna",
+    "Club": "Kohshinjo68"
   },
   "Kaho": {
     "PathName": "Kaho",
@@ -1629,7 +1899,9 @@
     "CharacterSSRNew": "百鬼夜行の様々な魅力を、\n先生にもお伝えいたしますね",
     "ProfileIntroduction": "百鬼夜行連合学院、陰陽部の副部長兼、観光文化産業広報支援部の戦略リーダー。\n\n誰よりも百鬼夜行の文化を愛し、文化を作りあげていく生徒を大切にする少女。このような姿から、一部の百鬼夜行の生徒からは「部長よりも部長らしいカホさん」と呼ばれることもある模様。ちなみに、陰陽部内では貴重な常識人ポジションなのだとか。",
     "Hobby": "百鬼夜行文化の広報、\n百鬼夜行グッズ集め",
-    "BirthDay": "10/9"
+    "BirthDay": "10/9",
+    "School": "Hyakkiyako",
+    "Club": "Onmyobu"
   },
   "Aris_Maid": {
     "PathName": "Aris_Maid",
@@ -1641,7 +1913,9 @@
     "CharacterSSRNew": "ぱんぱかぱーん！\nアリスはメイド勇者にジョブチェンジしました！",
     "ProfileIntroduction": "色々あってメイド服を着ることになったミレニアムサイエンススクール所属、ゲーム開発部の部員。\n\n相変わらずメイド服にあまり慣れていないものの、克服して一人前のメイド勇者になるべく日々修行中のようだ。",
     "Hobby": "ゲーム（特にRPG）",
-    "BirthDay": "3/25"
+    "BirthDay": "3/25",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Toki_Bunny": {
     "PathName": "Toki_Bunny",
@@ -1653,7 +1927,9 @@
     "CharacterSSRNew": "作戦遂行準備、完了。いつでも行けます。\nこの格好……？何か問題でも？",
     "ProfileIntroduction": "潜入作戦なら当然バニーガール服だと信じてやまない、ミレニアムサイエンススクール所属、秘密組織「C&amp;C」のエージェント。\n\n普段特殊な立ち位置にいたからか、あまり縁がなかった潜入任務を任されたことに、いつもより少しテンションが上がっている模様。C&amp;Cの先輩と同じような任務ができる事に内心嬉しそうな姿を見せるが、本人は平静を装っている。",
     "Hobby": "探している最中",
-    "BirthDay": "8/16"
+    "BirthDay": "8/16",
+    "School": "Millennium",
+    "Club": "CleanNClearing"
   },
   "Yuzu_Maid": {
     "PathName": "Yuzu_Maid",
@@ -1665,7 +1941,9 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "色々あってメイド服を着ることになったミレニアムサイエンススクール所属、ゲーム開発部の部長。\n\n普段と違う格好でもユズはユズのままではあるが、少しだけできる事が広がった模様。ゲーム開発部のみんなと一緒に、様々な困難に立ち向かうことに。",
     "Hobby": "ゲーム制作",
-    "BirthDay": "8/12"
+    "BirthDay": "8/12",
+    "School": "Millennium",
+    "Club": "GameDev"
   },
   "Reisa": {
     "PathName": "Reisa",
@@ -1677,7 +1955,9 @@
     "CharacterSSRNew": "正義を求める人の元に……私あり……そう私こそがスーパースター。\n宇沢レイサ、見参です！",
     "ProfileIntroduction": "トリニティのあちこちに出没し、治安の維持活動をしているトリニティ総合学園所属、自警団のメンバー。\n\n掴みどころのない事を言うため、いたずら通報だと思われる時もあるが、誰よりも真剣に自警団活動をしているのだとか。名乗りあげる口上が、毎回少しずつ変わる模様。",
     "Hobby": "決闘申込み、自己紹介",
-    "BirthDay": "5/31"
+    "BirthDay": "5/31",
+    "School": "Trinity",
+    "Club": "TrinityVigilance"
   },
   "Rumi": {
     "PathName": "Rumi",
@@ -1689,7 +1969,9 @@
     "CharacterSSRNew": "お腹空いた人、いる～？",
     "ProfileIntroduction": "山海経高級中学校所属、グルメ街「玄武商会」の会長。\n\n平凡な商店街だった玄武商会をキヴォトス屈指のグルメ街へと成長させた卓越した運営能力を持つ。独自勢力の成長を警戒する山海経の生徒会からは目の敵にされているが、ルミ本人は商会を発展させる以外のことには興味がない模様。",
     "Hobby": "料理、食品開発",
-    "BirthDay": "3/5"
+    "BirthDay": "3/5",
+    "School": "Shanhaijing",
+    "Club": "BlackTortoisePromenade"
   },
   "Mina": {
     "PathName": "Mina",
@@ -1701,7 +1983,9 @@
     "CharacterSSRNew": "火の粉は一人で受け止めよう。\n――それが最善策だからな",
     "ProfileIntroduction": "山海経高級中学校所属、生徒会「玄龍門」の執行部長兼、生徒会長の護衛。\n\nクールで冷徹な印象の外見とは裏腹に、実は古いノワール映画のマニア。映画に出るようなかっこいい状況やセリフに憧れている。カッコつけて映画のようなセリフを口にして痛い目にあうこともしばしばだが、「玄龍門」の部員は気にしないようにしているらしい。",
     "Hobby": "映画鑑賞（主にハードボイルド系）",
-    "BirthDay": "9/9"
+    "BirthDay": "9/9",
+    "School": "Shanhaijing",
+    "Club": "Genryumon"
   },
   "Minori": {
     "PathName": "Minori",
@@ -1713,7 +1997,9 @@
     "CharacterSSRNew": "キヴォトス中のすべてのプリンは\n闘争する生徒のためのものだ！",
     "ProfileIntroduction": "レッドウィンター連邦学園所属、工務部の部長。\n\n大規模な土木工事や建築など、人力が必要な所ならどこにだって人を派遣し現場を指揮する。仕事の手腕はたしかだが、些細なことでストライキやデモを起こすため雇い主たちから悪名高い模様。",
     "Hobby": "ストライキ、デモ、工作",
-    "BirthDay": "7/14"
+    "BirthDay": "7/14",
+    "School": "RedWinter",
+    "Club": "LaborParty"
   },
   "Miyako_Swimsuit": {
     "PathName": "Miyako_Swimsuit",
@@ -1725,7 +2011,9 @@
     "CharacterSSRNew": "こちらはRABBIT1。\nただいま海に到着しました",
     "ProfileIntroduction": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊の小隊長。\n\nコンビニのお弁当からエビが消えた理由を調査すべく、水着に着替える事に。潜入先の漁村は観光とはかけ離れた怪しい場所だったものの、それでもかわいい水着だけは譲れない模様。",
     "Hobby": "動物系の動画鑑賞",
-    "BirthDay": "1/7"
+    "BirthDay": "1/7",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Saki_Swimsuit": {
     "PathName": "Saki_Swimsuit",
@@ -1737,7 +2025,9 @@
     "CharacterSSRNew": "こちらはRABBIT2。\n現時刻より潜入作戦を開始する",
     "ProfileIntroduction": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のポイントマン。\n\nマニュアルを重視するサキらしく、潜入作戦でも戦闘に必要な装備を鞄に入れている。水着姿でも真面目なところは変わらない模様。",
     "Hobby": "銃器の整備、植物などの採集",
-    "BirthDay": "4/9"
+    "BirthDay": "4/9",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   },
   "Miyu_Swimsuit": {
     "PathName": "Miyu_Swimsuit",
@@ -1749,6 +2039,8 @@
     "CharacterSSRNew": "",
     "ProfileIntroduction": "潜入作戦のため漁村を訪れたSRT特殊学園所属RABBIT小隊のスナイパー。\n\n釣り道具を持参し、船着き場でまったりと釣り糸を垂らしている。たまに大物を釣り上げ、周囲の注目を集めることもあるが……天性の存在感の薄さは、この不思議な村でも健在の模様。",
     "Hobby": "否定的な妄想、現実逃避、小石探し",
-    "BirthDay": "7/12"
+    "BirthDay": "7/12",
+    "School": "SRT",
+    "Club": "RabbitPlatoon"
   }
 }

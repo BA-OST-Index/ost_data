@@ -1,8 +1,9 @@
 {
-  "uuid": "29ea6156-7dbb-44cd-ad44-fafc70021d2a",
+  "uuid": "1dffffea-3986-43fd-a212-78c0a18001c3",
   "filetype": -53,
   "namespace": "minori",
   "name": "Minori",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

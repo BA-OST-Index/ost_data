@@ -1,8 +1,9 @@
 {
-  "uuid": "950430a2-4cbc-466a-afdc-611e0d77c2d3",
-  "filetype": -53,
-  "namespace": "tomoe",
-  "name": "Tomoe",
+  "uuid": "4fd0de7d-af27-472b-b410-ba120adbe8da",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

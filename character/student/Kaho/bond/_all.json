@@ -1,8 +1,9 @@
 {
-  "uuid": "ac4c87aa-9155-4825-988b-fee72b76e169",
-  "filetype": -53,
-  "namespace": "kaho",
-  "name": "Kaho",
+  "uuid": "a6d3de0e-6c93-4f62-83d4-f41190ddc9e6",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

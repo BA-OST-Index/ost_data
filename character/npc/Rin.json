@@ -1,0 +1,14 @@
+{
+  "uuid": "8a9c956f-4a3a-41f3-8343-b27d6697bb8a",
+  "filetype": 52,
+  "namespace": "rin",
+
+  "name": "[NPC_RIN_NAME]",
+  "desc": "[NPC_RIN_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

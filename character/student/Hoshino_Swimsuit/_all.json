@@ -1,8 +1,9 @@
 {
-  "uuid": "b41c8786-c2a8-400f-91f8-e9763ae415ff",
+  "uuid": "3ba06e38-e1ad-4804-8ddf-bc89fc901725",
   "filetype": -53,
   "namespace": "hoshino_swimsuit",
   "name": "Hoshino_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

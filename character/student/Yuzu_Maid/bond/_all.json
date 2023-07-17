@@ -1,8 +1,9 @@
 {
-  "uuid": "54d3bff0-589f-478e-b70d-4c517ecdb78e",
-  "filetype": -53,
-  "namespace": "yuzu_maid",
-  "name": "Yuzu_Maid",
+  "uuid": "c085c7af-7d6c-44a3-82c8-be1f41c37fe7",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,17 @@
+{
+  "uuid": "77530be6-75df-42d3-a069-07231f49e089",
+  "filetype": -27,
+  "name": "",
+  "namespace": "special_commission",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

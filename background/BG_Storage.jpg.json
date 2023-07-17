@@ -1,0 +1,13 @@
+{
+  "uuid": "0cc118ac-e78d-4a85-addd-c5d54e7a2b86",
+  "filetype": 71,
+  "filename": "BG_Storage.jpg",
+  "name": "[BG_Storage.jpg_NAME]",
+  "desc": "[BG_Storage.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Storage.jpg",
+    "short_desc": ""
+  }
+}

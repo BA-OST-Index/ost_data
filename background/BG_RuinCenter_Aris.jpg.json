@@ -1,0 +1,13 @@
+{
+  "uuid": "69d73d9e-2048-4df2-81fb-63f1bc448557",
+  "filetype": 71,
+  "filename": "BG_RuinCenter_Aris.jpg",
+  "name": "[BG_RuinCenter_Aris.jpg_NAME]",
+  "desc": "[BG_RuinCenter_Aris.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RuinCenter_Aris.jpg",
+    "short_desc": ""
+  }
+}

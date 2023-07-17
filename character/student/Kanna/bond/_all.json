@@ -1,8 +1,9 @@
 {
-  "uuid": "6466cc20-b286-4c98-8708-b9cff2611af0",
-  "filetype": -53,
-  "namespace": "kanna",
-  "name": "Kanna",
+  "uuid": "72a5a9c5-c461-487c-b4db-9edca9b95291",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

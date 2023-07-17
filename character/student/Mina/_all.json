@@ -1,8 +1,9 @@
 {
-  "uuid": "7c35deed-11bc-4990-853e-c208d0215855",
+  "uuid": "398d06b2-989d-4fef-a83e-8179706c0679",
   "filetype": -53,
   "namespace": "mina",
   "name": "Mina",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

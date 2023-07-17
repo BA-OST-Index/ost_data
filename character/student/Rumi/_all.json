@@ -1,8 +1,9 @@
 {
-  "uuid": "d3d8d9c6-5498-45ad-b84c-adc64e049a51",
+  "uuid": "a8514313-e3d1-4fd4-b76c-ac26da43e101",
   "filetype": -53,
   "namespace": "rumi",
   "name": "Rumi",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "781f5403-b6a4-45a4-9f1c-654e5121677d",
-  "filetype": -53,
-  "namespace": "karin",
-  "name": "Karin",
+  "uuid": "dc6f2fbb-107a-4e7f-ab74-777fde6cc9c4",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

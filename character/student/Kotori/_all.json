@@ -1,8 +1,9 @@
 {
-  "uuid": "d87d5e2c-1664-4462-863e-d0d21624e97d",
+  "uuid": "4699e668-626b-48e1-9ce8-3a05ddd288d0",
   "filetype": -53,
   "namespace": "kotori",
   "name": "Kotori",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

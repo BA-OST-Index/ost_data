@@ -1,0 +1,13 @@
+{
+  "uuid": "0ab9d972-09cf-4d5e-9b2b-ae33e72d1df4",
+  "filetype": 71,
+  "filename": "BG_TrinityOldLibrary_Night.jpg",
+  "name": "[BG_TrinityOldLibrary_Night.jpg_NAME]",
+  "desc": "[BG_TrinityOldLibrary_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityOldLibrary_Night.jpg",
+    "short_desc": ""
+  }
+}

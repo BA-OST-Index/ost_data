@@ -50,5 +50,7 @@
     "is_story": true,
     "is_battle": false,
     "is_event": false
-  }
+  },
+
+  "reference": []
 }

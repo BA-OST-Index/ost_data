@@ -1,0 +1,13 @@
+{
+  "uuid": "a4ab836c-b12f-4bd9-b69b-ceac88242386",
+  "filetype": 71,
+  "filename": "BG_GameDevRoom_Night.jpg",
+  "name": "[BG_GameDevRoom_Night.jpg_NAME]",
+  "desc": "[BG_GameDevRoom_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_GameDevRoom_Night.jpg",
+    "short_desc": ""
+  }
+}

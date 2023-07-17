@@ -1,8 +1,9 @@
 {
-  "uuid": "d64ac1f7-701f-4a31-97e7-6ec5170bed23",
-  "filetype": -53,
-  "namespace": "azusa",
-  "name": "Azusa",
+  "uuid": "e198cbec-930c-4ff2-9f52-2725f17a1869",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

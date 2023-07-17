@@ -1,0 +1,13 @@
+{
+  "uuid": "df3603d0-9b64-4ecc-afe3-35e0e3aa6baa",
+  "filetype": 71,
+  "filename": "BG_BigSisterRoom.jpg",
+  "name": "[BG_BigSisterRoom.jpg_NAME]",
+  "desc": "[BG_BigSisterRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BigSisterRoom.jpg",
+    "short_desc": ""
+  }
+}

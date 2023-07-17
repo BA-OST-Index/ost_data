@@ -1,0 +1,13 @@
+{
+  "uuid": "05ae32af-4e4c-4eb9-8823-04ff0dfafd1c",
+  "filetype": 71,
+  "filename": "BG_View_Schale.jpg",
+  "name": "[BG_View_Schale.jpg_NAME]",
+  "desc": "[BG_View_Schale.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_View_Schale.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "ee125b58-54fe-4d6e-b001-2ad6c33e6855",
+  "uuid": "4ad72c15-4852-48d1-b64e-9e955a3c9159",
   "filetype": -53,
   "namespace": "hasumi_track",
   "name": "Hasumi_Track",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

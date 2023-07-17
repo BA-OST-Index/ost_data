@@ -1,8 +1,9 @@
 {
-  "uuid": "9d96515d-eca0-411c-9060-7acf693fa907",
-  "filetype": -53,
-  "namespace": "koharu",
-  "name": "Koharu",
+  "uuid": "ea2c0e0f-5575-4036-8eff-6bd4b3ad4c06",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

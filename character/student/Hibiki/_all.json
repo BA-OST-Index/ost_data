@@ -1,8 +1,9 @@
 {
-  "uuid": "dff194b0-bf02-4870-8aff-b72bd4b09fa3",
+  "uuid": "18172184-829d-435c-8f5f-36ddd7acacb6",
   "filetype": -53,
   "namespace": "hibiki",
   "name": "Hibiki",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

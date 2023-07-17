@@ -1,0 +1,13 @@
+{
+  "uuid": "bc1166b6-080b-498e-933e-c55a3ef47d03",
+  "filetype": 71,
+  "filename": "BG_SchoolFrontGate.jpg",
+  "name": "[BG_SchoolFrontGate.jpg_NAME]",
+  "desc": "[BG_SchoolFrontGate.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SchoolFrontGate.jpg",
+    "short_desc": ""
+  }
+}

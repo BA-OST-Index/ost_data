@@ -1,0 +1,13 @@
+{
+  "uuid": "2e631e23-e753-49d7-8a91-f99df91dc220",
+  "filetype": 71,
+  "filename": "BG_Kitchen.jpg",
+  "name": "[BG_Kitchen.jpg_NAME]",
+  "desc": "[BG_Kitchen.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Kitchen.jpg",
+    "short_desc": ""
+  }
+}

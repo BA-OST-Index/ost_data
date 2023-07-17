@@ -1,8 +1,9 @@
 {
-  "uuid": "41593821-50b1-478e-9b08-b52904fb4354",
-  "filetype": -53,
-  "namespace": "wakamo",
-  "name": "Wakamo",
+  "uuid": "198a295c-9fb7-4a27-be55-1c04f69e63c2",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

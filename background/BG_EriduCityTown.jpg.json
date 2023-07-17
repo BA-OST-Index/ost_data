@@ -1,0 +1,13 @@
+{
+  "uuid": "4f12544c-e0a1-47c0-ba67-e9705cbd127d",
+  "filetype": 71,
+  "filename": "BG_EriduCityTown.jpg",
+  "name": "[BG_EriduCityTown.jpg_NAME]",
+  "desc": "[BG_EriduCityTown.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_EriduCityTown.jpg",
+    "short_desc": ""
+  }
+}

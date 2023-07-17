@@ -1,8 +1,9 @@
 {
-  "uuid": "dff194b0-bf02-4870-8aff-b72bd4b09fa3",
-  "filetype": -53,
-  "namespace": "hibiki",
-  "name": "Hibiki",
+  "uuid": "e88deec3-2481-4ce0-9168-4d7236fa3971",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

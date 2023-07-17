@@ -1,8 +1,9 @@
 {
-  "uuid": "32cfec0d-4502-4ec1-952b-83387eaf794a",
+  "uuid": "934d649a-57bb-449e-8b1a-64c067f5f690",
   "filetype": -53,
   "namespace": "fuuka",
   "name": "Fuuka",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "197847cc-81eb-4298-aa86-7be495eff231",
+  "filetype": 71,
+  "filename": "BG_ValkyrieOffice.jpg",
+  "name": "[BG_ValkyrieOffice.jpg_NAME]",
+  "desc": "[BG_ValkyrieOffice.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ValkyrieOffice.jpg",
+    "short_desc": ""
+  }
+}

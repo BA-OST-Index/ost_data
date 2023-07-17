@@ -1,0 +1,13 @@
+{
+  "uuid": "757900a9-c8a2-459e-be19-b1e723be6868",
+  "filetype": 71,
+  "filename": "BG_Atelier_Night.jpg",
+  "name": "[BG_Atelier_Night.jpg_NAME]",
+  "desc": "[BG_Atelier_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Atelier_Night.jpg",
+    "short_desc": ""
+  }
+}

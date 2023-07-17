@@ -1,8 +1,9 @@
 {
-  "uuid": "e26323a1-1805-4cb2-977f-7c6db20bb752",
+  "uuid": "55d4d5fd-c9b7-4083-9a07-1c894dc920cf",
   "filetype": -53,
   "namespace": "pina",
   "name": "Pina",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

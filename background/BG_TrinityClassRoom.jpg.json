@@ -1,0 +1,13 @@
+{
+  "uuid": "54d9df94-1b92-49f1-b752-8ab37c3b85f2",
+  "filetype": 71,
+  "filename": "BG_TrinityClassRoom.jpg",
+  "name": "[BG_TrinityClassRoom.jpg_NAME]",
+  "desc": "[BG_TrinityClassRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityClassRoom.jpg",
+    "short_desc": ""
+  }
+}

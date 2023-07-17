@@ -1,0 +1,13 @@
+{
+  "uuid": "f0085c92-5ab2-4085-a38d-b668069903ab",
+  "filetype": 71,
+  "filename": "BG_IndoorPlayGround.jpg",
+  "name": "[BG_IndoorPlayGround.jpg_NAME]",
+  "desc": "[BG_IndoorPlayGround.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_IndoorPlayGround.jpg",
+    "short_desc": ""
+  }
+}

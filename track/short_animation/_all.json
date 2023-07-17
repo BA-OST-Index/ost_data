@@ -1,0 +1,11 @@
+{
+  "uuid": "2d97389d-eb5d-4e36-87a8-99bebaa9dd50",
+  "filetype": -12,
+  "name": "",
+  "namespace": "short",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

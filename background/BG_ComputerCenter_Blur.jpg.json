@@ -1,0 +1,13 @@
+{
+  "uuid": "6a0abf1f-d75a-48c1-b2f5-2f180e0309ce",
+  "filetype": 71,
+  "filename": "BG_ComputerCenter_Blur.jpg",
+  "name": "[BG_ComputerCenter_Blur.jpg_NAME]",
+  "desc": "[BG_ComputerCenter_Blur.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ComputerCenter_Blur.jpg",
+    "short_desc": ""
+  }
+}

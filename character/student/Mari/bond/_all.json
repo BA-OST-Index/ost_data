@@ -1,8 +1,9 @@
 {
-  "uuid": "581327d3-4cb8-407e-9fde-674a9cb8784c",
-  "filetype": -53,
-  "namespace": "mari",
-  "name": "Mari",
+  "uuid": "e034fb81-2a69-42c4-a7fa-b6774991d19e",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

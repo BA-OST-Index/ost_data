@@ -1,8 +1,9 @@
 {
-  "uuid": "3c5bdbe5-0859-458d-a7e4-b72f9b830571",
-  "filetype": -53,
-  "namespace": "utaha_cheerleader",
-  "name": "Utaha_Cheerleader",
+  "uuid": "f988ea61-62fa-46a7-b52a-c9bb8af7fefb",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

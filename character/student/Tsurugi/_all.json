@@ -1,8 +1,9 @@
 {
-  "uuid": "b2a5c223-23cc-4a77-a7f6-da5f671b5479",
+  "uuid": "87f5713d-2cd1-4065-af7b-2d705e1069dd",
   "filetype": -53,
   "namespace": "tsurugi",
   "name": "Tsurugi",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

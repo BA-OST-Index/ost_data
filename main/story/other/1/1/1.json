@@ -30,7 +30,7 @@
       "is_battle": false,
       "track": ["OST_10", "OST_11"],
       "background": ["BG_UpperOffice.jpg", "BG_CS_PR_16.jpg", "BG_CS_PR_10.jpg"],
-      "character": ["琳"]
+      "character": ["Rin"]
     },
     {
       "name": "招待室里的争吵",
@@ -38,7 +38,7 @@
       "is_battle": false,
       "track": ["OST_11", "OST_28"],
       "background": ["BG_ReceptionRoom.jpg"],
-      "character": ["Yukka", "Hasumi", "Chinatsu", "Suzumi", "琳", "桃香"]
+      "character": ["Yuuka", "Hasumi", "Chinatsu", "Suzumi", "Rin", "Momoka"]
     }
   ],
   "is_battle": false

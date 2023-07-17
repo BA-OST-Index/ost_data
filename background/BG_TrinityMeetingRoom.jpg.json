@@ -1,0 +1,13 @@
+{
+  "uuid": "14dfdca9-442d-4057-8604-aea326dc0241",
+  "filetype": 71,
+  "filename": "BG_TrinityMeetingRoom.jpg",
+  "name": "[BG_TrinityMeetingRoom.jpg_NAME]",
+  "desc": "[BG_TrinityMeetingRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityMeetingRoom.jpg",
+    "short_desc": ""
+  }
+}

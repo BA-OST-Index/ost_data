@@ -1,0 +1,13 @@
+{
+  "uuid": "36c11412-00a8-4d96-b396-9508ff054a61",
+  "filetype": 71,
+  "filename": "BG_AriusStreet.jpg",
+  "name": "[BG_AriusStreet.jpg_NAME]",
+  "desc": "[BG_AriusStreet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_AriusStreet.jpg",
+    "short_desc": ""
+  }
+}

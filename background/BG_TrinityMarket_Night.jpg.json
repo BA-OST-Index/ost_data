@@ -1,0 +1,13 @@
+{
+  "uuid": "f56dbc3e-a788-4e0a-903b-9270ce4fe5fc",
+  "filetype": 71,
+  "filename": "BG_TrinityMarket_Night.jpg",
+  "name": "[BG_TrinityMarket_Night.jpg_NAME]",
+  "desc": "[BG_TrinityMarket_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityMarket_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "1ce7348e-30d4-4765-b093-0a705f0afd1a",
+  "uuid": "47f70448-ef51-4792-a6cd-48f480ca2073",
   "filetype": -53,
   "namespace": "serika_newyear",
   "name": "Serika_NewYear",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "59478bd9-b9e8-4aef-821d-9f54f2c5b571",
+  "filetype": 71,
+  "filename": "BG_Auditorium2.jpg",
+  "name": "[BG_Auditorium2.jpg_NAME]",
+  "desc": "[BG_Auditorium2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Auditorium2.jpg",
+    "short_desc": ""
+  }
+}

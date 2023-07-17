@@ -1,0 +1,13 @@
+{
+  "uuid": "42cda239-2abd-4e27-a7d6-bc894e740186",
+  "filetype": 71,
+  "filename": "BG_Wharf.jpg",
+  "name": "[BG_Wharf.jpg_NAME]",
+  "desc": "[BG_Wharf.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Wharf.jpg",
+    "short_desc": ""
+  }
+}

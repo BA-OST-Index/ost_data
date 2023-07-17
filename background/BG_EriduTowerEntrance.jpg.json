@@ -1,0 +1,13 @@
+{
+  "uuid": "e37cbec7-c549-4080-ad6e-2545d133408e",
+  "filetype": 71,
+  "filename": "BG_EriduTowerEntrance.jpg",
+  "name": "[BG_EriduTowerEntrance.jpg_NAME]",
+  "desc": "[BG_EriduTowerEntrance.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_EriduTowerEntrance.jpg",
+    "short_desc": ""
+  }
+}

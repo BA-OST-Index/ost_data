@@ -1,0 +1,13 @@
+{
+  "uuid": "5e8debd4-87e4-4984-802e-e63b1ca94d24",
+  "filetype": 71,
+  "filename": "BG_BeachShopInSide_Night.jpg",
+  "name": "[BG_BeachShopInSide_Night.jpg_NAME]",
+  "desc": "[BG_BeachShopInSide_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BeachShopInSide_Night.jpg",
+    "short_desc": ""
+  }
+}

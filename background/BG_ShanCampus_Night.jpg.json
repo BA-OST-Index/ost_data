@@ -1,0 +1,13 @@
+{
+  "uuid": "578065c4-6f62-4614-acac-95b372bc5d4c",
+  "filetype": 71,
+  "filename": "BG_ShanCampus_Night.jpg",
+  "name": "[BG_ShanCampus_Night.jpg_NAME]",
+  "desc": "[BG_ShanCampus_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShanCampus_Night.jpg",
+    "short_desc": ""
+  }
+}

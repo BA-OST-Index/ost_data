@@ -1,0 +1,13 @@
+{
+  "uuid": "db509100-0b1f-4c7a-9d6d-b959e917979e",
+  "filetype": 71,
+  "filename": "BG_ConvenienceStore.jpg",
+  "name": "[BG_ConvenienceStore.jpg_NAME]",
+  "desc": "[BG_ConvenienceStore.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ConvenienceStore.jpg",
+    "short_desc": ""
+  }
+}

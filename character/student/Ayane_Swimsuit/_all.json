@@ -1,8 +1,9 @@
 {
-  "uuid": "c9c06f5c-1305-49b5-8bd2-72f23f4e3b6a",
+  "uuid": "2c5096e1-9dd5-47d9-b245-12085504590c",
   "filetype": -53,
   "namespace": "ayane_swimsuit",
   "name": "Ayane_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

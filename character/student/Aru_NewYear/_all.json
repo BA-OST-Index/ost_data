@@ -1,8 +1,9 @@
 {
-  "uuid": "6c376f74-bbb8-40d7-b110-d6b212c47ae9",
+  "uuid": "526e2f90-3406-4c6a-ac0b-58f54c645c7d",
   "filetype": -53,
   "namespace": "aru_newyear",
   "name": "Aru_NewYear",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

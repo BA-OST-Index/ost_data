@@ -1,0 +1,13 @@
+{
+  "uuid": "361fd0c2-8d20-4766-a03e-002592a11f02",
+  "filetype": 71,
+  "filename": "BG_RailWayCrossing.jpg",
+  "name": "[BG_RailWayCrossing.jpg_NAME]",
+  "desc": "[BG_RailWayCrossing.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RailWayCrossing.jpg",
+    "short_desc": ""
+  }
+}

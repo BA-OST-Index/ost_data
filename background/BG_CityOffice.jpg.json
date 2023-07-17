@@ -1,0 +1,13 @@
+{
+  "uuid": "0381ecc0-ed7e-4016-91e1-b55be5ed2525",
+  "filetype": 71,
+  "filename": "BG_CityOffice.jpg",
+  "name": "[BG_CityOffice.jpg_NAME]",
+  "desc": "[BG_CityOffice.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CityOffice.jpg",
+    "short_desc": ""
+  }
+}

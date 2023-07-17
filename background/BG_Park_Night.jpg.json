@@ -1,0 +1,13 @@
+{
+  "uuid": "177d98f3-a04f-44f8-98a3-5625ad209c5a",
+  "filetype": 71,
+  "filename": "BG_Park_Night.jpg",
+  "name": "[BG_Park_Night.jpg_NAME]",
+  "desc": "[BG_Park_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Park_Night.jpg",
+    "short_desc": ""
+  }
+}

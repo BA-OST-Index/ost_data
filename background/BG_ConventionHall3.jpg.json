@@ -1,0 +1,13 @@
+{
+  "uuid": "f5af57f8-ebc9-4cd2-917d-cd0f839c58c0",
+  "filetype": 71,
+  "filename": "BG_ConventionHall3.jpg",
+  "name": "[BG_ConventionHall3.jpg_NAME]",
+  "desc": "[BG_ConventionHall3.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ConventionHall3.jpg",
+    "short_desc": ""
+  }
+}

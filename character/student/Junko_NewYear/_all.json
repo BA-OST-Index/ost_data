@@ -1,8 +1,9 @@
 {
-  "uuid": "a8bd67b0-4eac-4f08-b82b-f9ebd611f760",
+  "uuid": "d75012fd-3498-4326-8105-7a60dbdfba36",
   "filetype": -53,
   "namespace": "junko_newyear",
   "name": "Junko_NewYear",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

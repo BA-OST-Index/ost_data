@@ -21,7 +21,7 @@
       "desc": "老师撞见了茜香，向她亲切地问好，并表示想知道她去哪里、做什么。茜香躲闪着，但老师步步紧跟；茜香后承认是打工，并要求老师不再跟随，但老师并没有听从。",
       "is_battle": false,
       "track": ["OST_11"],
-      "background": ["BG_Residence.jpg", "BG_VillaComplex.jpg", "Unknown"],
+      "background": ["BG_Residence.jpg", "BG_VillaComplex.jpg", "Unknown.jpg"],
       "character": ["Serika"]
     },
     {
@@ -30,7 +30,7 @@
       "is_battle": false,
       "track": ["OST_4"],
       "background": ["BG_RamenYa.jpg", "BG_CS_Abydos_03.jpg"],
-      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino", "柴大将"]
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino", "MasterShiba"]
     },
     {
       "name": "下班",

@@ -1,8 +1,9 @@
 {
-  "uuid": "52a9be05-b3a4-4e6c-99c7-6cf577ef2daa",
+  "uuid": "16f74573-0c5c-4c0b-9dc4-d76b3901a30f",
   "filetype": -53,
   "namespace": "ayane",
   "name": "Ayane",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

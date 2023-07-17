@@ -1,0 +1,13 @@
+{
+  "uuid": "c102a2d3-4444-4ea5-ac2c-5332de545c4c",
+  "filetype": 71,
+  "filename": "BG_KohshinjoRoom.jpg",
+  "name": "[BG_KohshinjoRoom.jpg_NAME]",
+  "desc": "[BG_KohshinjoRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_KohshinjoRoom.jpg",
+    "short_desc": ""
+  }
+}

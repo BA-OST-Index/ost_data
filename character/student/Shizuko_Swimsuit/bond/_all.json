@@ -1,8 +1,9 @@
 {
-  "uuid": "847236a5-5357-4def-9b60-7585c4a5cd3d",
-  "filetype": -53,
-  "namespace": "shizuko_swimsuit",
-  "name": "Shizuko_Swimsuit",
+  "uuid": "1c023e42-3fd7-4e82-8324-c174ffe02763",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

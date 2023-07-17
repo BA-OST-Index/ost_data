@@ -1,8 +1,9 @@
 {
-  "uuid": "e9edf6fa-3a8f-484b-a823-a7e3c875f826",
-  "filetype": -53,
-  "namespace": "kaede",
-  "name": "Kaede",
+  "uuid": "097dc69e-131d-434b-b26e-849b7955c5cb",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "9d2f78fa-4030-46ae-b825-62b10a0bfc9c",
+  "filetype": 71,
+  "filename": "BG_AriusCampus.jpg",
+  "name": "[BG_AriusCampus.jpg_NAME]",
+  "desc": "[BG_AriusCampus.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_AriusCampus.jpg",
+    "short_desc": ""
+  }
+}

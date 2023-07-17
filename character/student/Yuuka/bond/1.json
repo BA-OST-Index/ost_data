@@ -21,7 +21,7 @@
       "is_memory": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
-      "character": ["Yukka"]
+      "character": ["Yuuka"]
     },
     {
       "name": "[STORY_BOND_MEMORY_TITLE]",
@@ -29,7 +29,7 @@
       "is_memory": true,
       "track": ["OST_17"],
       "background": [],
-      "character": ["Yukka"]
+      "character": ["Yuuka"]
     },
     {
       "name": "优香的约定与告诫",
@@ -37,7 +37,7 @@
       "is_memory": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
-      "character": ["Yukka"]
+      "character": ["Yuuka"]
     }
   ],
   "is_memory": true

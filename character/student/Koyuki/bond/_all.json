@@ -1,8 +1,9 @@
 {
-  "uuid": "7a85ecca-ba98-407d-9b0f-fce23ece7013",
-  "filetype": -53,
-  "namespace": "koyuki",
-  "name": "Koyuki",
+  "uuid": "0b83bdcd-993b-4950-8acb-757dde947932",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

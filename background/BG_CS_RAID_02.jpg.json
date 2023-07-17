@@ -1,0 +1,13 @@
+{
+  "uuid": "864d4d62-ec74-408d-8010-41cb6a2d9837",
+  "filetype": 71,
+  "filename": "BG_CS_RAID_02.jpg",
+  "name": "[BG_CS_RAID_02.jpg_NAME]",
+  "desc": "[BG_CS_RAID_02.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CS_RAID_02.jpg",
+    "short_desc": ""
+  }
+}

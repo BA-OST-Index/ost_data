@@ -1,8 +1,9 @@
 {
-  "uuid": "97626d4b-d6f5-4410-ab2f-30be91dff508",
+  "uuid": "59fa0335-6703-497b-beb4-4c8a83d7b87b",
   "filetype": -53,
   "namespace": "kirino",
   "name": "Kirino",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "5ad9aa44-8692-47f4-8693-34dcc326b73c",
+  "filetype": 71,
+  "filename": "BG_SchoolRooftop.jpg",
+  "name": "[BG_SchoolRooftop.jpg_NAME]",
+  "desc": "[BG_SchoolRooftop.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SchoolRooftop.jpg",
+    "short_desc": ""
+  }
+}

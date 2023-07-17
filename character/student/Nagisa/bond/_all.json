@@ -1,8 +1,9 @@
 {
-  "uuid": "b3fa1182-67c8-484d-b317-1313236cfec4",
-  "filetype": -53,
-  "namespace": "nagisa",
-  "name": "Nagisa",
+  "uuid": "0baa9f30-8b36-4bde-9e6a-5881bbe20b00",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

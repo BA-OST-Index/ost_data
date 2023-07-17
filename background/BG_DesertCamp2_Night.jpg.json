@@ -1,0 +1,13 @@
+{
+  "uuid": "aec37733-ff7c-4ffb-a26c-cd30817229bb",
+  "filetype": 71,
+  "filename": "BG_DesertCamp2_Night.jpg",
+  "name": "[BG_DesertCamp2_Night.jpg_NAME]",
+  "desc": "[BG_DesertCamp2_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_DesertCamp2_Night.jpg",
+    "short_desc": ""
+  }
+}

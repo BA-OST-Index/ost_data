@@ -1,8 +1,9 @@
 {
-  "uuid": "85cf736d-571c-48bd-b6e5-d7c933190cc3",
-  "filetype": -53,
-  "namespace": "hanako",
-  "name": "Hanako",
+  "uuid": "3d20fe01-b258-47d1-bb06-e9465959a9c6",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

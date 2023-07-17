@@ -1,0 +1,13 @@
+{
+  "uuid": "0d48e9f8-67ce-4016-a0b2-f49c65762806",
+  "filetype": 71,
+  "filename": "BG_VIPLounge_Night.jpg",
+  "name": "[BG_VIPLounge_Night.jpg_NAME]",
+  "desc": "[BG_VIPLounge_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_VIPLounge_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "44f89bec-3f63-4685-a17a-d4ed4d7cb4a0",
+  "filetype": 71,
+  "filename": "BG_Bank.jpg",
+  "name": "[BG_Bank.jpg_NAME]",
+  "desc": "[BG_Bank.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Bank.jpg",
+    "short_desc": ""
+  }
+}

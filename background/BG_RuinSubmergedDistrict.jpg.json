@@ -1,0 +1,13 @@
+{
+  "uuid": "2913572a-9b2f-4664-b3c3-f9eb13671d2e",
+  "filetype": 71,
+  "filename": "BG_RuinSubmergedDistrict.jpg",
+  "name": "[BG_RuinSubmergedDistrict.jpg_NAME]",
+  "desc": "[BG_RuinSubmergedDistrict.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RuinSubmergedDistrict.jpg",
+    "short_desc": ""
+  }
+}

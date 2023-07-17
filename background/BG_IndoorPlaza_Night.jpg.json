@@ -1,0 +1,13 @@
+{
+  "uuid": "59b14111-393f-4a79-b059-2a400df7d0b8",
+  "filetype": 71,
+  "filename": "BG_IndoorPlaza_Night.jpg",
+  "name": "[BG_IndoorPlaza_Night.jpg_NAME]",
+  "desc": "[BG_IndoorPlaza_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_IndoorPlaza_Night.jpg",
+    "short_desc": ""
+  }
+}

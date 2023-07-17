@@ -1,8 +1,9 @@
 {
-  "uuid": "806f2730-57eb-4ae0-90ca-772d4bf5e1c6",
+  "uuid": "4b1b5447-2cce-47a1-8366-c3b421551a31",
   "filetype": -53,
   "namespace": "chise",
   "name": "Chise",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

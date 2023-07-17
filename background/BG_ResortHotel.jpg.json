@@ -1,0 +1,13 @@
+{
+  "uuid": "7ab6da3c-617e-415f-a894-982edf791ac3",
+  "filetype": 71,
+  "filename": "BG_ResortHotel.jpg",
+  "name": "[BG_ResortHotel.jpg_NAME]",
+  "desc": "[BG_ResortHotel.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ResortHotel.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "72228f9c-dd24-44b2-8d0b-b6fc07b4fbf0",
+  "filetype": 71,
+  "filename": "BG_ComputerCenter_Off.jpg",
+  "name": "[BG_ComputerCenter_Off.jpg_NAME]",
+  "desc": "[BG_ComputerCenter_Off.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ComputerCenter_Off.jpg",
+    "short_desc": ""
+  }
+}

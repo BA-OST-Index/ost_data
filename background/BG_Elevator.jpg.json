@@ -1,0 +1,13 @@
+{
+  "uuid": "b1356907-8280-449e-93ca-e7f7bf7c69fa",
+  "filetype": 71,
+  "filename": "BG_Elevator.jpg",
+  "name": "[BG_Elevator.jpg_NAME]",
+  "desc": "[BG_Elevator.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Elevator.jpg",
+    "short_desc": ""
+  }
+}

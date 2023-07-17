@@ -1,8 +1,9 @@
 {
-  "uuid": "66261188-3e0e-4248-a970-de4fd2bdca79",
-  "filetype": -53,
-  "namespace": "asuna",
-  "name": "Asuna",
+  "uuid": "af371b7e-f295-43ce-afb8-6b365624a38c",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "c48cd75c-1669-4c76-bfd7-09c4af50ce30",
+  "filetype": 71,
+  "filename": "BG_BuildingCorridor2_Night.jpg",
+  "name": "[BG_BuildingCorridor2_Night.jpg_NAME]",
+  "desc": "[BG_BuildingCorridor2_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BuildingCorridor2_Night.jpg",
+    "short_desc": ""
+  }
+}

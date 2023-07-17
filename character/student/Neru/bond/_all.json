@@ -1,8 +1,9 @@
 {
-  "uuid": "dc2fcd4e-d374-4c24-85ad-f6b7cc624fad",
-  "filetype": -53,
-  "namespace": "neru",
-  "name": "Neru",
+  "uuid": "c7b9ac08-3a8c-4407-9e6d-8100e2330862",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

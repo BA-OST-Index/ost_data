@@ -1,8 +1,9 @@
 {
-  "uuid": "5ad11d4c-1714-43ce-b52a-68500ba2bfde",
+  "uuid": "d5713773-1f87-4dc8-af45-ff61aabce7e3",
   "filetype": -53,
   "namespace": "cherino",
   "name": "Cherino",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

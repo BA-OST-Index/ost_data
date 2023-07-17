@@ -1,8 +1,9 @@
 {
-  "uuid": "645331fc-75a5-4e5b-b8f0-ff1e70e6d926",
-  "filetype": -53,
-  "namespace": "aru",
-  "name": "Aru",
+  "uuid": "1ed10a65-583c-4935-9db1-a98357074809",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

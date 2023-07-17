@@ -1,0 +1,13 @@
+{
+  "uuid": "c7e6305d-d378-4b7b-a1d2-57484bc97bf0",
+  "filetype": 71,
+  "filename": "BG_FireplaceDormitory_Night.jpg",
+  "name": "[BG_FireplaceDormitory_Night.jpg_NAME]",
+  "desc": "[BG_FireplaceDormitory_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_FireplaceDormitory_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "82d7110f-27db-4de4-ba68-70a4448a314d",
+  "filetype": 71,
+  "filename": "BG_View_Abydos.jpg",
+  "name": "[BG_View_Abydos.jpg_NAME]",
+  "desc": "[BG_View_Abydos.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_View_Abydos.jpg",
+    "short_desc": ""
+  }
+}

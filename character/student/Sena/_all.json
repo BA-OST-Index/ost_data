@@ -1,8 +1,9 @@
 {
-  "uuid": "40628d0f-4a7c-42e3-b5b4-c9ea03446dfa",
+  "uuid": "e29e45ca-d4a3-4409-b86e-f61f23ddc298",
   "filetype": -53,
   "namespace": "sena",
   "name": "Sena",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

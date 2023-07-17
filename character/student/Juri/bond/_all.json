@@ -1,8 +1,9 @@
 {
-  "uuid": "05ae0182-9d9e-478e-8f2d-073b937e5cf8",
-  "filetype": -53,
-  "namespace": "juri",
-  "name": "Juri",
+  "uuid": "03e76780-7a60-431b-bbf7-d7c925e7dde0",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "6466cc20-b286-4c98-8708-b9cff2611af0",
+  "uuid": "a70f0be1-2ec8-425d-a356-6c84d0be3856",
   "filetype": -53,
   "namespace": "kanna",
   "name": "Kanna",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

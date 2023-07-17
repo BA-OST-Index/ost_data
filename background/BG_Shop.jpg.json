@@ -1,0 +1,13 @@
+{
+  "uuid": "8904fe0f-62bd-4fc9-829c-ccb0a136e0fa",
+  "filetype": 71,
+  "filename": "BG_Shop.jpg",
+  "name": "[BG_Shop.jpg_NAME]",
+  "desc": "[BG_Shop.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Shop.jpg",
+    "short_desc": ""
+  }
+}

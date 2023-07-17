@@ -1,0 +1,13 @@
+{
+  "uuid": "33efbff1-46a4-4a06-b6f3-c0f5e165f9fb",
+  "filetype": 71,
+  "filename": "BG_RiversideRoad.jpg",
+  "name": "[BG_RiversideRoad.jpg_NAME]",
+  "desc": "[BG_RiversideRoad.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RiversideRoad.jpg",
+    "short_desc": ""
+  }
+}

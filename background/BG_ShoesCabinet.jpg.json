@@ -1,0 +1,13 @@
+{
+  "uuid": "200a678c-6391-431d-b59f-cae92ff09b75",
+  "filetype": 71,
+  "filename": "BG_ShoesCabinet.jpg",
+  "name": "[BG_ShoesCabinet.jpg_NAME]",
+  "desc": "[BG_ShoesCabinet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShoesCabinet.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "f8bcda69-ae5f-4974-8e18-6914538191df",
-  "filetype": -53,
-  "namespace": "kayoko_newyear",
-  "name": "Kayoko_NewYear",
+  "uuid": "fdff35ce-c62c-405d-8d3b-19f836f23d51",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

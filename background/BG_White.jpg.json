@@ -1,0 +1,13 @@
+{
+  "uuid": "9df29213-b146-4df4-8ad7-3eb77892a103",
+  "filetype": 71,
+  "filename": "BG_White.jpg",
+  "name": "[BG_White.jpg_NAME]",
+  "desc": "[BG_White.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_White.jpg",
+    "short_desc": ""
+  }
+}

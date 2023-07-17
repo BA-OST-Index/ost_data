@@ -1,0 +1,13 @@
+{
+  "uuid": "61541e25-e64c-46bf-beda-1ef9765503a0",
+  "filetype": 71,
+  "filename": "BG_DestructionFrontPublic.jpg",
+  "name": "[BG_DestructionFrontPublic.jpg_NAME]",
+  "desc": "[BG_DestructionFrontPublic.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_DestructionFrontPublic.jpg",
+    "short_desc": ""
+  }
+}

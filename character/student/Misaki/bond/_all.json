@@ -1,8 +1,9 @@
 {
-  "uuid": "dd34214c-d1df-4a6b-ac31-8dc2e13529be",
-  "filetype": -53,
-  "namespace": "misaki",
-  "name": "Misaki",
+  "uuid": "777a3217-31ab-4026-a3b2-4298930c9bf1",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "cc71bd10-a0b0-415b-b6be-d7284262e6b5",
+  "uuid": "61c7fb37-37cf-419c-96e5-0418832d1376",
   "filetype": -53,
   "namespace": "akane",
   "name": "Akane",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

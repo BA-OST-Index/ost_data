@@ -1,8 +1,9 @@
 {
-  "uuid": "5de658db-e81e-45b1-a55b-a97b78ccb30b",
+  "uuid": "7a3637c5-a315-425e-af0c-7292e53d1f10",
   "filetype": -53,
   "namespace": "saki_swimsuit",
   "name": "Saki_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

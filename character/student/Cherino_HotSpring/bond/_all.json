@@ -1,8 +1,9 @@
 {
-  "uuid": "56b502d2-240d-41a6-aaed-42f44fdadfbc",
-  "filetype": -53,
-  "namespace": "cherino_hotspring",
-  "name": "Cherino_HotSpring",
+  "uuid": "2987dc09-e842-473c-874a-24a057a536d7",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "92f2be54-416b-485f-aaa7-cdeb6084fbea",
-  "filetype": -53,
-  "namespace": "michiru",
-  "name": "Michiru",
+  "uuid": "7ed1fb7e-d548-4380-824f-7621657637fd",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

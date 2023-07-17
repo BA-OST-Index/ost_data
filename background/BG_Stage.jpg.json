@@ -1,0 +1,13 @@
+{
+  "uuid": "36360325-5f30-4073-9adc-b0ab287321ab",
+  "filetype": 71,
+  "filename": "BG_Stage.jpg",
+  "name": "[BG_Stage.jpg_NAME]",
+  "desc": "[BG_Stage.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Stage.jpg",
+    "short_desc": ""
+  }
+}

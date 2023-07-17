@@ -1,8 +1,9 @@
 {
-  "uuid": "92f2be54-416b-485f-aaa7-cdeb6084fbea",
+  "uuid": "2e520b60-61ab-480d-8401-31569f7ff5df",
   "filetype": -53,
   "namespace": "michiru",
   "name": "Michiru",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "8dac2d10-3716-41fc-a27e-dd0ceee0df35",
+  "filetype": 71,
+  "filename": "BG_UndergroundPassage_Night.jpg",
+  "name": "[BG_UndergroundPassage_Night.jpg_NAME]",
+  "desc": "[BG_UndergroundPassage_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_UndergroundPassage_Night.jpg",
+    "short_desc": ""
+  }
+}

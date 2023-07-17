@@ -1,0 +1,13 @@
+{
+  "uuid": "57f93f16-1d19-47b1-9959-f4ea5af697a7",
+  "filetype": 71,
+  "filename": "BG_TrinityCampus_Night.jpg",
+  "name": "[BG_TrinityCampus_Night.jpg_NAME]",
+  "desc": "[BG_TrinityCampus_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityCampus_Night.jpg",
+    "short_desc": ""
+  }
+}

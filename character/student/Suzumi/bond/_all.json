@@ -1,8 +1,9 @@
 {
-  "uuid": "c1059ec7-778f-4f5f-9970-9b9fe587f340",
-  "filetype": -53,
-  "namespace": "suzumi",
-  "name": "Suzumi",
+  "uuid": "ea082bd4-b62a-4121-b16c-f68a10c13f12",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

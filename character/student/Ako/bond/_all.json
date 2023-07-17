@@ -1,8 +1,9 @@
 {
-  "uuid": "b872444b-8bc9-4f59-83b5-6e0edf6ee945",
-  "filetype": -53,
-  "namespace": "ako",
-  "name": "Ako",
+  "uuid": "77d0197c-b609-48ae-aadc-8e5f01274d30",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

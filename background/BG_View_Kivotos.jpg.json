@@ -1,0 +1,13 @@
+{
+  "uuid": "ce7f36d2-52fc-4e81-9057-5475c2bc9500",
+  "filetype": 71,
+  "filename": "BG_View_Kivotos.jpg",
+  "name": "[BG_View_Kivotos.jpg_NAME]",
+  "desc": "[BG_View_Kivotos.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_View_Kivotos.jpg",
+    "short_desc": ""
+  }
+}

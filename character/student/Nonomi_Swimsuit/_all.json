@@ -1,8 +1,9 @@
 {
-  "uuid": "48deb97d-4ac0-4e16-a6d7-af5a592f13ab",
+  "uuid": "a1d3428b-6de5-453f-af2e-27d9524b94bc",
   "filetype": -53,
   "namespace": "nonomi_swimsuit",
   "name": "Nonomi_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

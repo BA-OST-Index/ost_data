@@ -1,8 +1,9 @@
 {
-  "uuid": "b924fbd1-357f-4fe7-9da8-a5d9389182be",
-  "filetype": -53,
-  "namespace": "yuuka_track",
-  "name": "Yuuka_Track",
+  "uuid": "6b8d0c68-8db4-4d2b-8621-1541fd0710a2",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

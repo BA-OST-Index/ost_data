@@ -1,0 +1,11 @@
+{
+  "uuid": "abf30c05-18bb-4ac6-9b50-1c6e903de5ff",
+  "filetype": -27,
+  "name": "",
+  "namespace": "bounty_hunt",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

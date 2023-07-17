@@ -1,0 +1,13 @@
+{
+  "uuid": "5723e6ea-867a-4135-ab1c-b588e6c15b25",
+  "filetype": 71,
+  "filename": "BG_RamenYa.jpg",
+  "name": "[BG_RamenYa.jpg_NAME]",
+  "desc": "[BG_RamenYa.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RamenYa.jpg",
+    "short_desc": ""
+  }
+}

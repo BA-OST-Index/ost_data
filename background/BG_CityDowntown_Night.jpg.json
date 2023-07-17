@@ -1,0 +1,13 @@
+{
+  "uuid": "a082f262-c933-44c2-a39b-bbf7c3861550",
+  "filetype": 71,
+  "filename": "BG_CityDowntown_Night.jpg",
+  "name": "[BG_CityDowntown_Night.jpg_NAME]",
+  "desc": "[BG_CityDowntown_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CityDowntown_Night.jpg",
+    "short_desc": ""
+  }
+}

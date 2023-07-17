@@ -1,0 +1,13 @@
+{
+  "uuid": "d3c749ba-554c-4128-849f-6ad16957d2d4",
+  "filetype": 71,
+  "filename": "BG_View_Sky.jpg",
+  "name": "[BG_View_Sky.jpg_NAME]",
+  "desc": "[BG_View_Sky.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_View_Sky.jpg",
+    "short_desc": ""
+  }
+}

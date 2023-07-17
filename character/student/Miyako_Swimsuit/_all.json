@@ -1,8 +1,9 @@
 {
-  "uuid": "4575f878-58d7-4e34-abb8-11e498a2540d",
+  "uuid": "5b7eee4a-410e-4350-8db5-3c42c3f3cee7",
   "filetype": -53,
   "namespace": "miyako_swimsuit",
   "name": "Miyako_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

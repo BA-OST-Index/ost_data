@@ -1,0 +1,13 @@
+{
+  "uuid": "015f286c-a54a-4506-a79d-2268c481970c",
+  "filetype": 71,
+  "filename": "BG_HotelLobby_Night.jpg",
+  "name": "[BG_HotelLobby_Night.jpg_NAME]",
+  "desc": "[BG_HotelLobby_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_HotelLobby_Night.jpg",
+    "short_desc": ""
+  }
+}

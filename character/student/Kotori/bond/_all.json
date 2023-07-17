@@ -1,8 +1,9 @@
 {
-  "uuid": "d87d5e2c-1664-4462-863e-d0d21624e97d",
-  "filetype": -53,
-  "namespace": "kotori",
-  "name": "Kotori",
+  "uuid": "7cd3bf6b-a989-499c-bb7e-defd3bb38481",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

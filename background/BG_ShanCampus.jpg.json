@@ -1,0 +1,13 @@
+{
+  "uuid": "be742ec2-3a53-4c2c-b4fc-832c1321043a",
+  "filetype": 71,
+  "filename": "BG_ShanCampus.jpg",
+  "name": "[BG_ShanCampus.jpg_NAME]",
+  "desc": "[BG_ShanCampus.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShanCampus.jpg",
+    "short_desc": ""
+  }
+}

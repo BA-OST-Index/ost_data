@@ -1,0 +1,13 @@
+{
+  "uuid": "55de71ae-d294-42ca-8518-005d8e7753c9",
+  "filetype": 71,
+  "filename": "BG_Lab.jpg",
+  "name": "[BG_Lab.jpg_NAME]",
+  "desc": "[BG_Lab.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Lab.jpg",
+    "short_desc": ""
+  }
+}

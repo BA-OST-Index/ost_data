@@ -1,8 +1,9 @@
 {
-  "uuid": "8146fda2-7f28-47a3-91b5-61dc599cec98",
+  "uuid": "3cdc9571-7b22-47fb-bc77-2cf6f7c97f9b",
   "filetype": -53,
   "namespace": "shiroko",
   "name": "Shiroko",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

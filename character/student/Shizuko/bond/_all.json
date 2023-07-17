@@ -1,8 +1,9 @@
 {
-  "uuid": "87ffcad9-ef1e-4776-967d-434140ca1e5d",
-  "filetype": -53,
-  "namespace": "shizuko",
-  "name": "Shizuko",
+  "uuid": "180479c8-43ff-4952-bce3-f1b9bc33ada5",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

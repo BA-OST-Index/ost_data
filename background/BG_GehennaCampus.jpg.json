@@ -1,0 +1,13 @@
+{
+  "uuid": "3340ba81-04e6-4bd3-aa56-cbcb5136b777",
+  "filetype": 71,
+  "filename": "BG_GehennaCampus.jpg",
+  "name": "[BG_GehennaCampus.jpg_NAME]",
+  "desc": "[BG_GehennaCampus.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_GehennaCampus.jpg",
+    "short_desc": ""
+  }
+}

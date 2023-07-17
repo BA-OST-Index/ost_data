@@ -1,8 +1,9 @@
 {
-  "uuid": "02ddb61d-7ea5-42e5-b058-969b1ef733f4",
-  "filetype": -53,
-  "namespace": "nodoka",
-  "name": "Nodoka",
+  "uuid": "f909e63a-155c-4e5d-8af5-49ad705c0149",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

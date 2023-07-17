@@ -1,0 +1,13 @@
+{
+  "uuid": "fa0f1fc3-9269-4509-be50-b225dc79ec76",
+  "filetype": 71,
+  "filename": "BG_AriusBasilica_Night.jpg",
+  "name": "[BG_AriusBasilica_Night.jpg_NAME]",
+  "desc": "[BG_AriusBasilica_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_AriusBasilica_Night.jpg",
+    "short_desc": ""
+  }
+}

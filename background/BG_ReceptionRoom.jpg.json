@@ -1,0 +1,13 @@
+{
+  "uuid": "36d71fa9-7f38-4e9d-bcb7-5cf10ba76097",
+  "filetype": 71,
+  "filename": "BG_ReceptionRoom.jpg",
+  "name": "[BG_ReceptionRoom.jpg_NAME]",
+  "desc": "[BG_ReceptionRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ReceptionRoom.jpg",
+    "short_desc": ""
+  }
+}

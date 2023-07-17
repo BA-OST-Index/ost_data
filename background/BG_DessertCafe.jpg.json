@@ -1,0 +1,13 @@
+{
+  "uuid": "6e1a8e67-7f1f-4e8a-a36c-37121f16a9fd",
+  "filetype": 71,
+  "filename": "BG_DessertCafe.jpg",
+  "name": "[BG_DessertCafe.jpg_NAME]",
+  "desc": "[BG_DessertCafe.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_DessertCafe.jpg",
+    "short_desc": ""
+  }
+}

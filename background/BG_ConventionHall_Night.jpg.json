@@ -1,0 +1,13 @@
+{
+  "uuid": "b48e659a-58cb-44bc-813c-4d21ccc0cb6f",
+  "filetype": 71,
+  "filename": "BG_ConventionHall_Night.jpg",
+  "name": "[BG_ConventionHall_Night.jpg_NAME]",
+  "desc": "[BG_ConventionHall_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ConventionHall_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "2e073607-e476-40ee-b5a7-f1a59057d2c4",
+  "filetype": 71,
+  "filename": "BG_DemolitionCity.jpg",
+  "name": "[BG_DemolitionCity.jpg_NAME]",
+  "desc": "[BG_DemolitionCity.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_DemolitionCity.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "3e2f49d0-797f-4db6-9b0a-8ef7cd650111",
-  "filetype": -53,
-  "namespace": "miyu_swimsuit",
-  "name": "Miyu_Swimsuit",
+  "uuid": "40a56c9a-8213-482b-8716-316a34c8f8a8",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

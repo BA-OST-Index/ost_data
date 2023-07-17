@@ -1,8 +1,9 @@
 {
-  "uuid": "3ad387ad-455c-4b1f-8b4a-5032571ed17e",
+  "uuid": "f18a29bb-e9e8-4fe2-b517-a455462f5755",
   "filetype": -53,
   "namespace": "marina",
   "name": "Marina",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

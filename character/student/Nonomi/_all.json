@@ -1,8 +1,9 @@
 {
-  "uuid": "980131cc-7ae6-483b-90c8-d4ac38aac4b5",
+  "uuid": "2259278b-b6c6-4e71-8434-b6ae143b55f5",
   "filetype": -53,
   "namespace": "nonomi",
   "name": "Nonomi",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

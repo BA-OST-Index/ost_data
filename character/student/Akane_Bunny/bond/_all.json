@@ -1,8 +1,9 @@
 {
-  "uuid": "2ef4225d-35d9-40a6-bc64-98dfab511e51",
-  "filetype": -53,
-  "namespace": "akane_bunny",
-  "name": "Akane_Bunny",
+  "uuid": "dc460bd1-e659-435a-a27e-324b550377cc",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

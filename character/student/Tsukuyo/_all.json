@@ -1,8 +1,9 @@
 {
-  "uuid": "5bd90f15-9c10-412b-a5b7-e3f71defa670",
+  "uuid": "9b551eff-d2fb-4fe2-a2b0-29adb8c71c4a",
   "filetype": -53,
   "namespace": "tsukuyo",
   "name": "Tsukuyo",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

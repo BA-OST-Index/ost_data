@@ -1,0 +1,14 @@
+{
+  "uuid": "6a1b8d37-559f-40e1-a963-6392585e19ef",
+  "filetype": 52,
+  "namespace": "momoka",
+
+  "name": "[NPC_MOMOKA_NAME]",
+  "desc": "[NPC_MOMOKA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

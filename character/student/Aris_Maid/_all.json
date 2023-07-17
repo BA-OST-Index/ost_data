@@ -1,8 +1,9 @@
 {
-  "uuid": "974a568c-b1ab-42df-98ab-817d9d8f33a5",
+  "uuid": "b1154a54-ab89-4a3c-a9a8-b9839e704547",
   "filetype": -53,
   "namespace": "aris_maid",
   "name": "Aris_Maid",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

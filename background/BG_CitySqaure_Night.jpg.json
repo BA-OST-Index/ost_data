@@ -1,0 +1,13 @@
+{
+  "uuid": "300c50d7-7302-4d7d-b0cd-ea365268dac6",
+  "filetype": 71,
+  "filename": "BG_CitySqaure_Night.jpg",
+  "name": "[BG_CitySqaure_Night.jpg_NAME]",
+  "desc": "[BG_CitySqaure_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CitySqaure_Night.jpg",
+    "short_desc": ""
+  }
+}

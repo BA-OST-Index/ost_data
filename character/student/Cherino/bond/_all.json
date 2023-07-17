@@ -1,8 +1,9 @@
 {
-  "uuid": "5ad11d4c-1714-43ce-b52a-68500ba2bfde",
-  "filetype": -53,
-  "namespace": "cherino",
-  "name": "Cherino",
+  "uuid": "a7e14a9e-faa1-4c42-abf9-de64ec2635b3",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

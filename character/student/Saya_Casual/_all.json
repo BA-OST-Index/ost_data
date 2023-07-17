@@ -1,8 +1,9 @@
 {
-  "uuid": "539b67c1-cb4d-42df-84e8-05a6f02017ac",
+  "uuid": "e1cdb246-1c9f-4661-ac26-397573822ba8",
   "filetype": -53,
   "namespace": "saya_casual",
   "name": "Saya_Casual",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

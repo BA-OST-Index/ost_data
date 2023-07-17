@@ -1,0 +1,13 @@
+{
+  "uuid": "c65204f6-33fb-4707-86a8-3d4dc5c4f972",
+  "filetype": 71,
+  "filename": "BG_SRTCampSite_Night.jpg",
+  "name": "[BG_SRTCampSite_Night.jpg_NAME]",
+  "desc": "[BG_SRTCampSite_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SRTCampSite_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "5a96fb7e-2217-49e5-bb04-c363f2a5db65",
-  "filetype": -53,
-  "namespace": "megu",
-  "name": "Megu",
+  "uuid": "dc4f5f68-45cf-4464-907b-74a7e287273a",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

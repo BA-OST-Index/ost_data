@@ -1,0 +1,13 @@
+{
+  "uuid": "93497f91-a3c7-42fd-9a79-3e55a9ca3f31",
+  "filetype": 71,
+  "filename": "BG_Amusement_Night2.jpg",
+  "name": "[BG_Amusement_Night2.jpg_NAME]",
+  "desc": "[BG_Amusement_Night2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Amusement_Night2.jpg",
+    "short_desc": ""
+  }
+}

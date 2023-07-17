@@ -1,8 +1,9 @@
 {
-  "uuid": "849e680f-e3c6-4a5a-987c-6d31ae02f6fc",
+  "uuid": "d21bf6f1-9f8b-4730-a8f1-3240011c38e1",
   "filetype": -53,
   "namespace": "sumire",
   "name": "Sumire",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

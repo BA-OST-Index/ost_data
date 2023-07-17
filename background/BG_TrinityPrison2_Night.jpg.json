@@ -1,0 +1,13 @@
+{
+  "uuid": "74cc4549-652e-474f-991b-802b8f960a26",
+  "filetype": 71,
+  "filename": "BG_TrinityPrison2_Night.jpg",
+  "name": "[BG_TrinityPrison2_Night.jpg_NAME]",
+  "desc": "[BG_TrinityPrison2_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityPrison2_Night.jpg",
+    "short_desc": ""
+  }
+}

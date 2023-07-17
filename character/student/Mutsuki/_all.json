@@ -1,8 +1,9 @@
 {
-  "uuid": "71693833-b3a2-4c0d-9a7c-a9d7c2c6e73b",
+  "uuid": "fbde10fb-c5dd-452f-a176-3077d4696c22",
   "filetype": -53,
   "namespace": "mutsuki",
   "name": "Mutsuki",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

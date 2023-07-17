@@ -1,0 +1,13 @@
+{
+  "uuid": "f43d7358-bf8f-4a38-a5cc-48e3896eb445",
+  "filetype": 71,
+  "filename": "BG_ResortLobby.jpg",
+  "name": "[BG_ResortLobby.jpg_NAME]",
+  "desc": "[BG_ResortLobby.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ResortLobby.jpg",
+    "short_desc": ""
+  }
+}

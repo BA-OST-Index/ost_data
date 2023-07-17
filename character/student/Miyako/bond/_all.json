@@ -1,8 +1,9 @@
 {
-  "uuid": "99b3941f-04ba-44ea-87fd-f7395e9a589e",
-  "filetype": -53,
-  "namespace": "miyako",
-  "name": "Miyako",
+  "uuid": "7f95a1de-0ee2-4c93-97ae-381286026511",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "3eb5c614-fdd5-424c-90f0-93b23068bfb6",
+  "filetype": 71,
+  "filename": "BG_HealthClub.jpg",
+  "name": "[BG_HealthClub.jpg_NAME]",
+  "desc": "[BG_HealthClub.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_HealthClub.jpg",
+    "short_desc": ""
+  }
+}

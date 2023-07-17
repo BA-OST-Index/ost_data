@@ -1,8 +1,9 @@
 {
-  "uuid": "69117d40-c126-4dff-abbd-a9449440dee4",
-  "filetype": -53,
-  "namespace": "kotama",
-  "name": "Kotama",
+  "uuid": "2f1c0c1a-5cc9-4b3c-9287-047c38083f39",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "17c4b9f3-7ed2-4691-b2f6-2a3015bd0457",
-  "filetype": -53,
-  "namespace": "saki",
-  "name": "Saki",
+  "uuid": "61e097f4-efaa-4af6-b2f2-abcacf11b452",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

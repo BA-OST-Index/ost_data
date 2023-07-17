@@ -1,0 +1,13 @@
+{
+  "uuid": "8c81503c-51e2-40f5-b822-016462411db4",
+  "filetype": 71,
+  "filename": "BG_RuinSchoolCorridor_Night.jpg",
+  "name": "[BG_RuinSchoolCorridor_Night.jpg_NAME]",
+  "desc": "[BG_RuinSchoolCorridor_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RuinSchoolCorridor_Night.jpg",
+    "short_desc": ""
+  }
+}

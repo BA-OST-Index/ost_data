@@ -1,0 +1,13 @@
+{
+  "uuid": "94b613d5-80f9-4a43-8a26-0f416e6c26ea",
+  "filetype": 71,
+  "filename": "BG_Dormitory2.jpg",
+  "name": "[BG_Dormitory2.jpg_NAME]",
+  "desc": "[BG_Dormitory2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Dormitory2.jpg",
+    "short_desc": ""
+  }
+}

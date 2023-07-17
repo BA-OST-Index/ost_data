@@ -1,8 +1,9 @@
 {
-  "uuid": "61c2d472-9112-4817-a6de-7f727546da82",
+  "uuid": "664bfc59-d270-4769-824d-a3929789d95c",
   "filetype": -53,
   "namespace": "hina",
   "name": "Hina",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

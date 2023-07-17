@@ -1,0 +1,13 @@
+{
+  "uuid": "19dabd72-bcd5-4f40-a12e-18eb8733c3e6",
+  "filetype": 71,
+  "filename": "BG_Arcade.jpg",
+  "name": "[BG_Arcade.jpg_NAME]",
+  "desc": "[BG_Arcade.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Arcade.jpg",
+    "short_desc": ""
+  }
+}

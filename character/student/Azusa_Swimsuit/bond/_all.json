@@ -1,8 +1,9 @@
 {
-  "uuid": "d9c2594a-0618-45d3-a77c-1ebe97c820a4",
-  "filetype": -53,
-  "namespace": "azusa_swimsuit",
-  "name": "Azusa_Swimsuit",
+  "uuid": "cb852b85-53d2-4f1b-82fc-8455bb95a8d8",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "9c0400d6-ad36-4152-8a1f-97041d744099",
-  "filetype": -53,
-  "namespace": "chinatsu",
-  "name": "Chinatsu",
+  "uuid": "5f1112c6-2747-4c76-aae6-d57ee7c2641c",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

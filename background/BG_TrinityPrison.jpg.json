@@ -1,0 +1,13 @@
+{
+  "uuid": "53c0adbd-bf56-45ca-b4cd-77ff63778a3b",
+  "filetype": 71,
+  "filename": "BG_TrinityPrison.jpg",
+  "name": "[BG_TrinityPrison.jpg_NAME]",
+  "desc": "[BG_TrinityPrison.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityPrison.jpg",
+    "short_desc": ""
+  }
+}

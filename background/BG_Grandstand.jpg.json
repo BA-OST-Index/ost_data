@@ -1,0 +1,13 @@
+{
+  "uuid": "61f6ae32-db98-4609-93c4-694d1fc25a37",
+  "filetype": 71,
+  "filename": "BG_Grandstand.jpg",
+  "name": "[BG_Grandstand.jpg_NAME]",
+  "desc": "[BG_Grandstand.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Grandstand.jpg",
+    "short_desc": ""
+  }
+}

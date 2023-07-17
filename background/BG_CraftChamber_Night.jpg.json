@@ -1,0 +1,13 @@
+{
+  "uuid": "48e09a5d-218b-464b-8216-e50ffa00f4ee",
+  "filetype": 71,
+  "filename": "BG_CraftChamber_Night.jpg",
+  "name": "[BG_CraftChamber_Night.jpg_NAME]",
+  "desc": "[BG_CraftChamber_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CraftChamber_Night.jpg",
+    "short_desc": ""
+  }
+}

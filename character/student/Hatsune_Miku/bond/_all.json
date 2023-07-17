@@ -1,8 +1,9 @@
 {
-  "uuid": "53b47414-d638-4977-85a3-20ccc00018f1",
-  "filetype": -53,
-  "namespace": "hatsune_miku",
-  "name": "Hatsune_Miku",
+  "uuid": "44e2a82f-76f6-4aad-b0fd-a8966cd7c9f4",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

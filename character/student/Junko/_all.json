@@ -1,8 +1,9 @@
 {
-  "uuid": "4fe710e0-27bc-4f1b-890d-b7c2f05ea505",
+  "uuid": "4a75d970-451b-439d-897b-19e0b36bb15a",
   "filetype": -53,
   "namespace": "junko",
   "name": "Junko",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

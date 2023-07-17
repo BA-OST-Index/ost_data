@@ -1,8 +1,9 @@
 {
-  "uuid": "7aa68894-d2bb-4e0b-a687-b665f17f976e",
+  "uuid": "bda4a3f4-422e-4756-96f7-a403409fce4a",
   "filetype": -53,
   "namespace": "iori_swimsuit",
   "name": "Iori_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "097cffb5-6a26-4464-a018-03e4a9a7f750",
+  "filetype": 71,
+  "filename": "BG_ConstructionSite_Night.jpg",
+  "name": "[BG_ConstructionSite_Night.jpg_NAME]",
+  "desc": "[BG_ConstructionSite_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ConstructionSite_Night.jpg",
+    "short_desc": ""
+  }
+}

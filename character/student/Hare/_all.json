@@ -1,8 +1,9 @@
 {
-  "uuid": "29aecbe1-6c7b-44d5-be41-b95597559f88",
+  "uuid": "dde770b9-e646-4589-a1ee-63c7c862a6c7",
   "filetype": -53,
   "namespace": "hare",
   "name": "Hare",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

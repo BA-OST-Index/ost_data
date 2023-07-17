@@ -1,0 +1,13 @@
+{
+  "uuid": "8bb12630-6816-4ebd-90b7-b7f69df17004",
+  "filetype": 71,
+  "filename": "BG_Ward.jpg",
+  "name": "[BG_Ward.jpg_NAME]",
+  "desc": "[BG_Ward.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Ward.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "6e554205-2e60-4d08-a864-45af5063355b",
+  "filetype": 71,
+  "filename": "BG_SchoolGround.jpg",
+  "name": "[BG_SchoolGround.jpg_NAME]",
+  "desc": "[BG_SchoolGround.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SchoolGround.jpg",
+    "short_desc": ""
+  }
+}

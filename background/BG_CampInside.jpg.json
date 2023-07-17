@@ -1,0 +1,13 @@
+{
+  "uuid": "f6d9a68d-3a8f-41bb-92ad-5034a23ecc57",
+  "filetype": 71,
+  "filename": "BG_CampInside.jpg",
+  "name": "[BG_CampInside.jpg_NAME]",
+  "desc": "[BG_CampInside.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CampInside.jpg",
+    "short_desc": ""
+  }
+}

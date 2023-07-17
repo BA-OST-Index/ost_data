@@ -1,0 +1,13 @@
+{
+  "uuid": "3e8db103-153d-46e8-bd30-0a5b6340863e",
+  "filetype": 71,
+  "filename": "BG_TrinityTerrace.jpg",
+  "name": "[BG_TrinityTerrace.jpg_NAME]",
+  "desc": "[BG_TrinityTerrace.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityTerrace.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "3fb98e06-a66e-4026-8630-ccf5bf887758",
+  "uuid": "2ca14917-63e6-40c2-b7dc-715107256879",
   "filetype": -53,
   "namespace": "wakamo_swimsuit",
   "name": "Wakamo_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

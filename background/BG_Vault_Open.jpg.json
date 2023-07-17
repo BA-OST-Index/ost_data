@@ -1,0 +1,13 @@
+{
+  "uuid": "91d6e158-7f41-4710-9a7f-8880a18cbf3c",
+  "filetype": 71,
+  "filename": "BG_Vault_Open.jpg",
+  "name": "[BG_Vault_Open.jpg_NAME]",
+  "desc": "[BG_Vault_Open.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Vault_Open.jpg",
+    "short_desc": ""
+  }
+}

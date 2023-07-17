@@ -1,0 +1,14 @@
+{
+  "uuid": "d5d63772-daed-499e-b301-0ed10434e0fb",
+  "filetype": 52,
+  "namespace": "arona",
+
+  "name": "[NPC_ARONA_NAME]",
+  "desc": "[NPC_ARONA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

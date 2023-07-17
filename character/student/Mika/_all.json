@@ -1,8 +1,9 @@
 {
-  "uuid": "ca2d7583-8d4e-4abc-bf61-1e5a70f4d97a",
+  "uuid": "6bf5b141-d745-48f2-ae29-b31e41294f9a",
   "filetype": -53,
   "namespace": "mika",
   "name": "Mika",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

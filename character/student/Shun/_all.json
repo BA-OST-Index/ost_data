@@ -1,8 +1,9 @@
 {
-  "uuid": "b92cce33-a4f1-4741-bf47-ee9eabc2dfa8",
+  "uuid": "5e0868af-6790-4936-9917-8397d7893d67",
   "filetype": -53,
   "namespace": "shun",
   "name": "Shun",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

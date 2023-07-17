@@ -1,8 +1,9 @@
 {
-  "uuid": "dcb53ceb-4b39-4754-a102-5d72af4c61b4",
-  "filetype": -53,
-  "namespace": "mashiro_swimsuit",
-  "name": "Mashiro_Swimsuit",
+  "uuid": "31c50ead-8b90-48c8-a688-8c45b2b68123",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

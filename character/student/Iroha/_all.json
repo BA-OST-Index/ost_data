@@ -1,8 +1,9 @@
 {
-  "uuid": "3cdaaa4a-a2e8-498f-883b-685b1a3c6894",
+  "uuid": "d6a1e046-fb00-4467-becc-785abdb6e46f",
   "filetype": -53,
   "namespace": "iroha",
   "name": "Iroha",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

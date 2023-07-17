@@ -1,0 +1,13 @@
+{
+  "uuid": "f3dccc4c-b48b-40af-b58b-d2dddef925f5",
+  "filetype": 71,
+  "filename": "BG_EriduCityTown_Night.jpg",
+  "name": "[BG_EriduCityTown_Night.jpg_NAME]",
+  "desc": "[BG_EriduCityTown_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_EriduCityTown_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "22cfe586-f5cb-4473-a80d-689cd2f711ae",
+  "filetype": 71,
+  "filename": "BG_RedWinterStreet.jpg",
+  "name": "[BG_RedWinterStreet.jpg_NAME]",
+  "desc": "[BG_RedWinterStreet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RedWinterStreet.jpg",
+    "short_desc": ""
+  }
+}

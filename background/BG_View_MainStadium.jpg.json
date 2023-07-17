@@ -1,0 +1,13 @@
+{
+  "uuid": "bea618d0-dd25-413e-a60c-14326d4d0445",
+  "filetype": 71,
+  "filename": "BG_View_MainStadium.jpg",
+  "name": "[BG_View_MainStadium.jpg_NAME]",
+  "desc": "[BG_View_MainStadium.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_View_MainStadium.jpg",
+    "short_desc": ""
+  }
+}

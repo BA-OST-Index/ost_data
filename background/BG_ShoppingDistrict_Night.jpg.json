@@ -1,0 +1,13 @@
+{
+  "uuid": "f770f798-73a6-49c8-844c-324aaa7b2eb5",
+  "filetype": 71,
+  "filename": "BG_ShoppingDistrict_Night.jpg",
+  "name": "[BG_ShoppingDistrict_Night.jpg_NAME]",
+  "desc": "[BG_ShoppingDistrict_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShoppingDistrict_Night.jpg",
+    "short_desc": ""
+  }
+}

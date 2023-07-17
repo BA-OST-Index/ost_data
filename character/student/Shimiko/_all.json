@@ -1,8 +1,9 @@
 {
-  "uuid": "478dd1aa-27a7-455f-a601-db5e2b44d0cf",
+  "uuid": "63511a91-a5c8-431b-9d58-28b610526135",
   "filetype": -53,
   "namespace": "shimiko",
   "name": "Shimiko",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

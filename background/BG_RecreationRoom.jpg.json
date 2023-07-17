@@ -1,0 +1,13 @@
+{
+  "uuid": "6286089a-438a-4d0b-9570-60293c113dbe",
+  "filetype": 71,
+  "filename": "BG_RecreationRoom.jpg",
+  "name": "[BG_RecreationRoom.jpg_NAME]",
+  "desc": "[BG_RecreationRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RecreationRoom.jpg",
+    "short_desc": ""
+  }
+}

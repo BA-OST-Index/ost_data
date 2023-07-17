@@ -1,0 +1,13 @@
+{
+  "uuid": "cec692d9-1b5a-4382-aa9d-9dbbc5928aba",
+  "filetype": 71,
+  "filename": "BG_BuildingFrontGate.jpg",
+  "name": "[BG_BuildingFrontGate.jpg_NAME]",
+  "desc": "[BG_BuildingFrontGate.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BuildingFrontGate.jpg",
+    "short_desc": ""
+  }
+}

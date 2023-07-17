@@ -1,8 +1,9 @@
 {
-  "uuid": "85cf736d-571c-48bd-b6e5-d7c933190cc3",
+  "uuid": "570a557b-4ef3-45eb-813c-4405b656daa8",
   "filetype": -53,
   "namespace": "hanako",
   "name": "Hanako",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

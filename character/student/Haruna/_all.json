@@ -1,8 +1,9 @@
 {
-  "uuid": "3f71c204-5610-4e1a-8f1a-2d2020e11d9b",
+  "uuid": "895108e2-ba52-4ce4-8a79-f1a74a290a65",
   "filetype": -53,
   "namespace": "haruna",
   "name": "Haruna",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

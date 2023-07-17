@@ -1,8 +1,9 @@
 {
-  "uuid": "6407f37f-c379-4f5f-b61f-0b0f38a079e7",
+  "uuid": "7c4d78f6-2630-4999-9b03-701d2bdcc33f",
   "filetype": -53,
   "namespace": "hinata",
   "name": "Hinata",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

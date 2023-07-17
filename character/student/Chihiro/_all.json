@@ -1,8 +1,9 @@
 {
-  "uuid": "3bb6aeef-6ac9-412c-b210-3668e5f7cce4",
+  "uuid": "3ff9cd52-c3e7-4cbf-8017-69c9c4405488",
   "filetype": -53,
   "namespace": "chihiro",
   "name": "Chihiro",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

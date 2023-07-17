@@ -1,0 +1,13 @@
+{
+  "uuid": "3db392b2-64af-413b-9ba1-a9f52e9423b1",
+  "filetype": 71,
+  "filename": "BG_ResortStreet_Night.jpg",
+  "name": "[BG_ResortStreet_Night.jpg_NAME]",
+  "desc": "[BG_ResortStreet_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ResortStreet_Night.jpg",
+    "short_desc": ""
+  }
+}

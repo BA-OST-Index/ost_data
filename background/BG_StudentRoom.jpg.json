@@ -1,0 +1,13 @@
+{
+  "uuid": "1444292e-4eef-4df0-8925-06ac77f026a4",
+  "filetype": 71,
+  "filename": "BG_StudentRoom.jpg",
+  "name": "[BG_StudentRoom.jpg_NAME]",
+  "desc": "[BG_StudentRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_StudentRoom.jpg",
+    "short_desc": ""
+  }
+}

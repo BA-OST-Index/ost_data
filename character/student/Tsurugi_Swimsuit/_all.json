@@ -1,8 +1,9 @@
 {
-  "uuid": "ab86d8a9-4fed-44ea-a6a8-ae7142bbb04f",
+  "uuid": "70940b8d-e0b8-43f2-a775-def276fbde4c",
   "filetype": -53,
   "namespace": "tsurugi_swimsuit",
   "name": "Tsurugi_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

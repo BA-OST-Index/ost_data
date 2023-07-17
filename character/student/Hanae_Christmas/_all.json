@@ -1,8 +1,9 @@
 {
-  "uuid": "b8188612-7263-4efa-b2f9-17fa711e7ff9",
+  "uuid": "161f4ecc-d921-4e21-84b7-5ac5484a8f1f",
   "filetype": -53,
   "namespace": "hanae_christmas",
   "name": "Hanae_Christmas",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

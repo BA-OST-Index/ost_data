@@ -1,8 +1,9 @@
 {
-  "uuid": "1c735b59-edaa-406e-ac15-11646333c099",
+  "uuid": "a519f224-4b3f-4d08-b8e2-22c717763d97",
   "filetype": -53,
   "namespace": "mari_track",
   "name": "Mari_Track",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

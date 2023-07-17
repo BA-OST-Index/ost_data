@@ -1,8 +1,9 @@
 {
-  "uuid": "9d44c824-e433-4456-8699-3bf6654c7f63",
+  "uuid": "a5a5aa6c-5bff-448c-8ed5-2d8dfbe78809",
   "filetype": -53,
   "namespace": "haruna_newyear",
   "name": "Haruna_NewYear",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

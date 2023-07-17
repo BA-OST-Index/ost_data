@@ -1,8 +1,9 @@
 {
-  "uuid": "5d98892e-bc58-4e15-b3b6-dfb044bc4d15",
-  "filetype": -53,
-  "namespace": "izuna_swimsuit",
-  "name": "Izuna_Swimsuit",
+  "uuid": "19274502-da2f-4ba7-84f7-c2ee35c643f4",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

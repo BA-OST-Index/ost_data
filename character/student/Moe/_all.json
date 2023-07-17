@@ -1,8 +1,9 @@
 {
-  "uuid": "4526ed14-dacd-4abf-8952-c598ec3ca6ed",
+  "uuid": "371daa52-dfc9-46ce-8212-098ae47ef457",
   "filetype": -53,
   "namespace": "moe",
   "name": "Moe",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,0 +1,13 @@
+{
+  "uuid": "f1eaff68-3157-4c84-8c80-d8e788bb77de",
+  "filetype": 71,
+  "filename": "BG_AriusCampus_FineDay.jpg",
+  "name": "[BG_AriusCampus_FineDay.jpg_NAME]",
+  "desc": "[BG_AriusCampus_FineDay.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_AriusCampus_FineDay.jpg",
+    "short_desc": ""
+  }
+}

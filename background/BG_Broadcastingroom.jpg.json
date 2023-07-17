@@ -1,0 +1,13 @@
+{
+  "uuid": "7d0f3105-2692-4f76-b1cf-ea79cb764235",
+  "filetype": 71,
+  "filename": "BG_Broadcastingroom.jpg",
+  "name": "[BG_Broadcastingroom.jpg_NAME]",
+  "desc": "[BG_Broadcastingroom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Broadcastingroom.jpg",
+    "short_desc": ""
+  }
+}

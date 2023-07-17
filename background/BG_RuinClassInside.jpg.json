@@ -1,0 +1,13 @@
+{
+  "uuid": "337d90bc-56ef-485e-b18c-7fee7bab50cd",
+  "filetype": 71,
+  "filename": "BG_RuinClassInside.jpg",
+  "name": "[BG_RuinClassInside.jpg_NAME]",
+  "desc": "[BG_RuinClassInside.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RuinClassInside.jpg",
+    "short_desc": ""
+  }
+}

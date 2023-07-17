@@ -1,0 +1,13 @@
+{
+  "uuid": "2e198741-2a5b-422d-a75c-0e3462ad9985",
+  "filetype": 71,
+  "filename": "BG_MainOffice.jpg",
+  "name": "[BG_MainOffice.jpg_NAME]",
+  "desc": "[BG_MainOffice.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_MainOffice.jpg",
+    "short_desc": ""
+  }
+}

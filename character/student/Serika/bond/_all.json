@@ -1,8 +1,9 @@
 {
-  "uuid": "f9c60db9-5fe4-4e5c-a8c7-17299e9cf6b0",
-  "filetype": -53,
-  "namespace": "serika",
-  "name": "Serika",
+  "uuid": "c9c25351-c82f-452b-9124-622cfb6c123c",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

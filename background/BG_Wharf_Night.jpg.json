@@ -1,0 +1,13 @@
+{
+  "uuid": "40a2520e-53d1-4296-89d2-3a7cde92a062",
+  "filetype": 71,
+  "filename": "BG_Wharf_Night.jpg",
+  "name": "[BG_Wharf_Night.jpg_NAME]",
+  "desc": "[BG_Wharf_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Wharf_Night.jpg",
+    "short_desc": ""
+  }
+}

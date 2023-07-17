@@ -1,8 +1,9 @@
 {
-  "uuid": "a356eb05-2d34-4caa-8cea-d06cc3b19bba",
-  "filetype": -53,
-  "namespace": "mashiro",
-  "name": "Mashiro",
+  "uuid": "e6c97fbb-708c-4dae-a91d-7d0d24764a18",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

@@ -1,8 +1,9 @@
 {
-  "uuid": "68590553-49d6-4aa7-b471-176c0c00b08e",
-  "filetype": -53,
-  "namespace": "fubuki",
-  "name": "Fubuki",
+  "uuid": "c21ca375-c197-49b2-bfe7-175477d2ddbe",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

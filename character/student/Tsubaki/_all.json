@@ -1,8 +1,9 @@
 {
-  "uuid": "328aab2d-1570-4412-9215-cf45d1039a4d",
+  "uuid": "71a4cbe3-8739-417c-90c7-3d8a67db1298",
   "filetype": -53,
   "namespace": "tsubaki",
   "name": "Tsubaki",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

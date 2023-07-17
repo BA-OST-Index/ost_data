@@ -1,0 +1,17 @@
+{
+  "uuid": "33b3bacb-7b1e-43a2-bded-19ffceede1d6",
+  "filetype": -24,
+  "name": "",
+  "namespace": "2",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "cc5ad2c8-6e63-4973-b3b8-b0c2a678aa9e",
+  "uuid": "ae7c46fa-b21c-44d1-b8ec-d94aa67d9a9c",
   "filetype": -53,
   "namespace": "miyu",
   "name": "Miyu",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

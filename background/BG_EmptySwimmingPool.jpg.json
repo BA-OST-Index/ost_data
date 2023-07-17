@@ -1,0 +1,13 @@
+{
+  "uuid": "434d944f-42bf-4a49-898f-da2ae7e3ddca",
+  "filetype": 71,
+  "filename": "BG_EmptySwimmingPool.jpg",
+  "name": "[BG_EmptySwimmingPool.jpg_NAME]",
+  "desc": "[BG_EmptySwimmingPool.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_EmptySwimmingPool.jpg",
+    "short_desc": ""
+  }
+}

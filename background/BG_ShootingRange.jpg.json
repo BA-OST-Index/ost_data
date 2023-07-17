@@ -1,0 +1,13 @@
+{
+  "uuid": "46fc3452-60da-497c-a1e6-283c02b3323e",
+  "filetype": 71,
+  "filename": "BG_ShootingRange.jpg",
+  "name": "[BG_ShootingRange.jpg_NAME]",
+  "desc": "[BG_ShootingRange.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShootingRange.jpg",
+    "short_desc": ""
+  }
+}

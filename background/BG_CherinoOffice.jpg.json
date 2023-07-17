@@ -1,0 +1,13 @@
+{
+  "uuid": "14d40bcb-9b54-4c68-9f4f-388e91b57a1e",
+  "filetype": 71,
+  "filename": "BG_CherinoOffice.jpg",
+  "name": "[BG_CherinoOffice.jpg_NAME]",
+  "desc": "[BG_CherinoOffice.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CherinoOffice.jpg",
+    "short_desc": ""
+  }
+}

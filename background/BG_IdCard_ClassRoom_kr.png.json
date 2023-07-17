@@ -1,0 +1,13 @@
+{
+  "uuid": "7c2b1311-b1d2-44c3-b028-0a6e334cbee1",
+  "filetype": 71,
+  "filename": "BG_IdCard_ClassRoom_kr.png",
+  "name": "[BG_IdCard_ClassRoom_kr.png_NAME]",
+  "desc": "[BG_IdCard_ClassRoom_kr.png_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_IdCard_ClassRoom_kr.png",
+    "short_desc": ""
+  }
+}

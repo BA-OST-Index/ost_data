@@ -1,0 +1,14 @@
+{
+  "uuid": "186a48d4-0c7c-4a64-92f5-1897843fd5a2",
+  "filetype": 52,
+  "namespace": "mastershiba",
+
+  "name": "[NPC_MASTERSHIBA_NAME]",
+  "desc": "[NPC_MASTERSHIBA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "268cff0d-9272-43de-bc87-f0a4e1f36056",
+  "filetype": -23,
+  "name": "[STORY_OTHER_NAME]",
+  "namespace": "other",
+  "desc": "[STORY_OTHER_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "2fdbfbf1-8c45-4f04-a554-9f49daaa43b0",
-  "filetype": -53,
-  "namespace": "momoi",
-  "name": "Momoi",
+  "uuid": "4c96c8bf-4e83-4ee8-b0e1-c79f24f88eb2",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

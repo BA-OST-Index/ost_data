@@ -1,8 +1,9 @@
 {
-  "uuid": "90b1abb4-1d1e-4572-b777-cc4beff2f818",
+  "uuid": "537b5ca2-1895-4700-b25f-e5e158dc9e36",
   "filetype": -53,
   "namespace": "natsu",
   "name": "Natsu",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

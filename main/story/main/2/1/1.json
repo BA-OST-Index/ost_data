@@ -38,7 +38,7 @@
       "is_battle": false,
       "track": ["OST_2"],
       "background": ["BG_MainOffice.jpg"],
-      "character": ["Arona"]
+      "character": []
     },
     {
       "name": "游戏开发部",

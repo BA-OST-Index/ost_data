@@ -1,0 +1,13 @@
+{
+  "uuid": "49d83c4f-0614-4972-94ca-ce621bf2432f",
+  "filetype": 71,
+  "filename": "BG_IndoorPlayGround_Night.jpg",
+  "name": "[BG_IndoorPlayGround_Night.jpg_NAME]",
+  "desc": "[BG_IndoorPlayGround_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_IndoorPlayGround_Night.jpg",
+    "short_desc": ""
+  }
+}

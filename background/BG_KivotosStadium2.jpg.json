@@ -1,0 +1,13 @@
+{
+  "uuid": "a1428100-e3ce-4bfc-99c2-e8de861d4512",
+  "filetype": 71,
+  "filename": "BG_KivotosStadium2.jpg",
+  "name": "[BG_KivotosStadium2.jpg_NAME]",
+  "desc": "[BG_KivotosStadium2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_KivotosStadium2.jpg",
+    "short_desc": ""
+  }
+}

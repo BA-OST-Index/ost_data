@@ -1,0 +1,13 @@
+{
+  "uuid": "ce9b909b-5315-427d-a500-690ba74635a2",
+  "filetype": 71,
+  "filename": "BG_Hangar2.jpg",
+  "name": "[BG_Hangar2.jpg_NAME]",
+  "desc": "[BG_Hangar2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Hangar2.jpg",
+    "short_desc": ""
+  }
+}

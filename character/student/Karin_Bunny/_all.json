@@ -1,8 +1,9 @@
 {
-  "uuid": "c0297701-ab43-4c4e-a5b1-d1af33614675",
+  "uuid": "4264fbb7-1082-4ec7-9bca-98d1e0f4bfa7",
   "filetype": -53,
   "namespace": "karin_bunny",
   "name": "Karin_Bunny",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

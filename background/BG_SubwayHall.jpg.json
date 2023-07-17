@@ -1,0 +1,13 @@
+{
+  "uuid": "baba3a43-0e18-497b-9626-caea256bfb7a",
+  "filetype": 71,
+  "filename": "BG_SubwayHall.jpg",
+  "name": "[BG_SubwayHall.jpg_NAME]",
+  "desc": "[BG_SubwayHall.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SubwayHall.jpg",
+    "short_desc": ""
+  }
+}

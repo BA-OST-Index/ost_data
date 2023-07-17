@@ -1,0 +1,13 @@
+{
+  "uuid": "9f1170f2-027f-4a10-be97-d3e5292fb742",
+  "filetype": 71,
+  "filename": "BG_RestingLounge.jpg",
+  "name": "[BG_RestingLounge.jpg_NAME]",
+  "desc": "[BG_RestingLounge.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_RestingLounge.jpg",
+    "short_desc": ""
+  }
+}

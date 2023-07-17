@@ -1,8 +1,9 @@
 {
-  "uuid": "3926f22e-f02f-4388-b605-33dc563d7ffd",
-  "filetype": -53,
-  "namespace": "nodoka_hotspring",
-  "name": "Nodoka_HotSpring",
+  "uuid": "09f39bf5-11d6-4e4c-97f3-71ee8e195c01",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

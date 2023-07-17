@@ -1,0 +1,13 @@
+{
+  "uuid": "36d00237-68ae-4b04-affa-9a7734f02baf",
+  "filetype": 71,
+  "filename": "BG_ShanStreet.jpg",
+  "name": "[BG_ShanStreet.jpg_NAME]",
+  "desc": "[BG_ShanStreet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShanStreet.jpg",
+    "short_desc": ""
+  }
+}

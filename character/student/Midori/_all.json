@@ -1,8 +1,9 @@
 {
-  "uuid": "f58afdcc-cfe1-4708-bb24-faeb09d1ea62",
+  "uuid": "228c4b2e-7dda-4bc1-9e32-1044c2f6e80c",
   "filetype": -53,
   "namespace": "midori",
   "name": "Midori",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

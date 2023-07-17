@@ -1,0 +1,11 @@
+{
+  "uuid": "a2f8e904-eed6-4584-b297-97898878c6ed",
+  "filetype": -22,
+  "name": "",
+  "namespace": "story",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

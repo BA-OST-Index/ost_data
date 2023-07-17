@@ -1,8 +1,9 @@
 {
-  "uuid": "17c4b9f3-7ed2-4691-b2f6-2a3015bd0457",
+  "uuid": "f418125b-ff7f-449b-97bc-76f31dde84ba",
   "filetype": -53,
   "namespace": "saki",
   "name": "Saki",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

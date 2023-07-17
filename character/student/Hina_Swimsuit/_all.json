@@ -1,8 +1,9 @@
 {
-  "uuid": "59a16ccb-5c1b-4d98-9c37-2bf4940ad1df",
+  "uuid": "3a3ad330-f29e-4307-a5ca-f2b44ceb9423",
   "filetype": -53,
   "namespace": "hina_swimsuit",
   "name": "Hina_Swimsuit",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

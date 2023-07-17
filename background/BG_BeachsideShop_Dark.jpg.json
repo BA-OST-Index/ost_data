@@ -1,0 +1,13 @@
+{
+  "uuid": "c55b373d-9426-41c3-a3fb-f0a3b3c36da3",
+  "filetype": 71,
+  "filename": "BG_BeachsideShop_Dark.jpg",
+  "name": "[BG_BeachsideShop_Dark.jpg_NAME]",
+  "desc": "[BG_BeachsideShop_Dark.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_BeachsideShop_Dark.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "b4533e4f-aeeb-4962-bac7-b8673e2c2633",
+  "filetype": -27,
+  "name": "",
+  "namespace": "total_assault",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

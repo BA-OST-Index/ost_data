@@ -1,8 +1,9 @@
 {
-  "uuid": "a7f1c4e7-6735-44a8-87c0-7aae841c27ca",
+  "uuid": "a0715d56-827e-4fb3-b8c9-88268e7fdc31",
   "filetype": -53,
   "namespace": "saori",
   "name": "Saori",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

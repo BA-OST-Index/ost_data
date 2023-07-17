@@ -1,8 +1,9 @@
 {
-  "uuid": "6c70ee9f-0c69-4f9e-89bd-9e1d76f801e8",
-  "filetype": -53,
-  "namespace": "airi",
-  "name": "Airi",
+  "uuid": "cd724297-447f-4fc0-9e6d-ffb7ad81758e",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

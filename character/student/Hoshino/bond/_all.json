@@ -1,8 +1,9 @@
 {
-  "uuid": "67230a6e-55b9-4f73-afcd-044f1fe78845",
-  "filetype": -53,
-  "namespace": "hoshino",
-  "name": "Hoshino",
+  "uuid": "26f1c3e7-9186-448b-80d9-32e519a5fc74",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

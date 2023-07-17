@@ -1,0 +1,13 @@
+{
+  "uuid": "b093320e-c7ce-42aa-8c28-08d618930706",
+  "filetype": 71,
+  "filename": "BG_MilleniumCampus.jpg",
+  "name": "[BG_MilleniumCampus.jpg_NAME]",
+  "desc": "[BG_MilleniumCampus.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_MilleniumCampus.jpg",
+    "short_desc": ""
+  }
+}

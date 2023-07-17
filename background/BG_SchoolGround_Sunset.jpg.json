@@ -1,0 +1,13 @@
+{
+  "uuid": "2f8c00ea-f89c-4006-ab71-d615a81b09a7",
+  "filetype": 71,
+  "filename": "BG_SchoolGround_Sunset.jpg",
+  "name": "[BG_SchoolGround_Sunset.jpg_NAME]",
+  "desc": "[BG_SchoolGround_Sunset.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_SchoolGround_Sunset.jpg",
+    "short_desc": ""
+  }
+}

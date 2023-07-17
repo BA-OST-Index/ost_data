@@ -1,0 +1,13 @@
+{
+  "uuid": "02e8e827-b2f0-4d6a-bea7-df98b951b0f7",
+  "filetype": 71,
+  "filename": "BG_ConventionHall3_Sunset.jpg",
+  "name": "[BG_ConventionHall3_Sunset.jpg_NAME]",
+  "desc": "[BG_ConventionHall3_Sunset.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ConventionHall3_Sunset.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,8 +1,9 @@
 {
-  "uuid": "e25975d4-1277-46e7-a2b4-7c032581f8b5",
-  "filetype": -53,
-  "namespace": "hifumi",
-  "name": "Hifumi",
+  "uuid": "9c553df1-caa7-442d-9159-599fe1ab540b",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

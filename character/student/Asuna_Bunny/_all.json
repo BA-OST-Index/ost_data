@@ -1,8 +1,9 @@
 {
-  "uuid": "7414bad8-940e-4999-ad27-475c2fa5395e",
+  "uuid": "fc1a085c-5264-46a3-a070-7f4ae66eb113",
   "filetype": -53,
   "namespace": "asuna_bunny",
   "name": "Asuna_Bunny",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

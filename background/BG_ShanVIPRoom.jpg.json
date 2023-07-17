@@ -1,0 +1,13 @@
+{
+  "uuid": "15d87199-07ae-48dc-9d7c-02013b3640a8",
+  "filetype": 71,
+  "filename": "BG_ShanVIPRoom.jpg",
+  "name": "[BG_ShanVIPRoom.jpg_NAME]",
+  "desc": "[BG_ShanVIPRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_ShanVIPRoom.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "66f59876-67f3-4eb1-84c5-fba1e778a205",
+  "filetype": 71,
+  "filename": "BG_TrinityClubRoom_Night2.jpg",
+  "name": "[BG_TrinityClubRoom_Night2.jpg_NAME]",
+  "desc": "[BG_TrinityClubRoom_Night2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_TrinityClubRoom_Night2.jpg",
+    "short_desc": ""
+  }
+}

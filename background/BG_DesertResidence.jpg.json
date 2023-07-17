@@ -1,0 +1,13 @@
+{
+  "uuid": "10d3bdf6-beeb-448e-ad96-5b2e36ddf1d1",
+  "filetype": 71,
+  "filename": "BG_DesertResidence.jpg",
+  "name": "[BG_DesertResidence.jpg_NAME]",
+  "desc": "[BG_DesertResidence.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_DesertResidence.jpg",
+    "short_desc": ""
+  }
+}

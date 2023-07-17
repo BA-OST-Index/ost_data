@@ -1,8 +1,9 @@
 {
-  "uuid": "c1897661-a92f-44df-ab5f-16de183f2761",
-  "filetype": -53,
-  "namespace": "mimori",
-  "name": "Mimori",
+  "uuid": "9d623e91-8c6c-4afb-a191-36d7cb41c9a8",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

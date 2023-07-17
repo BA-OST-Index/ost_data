@@ -1,8 +1,9 @@
 {
-  "uuid": "d3ecfcdc-ee0e-4e05-9878-73a4711440c7",
-  "filetype": -53,
-  "namespace": "hiyori",
-  "name": "Hiyori",
+  "uuid": "02418579-5170-4ae5-bc4a-30e29ff1f428",
+  "filetype": -54,
+  "name": "",
+  "namespace": "bond",
+  "desc": "",
   "include": [
     "[AUTO]"
   ]

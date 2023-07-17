@@ -1,0 +1,13 @@
+{
+  "uuid": "02940ea0-af3b-4049-b100-e40e01b41a60",
+  "filetype": 71,
+  "filename": "BG_CruiseRooftop.jpg",
+  "name": "[BG_CruiseRooftop.jpg_NAME]",
+  "desc": "[BG_CruiseRooftop.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_CruiseRooftop.jpg",
+    "short_desc": ""
+  }
+}

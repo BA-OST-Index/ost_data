@@ -1,0 +1,13 @@
+{
+  "uuid": "983f3b64-d967-4898-bb0b-1e246ff6383e",
+  "filetype": 71,
+  "filename": "BG_Onsen.jpg",
+  "name": "[BG_Onsen.jpg_NAME]",
+  "desc": "[BG_Onsen.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/image/background/BG_Onsen.jpg",
+    "short_desc": ""
+  }
+}
