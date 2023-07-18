@@ -1,0 +1,17 @@
+{
+  "uuid": "f31047d6-1f6f-4084-a786-b886ca6cb64b",
+  "filetype": -45,
+  "name": "",
+  "namespace": "ui",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

@@ -1,6 +1,18 @@
 {
   "filetype": 0,
   "file_id": "composer",
+  "0": {
+    "realname": "Unknown",
+    "nickname": "Unknown",
+    "contact": {
+      "platform": -1,
+      "url": {
+        "platform": -1,
+        "value": "",
+        "short_desc": ""
+      }
+    }
+  },
   "1": {
     "realname": "",
     "nickname": "Mitsukiyo",

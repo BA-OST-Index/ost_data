@@ -1,0 +1,14 @@
+{
+  "uuid": "cf5b0087-5b4d-41cc-b007-db4468ac2fac",
+  "filetype": 52,
+  "namespace": "mai",
+
+  "name": "[NPC_MAI_NAME]",
+  "desc": "[NPC_MAI_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

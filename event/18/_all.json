@@ -1,0 +1,17 @@
+{
+  "uuid": "ca748230-a66c-4226-b7d7-934b2fde8cf4",
+  "filetype": -42,
+  "name": "",
+  "namespace": "18",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

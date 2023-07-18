@@ -1,0 +1,44 @@
+{
+  "uuid": "34b2fcc3-45f3-4fa9-8961-600173c050e0",
+  "filetype": 14,
+
+  "name": "[STORY_EVENT_18_1_NAME]",
+  "desc": "[STORY_EVENT_18_1_DESC]",
+  "pos": {
+    "event_id": 18,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "开幕式",
+      "desc": "来自克洛里斯新闻部的两位学生为正在观看直播的观众介绍了此次由千年科学学院主办的“晄轮大祭”运动会。在报道中，两人重点提到了夏莱的老师参与了大运动会的比赛安排",
+      "is_battle": false,
+      "track": ["OST_107"],
+      "background": ["BG_Broadcastingroom_Off.jpg", "BG_CS_PV3_60.jpg", "BG_CS_PV3_55.jpg", "BG_CS_PV3_57.jpg"],
+      "character": ["Mai", "Shinon"]
+    },
+    {
+      "name": "选手宣誓",
+      "desc": "阿拜多斯高中的“奥空绫音”与三一综合学院的“浦和花子”两位学生共同发表了选手宣誓。在宣誓过程中，花子突然就开了黄腔，直播信号随即被切断。",
+      "is_battle": false,
+      "track": ["OST_107", "OST_7"],
+      "background": ["BG_KivotosStadium.jpg"],
+      "character": ["Ayane", "Hanako"]
+    },
+    {
+      "name": "收到信件",
+      "desc": "画面转回到演播室，麻衣和诗音两人虽对花子的言论感到震惊，但仍然还是想取得独家报道的机会，不过并未如愿。",
+      "is_battle": false,
+      "track": ["OST_130"],
+      "background": ["BG_Broadcastingroom_Off.jpg"],
+      "character": ["Mai", "Shinon"]
+    }
+  ],
+  "is_battle": false
+}

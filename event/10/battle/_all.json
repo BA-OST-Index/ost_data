@@ -1,0 +1,17 @@
+{
+  "uuid": "76ac01e4-5322-419b-a4b6-e911a960f412",
+  "filetype": -44,
+  "name": "",
+  "namespace": "battle",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

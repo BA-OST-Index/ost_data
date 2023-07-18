@@ -1,0 +1,17 @@
+{
+  "uuid": "88ad353d-bfb2-4309-ab51-c27c50b193ca",
+  "filetype": -43,
+  "name": "",
+  "namespace": "story",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

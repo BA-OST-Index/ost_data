@@ -1,0 +1,11 @@
+{
+  "uuid": "9c328e6d-b568-4789-b808-1634b44e8f01",
+  "filetype": -41,
+  "name": "",
+  "namespace": "event",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}
