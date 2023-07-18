@@ -1,0 +1,56 @@
+{
+  "uuid": "8cc2b723-28f4-48c4-ad1f-63045b410229",
+
+  "name":{
+    "realname": "[OST_71_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_71_DESC]",
+
+  "release_date": 1612675716,
+  "no": 71,
+  "track_type": 0,
+  "duration": 115,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 2
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=RM5h6JAtyTs",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "special_case": {
+    "is_ost": true,
+    "is_bond_memory": false,
+    "is_story": true,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": []
+}

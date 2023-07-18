@@ -1,0 +1,26 @@
+{
+  "uuid":"472119d3-d630-4825-b6e8-a5f041235702",
+  "filetype": 41,
+  "name": "[VIDEO_1_NAME]",
+  "desc": "[VIDEO_1_DESC]",
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.bilibili.com/video/BV1DM4y1J79H/",
+          "platform": 2,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[VIDEO_VERSION_OFFICIAL]",
+      "is_main": true
+    }
+  ],
+  "track": ["OST_45"]
+}

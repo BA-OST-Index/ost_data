@@ -1,0 +1,56 @@
+{
+  "uuid": "caea1ff0-ac6f-4860-a198-b1832ba74552",
+
+  "name":{
+    "realname": "[OST_45_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_45_DESC]",
+
+  "release_date": 1612671944,
+  "no": 45,
+  "track_type": 0,
+  "duration": 142,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 3
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=TvTeVmFhpjw",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "special_case": {
+    "is_ost": true,
+    "is_bond_memory": false,
+    "is_story": true,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": []
+}

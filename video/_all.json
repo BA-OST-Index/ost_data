@@ -1,0 +1,11 @@
+{
+  "uuid": "67a1123b-ee78-449c-94f9-b4e1df32003f",
+  "filetype": -71,
+  "name": "",
+  "namespace": "video",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}
