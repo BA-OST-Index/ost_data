@@ -17,24 +17,24 @@
 
   "part": [
     {
-      "name": "讨论作战计划",
-      "desc": "回到学校后，众人向老师道谢，却不小心说出了还债一事。茜香表示对老师不太信任，因而不太愿意讨论这个话题，选择离开，日步美跟随前往。",
+      "name": "[STORY_MAIN_1_1_4_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_4_P1_DESC]",
       "is_battle": false,
       "track": ["OST_10", "OST_2"],
       "background": ["BG_CommitteeRoom.jpg"],
       "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
     },
     {
-      "name": "债务",
-      "desc": "从星野和绫音口中，老师获知了阿拜多斯欠下9亿6235万元债务的事情，并且得知阿拜多斯地区经常发生沙尘暴，学校虽投入大量资金却仍无法逆转伤害；而由于又没有银行愿意为他们贷款，他们不得不转向高利贷公司，然而沙漠化越来越严重，债务也就水涨船高，导致很多学生离开。",
+      "name": "[STORY_MAIN_1_1_4_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_4_P2_DESC]",
       "is_battle": false,
       "track": ["OST_9"],
       "background": ["BG_CommitteeRoom.jpg", "BG_DesertResidence.jpg", "BG_CityOffice.jpg"],
       "character": ["Shiroko", "Ayane", "Hoshino"]
     },
     {
-      "name": "出走的茜香",
-      "desc": "茜香离开了学校，日步美继续跟随。",
+      "name": "[STORY_MAIN_1_1_4_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_4_P3_DESC]",
       "is_battle": false,
       "track": ["OST_9"],
       "background": ["BG_ClassCorridor.jpg"],

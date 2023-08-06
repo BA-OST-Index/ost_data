@@ -1,5 +1,5 @@
 {
-  "uuid": "562535e9-1b9b-447b-9cb2-e0516a7d8621",
+  "uuid": "46761bd2-5e5b-4fc2-b4b8-39884d4ad6ac",
   "filetype": 71,
   "filename": "BG_TrinityStreet.jpg",
   "name": "[BG_TrinityStreet.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityStreet.jpg",
+    "value": "/static/images/background/BG_TrinityStreet.jpg",
     "short_desc": ""
   }
 }

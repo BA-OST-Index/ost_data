@@ -1,5 +1,5 @@
 {
-  "uuid": "fb04c55b-f2ef-410d-b309-3fe062c0bf42",
+  "uuid": "a79c038e-c2d9-4103-af9b-7e629b9eaa41",
   "filetype": 71,
   "filename": "BG_CS_Trinity_17.jpg",
   "name": "[BG_CS_Trinity_17.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Trinity_17.jpg",
+    "value": "/static/images/background/BG_CS_Trinity_17.jpg",
     "short_desc": ""
   }
 }

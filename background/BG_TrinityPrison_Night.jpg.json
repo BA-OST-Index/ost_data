@@ -1,5 +1,5 @@
 {
-  "uuid": "92c08da1-37c7-4eeb-a89c-d3852d908d5a",
+  "uuid": "8b567819-0a59-4a84-a172-19fb68b09134",
   "filetype": 71,
   "filename": "BG_TrinityPrison_Night.jpg",
   "name": "[BG_TrinityPrison_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityPrison_Night.jpg",
+    "value": "/static/images/background/BG_TrinityPrison_Night.jpg",
     "short_desc": ""
   }
 }

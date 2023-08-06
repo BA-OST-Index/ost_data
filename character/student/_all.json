@@ -1,9 +1,9 @@
 {
   "uuid": "5f88f79d-004e-42f1-a26a-d0bac8cc81bb",
   "filetype": -52,
-  "name": "",
+  "name": "[CHAR_STU_NAME]",
   "namespace": "student",
-  "desc": "",
+  "desc": "[CHAR_STU_DESC]",
 
   "include": [
     "[AUTO]"

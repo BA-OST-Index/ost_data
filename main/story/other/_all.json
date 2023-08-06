@@ -13,5 +13,11 @@
     "enable": true,
     "extra_data": {},
     "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
   }
 }

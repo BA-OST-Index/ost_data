@@ -1,0 +1,13 @@
+{
+  "uuid": "22b1fb95-1dff-4646-a85a-865819b32821",
+  "filetype": 71,
+  "filename": "BG_VehiclePowerRoom.jpg",
+  "name": "[BG_VehiclePowerRoom.jpg_NAME]",
+  "desc": "[BG_VehiclePowerRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_VehiclePowerRoom.jpg",
+    "short_desc": ""
+  }
+}

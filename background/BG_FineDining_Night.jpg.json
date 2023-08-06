@@ -1,5 +1,5 @@
 {
-  "uuid": "e65fd992-fb2c-46e1-a0f4-1fd41a863cd3",
+  "uuid": "e4591b63-4667-4b3b-9c13-8171f3874009",
   "filetype": 71,
   "filename": "BG_FineDining_Night.jpg",
   "name": "[BG_FineDining_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_FineDining_Night.jpg",
+    "value": "/static/images/background/BG_FineDining_Night.jpg",
     "short_desc": ""
   }
 }

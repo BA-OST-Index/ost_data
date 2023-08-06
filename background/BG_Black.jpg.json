@@ -1,5 +1,5 @@
 {
-  "uuid": "e5c68eaa-64db-45f2-8f7b-ab62c7babc39",
+  "uuid": "585a7a1d-ff0c-4854-b69c-3d3ec0782ee5",
   "filetype": 71,
   "filename": "BG_Black.jpg",
   "name": "[BG_Black.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Black.jpg",
+    "value": "/static/images/background/BG_Black.jpg",
     "short_desc": ""
   }
 }

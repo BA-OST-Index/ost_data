@@ -1,5 +1,5 @@
 {
-  "uuid": "4bd2825b-8369-4c08-972e-c379a3510752",
+  "uuid": "5df160ca-4971-4c89-9179-79ed2807ff26",
   "filetype": 71,
   "filename": "BG_Elevator_Night.jpg",
   "name": "[BG_Elevator_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Elevator_Night.jpg",
+    "value": "/static/images/background/BG_Elevator_Night.jpg",
     "short_desc": ""
   }
 }

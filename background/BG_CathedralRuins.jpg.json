@@ -1,5 +1,5 @@
 {
-  "uuid": "f1c26f5f-393d-427b-9b29-d73309d72d7c",
+  "uuid": "7bd3b4bb-e2f2-4aa0-aeed-446bf1768d4f",
   "filetype": 71,
   "filename": "BG_CathedralRuins.jpg",
   "name": "[BG_CathedralRuins.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CathedralRuins.jpg",
+    "value": "/static/images/background/BG_CathedralRuins.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "b0ed547a-8494-4be9-add1-184ad344b606",
+  "uuid": "5076e083-93be-43ed-bb13-2f075b1c4beb",
   "filetype": 71,
   "filename": "BG_AbandonedCorridor_Night.jpg",
   "name": "[BG_AbandonedCorridor_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AbandonedCorridor_Night.jpg",
+    "value": "/static/images/background/BG_AbandonedCorridor_Night.jpg",
     "short_desc": ""
   }
 }

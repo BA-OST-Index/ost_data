@@ -1,5 +1,5 @@
 {
-  "uuid": "5e798d71-647b-4083-bcf0-598f8ed303a2",
+  "uuid": "fa580821-5fae-48af-9967-d7553ef84176",
   "filetype": 71,
   "filename": "BG_BeachFrontSide_Night.jpg",
   "name": "[BG_BeachFrontSide_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BeachFrontSide_Night.jpg",
+    "value": "/static/images/background/BG_BeachFrontSide_Night.jpg",
     "short_desc": ""
   }
 }

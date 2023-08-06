@@ -1,5 +1,5 @@
 {
-  "uuid": "b24791f3-610e-467c-9571-90fc697787ed",
+  "uuid": "c1d424ca-9501-4e75-9958-ffa7c7a93246",
   "filetype": 71,
   "filename": "BG_Market_Night.jpg",
   "name": "[BG_Market_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Market_Night.jpg",
+    "value": "/static/images/background/BG_Market_Night.jpg",
     "short_desc": ""
   }
 }

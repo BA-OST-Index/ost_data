@@ -1,5 +1,5 @@
 {
-  "uuid": "aae6b5cf-b648-4d07-8b85-bb4726fdf993",
+  "uuid": "3b0d0cb9-0d69-4730-acb4-93f75e3cf8dc",
   "filetype": 71,
   "filename": "BG_BuildingCorridor.jpg",
   "name": "[BG_BuildingCorridor.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BuildingCorridor.jpg",
+    "value": "/static/images/background/BG_BuildingCorridor.jpg",
     "short_desc": ""
   }
 }

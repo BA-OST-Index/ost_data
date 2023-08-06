@@ -1,9 +1,9 @@
 {
   "uuid": "bd4457bb-1c23-44f7-81ea-a0b30a6bdc19",
   "filetype": -12,
-  "name": "",
+  "name": "[TRACK_OST_NAME]",
   "namespace": "ost",
-  "desc": "",
+  "desc": "[TRACK_OST_DESC]",
 
   "include": [
     "[AUTO]"

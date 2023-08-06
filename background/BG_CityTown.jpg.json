@@ -1,5 +1,5 @@
 {
-  "uuid": "dd72763e-1b53-42e8-9794-feba852962fc",
+  "uuid": "51d8294c-5637-466e-8791-d69b1efafbff",
   "filetype": 71,
   "filename": "BG_CityTown.jpg",
   "name": "[BG_CityTown.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CityTown.jpg",
+    "value": "/static/images/background/BG_CityTown.jpg",
     "short_desc": ""
   }
 }

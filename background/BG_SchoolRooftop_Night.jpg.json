@@ -1,5 +1,5 @@
 {
-  "uuid": "66458b1d-cc4b-4a1c-a9ae-cd084aa5b9bb",
+  "uuid": "56b6e0db-0549-4225-9d39-66c8c1399e37",
   "filetype": 71,
   "filename": "BG_SchoolRooftop_Night.jpg",
   "name": "[BG_SchoolRooftop_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SchoolRooftop_Night.jpg",
+    "value": "/static/images/background/BG_SchoolRooftop_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,16 +1,13 @@
 {
-  "uuid": "b2d971bf-26fc-4236-a62c-14a5fa917d22",
+  "uuid": "dac11c82-154a-410b-bf20-35c492533330",
   "filetype": 71,
   "filename": "BG_UpperOffice.jpg",
-
   "name": "[BG_UpperOffice.jpg_NAME]",
   "desc": "[BG_UpperOffice.jpg_DESC]",
-
   "tag": [],
-
   "image": {
     "platform": -1,
-    "value": "",
+    "value": "/static/images/background/BG_UpperOffice.jpg",
     "short_desc": ""
   }
 }

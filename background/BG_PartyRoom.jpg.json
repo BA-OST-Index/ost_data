@@ -1,5 +1,5 @@
 {
-  "uuid": "7cd20407-fbf5-4441-ac6c-8d8bffe404bd",
+  "uuid": "5a241eaa-cac0-4fb1-b78e-9744d27c9418",
   "filetype": 71,
   "filename": "BG_PartyRoom.jpg",
   "name": "[BG_PartyRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_PartyRoom.jpg",
+    "value": "/static/images/background/BG_PartyRoom.jpg",
     "short_desc": ""
   }
 }

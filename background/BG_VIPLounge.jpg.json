@@ -1,5 +1,5 @@
 {
-  "uuid": "73329f34-00bc-4ab9-a6cd-fd9f0742cc32",
+  "uuid": "a3d2f9a4-350e-4284-9e2e-43c923ccd55d",
   "filetype": 71,
   "filename": "BG_VIPLounge.jpg",
   "name": "[BG_VIPLounge.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_VIPLounge.jpg",
+    "value": "/static/images/background/BG_VIPLounge.jpg",
     "short_desc": ""
   }
 }

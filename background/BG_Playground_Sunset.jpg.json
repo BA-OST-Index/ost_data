@@ -1,5 +1,5 @@
 {
-  "uuid": "5f56cfc2-6c2c-4eaf-978c-8ca373260094",
+  "uuid": "ab83c8d3-dfba-4bc3-b2ed-d4dbaec9bcab",
   "filetype": 71,
   "filename": "BG_Playground_Sunset.jpg",
   "name": "[BG_Playground_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Playground_Sunset.jpg",
+    "value": "/static/images/background/BG_Playground_Sunset.jpg",
     "short_desc": ""
   }
 }

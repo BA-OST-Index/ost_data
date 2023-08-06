@@ -1,5 +1,5 @@
 {
-  "uuid": "dba1112c-5124-4373-b830-6a96f39b5772",
+  "uuid": "58500ade-32d3-416f-aa19-cd24432131c9",
   "filetype": 71,
   "filename": "BG_ModernCafe.jpg",
   "name": "[BG_ModernCafe.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ModernCafe.jpg",
+    "value": "/static/images/background/BG_ModernCafe.jpg",
     "short_desc": ""
   }
 }

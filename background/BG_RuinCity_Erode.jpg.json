@@ -1,0 +1,13 @@
+{
+  "uuid": "4b7d7bff-0de8-4ee9-a980-c9d1041d16c6",
+  "filetype": 71,
+  "filename": "BG_RuinCity_Erode.jpg",
+  "name": "[BG_RuinCity_Erode.jpg_NAME]",
+  "desc": "[BG_RuinCity_Erode.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_RuinCity_Erode.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,9 +1,9 @@
 {
   "uuid": "eb90951b-dffb-4ff7-8578-e94b5c216d6c",
   "filetype": -61,
-  "name": "",
+  "name": "[UI_ALL_NAME]",
   "namespace": "ui",
-  "desc": "",
+  "desc": "[UI_ALL_DESC]",
 
   "include": [
     "[AUTO]"

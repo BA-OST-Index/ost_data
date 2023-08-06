@@ -1,5 +1,5 @@
 {
-  "uuid": "32157f68-2378-4f50-a71e-bae70e6ef533",
+  "uuid": "1e05e349-da35-4372-960e-afa2b339c734",
   "filetype": 71,
   "filename": "BG_GehennaClubRoom_Night.jpg",
   "name": "[BG_GehennaClubRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_GehennaClubRoom_Night.jpg",
+    "value": "/static/images/background/BG_GehennaClubRoom_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "cac00f9c-8792-4077-b709-7be51ac4a16d",
+  "uuid": "5b6b2d51-cb9a-4fde-85e8-37caa69624de",
   "filetype": 71,
   "filename": "BG_RuinClassInside_Night.jpg",
   "name": "[BG_RuinClassInside_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinClassInside_Night.jpg",
+    "value": "/static/images/background/BG_RuinClassInside_Night.jpg",
     "short_desc": ""
   }
 }

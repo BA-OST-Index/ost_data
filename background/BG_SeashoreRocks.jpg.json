@@ -1,5 +1,5 @@
 {
-  "uuid": "ce6664fd-43f1-4e29-9b24-6ba8103eb97d",
+  "uuid": "4914972a-8711-430d-bab8-3d2d3b1735f4",
   "filetype": 71,
   "filename": "BG_SeashoreRocks.jpg",
   "name": "[BG_SeashoreRocks.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SeashoreRocks.jpg",
+    "value": "/static/images/background/BG_SeashoreRocks.jpg",
     "short_desc": ""
   }
 }

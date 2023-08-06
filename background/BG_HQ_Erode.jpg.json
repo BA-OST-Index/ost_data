@@ -1,0 +1,13 @@
+{
+  "uuid": "f93ca665-30d9-414c-9a00-81efa8617413",
+  "filetype": 71,
+  "filename": "BG_HQ_Erode.jpg",
+  "name": "[BG_HQ_Erode.jpg_NAME]",
+  "desc": "[BG_HQ_Erode.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_HQ_Erode.jpg",
+    "short_desc": ""
+  }
+}

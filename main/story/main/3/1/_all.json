@@ -1,0 +1,23 @@
+{
+  "uuid": "55986f8c-ed60-4d3f-ad17-7e13c031c07c",
+  "filetype": -25,
+  "name": "[STORY_MAIN_3_1_NAME]",
+  "namespace": "1",
+  "desc": "[STORY_MAIN_3_1_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

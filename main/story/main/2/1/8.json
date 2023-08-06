@@ -1,0 +1,37 @@
+{
+  "uuid": "b8ac2579-fb5d-44e7-9ac9-060eea2766e5",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_8_NAME]",
+  "desc": "[STORY_MAIN_2_1_8_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_8_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_8_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_8_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_8_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_8"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris", "Yuuka"]
+    }
+  ],
+  "is_battle": false
+}

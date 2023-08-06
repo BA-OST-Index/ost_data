@@ -1,5 +1,5 @@
 {
-  "uuid": "007a494d-eec3-44c9-a741-03904f1bc0aa",
+  "uuid": "96b7c804-d2bd-4955-a28d-f35b4ed41a9e",
   "filetype": 71,
   "filename": "BG_RyokanRestLounge.jpg",
   "name": "[BG_RyokanRestLounge.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RyokanRestLounge.jpg",
+    "value": "/static/images/background/BG_RyokanRestLounge.jpg",
     "short_desc": ""
   }
 }

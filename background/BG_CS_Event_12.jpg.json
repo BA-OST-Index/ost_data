@@ -1,5 +1,5 @@
 {
-  "uuid": "2c1cf0da-3980-4226-98a8-26bbe2da9003",
+  "uuid": "7dceb1b8-3996-48ad-8d34-f4c6e7589721",
   "filetype": 71,
   "filename": "BG_CS_Event_12.jpg",
   "name": "[BG_CS_Event_12.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Event_12.jpg",
+    "value": "/static/images/background/BG_CS_Event_12.jpg",
     "short_desc": ""
   }
 }

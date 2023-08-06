@@ -1,5 +1,5 @@
 {
-  "uuid": "e391d8f9-e22b-4e37-a47f-81c23f2fd900",
+  "uuid": "fee50e4f-063b-4d84-8ce7-1ac669fb26de",
   "filetype": 71,
   "filename": "BG_SlumFront.jpg",
   "name": "[BG_SlumFront.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SlumFront.jpg",
+    "value": "/static/images/background/BG_SlumFront.jpg",
     "short_desc": ""
   }
 }

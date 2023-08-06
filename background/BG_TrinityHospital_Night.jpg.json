@@ -1,5 +1,5 @@
 {
-  "uuid": "a6b5bdf0-3a3c-4038-810b-df1e1f17f3bd",
+  "uuid": "56dab61b-ecca-4135-a093-c10ec398e5c6",
   "filetype": 71,
   "filename": "BG_TrinityHospital_Night.jpg",
   "name": "[BG_TrinityHospital_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityHospital_Night.jpg",
+    "value": "/static/images/background/BG_TrinityHospital_Night.jpg",
     "short_desc": ""
   }
 }

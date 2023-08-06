@@ -1,5 +1,5 @@
 {
-  "uuid": "74c72cfd-72fa-4cec-8d8b-eb6dca7cccf0",
+  "uuid": "101edd8e-f3df-48f9-8fc4-5bdc35b5228e",
   "filetype": 71,
   "filename": "BG_View_Trinity_Night.jpg",
   "name": "[BG_View_Trinity_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_Trinity_Night.jpg",
+    "value": "/static/images/background/BG_View_Trinity_Night.jpg",
     "short_desc": ""
   }
 }

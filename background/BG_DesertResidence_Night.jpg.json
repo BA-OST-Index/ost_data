@@ -1,5 +1,5 @@
 {
-  "uuid": "726693ba-2de8-4dc6-b1d9-d0b093887861",
+  "uuid": "f4ec740d-161a-454b-a3b4-47ce1318d9d1",
   "filetype": 71,
   "filename": "BG_DesertResidence_Night.jpg",
   "name": "[BG_DesertResidence_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DesertResidence_Night.jpg",
+    "value": "/static/images/background/BG_DesertResidence_Night.jpg",
     "short_desc": ""
   }
 }

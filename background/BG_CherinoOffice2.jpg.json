@@ -1,5 +1,5 @@
 {
-  "uuid": "dd695a47-6d88-4dc4-be22-a8e411963e74",
+  "uuid": "0503604a-2b5d-4d52-8965-ff77f4992ad5",
   "filetype": 71,
   "filename": "BG_CherinoOffice2.jpg",
   "name": "[BG_CherinoOffice2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CherinoOffice2.jpg",
+    "value": "/static/images/background/BG_CherinoOffice2.jpg",
     "short_desc": ""
   }
 }

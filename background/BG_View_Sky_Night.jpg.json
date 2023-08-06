@@ -1,5 +1,5 @@
 {
-  "uuid": "21e3d87a-d1d4-4808-aef8-9ac0237524c2",
+  "uuid": "be9e55de-32d4-4bdc-bea4-56852f70eef0",
   "filetype": 71,
   "filename": "BG_View_Sky_Night.jpg",
   "name": "[BG_View_Sky_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_Sky_Night.jpg",
+    "value": "/static/images/background/BG_View_Sky_Night.jpg",
     "short_desc": ""
   }
 }

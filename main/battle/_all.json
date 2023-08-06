@@ -1,9 +1,9 @@
 {
   "uuid": "1ba31751-99d2-48a0-bfad-02a4865b5850",
   "filetype": -26,
-  "name": "",
+  "name": "[BATTLE_ALL_NAME]",
   "namespace": "battle",
-  "desc": "",
+  "desc": "[BATTLE_ALL_DESC]",
 
   "include": [
     "[AUTO]"

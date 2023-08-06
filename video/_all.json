@@ -1,9 +1,9 @@
 {
   "uuid": "67a1123b-ee78-449c-94f9-b4e1df32003f",
   "filetype": -71,
-  "name": "",
+  "name": "[VIDEO_ALL_NAME]",
   "namespace": "video",
-  "desc": "",
+  "desc": "[VIDEO_ALL_DESC]",
 
   "include": [
     "[AUTO]"

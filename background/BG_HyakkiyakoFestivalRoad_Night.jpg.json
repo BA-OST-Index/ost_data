@@ -1,5 +1,5 @@
 {
-  "uuid": "71ac9ba0-5a2e-4627-a691-f6693248abd9",
+  "uuid": "71aae9d3-1df5-44e9-8474-51b5e2a1acba",
   "filetype": 71,
   "filename": "BG_HyakkiyakoFestivalRoad_Night.jpg",
   "name": "[BG_HyakkiyakoFestivalRoad_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoFestivalRoad_Night.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoFestivalRoad_Night.jpg",
     "short_desc": ""
   }
 }

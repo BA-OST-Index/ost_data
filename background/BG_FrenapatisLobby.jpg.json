@@ -1,0 +1,13 @@
+{
+  "uuid": "d85d4353-4dc1-4508-8f0d-2612d3e088d0",
+  "filetype": 71,
+  "filename": "BG_FrenapatisLobby.jpg",
+  "name": "[BG_FrenapatisLobby.jpg_NAME]",
+  "desc": "[BG_FrenapatisLobby.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_FrenapatisLobby.jpg",
+    "short_desc": ""
+  }
+}

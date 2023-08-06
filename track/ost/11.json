@@ -52,5 +52,11 @@
     "is_event": false
   },
 
-  "reference": []
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
 }

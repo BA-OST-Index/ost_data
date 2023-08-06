@@ -1,5 +1,5 @@
 {
-  "uuid": "9c9255ae-3a34-41d2-a8f5-bd7d69b81d66",
+  "uuid": "2dac6783-d318-4ca9-aed5-ce89a4fbaccc",
   "filetype": 71,
   "filename": "BG_BigPlaza.jpg",
   "name": "[BG_BigPlaza.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BigPlaza.jpg",
+    "value": "/static/images/background/BG_BigPlaza.jpg",
     "short_desc": ""
   }
 }

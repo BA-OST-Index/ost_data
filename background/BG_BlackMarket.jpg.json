@@ -1,5 +1,5 @@
 {
-  "uuid": "70a13e77-6388-4269-9186-c4969982db27",
+  "uuid": "9125a40b-dc32-40d2-80b4-6a6ae15ceae3",
   "filetype": 71,
   "filename": "BG_BlackMarket.jpg",
   "name": "[BG_BlackMarket.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BlackMarket.jpg",
+    "value": "/static/images/background/BG_BlackMarket.jpg",
     "short_desc": ""
   }
 }

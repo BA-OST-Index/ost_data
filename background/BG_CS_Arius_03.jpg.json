@@ -1,5 +1,5 @@
 {
-  "uuid": "2c7a0af8-dc70-4b03-b881-3b31d78cee6d",
+  "uuid": "827654a9-e6e3-430e-a8a2-59ca95e75781",
   "filetype": 71,
   "filename": "BG_CS_Arius_03.jpg",
   "name": "[BG_CS_Arius_03.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Arius_03.jpg",
+    "value": "/static/images/background/BG_CS_Arius_03.jpg",
     "short_desc": ""
   }
 }

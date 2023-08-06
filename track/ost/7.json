@@ -3,7 +3,7 @@
 
   "name":{
     "realname": "[OST_7_NAME]",
-    "known_as": []
+    "known_as": ["[OST_7_KNOWN_1]", "[OST_7_KNOWN_2]"]
   },
   "desc": "[OST_7_DESC]",
 
@@ -52,5 +52,11 @@
     "is_event": false
   },
 
-  "reference": []
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
 }

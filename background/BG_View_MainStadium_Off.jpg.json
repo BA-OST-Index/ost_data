@@ -1,5 +1,5 @@
 {
-  "uuid": "030a0805-482e-4568-99b6-df4fac7905f7",
+  "uuid": "7685d722-f71f-4420-b56c-542c646ff5e3",
   "filetype": 71,
   "filename": "BG_View_MainStadium_Off.jpg",
   "name": "[BG_View_MainStadium_Off.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_MainStadium_Off.jpg",
+    "value": "/static/images/background/BG_View_MainStadium_Off.jpg",
     "short_desc": ""
   }
 }

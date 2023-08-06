@@ -1,0 +1,53 @@
+{
+  "uuid": "e8d4d25c-ee90-4f42-bcd3-ef4ef1a6bb9d",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_9_NAME]",
+  "desc": "[STORY_MAIN_2_1_9_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_9_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_9_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_9_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_9_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_101"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_9_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_9_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_23", "OST_7"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_9_P4_NAME]",
+      "desc": "[STORY_MAIN_2_1_9_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_16", "OST_28"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris", "Yuzu"]
+    }
+  ],
+  "is_battle": false
+}

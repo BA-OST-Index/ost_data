@@ -1,5 +1,5 @@
 {
-  "uuid": "20265a0c-b27e-44b9-94d3-cd37146577ac",
+  "uuid": "83f8f6d7-a52d-4c94-92c5-39cd6d661464",
   "filetype": 71,
   "filename": "BG_AriusStreet_FineDay.jpg",
   "name": "[BG_AriusStreet_FineDay.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AriusStreet_FineDay.jpg",
+    "value": "/static/images/background/BG_AriusStreet_FineDay.jpg",
     "short_desc": ""
   }
 }

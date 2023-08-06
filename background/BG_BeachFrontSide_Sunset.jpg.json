@@ -1,5 +1,5 @@
 {
-  "uuid": "8d8eb6d9-82ca-4a2f-8cba-9d0462c04c8d",
+  "uuid": "973a7ed9-0377-4aa5-91f1-db7588bf68f8",
   "filetype": 71,
   "filename": "BG_BeachFrontSide_Sunset.jpg",
   "name": "[BG_BeachFrontSide_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BeachFrontSide_Sunset.jpg",
+    "value": "/static/images/background/BG_BeachFrontSide_Sunset.jpg",
     "short_desc": ""
   }
 }

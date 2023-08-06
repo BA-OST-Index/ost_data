@@ -1,5 +1,5 @@
 {
-  "uuid": "84a992a4-a310-4bec-a33d-0d4657a02bb7",
+  "uuid": "29321cbd-ade4-4f1f-ad04-60f4b613d80b",
   "filetype": 71,
   "filename": "BG_DestructionFront_Fire.jpg",
   "name": "[BG_DestructionFront_Fire.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DestructionFront_Fire.jpg",
+    "value": "/static/images/background/BG_DestructionFront_Fire.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "68c6f5e6-3235-406a-9866-0e64a135014c",
+  "uuid": "5e6d4705-d3ea-4d55-ac2b-428955042317",
   "filetype": 71,
   "filename": "BG_CS_Arona_02.jpg",
   "name": "[BG_CS_Arona_02.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Arona_02.jpg",
+    "value": "/static/images/background/BG_CS_Arona_02.jpg",
     "short_desc": ""
   }
 }

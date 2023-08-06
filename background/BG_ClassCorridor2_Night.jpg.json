@@ -1,5 +1,5 @@
 {
-  "uuid": "e0ae0c01-17b5-4ea5-a33a-ebf0f56bc6e8",
+  "uuid": "f1a425ce-0ec5-45ee-b7df-b5058ba37036",
   "filetype": 71,
   "filename": "BG_ClassCorridor2_Night.jpg",
   "name": "[BG_ClassCorridor2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassCorridor2_Night.jpg",
+    "value": "/static/images/background/BG_ClassCorridor2_Night.jpg",
     "short_desc": ""
   }
 }

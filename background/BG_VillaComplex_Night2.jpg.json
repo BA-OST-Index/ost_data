@@ -1,5 +1,5 @@
 {
-  "uuid": "368147c3-8a29-4517-a097-9b7a9a7ada4a",
+  "uuid": "5525aeb2-2bc7-48e8-8985-49de79add341",
   "filetype": 71,
   "filename": "BG_VillaComplex_Night2.jpg",
   "name": "[BG_VillaComplex_Night2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_VillaComplex_Night2.jpg",
+    "value": "/static/images/background/BG_VillaComplex_Night2.jpg",
     "short_desc": ""
   }
 }

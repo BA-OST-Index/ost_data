@@ -1,5 +1,5 @@
 {
-  "uuid": "ff94ab70-e42d-44e0-8deb-87707e110734",
+  "uuid": "bd65d370-daed-45af-910d-e2ac11c199c0",
   "filetype": 71,
   "filename": "BG_Infirmary_Night.jpg",
   "name": "[BG_Infirmary_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Infirmary_Night.jpg",
+    "value": "/static/images/background/BG_Infirmary_Night.jpg",
     "short_desc": ""
   }
 }

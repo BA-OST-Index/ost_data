@@ -1,5 +1,5 @@
 {
-  "uuid": "0bf1225f-43aa-4e65-830b-f605c05e43e2",
+  "uuid": "febf8a83-64f0-4f2e-be34-af50274e8d80",
   "filetype": 71,
   "filename": "BG_CampInside_Night.jpg",
   "name": "[BG_CampInside_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CampInside_Night.jpg",
+    "value": "/static/images/background/BG_CampInside_Night.jpg",
     "short_desc": ""
   }
 }

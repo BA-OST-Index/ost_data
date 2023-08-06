@@ -1,0 +1,13 @@
+{
+  "uuid": "cfd6794d-9c54-43a5-8d86-260431e2bac5",
+  "filetype": 71,
+  "filename": "BG_Red.jpg",
+  "name": "[BG_Red.jpg_NAME]",
+  "desc": "[BG_Red.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Red.jpg",
+    "short_desc": ""
+  }
+}

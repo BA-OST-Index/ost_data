@@ -1,5 +1,5 @@
 {
-  "uuid": "eeef2c8b-686d-4beb-ae16-c9bf23367e4b",
+  "uuid": "29549be5-7274-4230-a8d3-460d29740873",
   "filetype": 71,
   "filename": "BG_FamilyRestaurant_Night.jpg",
   "name": "[BG_FamilyRestaurant_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_FamilyRestaurant_Night.jpg",
+    "value": "/static/images/background/BG_FamilyRestaurant_Night.jpg",
     "short_desc": ""
   }
 }

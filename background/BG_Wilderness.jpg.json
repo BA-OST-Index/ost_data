@@ -1,5 +1,5 @@
 {
-  "uuid": "d0369603-8fd0-4476-97d3-6799298624f4",
+  "uuid": "f13a8cde-f446-42d5-8e37-84505dcc6e73",
   "filetype": 71,
   "filename": "BG_Wilderness.jpg",
   "name": "[BG_Wilderness.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Wilderness.jpg",
+    "value": "/static/images/background/BG_Wilderness.jpg",
     "short_desc": ""
   }
 }

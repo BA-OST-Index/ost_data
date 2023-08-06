@@ -1,5 +1,5 @@
 {
-  "uuid": "82c5f15a-bc79-4076-94b6-bc0abe071977",
+  "uuid": "690d7bf6-7cee-4e73-b896-21a17ae338c3",
   "filetype": 71,
   "filename": "BG_ClassStairs_Night.jpg",
   "name": "[BG_ClassStairs_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassStairs_Night.jpg",
+    "value": "/static/images/background/BG_ClassStairs_Night.jpg",
     "short_desc": ""
   }
 }

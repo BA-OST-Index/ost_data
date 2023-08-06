@@ -1,0 +1,13 @@
+{
+  "uuid": "abde6c3a-36fe-4c84-aef8-84857274e9b9",
+  "filetype": 71,
+  "filename": "BG_BuildingFront2_Night.jpg",
+  "name": "[BG_BuildingFront2_Night.jpg_NAME]",
+  "desc": "[BG_BuildingFront2_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_BuildingFront2_Night.jpg",
+    "short_desc": ""
+  }
+}

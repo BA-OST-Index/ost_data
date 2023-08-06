@@ -1,0 +1,13 @@
+{
+  "uuid": "09b50649-6d72-406b-8570-30d0e48e2c49",
+  "filetype": 71,
+  "filename": "BG_SRTCampSite_Sunset.jpg",
+  "name": "[BG_SRTCampSite_Sunset.jpg_NAME]",
+  "desc": "[BG_SRTCampSite_Sunset.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_SRTCampSite_Sunset.jpg",
+    "short_desc": ""
+  }
+}

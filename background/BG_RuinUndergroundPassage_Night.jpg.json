@@ -1,5 +1,5 @@
 {
-  "uuid": "1b641611-e700-4b40-a4c8-77fbc2ca8777",
+  "uuid": "094de1f9-477e-416e-8146-9ce233539cbe",
   "filetype": 71,
   "filename": "BG_RuinUndergroundPassage_Night.jpg",
   "name": "[BG_RuinUndergroundPassage_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinUndergroundPassage_Night.jpg",
+    "value": "/static/images/background/BG_RuinUndergroundPassage_Night.jpg",
     "short_desc": ""
   }
 }

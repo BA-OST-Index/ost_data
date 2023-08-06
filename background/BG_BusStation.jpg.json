@@ -1,5 +1,5 @@
 {
-  "uuid": "aa713c3d-f6d5-4364-86a4-af47d90a06c6",
+  "uuid": "24b88369-45db-4acf-9286-80df757ff56b",
   "filetype": 71,
   "filename": "BG_BusStation.jpg",
   "name": "[BG_BusStation.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BusStation.jpg",
+    "value": "/static/images/background/BG_BusStation.jpg",
     "short_desc": ""
   }
 }

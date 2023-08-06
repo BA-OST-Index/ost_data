@@ -1,5 +1,5 @@
 {
-  "uuid": "466ab54d-98e5-481f-aef2-7a62a318b0e3",
+  "uuid": "97cba3e7-0c2a-4b49-9df0-e9da07de0120",
   "filetype": 71,
   "filename": "BG_Amusement.jpg",
   "name": "[BG_Amusement.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Amusement.jpg",
+    "value": "/static/images/background/BG_Amusement.jpg",
     "short_desc": ""
   }
 }

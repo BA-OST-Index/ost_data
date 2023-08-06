@@ -1,0 +1,13 @@
+{
+  "uuid": "2a4a5821-3081-4751-81a5-9b9f94d27e7c",
+  "filetype": 71,
+  "filename": "BG_GeneralMeetingRoom.jpg",
+  "name": "[BG_GeneralMeetingRoom.jpg_NAME]",
+  "desc": "[BG_GeneralMeetingRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_GeneralMeetingRoom.jpg",
+    "short_desc": ""
+  }
+}

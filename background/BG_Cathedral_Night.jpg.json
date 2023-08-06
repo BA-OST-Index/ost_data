@@ -1,5 +1,5 @@
 {
-  "uuid": "cca3ca7d-ca3b-4e48-bfc0-cee9dd156cab",
+  "uuid": "4eeb9512-6f90-4461-a39b-c76a9339f74c",
   "filetype": 71,
   "filename": "BG_Cathedral_Night.jpg",
   "name": "[BG_Cathedral_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Cathedral_Night.jpg",
+    "value": "/static/images/background/BG_Cathedral_Night.jpg",
     "short_desc": ""
   }
 }

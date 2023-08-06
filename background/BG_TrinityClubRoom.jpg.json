@@ -1,5 +1,5 @@
 {
-  "uuid": "f85babd6-59e0-4655-831e-2d1329a0b688",
+  "uuid": "0962a595-f7a3-4610-a0d6-7439c9b5ddb7",
   "filetype": 71,
   "filename": "BG_TrinityClubRoom.jpg",
   "name": "[BG_TrinityClubRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityClubRoom.jpg",
+    "value": "/static/images/background/BG_TrinityClubRoom.jpg",
     "short_desc": ""
   }
 }

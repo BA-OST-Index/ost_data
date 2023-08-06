@@ -1,9 +1,9 @@
 {
   "uuid": "77530be6-75df-42d3-a069-07231f49e089",
   "filetype": -27,
-  "name": "",
+  "name": "[BATTLE_SPECIAL_NAME]",
   "namespace": "special_commission",
-  "desc": "",
+  "desc": "[BATTLE_SPECIAL_DESC]",
 
   "include": [
     "[AUTO]"

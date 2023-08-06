@@ -1,5 +1,5 @@
 {
-  "uuid": "4cfdca47-fced-4ae6-a365-9a70256987a5",
+  "uuid": "9d0b78d4-326b-4add-aae6-215ea62efbee",
   "filetype": 71,
   "filename": "BG_SchoolCafeteria_Night.jpg",
   "name": "[BG_SchoolCafeteria_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SchoolCafeteria_Night.jpg",
+    "value": "/static/images/background/BG_SchoolCafeteria_Night.jpg",
     "short_desc": ""
   }
 }

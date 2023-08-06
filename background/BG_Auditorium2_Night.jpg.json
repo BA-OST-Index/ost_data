@@ -1,5 +1,5 @@
 {
-  "uuid": "bea6a500-4e1a-4258-a453-09ea88712a35",
+  "uuid": "eb65a3a1-946e-43a0-b3b2-1a45ffd8a019",
   "filetype": 71,
   "filename": "BG_Auditorium2_Night.jpg",
   "name": "[BG_Auditorium2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Auditorium2_Night.jpg",
+    "value": "/static/images/background/BG_Auditorium2_Night.jpg",
     "short_desc": ""
   }
 }

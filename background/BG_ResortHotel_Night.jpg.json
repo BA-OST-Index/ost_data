@@ -1,5 +1,5 @@
 {
-  "uuid": "554b7258-4995-4975-a3e3-82e2cc4378e8",
+  "uuid": "55d5f6b2-3250-406d-96d5-561d1cf7d83b",
   "filetype": 71,
   "filename": "BG_ResortHotel_Night.jpg",
   "name": "[BG_ResortHotel_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ResortHotel_Night.jpg",
+    "value": "/static/images/background/BG_ResortHotel_Night.jpg",
     "short_desc": ""
   }
 }

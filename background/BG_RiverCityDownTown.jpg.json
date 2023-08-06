@@ -1,0 +1,13 @@
+{
+  "uuid": "5fab4c2e-b352-400f-b591-0341eaf404ce",
+  "filetype": 71,
+  "filename": "BG_RiverCityDownTown.jpg",
+  "name": "[BG_RiverCityDownTown.jpg_NAME]",
+  "desc": "[BG_RiverCityDownTown.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_RiverCityDownTown.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "uuid": "cd78a884-49cc-4749-9486-dd3154045418",
+  "uuid": "b9be0a54-f1b2-4bfb-9226-a27d30ade15d",
   "filetype": 71,
   "filename": "BG_View_TrinityFrontGate_Night.jpg",
   "name": "[BG_View_TrinityFrontGate_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_TrinityFrontGate_Night.jpg",
+    "value": "/static/images/background/BG_View_TrinityFrontGate_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,0 +1,13 @@
+{
+  "uuid": "6ef37bba-b257-47e5-93ae-4ecc975050c7",
+  "filetype": 71,
+  "filename": "BG_Subway.jpg",
+  "name": "[BG_Subway.jpg_NAME]",
+  "desc": "[BG_Subway.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Subway.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "uuid": "a997671c-39b2-4d1a-896b-22244ca35fdb",
+  "uuid": "e40a6907-0b0c-445d-b353-86e9c6355fe4",
   "filetype": 71,
   "filename": "BG_Empty_KivotosStadium_Sunset.jpg",
   "name": "[BG_Empty_KivotosStadium_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Empty_KivotosStadium_Sunset.jpg",
+    "value": "/static/images/background/BG_Empty_KivotosStadium_Sunset.jpg",
     "short_desc": ""
   }
 }

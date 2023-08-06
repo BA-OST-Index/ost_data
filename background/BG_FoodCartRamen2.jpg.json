@@ -1,5 +1,5 @@
 {
-  "uuid": "628573bd-d2b3-433e-9680-0c8dd358dbcb",
+  "uuid": "4d8afc2d-4f0e-4c83-b0df-a2b39421156f",
   "filetype": 71,
   "filename": "BG_FoodCartRamen2.jpg",
   "name": "[BG_FoodCartRamen2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_FoodCartRamen2.jpg",
+    "value": "/static/images/background/BG_FoodCartRamen2.jpg",
     "short_desc": ""
   }
 }

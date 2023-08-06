@@ -1,5 +1,5 @@
 {
-  "uuid": "e091a4ee-1a91-4106-adf7-3d110537dc29",
+  "uuid": "6eefbf3f-7751-4789-8a79-e04ea6177532",
   "filetype": 71,
   "filename": "BG_InterrogationRoom_Night.jpg",
   "name": "[BG_InterrogationRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_InterrogationRoom_Night.jpg",
+    "value": "/static/images/background/BG_InterrogationRoom_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "f42cd2aa-c7b4-40f5-b3a5-1b84d2920bd0",
+  "uuid": "afbcf4af-8de3-4815-a07a-6374add4b9e8",
   "filetype": 71,
   "filename": "BG_Vault_Open_Night.jpg",
   "name": "[BG_Vault_Open_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Vault_Open_Night.jpg",
+    "value": "/static/images/background/BG_Vault_Open_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,9 +1,9 @@
 {
   "uuid": "76ac01e4-5322-419b-a4b6-e911a960f412",
   "filetype": -44,
-  "name": "",
+  "name": "[EVENT_GBATTLE_NAME]",
   "namespace": "battle",
-  "desc": "",
+  "desc": "[EVENT_10_BATTLE_DESC]",
 
   "include": [
     "[AUTO]"
@@ -12,6 +12,6 @@
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   }
 }

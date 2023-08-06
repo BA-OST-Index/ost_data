@@ -1,5 +1,5 @@
 {
-  "uuid": "a03c78f9-3178-4e93-a7c7-dd0757d4aee3",
+  "uuid": "9294710e-f394-4fca-a5a3-62fc3f3c6fee",
   "filetype": 71,
   "filename": "BG_NewYearFestival.jpg",
   "name": "[BG_NewYearFestival.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_NewYearFestival.jpg",
+    "value": "/static/images/background/BG_NewYearFestival.jpg",
     "short_desc": ""
   }
 }

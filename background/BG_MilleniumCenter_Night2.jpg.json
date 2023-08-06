@@ -1,5 +1,5 @@
 {
-  "uuid": "56bb41ce-1427-45fd-ab9d-f12a5e89afd3",
+  "uuid": "27734664-e49c-4f18-a76e-cb786d3e439e",
   "filetype": 71,
   "filename": "BG_MilleniumCenter_Night2.jpg",
   "name": "[BG_MilleniumCenter_Night2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_MilleniumCenter_Night2.jpg",
+    "value": "/static/images/background/BG_MilleniumCenter_Night2.jpg",
     "short_desc": ""
   }
 }

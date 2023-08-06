@@ -1,0 +1,13 @@
+{
+  "uuid": "c721b97b-45e1-476b-8227-18f3652edaeb",
+  "filetype": 71,
+  "filename": "BG_TrainStation.jpg",
+  "name": "[BG_TrainStation.jpg_NAME]",
+  "desc": "[BG_TrainStation.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_TrainStation.jpg",
+    "short_desc": ""
+  }
+}

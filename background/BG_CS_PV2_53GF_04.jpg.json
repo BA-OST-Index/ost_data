@@ -1,5 +1,5 @@
 {
-  "uuid": "de327467-3e99-4f05-899d-beb93258ed4d",
+  "uuid": "a512f0ac-5f20-4fae-93db-10172718b5b5",
   "filetype": 71,
   "filename": "BG_CS_PV2_53GF_04.jpg",
   "name": "[BG_CS_PV2_53GF_04.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_PV2_53GF_04.jpg",
+    "value": "/static/images/background/BG_CS_PV2_53GF_04.jpg",
     "short_desc": ""
   }
 }

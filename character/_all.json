@@ -1,9 +1,9 @@
 {
   "uuid": "ac49ed55-2523-4083-92ca-5378a6940cbf",
   "filetype": -51,
-  "name": "",
+  "name": "[CHAR_ALL_NAME]",
   "namespace": "character",
-  "desc": "",
+  "desc": "[CHAR_ALL_DES]",
 
   "include": [
     "[AUTO]"

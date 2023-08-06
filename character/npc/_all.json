@@ -1,9 +1,9 @@
 {
   "uuid": "14074a20-415d-44fb-bf93-04ef57d1818a",
   "filetype": -52,
-  "name": "",
+  "name": "[CHAR_NPC_NAME]",
   "namespace": "npc",
-  "desc": "",
+  "desc": "[CHAR_NPC_DESC]",
 
   "include": [
     "[AUTO]"

@@ -1,5 +1,5 @@
 {
-  "uuid": "600ef81d-35c4-4d0e-be91-d77284bf5736",
+  "uuid": "7d072c2e-7a40-465b-9ae6-58f17a340d85",
   "filetype": 71,
   "filename": "BG_ShoppingDistrict.jpg",
   "name": "[BG_ShoppingDistrict.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ShoppingDistrict.jpg",
+    "value": "/static/images/background/BG_ShoppingDistrict.jpg",
     "short_desc": ""
   }
 }

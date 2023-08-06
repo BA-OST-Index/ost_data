@@ -1,5 +1,5 @@
 {
-  "uuid": "9c51d100-dbe7-4af6-a019-a0febf1de9b6",
+  "uuid": "b2739311-3a4b-4148-8106-3eb7c770a8ba",
   "filetype": 71,
   "filename": "BG_Yatai_Night.jpg",
   "name": "[BG_Yatai_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Yatai_Night.jpg",
+    "value": "/static/images/background/BG_Yatai_Night.jpg",
     "short_desc": ""
   }
 }

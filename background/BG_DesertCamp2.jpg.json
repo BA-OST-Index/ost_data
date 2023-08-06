@@ -1,5 +1,5 @@
 {
-  "uuid": "4027f301-5c3d-49e8-9000-fe3ae97d1615",
+  "uuid": "47bb72d3-2e14-4498-946d-8899acffcdfd",
   "filetype": 71,
   "filename": "BG_DesertCamp2.jpg",
   "name": "[BG_DesertCamp2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DesertCamp2.jpg",
+    "value": "/static/images/background/BG_DesertCamp2.jpg",
     "short_desc": ""
   }
 }

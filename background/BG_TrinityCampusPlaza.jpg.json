@@ -1,5 +1,5 @@
 {
-  "uuid": "4e652346-04d1-4ec9-94e3-eb7b0cf910f3",
+  "uuid": "668727dc-fa6f-4740-8747-ab6e9b3ebf41",
   "filetype": 71,
   "filename": "BG_TrinityCampusPlaza.jpg",
   "name": "[BG_TrinityCampusPlaza.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityCampusPlaza.jpg",
+    "value": "/static/images/background/BG_TrinityCampusPlaza.jpg",
     "short_desc": ""
   }
 }

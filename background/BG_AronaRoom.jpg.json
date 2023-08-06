@@ -1,5 +1,5 @@
 {
-  "uuid": "afae7487-1d26-406b-bb7e-bdd54e80dd6c",
+  "uuid": "a9fe2293-1bee-43bb-90d1-a738664c7258",
   "filetype": 71,
   "filename": "BG_AronaRoom.jpg",
   "name": "[BG_AronaRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AronaRoom.jpg",
+    "value": "/static/images/background/BG_AronaRoom.jpg",
     "short_desc": ""
   }
 }

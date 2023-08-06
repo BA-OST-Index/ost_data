@@ -1,5 +1,5 @@
 {
-  "uuid": "c8124476-6bb6-4365-80c2-b68880c4b770",
+  "uuid": "4013d0a2-64e5-4cde-b40c-f9cd35cf94a6",
   "filetype": 71,
   "filename": "BG_SchoolFrontGate_Night.jpg",
   "name": "[BG_SchoolFrontGate_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SchoolFrontGate_Night.jpg",
+    "value": "/static/images/background/BG_SchoolFrontGate_Night.jpg",
     "short_desc": ""
   }
 }

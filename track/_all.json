@@ -1,9 +1,9 @@
 {
   "uuid": "e9faff3a-2d17-4772-9ebd-6493090166c3",
   "filetype": -11,
-  "name": "",
+  "name": "[TRACK_ALL_NAME]",
   "namespace": "track",
-  "desc": "",
+  "desc": "[TRACK_ALL_DESC]",
 
   "include": [
     "ost",

@@ -1,9 +1,9 @@
 {
   "uuid": "9c328e6d-b568-4789-b808-1634b44e8f01",
   "filetype": -41,
-  "name": "",
+  "name": "[EVENT_ALL_NAME]",
   "namespace": "event",
-  "desc": "",
+  "desc": "[EVENT_ALL_DESC]",
 
   "include": [
     "[AUTO]"

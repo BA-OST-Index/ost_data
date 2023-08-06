@@ -1,5 +1,5 @@
 {
-  "uuid": "8b23f42d-fb11-4da8-abaa-36950cc5b1df",
+  "uuid": "3ddc3886-6021-4587-925a-9aa0b00345b5",
   "filetype": 71,
   "filename": "BG_Playground.jpg",
   "name": "[BG_Playground.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Playground.jpg",
+    "value": "/static/images/background/BG_Playground.jpg",
     "short_desc": ""
   }
 }

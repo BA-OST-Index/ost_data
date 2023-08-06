@@ -1,5 +1,5 @@
 {
-  "uuid": "51240e60-82e9-4d81-a7ff-9d5e60ab876d",
+  "uuid": "eb682761-a257-4589-a785-41bd614b2fba",
   "filetype": 71,
   "filename": "BG_AriusCampus_Night.jpg",
   "name": "[BG_AriusCampus_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AriusCampus_Night.jpg",
+    "value": "/static/images/background/BG_AriusCampus_Night.jpg",
     "short_desc": ""
   }
 }

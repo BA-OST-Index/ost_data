@@ -1,5 +1,5 @@
 {
-  "uuid": "6517ddd2-e1c4-4d4e-95b9-7fc51dfc18c2",
+  "uuid": "b7863a80-5c9f-4193-bf41-4c3722a08fe4",
   "filetype": 71,
   "filename": "BG_AriusBasilica_FineDay.jpg",
   "name": "[BG_AriusBasilica_FineDay.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AriusBasilica_FineDay.jpg",
+    "value": "/static/images/background/BG_AriusBasilica_FineDay.jpg",
     "short_desc": ""
   }
 }

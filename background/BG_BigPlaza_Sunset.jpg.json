@@ -1,5 +1,5 @@
 {
-  "uuid": "4087b44d-28aa-49b7-9f0a-8c47657dd6d3",
+  "uuid": "b76f3b08-462f-4bac-91e7-68c98fdfbd49",
   "filetype": 71,
   "filename": "BG_BigPlaza_Sunset.jpg",
   "name": "[BG_BigPlaza_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BigPlaza_Sunset.jpg",
+    "value": "/static/images/background/BG_BigPlaza_Sunset.jpg",
     "short_desc": ""
   }
 }

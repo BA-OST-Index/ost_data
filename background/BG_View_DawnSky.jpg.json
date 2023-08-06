@@ -1,5 +1,5 @@
 {
-  "uuid": "1b59ea76-a820-49d9-999b-ef7b87329ff3",
+  "uuid": "5f24e1f5-e9eb-498f-94e5-e910ff58862c",
   "filetype": 71,
   "filename": "BG_View_DawnSky.jpg",
   "name": "[BG_View_DawnSky.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_DawnSky.jpg",
+    "value": "/static/images/background/BG_View_DawnSky.jpg",
     "short_desc": ""
   }
 }

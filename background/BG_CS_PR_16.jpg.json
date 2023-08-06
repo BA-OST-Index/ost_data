@@ -1,5 +1,5 @@
 {
-  "uuid": "aa0b6db9-c6b1-48ba-99e3-1e0011340e28",
+  "uuid": "5a8a2be5-4b8f-4634-8316-aa0544b6bff4",
   "filetype": 71,
   "filename": "BG_CS_PR_16.jpg",
   "name": "[BG_CS_PR_16.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_PR_16.jpg",
+    "value": "/static/images/background/BG_CS_PR_16.jpg",
     "short_desc": ""
   }
 }

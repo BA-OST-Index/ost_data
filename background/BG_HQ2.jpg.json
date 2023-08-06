@@ -1,5 +1,5 @@
 {
-  "uuid": "4fdb4afb-3bc2-4f94-9aff-92edf0aa4931",
+  "uuid": "07770706-5027-4b62-9836-1c9c00d556d4",
   "filetype": 71,
   "filename": "BG_HQ2.jpg",
   "name": "[BG_HQ2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HQ2.jpg",
+    "value": "/static/images/background/BG_HQ2.jpg",
     "short_desc": ""
   }
 }

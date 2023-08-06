@@ -1,5 +1,5 @@
 {
-  "uuid": "d4954e8c-1686-4931-bc73-648d8fe3058e",
+  "uuid": "a92efbe4-2d81-48fc-adb3-61ff130995e7",
   "filetype": 71,
   "filename": "BG_HyakkiyakoMeetingroom_Night.jpg",
   "name": "[BG_HyakkiyakoMeetingroom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoMeetingroom_Night.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoMeetingroom_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "9b404988-1495-4567-acaf-54acc8ef0264",
+  "uuid": "8e3e52ca-fe61-4180-9139-8ae668efc52c",
   "filetype": 71,
   "filename": "BG_ShanStreet_Night.jpg",
   "name": "[BG_ShanStreet_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ShanStreet_Night.jpg",
+    "value": "/static/images/background/BG_ShanStreet_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "919ac2a5-0b54-4283-9681-f055efe2478c",
+  "uuid": "d581a7f5-c241-43b7-88bc-486bfed591de",
   "filetype": 71,
   "filename": "BG_CS_RAID_03.jpg",
   "name": "[BG_CS_RAID_03.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_RAID_03.jpg",
+    "value": "/static/images/background/BG_CS_RAID_03.jpg",
     "short_desc": ""
   }
 }

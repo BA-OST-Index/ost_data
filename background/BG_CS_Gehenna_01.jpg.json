@@ -1,5 +1,5 @@
 {
-  "uuid": "d9b28cbb-34fa-4713-8144-e0058a5a1186",
+  "uuid": "843353a3-3c30-40b1-b89e-5b23ad8be544",
   "filetype": 71,
   "filename": "BG_CS_Gehenna_01.jpg",
   "name": "[BG_CS_Gehenna_01.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Gehenna_01.jpg",
+    "value": "/static/images/background/BG_CS_Gehenna_01.jpg",
     "short_desc": ""
   }
 }

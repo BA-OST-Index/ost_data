@@ -1,5 +1,5 @@
 {
-  "uuid": "ed35e701-0b51-4ea9-b424-c48dc2b04b22",
+  "uuid": "252cba19-f9bf-40b9-b10e-ee357bbb9290",
   "filetype": 71,
   "filename": "BG_MainOffice_Night2.jpg",
   "name": "[BG_MainOffice_Night2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_MainOffice_Night2.jpg",
+    "value": "/static/images/background/BG_MainOffice_Night2.jpg",
     "short_desc": ""
   }
 }

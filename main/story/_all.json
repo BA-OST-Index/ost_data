@@ -1,11 +1,17 @@
 {
   "uuid": "a2f8e904-eed6-4584-b297-97898878c6ed",
   "filetype": -22,
-  "name": "",
+  "name": "[STORY_ALL_NAME]",
   "namespace": "story",
-  "desc": "",
+  "desc": "[STORY_ALL_DESC]",
 
   "include": [
     "[AUTO]"
-  ]
+  ],
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
 }

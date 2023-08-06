@@ -1,5 +1,5 @@
 {
-  "uuid": "77b2d4e9-8aef-454f-b46a-af67b68bd374",
+  "uuid": "367a3459-29af-469a-b4db-64d23e517e2a",
   "filetype": 71,
   "filename": "BG_GehennaCampus_Night.jpg",
   "name": "[BG_GehennaCampus_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_GehennaCampus_Night.jpg",
+    "value": "/static/images/background/BG_GehennaCampus_Night.jpg",
     "short_desc": ""
   }
 }

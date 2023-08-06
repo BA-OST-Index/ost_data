@@ -1,5 +1,5 @@
 {
-  "uuid": "44346b37-f98e-4bca-9742-7fca45dd1c2b",
+  "uuid": "44739776-1194-4fa5-8609-e1552e692f04",
   "filetype": 71,
   "filename": "BG_CS_Abydos_01_Letter.jpg",
   "name": "[BG_CS_Abydos_01_Letter.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Abydos_01_Letter.jpg",
+    "value": "/static/images/background/BG_CS_Abydos_01_Letter.jpg",
     "short_desc": ""
   }
 }

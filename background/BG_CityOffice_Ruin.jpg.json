@@ -1,5 +1,5 @@
 {
-  "uuid": "df4174e6-9b0c-4ed0-b65d-a5feabe5342e",
+  "uuid": "c21dc063-3f14-4ed1-abfe-713f4013248e",
   "filetype": 71,
   "filename": "BG_CityOffice_Ruin.jpg",
   "name": "[BG_CityOffice_Ruin.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CityOffice_Ruin.jpg",
+    "value": "/static/images/background/BG_CityOffice_Ruin.jpg",
     "short_desc": ""
   }
 }

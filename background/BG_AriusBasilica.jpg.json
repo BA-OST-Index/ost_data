@@ -1,5 +1,5 @@
 {
-  "uuid": "62ee4e1c-41e7-4595-b259-50f4d0f45bfa",
+  "uuid": "d26de683-0a30-4497-9c0a-0fbc5d991f72",
   "filetype": 71,
   "filename": "BG_AriusBasilica.jpg",
   "name": "[BG_AriusBasilica.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_AriusBasilica.jpg",
+    "value": "/static/images/background/BG_AriusBasilica.jpg",
     "short_desc": ""
   }
 }

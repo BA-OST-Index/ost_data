@@ -1,5 +1,5 @@
 {
-  "uuid": "06f9953e-23ed-42ca-8917-ee579f1b83a5",
+  "uuid": "82a031e0-ce48-4e3c-8798-5e9f1d1fabf1",
   "filetype": 71,
   "filename": "BG_BigSisterRoom2.jpg",
   "name": "[BG_BigSisterRoom2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BigSisterRoom2.jpg",
+    "value": "/static/images/background/BG_BigSisterRoom2.jpg",
     "short_desc": ""
   }
 }

@@ -1,9 +1,9 @@
 {
   "uuid": "6934cb90-5dcb-4818-8225-3aacea0322d5",
   "filetype": -91,
-  "name": "",
+  "name": "[TAG_ALL_NAME]",
   "namespace": "tag",
-  "desc": "",
+  "desc": "[TAG_ALL_DESC]",
 
   "include": [
     "[AUTO]"

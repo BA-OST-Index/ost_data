@@ -1,5 +1,5 @@
 {
-  "uuid": "657299dd-437f-44d4-8d7b-8a5789b49514",
+  "uuid": "dd291bbd-3620-4b19-9d5e-7e4df0847590",
   "filetype": 71,
   "filename": "BG_View_KivotosStadium.jpg",
   "name": "[BG_View_KivotosStadium.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_KivotosStadium.jpg",
+    "value": "/static/images/background/BG_View_KivotosStadium.jpg",
     "short_desc": ""
   }
 }

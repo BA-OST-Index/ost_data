@@ -1,0 +1,47 @@
+{
+  "[BACKGROUND_NAME]": "全部背景",
+  "[BACKGROUND_DESC]": "本页列出所有蔚蓝档案游戏中的背景。",
+
+  "[BATTLE_ALL_NAME]": "全部任务",
+  "[BATTLE_ALL_DESC]": "本页列出所有蔚蓝档案游戏中的任务（不含活动任务等）。",
+  "[BATTLE_MAIN_NAME]": "全部主线任务",
+  "[BATTLE_MAIN_DESC]": "本页列出所有的蔚蓝档案主线任务关卡（不含子(Sub)任务）。",
+  "[BATTLE_BOUNTY_NAME]": "全部悬赏通缉任务",
+  "[BATTLE_BOUNTY_DESC]": "本页列出所有的蔚蓝档案悬赏通缉任务关卡。",
+  "[BATTLE_EXCHANGE_NAME]": "全部学院交流会任务",
+  "[BATTLE_EXCHANGE_DESC]": "本页列出所有的蔚蓝档案学院交流会任务关卡。",
+  "[BATTLE_SPECIAL_NAME]": "全部特殊任务",
+  "[BATTLE_SPECIAL_DESC]": "本页列出所有的蔚蓝档案特殊任务关卡",
+  "[BATTLE_TOTAL_NAME]": "全部总力战BOSS",
+  "[BATTLE_TOTAL_DESC]": "本页列出所有的蔚蓝档案中出现的总力战BOSS。请注意，日服由于版本领先，部分BOSS可能未在其他服务器中出现过。",
+
+  "[TRACK_ALL_NAME]": "全部曲子",
+  "[TRACK_ALL_DESC]": "本页列出所有的蔚蓝档案曲子的类别。",
+  "[TRACK_ANIMATION_NAME]": "全部动画曲子",
+  "[TRACK_ANIMATION_DESC]": "本页列出所有在蔚蓝档案官方动画中出现的曲子。",
+  "[TRACK_OST_NAME]": "全部OST曲子",
+  "[TRACK_OST_DESC]": "本页列出所有的蔚蓝档案OST曲子。",
+  "[TRACK_SHORT_NAME]": "全部短篇动画曲子",
+  "[TRACK_SHORT_DESC]": "本页列出所有来自蔚蓝档案短篇动画里的曲子。",
+  "[TRACK_OTHER_NAME]": "全部其它曲子",
+  "[TRACK_OTHER_DESC]": "本页列出所有蔚蓝档案的其它曲目。其他曲目是指不属于上述三种分类内的曲目，它可能是第三方创作或改编的曲目。",
+
+  "[TAG_ALL_NAME]": "全部标签",
+  "[TAG_ALL_DESC]": "本页列出所有本站使用的标签。请注意，这些标签仅在本站通用，其它站点可能有其它标签。",
+
+  "[UI_ALL_NAME]": "全部UI(用户界面)",
+  "[UI_ALL_DESC]": "本页列出所有蔚蓝档案中出现的不同UI(用户界面)。",
+
+  "[VIDEO_ALL_NAME]": "全部视频",
+  "[VIDEO_ALL_DESC]": "本页列出所有本站已收录的视频。",
+
+  "[EVENT_ALL_NAME]": "全部活动",
+  "[EVENT_ALL_DESC]": "本页列出所有蔚蓝档案的活动。",
+
+  "[CHAR_ALL_NAME]": "全部角色/人物",
+  "[CHAR_ALL_DESC]": "本页列出所有蔚蓝档案中的角色/人物。",
+  "[CHAR_NPC_NAME]": "全部NPC",
+  "[CHAR_NPC_DESC]": "本页列出所有蔚蓝档案的NPC（不可游玩角色）。",
+  "[CHAR_STU_NAME]": "全部学生",
+  "[CHAR_STU_DESC]": "本页列出所有蔚蓝档案的学生。学生的相关信息基于<a href=\"https://schale.gg/\">Schale DB</a>的数据自动生成，因而可能会出现数据滞后（如刚出的新角色没有数据）、超前（国际服晚半年），以至于是不准确的情况，敬请注意。"
+}

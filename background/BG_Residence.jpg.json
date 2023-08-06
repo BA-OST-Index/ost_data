@@ -1,5 +1,5 @@
 {
-  "uuid": "d702f208-dcf8-43b2-b238-f42e532bb5d6",
+  "uuid": "a9851dc1-5209-4d75-bf6c-66febc977feb",
   "filetype": 71,
   "filename": "BG_Residence.jpg",
   "name": "[BG_Residence.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Residence.jpg",
+    "value": "/static/images/background/BG_Residence.jpg",
     "short_desc": ""
   }
 }

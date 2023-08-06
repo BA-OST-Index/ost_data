@@ -1,5 +1,5 @@
 {
-  "uuid": "5179fdef-8e6a-43c7-8c7f-3e7987b4754a",
+  "uuid": "1b4351d2-d7a0-4487-afcd-e4572cf35a51",
   "filetype": 71,
   "filename": "BG_EriduTowerRooftop.jpg",
   "name": "[BG_EriduTowerRooftop.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_EriduTowerRooftop.jpg",
+    "value": "/static/images/background/BG_EriduTowerRooftop.jpg",
     "short_desc": ""
   }
 }

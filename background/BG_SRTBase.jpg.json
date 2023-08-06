@@ -1,5 +1,5 @@
 {
-  "uuid": "5e983043-4c75-4fdf-a989-bbfbc7f4ebbf",
+  "uuid": "22cc48d1-45f7-4119-97a5-2fb4ce297791",
   "filetype": 71,
   "filename": "BG_SRTBase.jpg",
   "name": "[BG_SRTBase.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SRTBase.jpg",
+    "value": "/static/images/background/BG_SRTBase.jpg",
     "short_desc": ""
   }
 }

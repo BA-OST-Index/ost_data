@@ -1,5 +1,5 @@
 {
-  "uuid": "e0cba122-5594-4339-b2fb-8b08f83048cb",
+  "uuid": "dd0c14c6-7a9f-49ef-8b8b-c2473f43dfce",
   "filetype": 71,
   "filename": "BG_CherinoOffice_Night.jpg",
   "name": "[BG_CherinoOffice_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CherinoOffice_Night.jpg",
+    "value": "/static/images/background/BG_CherinoOffice_Night.jpg",
     "short_desc": ""
   }
 }

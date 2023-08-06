@@ -1,5 +1,5 @@
 {
-  "uuid": "8607de41-b7c8-44f8-9053-75b30d03ae8c",
+  "uuid": "643b2a90-3bdf-4622-b77f-5aa8a4bb9716",
   "filetype": 71,
   "filename": "BG_GehennaCouncilHall.jpg",
   "name": "[BG_GehennaCouncilHall.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_GehennaCouncilHall.jpg",
+    "value": "/static/images/background/BG_GehennaCouncilHall.jpg",
     "short_desc": ""
   }
 }

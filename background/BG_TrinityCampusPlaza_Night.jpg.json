@@ -1,5 +1,5 @@
 {
-  "uuid": "40f78ad8-e96a-41a2-9a01-10537e4df885",
+  "uuid": "c43eecb2-7969-464a-a328-265bb90a8172",
   "filetype": 71,
   "filename": "BG_TrinityCampusPlaza_Night.jpg",
   "name": "[BG_TrinityCampusPlaza_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityCampusPlaza_Night.jpg",
+    "value": "/static/images/background/BG_TrinityCampusPlaza_Night.jpg",
     "short_desc": ""
   }
 }

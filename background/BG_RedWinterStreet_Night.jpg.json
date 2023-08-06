@@ -1,5 +1,5 @@
 {
-  "uuid": "6bf918d3-4b14-4d2d-96f1-76a2e5dbeea8",
+  "uuid": "cec6e00f-21cf-4312-af22-b89594b84b12",
   "filetype": 71,
   "filename": "BG_RedWinterStreet_Night.jpg",
   "name": "[BG_RedWinterStreet_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RedWinterStreet_Night.jpg",
+    "value": "/static/images/background/BG_RedWinterStreet_Night.jpg",
     "short_desc": ""
   }
 }

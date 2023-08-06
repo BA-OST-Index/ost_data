@@ -1,5 +1,5 @@
 {
-  "uuid": "f174a08f-772c-41f6-b72e-65f59ec584eb",
+  "uuid": "33bc73e3-5f2e-4f84-8ca2-eee9834def32",
   "filetype": 71,
   "filename": "BG_CruiseRooftop_Sunset.jpg",
   "name": "[BG_CruiseRooftop_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CruiseRooftop_Sunset.jpg",
+    "value": "/static/images/background/BG_CruiseRooftop_Sunset.jpg",
     "short_desc": ""
   }
 }

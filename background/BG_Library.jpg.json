@@ -1,5 +1,5 @@
 {
-  "uuid": "930189ec-ad63-4f7b-9b63-baf67a570f6a",
+  "uuid": "b53d977e-c7a9-4fa4-876a-44bc38045fbb",
   "filetype": 71,
   "filename": "BG_Library.jpg",
   "name": "[BG_Library.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Library.jpg",
+    "value": "/static/images/background/BG_Library.jpg",
     "short_desc": ""
   }
 }

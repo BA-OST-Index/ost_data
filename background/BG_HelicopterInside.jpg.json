@@ -1,0 +1,13 @@
+{
+  "uuid": "a48c3be3-80fc-4987-baaa-9b19dcb6bdd2",
+  "filetype": 71,
+  "filename": "BG_HelicopterInside.jpg",
+  "name": "[BG_HelicopterInside.jpg_NAME]",
+  "desc": "[BG_HelicopterInside.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_HelicopterInside.jpg",
+    "short_desc": ""
+  }
+}

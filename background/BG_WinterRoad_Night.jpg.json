@@ -1,5 +1,5 @@
 {
-  "uuid": "47d6576a-29c0-4df0-b5a4-e1f2f67beb61",
+  "uuid": "4fbdd725-b159-4b44-bd6e-a6e037d53132",
   "filetype": 71,
   "filename": "BG_WinterRoad_Night.jpg",
   "name": "[BG_WinterRoad_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_WinterRoad_Night.jpg",
+    "value": "/static/images/background/BG_WinterRoad_Night.jpg",
     "short_desc": ""
   }
 }

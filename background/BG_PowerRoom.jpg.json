@@ -1,0 +1,13 @@
+{
+  "uuid": "26274165-a818-4077-90a0-41a5c1c2ab45",
+  "filetype": 71,
+  "filename": "BG_PowerRoom.jpg",
+  "name": "[BG_PowerRoom.jpg_NAME]",
+  "desc": "[BG_PowerRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_PowerRoom.jpg",
+    "short_desc": ""
+  }
+}

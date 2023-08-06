@@ -1,5 +1,5 @@
 {
-  "uuid": "65020ec7-631c-449d-928a-cec0a21506a1",
+  "uuid": "196b21ad-7cd8-46b2-9132-0217e9c3451a",
   "filetype": 71,
   "filename": "BG_DecagrammatonFront.jpg",
   "name": "[BG_DecagrammatonFront.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DecagrammatonFront.jpg",
+    "value": "/static/images/background/BG_DecagrammatonFront.jpg",
     "short_desc": ""
   }
 }

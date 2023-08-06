@@ -1,9 +1,9 @@
 {
   "uuid": "ca748230-a66c-4226-b7d7-934b2fde8cf4",
   "filetype": -42,
-  "name": "",
+  "name": "[EVENT_18_NAME]",
   "namespace": "18",
-  "desc": "",
+  "desc": "[EVENT_18_DESC]",
 
   "include": [
     "[AUTO]"
@@ -13,5 +13,11 @@
     "enable": true,
     "extra_data": {},
     "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
   }
 }

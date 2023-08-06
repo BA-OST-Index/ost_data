@@ -1,5 +1,5 @@
 {
-  "uuid": "9386bf95-72ca-4a01-88e8-8d7a0e1c529b",
+  "uuid": "aab70f43-13f1-4e8a-b069-d5b8c933f4dd",
   "filetype": 71,
   "filename": "BG_ForestRailRoad.jpg",
   "name": "[BG_ForestRailRoad.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ForestRailRoad.jpg",
+    "value": "/static/images/background/BG_ForestRailRoad.jpg",
     "short_desc": ""
   }
 }

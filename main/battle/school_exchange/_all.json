@@ -1,9 +1,9 @@
 {
   "uuid": "7393ea22-7285-4132-a5a5-2fdc82b4a695",
   "filetype": -27,
-  "name": "",
+  "name": "[BATTLE_EXCHANGE_NAME]",
   "namespace": "school_exchange",
-  "desc": "",
+  "desc": "[BATTLE_EXCHANGE_DESC]",
 
   "include": [
     "[AUTO]"

@@ -1,0 +1,13 @@
+{
+  "uuid": "2a191041-99d8-4e46-adb7-a70e3c55ea49",
+  "filetype": 71,
+  "filename": "BG_SwimmingTerrace.jpg",
+  "name": "[BG_SwimmingTerrace.jpg_NAME]",
+  "desc": "[BG_SwimmingTerrace.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_SwimmingTerrace.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "uuid": "e7bc985c-4fae-4bdf-9ba3-0243e5f1efec",
+  "uuid": "f6da395c-a12c-4f13-97b0-9518f79f8481",
   "filetype": 71,
   "filename": "BG_Park.jpg",
   "name": "[BG_Park.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Park.jpg",
+    "value": "/static/images/background/BG_Park.jpg",
     "short_desc": ""
   }
 }

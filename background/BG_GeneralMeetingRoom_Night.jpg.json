@@ -1,0 +1,13 @@
+{
+  "uuid": "047348ec-2a80-4a7e-a1f9-b3d6e99d3345",
+  "filetype": 71,
+  "filename": "BG_GeneralMeetingRoom_Night.jpg",
+  "name": "[BG_GeneralMeetingRoom_Night.jpg_NAME]",
+  "desc": "[BG_GeneralMeetingRoom_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_GeneralMeetingRoom_Night.jpg",
+    "short_desc": ""
+  }
+}

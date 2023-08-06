@@ -1,5 +1,5 @@
 {
-  "uuid": "3baca3ab-9b54-454d-9eab-d85a1e543766",
+  "uuid": "9c6f767e-10af-43a7-b40e-d1c272a0ab39",
   "filetype": 71,
   "filename": "BG_BigBridge2_Night.jpg",
   "name": "[BG_BigBridge2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BigBridge2_Night.jpg",
+    "value": "/static/images/background/BG_BigBridge2_Night.jpg",
     "short_desc": ""
   }
 }

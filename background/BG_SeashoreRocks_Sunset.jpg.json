@@ -1,5 +1,5 @@
 {
-  "uuid": "5b6689ae-575c-41e5-bbf1-fb68674c6b58",
+  "uuid": "d97a9db1-c507-465e-a259-cbadccfdd24e",
   "filetype": 71,
   "filename": "BG_SeashoreRocks_Sunset.jpg",
   "name": "[BG_SeashoreRocks_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SeashoreRocks_Sunset.jpg",
+    "value": "/static/images/background/BG_SeashoreRocks_Sunset.jpg",
     "short_desc": ""
   }
 }

@@ -1,9 +1,9 @@
 {
   "uuid": "b4533e4f-aeeb-4962-bac7-b8673e2c2633",
   "filetype": -27,
-  "name": "",
+  "name": "[BATTLE_TOTAL_NAME]",
   "namespace": "total_assault",
-  "desc": "",
+  "desc": "[BATTLE_TOTAL_DESC]",
 
   "include": [
     "[AUTO]"

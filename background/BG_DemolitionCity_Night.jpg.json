@@ -1,5 +1,5 @@
 {
-  "uuid": "a3fae327-a06e-40d8-a71f-075273b78e1f",
+  "uuid": "0e77eb9b-354b-47a7-97fa-7c4792a76856",
   "filetype": 71,
   "filename": "BG_DemolitionCity_Night.jpg",
   "name": "[BG_DemolitionCity_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DemolitionCity_Night.jpg",
+    "value": "/static/images/background/BG_DemolitionCity_Night.jpg",
     "short_desc": ""
   }
 }

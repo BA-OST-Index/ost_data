@@ -1,5 +1,5 @@
 {
-  "uuid": "c5c1fd3b-5afb-4333-be99-d06d88db33ca",
+  "uuid": "0ba9d720-bfbe-4c7c-86f4-8047ab9e2387",
   "filetype": 71,
   "filename": "BG_DrawingRoom.jpg",
   "name": "[BG_DrawingRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DrawingRoom.jpg",
+    "value": "/static/images/background/BG_DrawingRoom.jpg",
     "short_desc": ""
   }
 }

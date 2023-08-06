@@ -1,5 +1,5 @@
 {
-  "uuid": "94e96a93-9c31-4644-ae2c-efb39f75cc31",
+  "uuid": "5f9e8a4a-3506-4f3f-a253-8377b6bd3a79",
   "filetype": 71,
   "filename": "BG_HyakkiyakoObservatory.jpg",
   "name": "[BG_HyakkiyakoObservatory.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoObservatory.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoObservatory.jpg",
     "short_desc": ""
   }
 }

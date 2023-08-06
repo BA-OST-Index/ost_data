@@ -1,5 +1,5 @@
 {
-  "uuid": "162d42af-f9a5-45d7-baf8-484722b43211",
+  "uuid": "809dad6a-f3e9-4d20-a37b-78c3273a496d",
   "filetype": 71,
   "filename": "BG_HyakkiyakoCampus_Night.jpg",
   "name": "[BG_HyakkiyakoCampus_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoCampus_Night.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoCampus_Night.jpg",
     "short_desc": ""
   }
 }

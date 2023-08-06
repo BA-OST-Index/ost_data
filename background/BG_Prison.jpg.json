@@ -1,5 +1,5 @@
 {
-  "uuid": "6c636d18-3225-46cb-bbe2-5e18607098b8",
+  "uuid": "067df8ba-9a64-419c-a41b-ccded567db8b",
   "filetype": 71,
   "filename": "BG_Prison.jpg",
   "name": "[BG_Prison.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Prison.jpg",
+    "value": "/static/images/background/BG_Prison.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "0bf61f0c-98db-446a-add8-47cc24666664",
+  "uuid": "41b0a6d3-e40c-4a53-9346-7cc79bf9e123",
   "filetype": 71,
   "filename": "BG_ClassCorridor2.jpg",
   "name": "[BG_ClassCorridor2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassCorridor2.jpg",
+    "value": "/static/images/background/BG_ClassCorridor2.jpg",
     "short_desc": ""
   }
 }

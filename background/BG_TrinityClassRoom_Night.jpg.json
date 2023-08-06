@@ -1,5 +1,5 @@
 {
-  "uuid": "7bc0532d-1457-4970-a079-004d556493bc",
+  "uuid": "8afd7b78-3347-439b-8131-179b6301f29f",
   "filetype": 71,
   "filename": "BG_TrinityClassRoom_Night.jpg",
   "name": "[BG_TrinityClassRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityClassRoom_Night.jpg",
+    "value": "/static/images/background/BG_TrinityClassRoom_Night.jpg",
     "short_desc": ""
   }
 }

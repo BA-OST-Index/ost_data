@@ -1,5 +1,5 @@
 {
-  "uuid": "bfe7a350-7970-4a41-8497-4af908bee4ba",
+  "uuid": "449795bb-4e70-4fb9-af49-6ad4ad7e62ab",
   "filetype": 71,
   "filename": "BG_CS_Rabbit_09.jpg",
   "name": "[BG_CS_Rabbit_09.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Rabbit_09.jpg",
+    "value": "/static/images/background/BG_CS_Rabbit_09.jpg",
     "short_desc": ""
   }
 }

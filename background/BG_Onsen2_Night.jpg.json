@@ -1,5 +1,5 @@
 {
-  "uuid": "25334a3d-3da8-4eb5-b962-b2993d0d34cb",
+  "uuid": "d8211c02-5e20-4bf4-87e5-b085974f8e1d",
   "filetype": 71,
   "filename": "BG_Onsen2_Night.jpg",
   "name": "[BG_Onsen2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Onsen2_Night.jpg",
+    "value": "/static/images/background/BG_Onsen2_Night.jpg",
     "short_desc": ""
   }
 }

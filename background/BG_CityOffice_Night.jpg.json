@@ -1,5 +1,5 @@
 {
-  "uuid": "7fe6ba1a-2cfa-430b-8b0c-0d6581503004",
+  "uuid": "f8b7b72b-6a66-455a-923c-9299c1d935cc",
   "filetype": 71,
   "filename": "BG_CityOffice_Night.jpg",
   "name": "[BG_CityOffice_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CityOffice_Night.jpg",
+    "value": "/static/images/background/BG_CityOffice_Night.jpg",
     "short_desc": ""
   }
 }

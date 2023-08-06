@@ -1,5 +1,5 @@
 {
-  "uuid": "2913572a-9b2f-4664-b3c3-f9eb13671d2e",
+  "uuid": "3d9e002c-a951-418b-807a-6f3ff63b708d",
   "filetype": 71,
   "filename": "BG_RuinSubmergedDistrict.jpg",
   "name": "[BG_RuinSubmergedDistrict.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinSubmergedDistrict.jpg",
+    "value": "/static/images/background/BG_RuinSubmergedDistrict.jpg",
     "short_desc": ""
   }
 }

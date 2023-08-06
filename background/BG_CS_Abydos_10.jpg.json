@@ -1,5 +1,5 @@
 {
-  "uuid": "06bb4f6c-a962-4a5d-8451-550c5dd41573",
+  "uuid": "3d913d4d-1c8a-4e1d-b41a-377d2d86609e",
   "filetype": 71,
   "filename": "BG_CS_Abydos_10.jpg",
   "name": "[BG_CS_Abydos_10.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Abydos_10.jpg",
+    "value": "/static/images/background/BG_CS_Abydos_10.jpg",
     "short_desc": ""
   }
 }

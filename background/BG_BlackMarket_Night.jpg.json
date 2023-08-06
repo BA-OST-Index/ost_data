@@ -1,5 +1,5 @@
 {
-  "uuid": "001fa46f-0960-4b5b-aa37-c7ec8056d8a7",
+  "uuid": "69a7408c-7a7c-40dc-9251-36209c22ac73",
   "filetype": 71,
   "filename": "BG_BlackMarket_Night.jpg",
   "name": "[BG_BlackMarket_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BlackMarket_Night.jpg",
+    "value": "/static/images/background/BG_BlackMarket_Night.jpg",
     "short_desc": ""
   }
 }

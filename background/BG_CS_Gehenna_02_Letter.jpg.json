@@ -1,5 +1,5 @@
 {
-  "uuid": "cba0edd6-3074-44d8-b05b-a2fda889c80f",
+  "uuid": "b8f3aad9-1daa-4562-ba47-7c0bce0cbbd2",
   "filetype": 71,
   "filename": "BG_CS_Gehenna_02_Letter.jpg",
   "name": "[BG_CS_Gehenna_02_Letter.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Gehenna_02_Letter.jpg",
+    "value": "/static/images/background/BG_CS_Gehenna_02_Letter.jpg",
     "short_desc": ""
   }
 }

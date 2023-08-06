@@ -1,5 +1,5 @@
 {
-  "uuid": "4e4cc368-6645-492b-8cb5-20fccc7a393d",
+  "uuid": "a77ef535-6ac7-4b73-bf94-c39449804016",
   "filetype": 71,
   "filename": "BG_TrinityClassRoom_Sunset.jpg",
   "name": "[BG_TrinityClassRoom_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityClassRoom_Sunset.jpg",
+    "value": "/static/images/background/BG_TrinityClassRoom_Sunset.jpg",
     "short_desc": ""
   }
 }

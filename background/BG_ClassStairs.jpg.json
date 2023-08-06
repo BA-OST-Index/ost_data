@@ -1,5 +1,5 @@
 {
-  "uuid": "e6200a4d-09bc-4dbe-81f7-7be29923642a",
+  "uuid": "cdae5f80-ec3b-42f5-9c2f-28cf8ec53981",
   "filetype": 71,
   "filename": "BG_ClassStairs.jpg",
   "name": "[BG_ClassStairs.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassStairs.jpg",
+    "value": "/static/images/background/BG_ClassStairs.jpg",
     "short_desc": ""
   }
 }

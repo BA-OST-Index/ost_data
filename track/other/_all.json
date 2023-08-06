@@ -1,9 +1,9 @@
 {
   "uuid": "16e6baa1-edc3-4285-afb7-75bd8fc32f77",
   "filetype": -12,
-  "name": "",
+  "name": "[TRACK_OTHER_NAME]",
   "namespace": "other",
-  "desc": "",
+  "desc": "[TRACK_OTHER_DESC]",
 
   "include": [
     "[AUTO]"

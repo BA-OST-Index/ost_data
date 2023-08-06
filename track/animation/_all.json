@@ -1,9 +1,9 @@
 {
   "uuid": "51f48848-3849-466b-a279-2dc6887b59e0",
   "filetype": -12,
-  "name": "",
+  "name": "[TRACK_ANIMATION_NAME]",
   "namespace": "animation",
-  "desc": "",
+  "desc": "[TRACK_ANIMATION_DESC]",
 
   "include": [
     "[AUTO]"

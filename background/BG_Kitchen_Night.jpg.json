@@ -1,5 +1,5 @@
 {
-  "uuid": "b7eec15b-ca6f-4b4f-bd45-a64a68746233",
+  "uuid": "3ae194b6-2179-4276-9d26-55f5d239e7d4",
   "filetype": 71,
   "filename": "BG_Kitchen_Night.jpg",
   "name": "[BG_Kitchen_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Kitchen_Night.jpg",
+    "value": "/static/images/background/BG_Kitchen_Night.jpg",
     "short_desc": ""
   }
 }

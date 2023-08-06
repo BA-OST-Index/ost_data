@@ -1,5 +1,5 @@
 {
-  "uuid": "f4771dce-aecb-47c0-8f02-9e7131222a47",
+  "uuid": "1d92d5ee-f671-407c-82b3-d91bbb5a0bee",
   "filetype": 71,
   "filename": "BG_ResortStreet.jpg",
   "name": "[BG_ResortStreet.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ResortStreet.jpg",
+    "value": "/static/images/background/BG_ResortStreet.jpg",
     "short_desc": ""
   }
 }

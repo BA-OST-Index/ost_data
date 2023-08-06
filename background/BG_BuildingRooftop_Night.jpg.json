@@ -1,5 +1,5 @@
 {
-  "uuid": "8968ad24-5a0c-419c-b85a-755829c40454",
+  "uuid": "a6d89afb-cd34-4871-b143-af64d6900d64",
   "filetype": 71,
   "filename": "BG_BuildingRooftop_Night.jpg",
   "name": "[BG_BuildingRooftop_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BuildingRooftop_Night.jpg",
+    "value": "/static/images/background/BG_BuildingRooftop_Night.jpg",
     "short_desc": ""
   }
 }

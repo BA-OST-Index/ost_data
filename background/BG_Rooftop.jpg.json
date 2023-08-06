@@ -1,0 +1,13 @@
+{
+  "uuid": "8cbe4473-cf37-4ef2-ac52-5b15a8f67afa",
+  "filetype": 71,
+  "filename": "BG_Rooftop.jpg",
+  "name": "[BG_Rooftop.jpg_NAME]",
+  "desc": "[BG_Rooftop.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Rooftop.jpg",
+    "short_desc": ""
+  }
+}

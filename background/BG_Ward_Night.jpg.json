@@ -1,5 +1,5 @@
 {
-  "uuid": "2fd36b4a-a2d9-41f7-866c-84a5c3b3306d",
+  "uuid": "551f546e-1c50-4b88-be4d-faec3a03d075",
   "filetype": 71,
   "filename": "BG_Ward_Night.jpg",
   "name": "[BG_Ward_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Ward_Night.jpg",
+    "value": "/static/images/background/BG_Ward_Night.jpg",
     "short_desc": ""
   }
 }

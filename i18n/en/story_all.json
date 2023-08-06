@@ -1,0 +1,58 @@
+{
+  "[STORY_ALL_NAME]": "All Story Type",
+  "[STORY_ALL_DESC]": "This page lists all the story types in Blue Archive available.",
+
+  "[STORY_MAIN_NAME]": "All Main Story",
+  "[STORY_MAIN_DESC]": "This page lists the chapter numbers and titles of all main story.",
+
+  "[STORY_MAIN_1_NAME]": "Foreclosure Task Force",
+  "[STORY_MAIN_1_DESC]": "Abydos is in danger of getting shut down. Help the Foreclosure Task Force save the academy!",
+  "[STORY_MAIN_1_1_NAME]": "Chapter 1 - Strange Days for the Task Force",
+  "[STORY_MAIN_1_1_DESC]": "The Foreclosure Task Force was formed to prevent Abydos High School from closing. The school's debt persists despite the students' best efforts.",
+  "[STORY_MAIN_1_2_NAME]": "Chapter 2 - Things Lost and Others Held On To",
+  "[STORY_MAIN_1_2_DESC]": "The Foreclosure Task Force is hanging on by a thread. Will they be able to fight back against the conspiracy that threatens their academy's survival?",
+
+  "[STORY_MAIN_2_NAME]": "Clockwork Flower Pavane",
+  "[STORY_MAIN_2_DESC]": "The Game Development Department is in need of assistance. Help them produce a fantastic video game by the deadline!",
+  "[STORY_MAIN_2_1_NAME]": "Chapter 1 - Retromania",
+  "[STORY_MAIN_2_1_DESC]": "The Game Development Department is in danger of getting shut down due to declining membership and performance. Can the ragtag band of gamers come together to make the best video game ever?",
+  "[STORY_MAIN_2_2_NAME]": "Chapter 2 - The Romance of Friendship, Courage, and Light",
+  "[STORY_MAIN_2_2_DESC]": "The Game Development Department sets their sights on the next Millennium Prize and starts developing a new game. But before long, they are confronted with a sudden crisis unveiling harsh truths. Will they be able to find their happy ending?",
+
+  "[STORY_MAIN_3_NAME]": "Eden Treaty",
+  "[STORY_MAIN_3_DESC]": "Gehenna and Trinity academies are sworn enemies. Will they ever see eye to eye?",
+  "[STORY_MAIN_3_1_NAME]": "Chapter 1 - Make-Up Work Club, Here We Go!",
+  "[STORY_MAIN_3_1_DESC]": "Save the troubled youth of Trinity who are at risk of failing out. Take charge of the Make-Up Work Club and lead your students to success!",
+  "[STORY_MAIN_3_2_NAME]": "Chapter 2 - Paradise Paradox",
+  "[STORY_MAIN_3_2_DESC]": "Conspiracy and betrayal, suspicion and doubt, scheming and shadow wars are running rampant. Will Sensei be able to safely overcome the crisis with the Make-Up Work Club students?",
+  "[STORY_MAIN_3_3_NAME]": "Chapter 3 - Our Stories",
+  "[STORY_MAIN_3_3_DESC]": "终于迎来了伊甸园条约签字仪式的当天。看似和平的日常生活出现了裂缝，混乱与憎恶的入侵正在加速。最终收束的目的地将会是“破局”，还是——",
+  "[STORY_MAIN_3_4_NAME]": "Chapter 4 - Kyrie of the Forgotten Gods",
+  "[STORY_MAIN_3_4_DESC]": "被自己所属的学院抛弃的奥利斯小队——徘徊于憎恶与愤怒之间的她们，真的存在着慈悲吗？",
+
+  "[STORY_MAIN_4_NAME]": "第四篇-卡班诺的兔子篇",
+  "[STORY_MAIN_4_DESC]": "SRT特殊学院在一夜之间突然遭到关闭。新生们的命运将会如何呢……？",
+  "[STORY_MAIN_4_1_NAME]": "第一章-RABBIT小队开始行动！",
+  "[STORY_MAIN_4_1_DESC]": "突然下达了SRT特殊学院的废校命令。RABBIT小队的学生们不能接受，开始在公园过着露宿野外的生活以示反抗……？",
+
+  "[STORY_MAIN_FINAL_NAME]": "Final. 所有奇迹的起点篇",
+  "[STORY_MAIN_FINAL_DESC]": "出现于日常的微小裂痕，安稳日子的崩坏仅在转瞬之间——",
+  "[STORY_MAIN_FINAL_1_NAME]": "第一篇-夏莱夺还作战",
+  "[STORY_MAIN_FINAL_1_DESC]": "在奇普托斯各地观测到的微小异常。立于薄冰之上的日常崩坏，疑惑和阴谋彼此纠缠——究竟夏莱能不能克服这个危机呢？",
+  "[STORY_MAIN_FINAL_2_NAME]": "第二篇-虚假的圣所攻略战",
+  "[STORY_MAIN_FINAL_2_DESC]": "奇普托斯突然出现了六座高塔。天空被不祥的赤红笼罩，未曾出现的威胁向奇普托斯袭来——老师能够顺利解决这个状况吗？",
+
+  "[STORY_SHORT_NAME]": "全部短篇故事",
+  "[STORY_SHORT_DESC]": "本页列出所有蔚蓝档案的短篇故事。",
+
+  "[STORY_SIDE_NAME]": "全部支线故事",
+  "[STORY_SIDE_DESC]": "本页列出所有蔚蓝档案的支线故事。",
+
+  "[STORY_OTHER_NAME]": "全部其他故事",
+  "[STORY_OTHER_DESC]": "本页列出所有蔚蓝档案的其它故事。",
+
+  "[STORY_OTHER_1_NAME]": "序幕",
+  "[STORY_OTHER_1_DESC]": "老师就任第一天的记录。",
+  "[STORY_OTHER_1_1_NAME]": "序幕-第一章",
+  "[STORY_OTHER_1_1_DESC]": "本页列出所有“序幕”故事第一章中的所有故事。"
+}

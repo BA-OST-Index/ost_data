@@ -1,0 +1,13 @@
+{
+  "uuid": "8b97515d-594f-4d99-983c-f9b8a8ef40c2",
+  "filetype": 71,
+  "filename": "BG_Hotelcorridor.jpg",
+  "name": "[BG_Hotelcorridor.jpg_NAME]",
+  "desc": "[BG_Hotelcorridor.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Hotelcorridor.jpg",
+    "short_desc": ""
+  }
+}

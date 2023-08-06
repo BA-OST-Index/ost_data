@@ -1,5 +1,5 @@
 {
-  "uuid": "d3cde847-d2ea-42db-b257-bd14f64e5fa5",
+  "uuid": "da76a8d2-a979-4258-b219-738727e7b181",
   "filetype": 71,
   "filename": "BG_RuinCenter.jpg",
   "name": "[BG_RuinCenter.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinCenter.jpg",
+    "value": "/static/images/background/BG_RuinCenter.jpg",
     "short_desc": ""
   }
 }

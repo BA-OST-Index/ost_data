@@ -1,0 +1,52 @@
+{
+  "[TAG_BRIGHT_NAME]": "光明的",
+  "[TAG_BRIGHT_DESC]": "在基沃托斯，没有任何一个未来是黑暗的；即使有，那也只是暂时的，因为最终这一切都将指向光明，而那光明并非遥不可及。<b>举例/联想：Connected Sky，<i>Does the color of the sky mean anything special to you?</i></b>",
+
+  "[TAG_DAYTODAY_NAME]": "日常的",
+  "[TAG_DAYTODAY_DESC]": "在大起大落的事情里外，我们总需要一点闲适的时间来放松自己的神经。<b>举例/联想：Lemonade Diary、Nesno wons；特征是较为温柔。</b>",
+
+  "[TAG_DISCOURAGED_NAME]": "灰心的",
+  "[TAG_DISCOURAGED_DESC]": "这里的未来，似乎看不到了。<b>举例/联想：Alkaline Tears、第140首曲子</b>",
+
+  "[TAG_DREAM_NAME]": "梦想",
+  "[TAG_DREAM_DESC]": "<b>举例/联想：Aoharu</b>",
+
+  "[TAG_ENERGETIC_NAME]": "超有活力",
+  "[TAG_ENERGETIC_DESC]": "<b>举例/联想：FEEEEVER TIME、Undefined Behavior、Goal Wo Nerae!；总体上基本与Uplifting的风格和战斗曲重合。</b>",
+
+  "[TAG_MYSTERIOUS_NAME]": "神秘的",
+  "[TAG_MYSTERIOUS_DESC]": "<b>举例/联想：OperationD</b>",
+
+  "[TAG_GLOOMY_NAME]": "阴森的",
+  "[TAG_GLOOMY_DESC]": "<b>举例/联想：Crucial Issue、Formless Dream</b>",
+
+  "[TAG_FUTURE_NAME]": "未来",
+  "[TAG_FUTURE_DESC]": "<b>举例/联想：Aoharu</b>",
+
+  "[TAG_FAILURE_NAME]": "失败",
+  "[TAG_FAILURE_DESC]": "<b>举例/联想：第135首曲子、第140首曲子</b>",
+
+  "[TAG_SAD_NAME]": "悲伤的",
+  "[TAG_SAD_DESC]": "<b>举例/联想：Kaphar</b>",
+
+  "[TAG_UNEASY_NAME]": "令人不安的",
+  "[TAG_UNEASY_DESC]": "<b>举例/联想：Let me think about it</b>",
+
+  "[TAG_POSSIBILITIES_NAME]": "可能性",
+  "[TAG_POSSIBILITIES_DESC]": "等下，接下来要发生什么？！<b>举例：第137首曲子</b>",
+
+  "[TAG_RELAXING_NAME]": "轻松惬意",
+  "[TAG_RELAXING_DESC]": "有些时候，停下来饮杯茶也不错。<b>举例/联想：Cherry Merry Berry</b>",
+
+  "[TAG_NERVOUS_NAME]": "紧张的",
+  "[TAG_NERVOUS_DESC]": "全体就绪，准备战斗！<b>举例/联想：Encroached Sky、Polyphonic</b>",
+
+  "[TAG_HOPEFUL_NAME]": "充满希望的",
+  "[TAG_HOPEFUL_DESC]": "干就完了，奥利给！<b>举例/联想：System All Green</b>",
+
+  "[TAG_HOLY_NAME]": "神圣的",
+  "[TAG_HOLY_DESC]": "<b>举例/联想：Final Destination of Ark</b>",
+
+  "[TAG_NAUGHTY_NAME]": "调皮的",
+  "[TAG_NAUGHTY_DESC]": "<b>举例/联想：Usagi Flap、第114首曲子、第159首曲子</b>"
+}

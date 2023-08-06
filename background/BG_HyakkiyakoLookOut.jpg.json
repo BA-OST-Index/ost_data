@@ -1,5 +1,5 @@
 {
-  "uuid": "84bda133-d498-4585-b6fd-ae6bd5fb544b",
+  "uuid": "e9631257-7145-4206-909c-f1b1ad1313d9",
   "filetype": 71,
   "filename": "BG_HyakkiyakoLookOut.jpg",
   "name": "[BG_HyakkiyakoLookOut.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoLookOut.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoLookOut.jpg",
     "short_desc": ""
   }
 }

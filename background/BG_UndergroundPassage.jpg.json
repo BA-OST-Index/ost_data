@@ -1,5 +1,5 @@
 {
-  "uuid": "6f9af0ea-708a-444a-ac06-7dbd3fb57b61",
+  "uuid": "9e639c81-29de-4d19-89fd-6ae4127cc658",
   "filetype": 71,
   "filename": "BG_UndergroundPassage.jpg",
   "name": "[BG_UndergroundPassage.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_UndergroundPassage.jpg",
+    "value": "/static/images/background/BG_UndergroundPassage.jpg",
     "short_desc": ""
   }
 }

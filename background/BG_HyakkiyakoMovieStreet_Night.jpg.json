@@ -1,5 +1,5 @@
 {
-  "uuid": "582d34e0-b7eb-4361-bc6d-88a859c09d71",
+  "uuid": "a03a318a-51fa-4d46-82f3-cf7293a59bc0",
   "filetype": 71,
   "filename": "BG_HyakkiyakoMovieStreet_Night.jpg",
   "name": "[BG_HyakkiyakoMovieStreet_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoMovieStreet_Night.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoMovieStreet_Night.jpg",
     "short_desc": ""
   }
 }

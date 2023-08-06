@@ -1,5 +1,5 @@
 {
-  "uuid": "cc2e0a19-39c3-4f81-a7ca-dc7177bcb008",
+  "uuid": "81f1fdf2-0873-4321-be04-1f10d4bb1b57",
   "filetype": 71,
   "filename": "BG_ValkyrieOffice2_Night.jpg",
   "name": "[BG_ValkyrieOffice2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ValkyrieOffice2_Night.jpg",
+    "value": "/static/images/background/BG_ValkyrieOffice2_Night.jpg",
     "short_desc": ""
   }
 }

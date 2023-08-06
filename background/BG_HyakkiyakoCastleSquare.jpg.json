@@ -1,5 +1,5 @@
 {
-  "uuid": "79da8e15-1379-481c-8c77-481fa9982aee",
+  "uuid": "beaf224c-ad00-4d2a-bbbd-edc5b84e922c",
   "filetype": 71,
   "filename": "BG_HyakkiyakoCastleSquare.jpg",
   "name": "[BG_HyakkiyakoCastleSquare.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoCastleSquare.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoCastleSquare.jpg",
     "short_desc": ""
   }
 }

@@ -17,12 +17,28 @@
 
   "part": [
     {
-      "name": "四大天王优香",
-      "desc": "优香前来解释情况，表示废社是板上钉钉的事情，“即使把夏莱牵涉进来，或者学生会会长本人回来”也没有用。桃井与绿据理力争，但在“以结果为导向”的千年，游戏开发部的成果并未得到正视；同时，优香还冷嘲热讽了一下社团的唯一成果——“年度垃圾游戏排行榜第一名”的《故事·传说·编年史》。就在优香让两人将东西全部清走，并称它们为“乱七八糟的东西”时，桃井突然声称他们一定能在“千年大赏”上拿出成果、斩获名次——但时间只有两周。优香最后同意；离开后，游戏部二人向老师讲述了他们的计划，并提到了《G.Bible》一书。",
+      "name": "[STORY_MAIN_2_1_2_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_2_P1_DESC]",
       "is_battle": false,
-      "track": ["OST_64", "OST_5", "OST_32"],
+      "track": ["OST_64"],
       "background": ["BG_GameDevRoom.jpg"],
       "character": ["Midori", "Momoi", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_2_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_2_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_5"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_2_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_2_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi"]
     }
   ],
   "is_battle": false

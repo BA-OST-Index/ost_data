@@ -1,0 +1,13 @@
+{
+  "uuid": "32b0ad08-78cb-4048-9466-d83b17474f69",
+  "filetype": 71,
+  "filename": "BG_ArkCorridor.jpg",
+  "name": "[BG_ArkCorridor.jpg_NAME]",
+  "desc": "[BG_ArkCorridor.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_ArkCorridor.jpg",
+    "short_desc": ""
+  }
+}

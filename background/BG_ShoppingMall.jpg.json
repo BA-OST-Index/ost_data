@@ -1,5 +1,5 @@
 {
-  "uuid": "599a1f7d-97a9-4203-8b10-eb7953733b12",
+  "uuid": "a00a0c8c-a78a-4e7f-9a00-319346f09ec8",
   "filetype": 71,
   "filename": "BG_ShoppingMall.jpg",
   "name": "[BG_ShoppingMall.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ShoppingMall.jpg",
+    "value": "/static/images/background/BG_ShoppingMall.jpg",
     "short_desc": ""
   }
 }

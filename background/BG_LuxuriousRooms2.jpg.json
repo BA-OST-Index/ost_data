@@ -1,5 +1,5 @@
 {
-  "uuid": "c11e3daf-a4b8-4fc3-834d-16270f3a2022",
+  "uuid": "7f389640-8467-4a7a-8fc4-19a9a0c098d5",
   "filetype": 71,
   "filename": "BG_LuxuriousRooms2.jpg",
   "name": "[BG_LuxuriousRooms2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_LuxuriousRooms2.jpg",
+    "value": "/static/images/background/BG_LuxuriousRooms2.jpg",
     "short_desc": ""
   }
 }

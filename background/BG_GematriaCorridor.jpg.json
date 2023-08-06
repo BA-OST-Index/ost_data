@@ -1,5 +1,5 @@
 {
-  "uuid": "9e2e0bdf-c94b-48b0-8b31-451d98bb4840",
+  "uuid": "f1c25325-36d5-438e-b662-2f5b47688650",
   "filetype": 71,
   "filename": "BG_GematriaCorridor.jpg",
   "name": "[BG_GematriaCorridor.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_GematriaCorridor.jpg",
+    "value": "/static/images/background/BG_GematriaCorridor.jpg",
     "short_desc": ""
   }
 }

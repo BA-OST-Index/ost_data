@@ -1,5 +1,5 @@
 {
-  "uuid": "4220874d-c6ee-414d-aa1b-fee3ac540907",
+  "uuid": "6cb72937-f38f-4f5f-921e-3034fc33b455",
   "filetype": 71,
   "filename": "BG_MilleniumCorridor_Night_Blur.jpg",
   "name": "[BG_MilleniumCorridor_Night_Blur.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_MilleniumCorridor_Night_Blur.jpg",
+    "value": "/static/images/background/BG_MilleniumCorridor_Night_Blur.jpg",
     "short_desc": ""
   }
 }

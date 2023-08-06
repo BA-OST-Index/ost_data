@@ -1,5 +1,5 @@
 {
-  "uuid": "d24ea5ff-0614-4316-a555-8e644034d9ae",
+  "uuid": "e3d20d94-0da6-4424-a2b8-386a989b3c96",
   "filetype": 71,
   "filename": "BG_TrinityOldLibrary.jpg",
   "name": "[BG_TrinityOldLibrary.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityOldLibrary.jpg",
+    "value": "/static/images/background/BG_TrinityOldLibrary.jpg",
     "short_desc": ""
   }
 }

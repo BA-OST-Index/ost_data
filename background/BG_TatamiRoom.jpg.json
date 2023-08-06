@@ -1,5 +1,5 @@
 {
-  "uuid": "91514b66-8d9b-460c-ba34-024e7441f6e4",
+  "uuid": "21b68041-05d9-4082-9dc9-7bab63e3e4f5",
   "filetype": 71,
   "filename": "BG_TatamiRoom.jpg",
   "name": "[BG_TatamiRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TatamiRoom.jpg",
+    "value": "/static/images/background/BG_TatamiRoom.jpg",
     "short_desc": ""
   }
 }

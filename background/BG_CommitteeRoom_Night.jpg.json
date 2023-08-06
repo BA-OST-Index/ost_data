@@ -1,5 +1,5 @@
 {
-  "uuid": "2c21e0dc-95f0-4e2f-857b-676a4d1943ad",
+  "uuid": "2027c493-bef2-406c-9b52-e58e32091dd8",
   "filetype": 71,
   "filename": "BG_CommitteeRoom_Night.jpg",
   "name": "[BG_CommitteeRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CommitteeRoom_Night.jpg",
+    "value": "/static/images/background/BG_CommitteeRoom_Night.jpg",
     "short_desc": ""
   }
 }

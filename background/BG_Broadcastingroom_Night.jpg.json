@@ -1,5 +1,5 @@
 {
-  "uuid": "7ad63031-101e-48d8-b56c-65a91d0d8f37",
+  "uuid": "0544cd45-e59e-47f4-b3d9-2368329481d3",
   "filetype": 71,
   "filename": "BG_Broadcastingroom_Night.jpg",
   "name": "[BG_Broadcastingroom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Broadcastingroom_Night.jpg",
+    "value": "/static/images/background/BG_Broadcastingroom_Night.jpg",
     "short_desc": ""
   }
 }

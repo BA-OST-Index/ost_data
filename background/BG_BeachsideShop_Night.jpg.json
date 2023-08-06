@@ -1,5 +1,5 @@
 {
-  "uuid": "f3167f66-c092-402b-84fb-3b541d8517bc",
+  "uuid": "ef851f2d-852b-4f67-91ee-78bd05c42e5c",
   "filetype": 71,
   "filename": "BG_BeachsideShop_Night.jpg",
   "name": "[BG_BeachsideShop_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BeachsideShop_Night.jpg",
+    "value": "/static/images/background/BG_BeachsideShop_Night.jpg",
     "short_desc": ""
   }
 }

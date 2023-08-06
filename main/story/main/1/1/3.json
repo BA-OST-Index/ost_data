@@ -17,8 +17,8 @@
 
   "part": [
     {
-      "name": "讨论作战计划",
-      "desc": "在击退头盔圈后，众人对老师刚刚的指挥感到赞叹不已；之后众人分别介绍了自己。星野此时提出要去袭击头盔圈的前哨基地，老师表示同意，众人立刻出发。",
+      "name": "[STORY_MAIN_1_1_3_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_3_P1_DESC]",
       "is_battle": false,
       "track": ["OST_10", "OST_5"],
       "background": ["BG_CommitteeRoom.jpg", "BG_CityOffice.jpg"],
@@ -33,8 +33,8 @@
       "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
     },
     {
-      "name": "返回学校",
-      "desc": "众人在作战成功后，返回学校。",
+      "name": "[STORY_MAIN_1_1_3_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_3_P3_DESC]",
       "is_battle": false,
       "track": ["OST_11"],
       "background": ["BG_CityOffice.jpg"],

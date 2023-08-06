@@ -1,5 +1,5 @@
 {
-  "uuid": "60680e7e-d8d1-4aca-95aa-565e82c44fa2",
+  "uuid": "f8bd79b4-b1b7-488e-ab5f-919661e1ceea",
   "filetype": 71,
   "filename": "BG_TrinityClassRoom_Blur.jpg",
   "name": "[BG_TrinityClassRoom_Blur.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityClassRoom_Blur.jpg",
+    "value": "/static/images/background/BG_TrinityClassRoom_Blur.jpg",
     "short_desc": ""
   }
 }

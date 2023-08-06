@@ -1,5 +1,5 @@
 {
-  "uuid": "0cf05013-9a7d-4ffd-9450-93b026d36b8d",
+  "uuid": "350370fb-8448-462f-8a11-f620736e7fb1",
   "filetype": 71,
   "filename": "BG_ClassRoom2_Night.jpg",
   "name": "[BG_ClassRoom2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassRoom2_Night.jpg",
+    "value": "/static/images/background/BG_ClassRoom2_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "cd24a451-80c7-4a3b-b04e-2036e168eaf5",
+  "uuid": "209bd19a-42fb-4180-acb3-f90c37d21848",
   "filetype": 71,
   "filename": "BG_RyoKanFront.jpg",
   "name": "[BG_RyoKanFront.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RyoKanFront.jpg",
+    "value": "/static/images/background/BG_RyoKanFront.jpg",
     "short_desc": ""
   }
 }

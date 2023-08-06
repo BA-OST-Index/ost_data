@@ -1,5 +1,5 @@
 {
-  "uuid": "8855a74c-7694-483c-8598-fd3cea7d42ac",
+  "uuid": "9b8574ea-5b7a-498e-9d3e-133a842285f9",
   "filetype": 71,
   "filename": "BG_RailWay.jpg",
   "name": "[BG_RailWay.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RailWay.jpg",
+    "value": "/static/images/background/BG_RailWay.jpg",
     "short_desc": ""
   }
 }

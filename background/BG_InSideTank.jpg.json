@@ -1,5 +1,5 @@
 {
-  "uuid": "c26695c1-8a36-4f30-b070-bd6cffa31367",
+  "uuid": "860c0da2-6244-4c7d-8d0f-d5d6cc30a372",
   "filetype": 71,
   "filename": "BG_InSideTank.jpg",
   "name": "[BG_InSideTank.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_InSideTank.jpg",
+    "value": "/static/images/background/BG_InSideTank.jpg",
     "short_desc": ""
   }
 }

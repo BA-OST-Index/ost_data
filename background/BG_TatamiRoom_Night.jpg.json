@@ -1,5 +1,5 @@
 {
-  "uuid": "f752d7e0-404a-4323-bcea-11a2c0d63fc4",
+  "uuid": "82107e53-b71e-4700-98bb-2c04e7164ed2",
   "filetype": 71,
   "filename": "BG_TatamiRoom_Night.jpg",
   "name": "[BG_TatamiRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TatamiRoom_Night.jpg",
+    "value": "/static/images/background/BG_TatamiRoom_Night.jpg",
     "short_desc": ""
   }
 }

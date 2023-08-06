@@ -1,9 +1,9 @@
 {
   "uuid": "f480440b-60d9-42ee-a041-f830f3889a77",
   "filetype": -43,
-  "name": "",
+  "name": "[EVENT_GSTORY_NAME]",
   "namespace": "story",
-  "desc": "",
+  "desc": "[EVENT_18_STORY_DESC]",
 
   "include": [
     "[AUTO]"
@@ -12,6 +12,12 @@
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
   }
 }

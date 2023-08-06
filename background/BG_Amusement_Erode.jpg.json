@@ -1,0 +1,13 @@
+{
+  "uuid": "7513bd9f-d9aa-4409-a205-b66c87833d25",
+  "filetype": 71,
+  "filename": "BG_Amusement_Erode.jpg",
+  "name": "[BG_Amusement_Erode.jpg_NAME]",
+  "desc": "[BG_Amusement_Erode.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Amusement_Erode.jpg",
+    "short_desc": ""
+  }
+}

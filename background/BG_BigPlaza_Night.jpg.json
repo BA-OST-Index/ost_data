@@ -1,5 +1,5 @@
 {
-  "uuid": "d1b5b7ff-264f-4abc-b1aa-19b3b70b512a",
+  "uuid": "a6b82be3-b27f-4857-ac58-507bedc31128",
   "filetype": 71,
   "filename": "BG_BigPlaza_Night.jpg",
   "name": "[BG_BigPlaza_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_BigPlaza_Night.jpg",
+    "value": "/static/images/background/BG_BigPlaza_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "0baf889d-76c7-4d3b-9d71-ea5132413c51",
+  "uuid": "fd81ec5b-6950-440e-ac6a-42e4f46ce85c",
   "filetype": 71,
   "filename": "BG_OperationRoom.jpg",
   "name": "[BG_OperationRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_OperationRoom.jpg",
+    "value": "/static/images/background/BG_OperationRoom.jpg",
     "short_desc": ""
   }
 }

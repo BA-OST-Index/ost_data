@@ -1,5 +1,5 @@
 {
-  "uuid": "0a418fd8-4052-41b4-9c5b-1da508585ee3",
+  "uuid": "885d9292-b7d5-469b-a7fe-91a99818cbb7",
   "filetype": 71,
   "filename": "BG_ShoppingMall_Night.jpg",
   "name": "[BG_ShoppingMall_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ShoppingMall_Night.jpg",
+    "value": "/static/images/background/BG_ShoppingMall_Night.jpg",
     "short_desc": ""
   }
 }

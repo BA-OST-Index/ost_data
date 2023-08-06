@@ -1,5 +1,5 @@
 {
-  "uuid": "8197e073-0bf8-4997-8a63-ac0fb5d02053",
+  "uuid": "f11177fa-2781-493f-8996-d5ec1a71e8b4",
   "filetype": 71,
   "filename": "BG_TropicalForest_Night.jpg",
   "name": "[BG_TropicalForest_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TropicalForest_Night.jpg",
+    "value": "/static/images/background/BG_TropicalForest_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,0 +1,53 @@
+{
+  "uuid": "b81f3835-23ab-4e9b-899c-b95ff32cf53e",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_4_NAME]",
+  "desc": "[STORY_MAIN_2_1_4_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_4_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_4_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_13", "OST_27"],
+      "background": ["BG_RuinUndergroundPassage.jpg"],
+      "character": ["Momoi", "Midori"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_4_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_4_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_41"],
+      "background": ["BG_RuinUndergroundPassage_Night.jpg"],
+      "character": ["Momoi", "Midori"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_4_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_4_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_67"],
+      "background": ["BG_RuinUndergroundPassage_Night.jpg", "BG_RuinCenter_Aris.jpg", "BG_CS_Millenium_10.jpg", "BG_CS_Millenium_10_c.jpg", "BG_RuinCenter.jpg"],
+      "character": ["Momoi", "Midori", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_4_P4_NAME]",
+      "desc": "[STORY_MAIN_2_1_4_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Aris"]
+    }
+  ],
+  "is_battle": false
+}

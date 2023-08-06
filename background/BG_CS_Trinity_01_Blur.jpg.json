@@ -1,5 +1,5 @@
 {
-  "uuid": "7e696f95-2674-4d1a-af6a-9edf4edf02de",
+  "uuid": "724261a5-12e5-4c11-abfc-28293d9f63ea",
   "filetype": 71,
   "filename": "BG_CS_Trinity_01_Blur.jpg",
   "name": "[BG_CS_Trinity_01_Blur.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Trinity_01_Blur.jpg",
+    "value": "/static/images/background/BG_CS_Trinity_01_Blur.jpg",
     "short_desc": ""
   }
 }

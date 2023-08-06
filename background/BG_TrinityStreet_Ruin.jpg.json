@@ -1,5 +1,5 @@
 {
-  "uuid": "180044c7-c170-46a0-a3ba-735c067789e9",
+  "uuid": "6b61e9d8-abca-435a-afd0-393395b44d5d",
   "filetype": 71,
   "filename": "BG_TrinityStreet_Ruin.jpg",
   "name": "[BG_TrinityStreet_Ruin.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_TrinityStreet_Ruin.jpg",
+    "value": "/static/images/background/BG_TrinityStreet_Ruin.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "8874bf35-1b5e-4d58-b4d1-e04fede17751",
+  "uuid": "26860b2c-8f4b-405f-887e-e853deea089a",
   "filetype": 71,
   "filename": "BG_SubwayHall_Night.jpg",
   "name": "[BG_SubwayHall_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SubwayHall_Night.jpg",
+    "value": "/static/images/background/BG_SubwayHall_Night.jpg",
     "short_desc": ""
   }
 }

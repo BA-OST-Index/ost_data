@@ -1,9 +1,9 @@
 {
   "uuid": "1969686f-fc12-4785-83ba-cf182fefc28e",
   "filetype": -25,
-  "name": "",
+  "name": "[STORY_OTHER_1_1_NAME]",
   "namespace": "1",
-  "desc": "",
+  "desc": "[STORY_OTHER_1_1_DESC]",
 
   "include": [
     "[AUTO]"
@@ -13,5 +13,11 @@
     "enable": true,
     "extra_data": {},
     "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
   }
 }

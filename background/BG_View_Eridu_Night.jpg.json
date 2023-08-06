@@ -1,5 +1,5 @@
 {
-  "uuid": "3ceb54a8-cc98-4542-b238-5474338cac42",
+  "uuid": "dcad8986-0a4f-4cbd-920d-65f4428c1b4b",
   "filetype": 71,
   "filename": "BG_View_Eridu_Night.jpg",
   "name": "[BG_View_Eridu_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_Eridu_Night.jpg",
+    "value": "/static/images/background/BG_View_Eridu_Night.jpg",
     "short_desc": ""
   }
 }

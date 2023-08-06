@@ -1,6 +1,7 @@
 {
   "Aru": {
     "PathName": "Aru",
+    "DevName": "Aru",
     "FamilyName": "陸八魔",
     "PersonalName": "アル",
     "SchoolYear": "2年生",
@@ -11,10 +12,14 @@
     "Hobby": "経営の勉強",
     "BirthDay": "3/12",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Aru_Collection",
+    "Name": "アル"
   },
   "Eimi": {
     "PathName": "Eimi",
+    "DevName": "Eimi",
     "FamilyName": "和泉元",
     "PersonalName": "エイミ",
     "SchoolYear": "1年生",
@@ -25,10 +30,14 @@
     "Hobby": "ボーっとすること、音楽鑑賞",
     "BirthDay": "5/1",
     "School": "Millennium",
-    "Club": "SPTF"
+    "Club": "SPTF",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Eimi_Collection",
+    "Name": "エイミ"
   },
   "Haruna": {
     "PathName": "Haruna",
+    "DevName": "Haruna",
     "FamilyName": "黒舘",
     "PersonalName": "ハルナ",
     "SchoolYear": "3年生",
@@ -39,10 +48,14 @@
     "Hobby": "美味しいもの探し",
     "BirthDay": "3/1",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Haruna_Collection",
+    "Name": "ハルナ"
   },
   "Hifumi": {
     "PathName": "Hifumi",
+    "DevName": "Hihumi",
     "FamilyName": "阿慈谷",
     "PersonalName": "ヒフミ",
     "SchoolYear": "2年生",
@@ -53,10 +66,14 @@
     "Hobby": "ペロログッズ集め、可愛いもの集め、ショッピング、相談に乗ること",
     "BirthDay": "11/27",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Hihumi_Collection",
+    "Name": "ヒフミ"
   },
   "Hina": {
     "PathName": "Hina",
+    "DevName": "Hina",
     "FamilyName": "空崎",
     "PersonalName": "ヒナ",
     "SchoolYear": "3年生",
@@ -67,10 +84,14 @@
     "Hobby": "睡眠、休憩",
     "BirthDay": "2/19",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Hina_Collection",
+    "Name": "ヒナ"
   },
   "Hoshino": {
     "PathName": "Hoshino",
+    "DevName": "Hoshino",
     "FamilyName": "小鳥遊",
     "PersonalName": "ホシノ",
     "SchoolYear": "3年生",
@@ -81,10 +102,14 @@
     "Hobby": "昼寝、ゴロゴロすること",
     "BirthDay": "1/2",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Abydos_Collection",
+    "CollectionTexture": "Student_Portrait_Hoshino_Collection",
+    "Name": "ホシノ"
   },
   "Iori": {
     "PathName": "Iori",
+    "DevName": "Iori",
     "FamilyName": "銀鏡",
     "PersonalName": "イオリ",
     "SchoolYear": "2年生",
@@ -95,10 +120,14 @@
     "Hobby": "パトロール、大声を出すこと",
     "BirthDay": "11/8",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Iori_Collection",
+    "Name": "イオリ"
   },
   "Maki": {
     "PathName": "Maki",
+    "DevName": "Maki",
     "FamilyName": "小塗",
     "PersonalName": "マキ",
     "SchoolYear": "1年生",
@@ -109,10 +138,14 @@
     "Hobby": "グラフィティ、ゲーム",
     "BirthDay": "8/1",
     "School": "Millennium",
-    "Club": "Veritas"
+    "Club": "Veritas",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Maki_Collection",
+    "Name": "マキ"
   },
   "Neru": {
     "PathName": "Neru",
+    "DevName": "Neru",
     "FamilyName": "美甘",
     "PersonalName": "ネル",
     "SchoolYear": "3年生",
@@ -123,10 +156,14 @@
     "Hobby": "勝利",
     "BirthDay": "8/17",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Neru_Collection",
+    "Name": "ネル"
   },
   "Izumi": {
     "PathName": "Izumi",
+    "DevName": "Izumi",
     "FamilyName": "獅子堂",
     "PersonalName": "イズミ",
     "SchoolYear": "2年生",
@@ -137,10 +174,14 @@
     "Hobby": "ゲテモノ料理を食べること、作ること",
     "BirthDay": "5/11",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Izumi_Collection",
+    "Name": "イズミ"
   },
   "Shiroko": {
     "PathName": "Shiroko",
+    "DevName": "Shiroko",
     "FamilyName": "砂狼",
     "PersonalName": "シロコ",
     "SchoolYear": "2年生",
@@ -151,10 +192,14 @@
     "Hobby": "ジョギング、体力トレーニング、ロードバイク",
     "BirthDay": "5/16",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Abydos_Collection",
+    "CollectionTexture": "Student_Portrait_Shiroko_Collection",
+    "Name": "シロコ"
   },
   "Shun": {
     "PathName": "Shun",
+    "DevName": "Shun",
     "FamilyName": "春原",
     "PersonalName": "シュン",
     "SchoolYear": "3年生",
@@ -165,10 +210,14 @@
     "Hobby": "子供たちと遊ぶこと",
     "BirthDay": "2/5",
     "School": "Shanhaijing",
-    "Club": "Meihuayuan"
+    "Club": "Meihuayuan",
+    "CollectionBG": "BG_Sanhaijing_Collection",
+    "CollectionTexture": "Student_Portrait_Shun_Collection",
+    "Name": "シュン"
   },
   "Sumire": {
     "PathName": "Sumire",
+    "DevName": "Sumire",
     "FamilyName": "乙花",
     "PersonalName": "スミレ",
     "SchoolYear": "2年生",
@@ -179,10 +228,14 @@
     "Hobby": "トレーニング、ガーデニング",
     "BirthDay": "8/20",
     "School": "Millennium",
-    "Club": "TrainingClub"
+    "Club": "TrainingClub",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Sumire_Collection",
+    "Name": "スミレ"
   },
   "Tsurugi": {
     "PathName": "Tsurugi",
+    "DevName": "Tsurugi",
     "FamilyName": "剣先",
     "PersonalName": "ツルギ",
     "SchoolYear": "3年生",
@@ -193,10 +246,14 @@
     "Hobby": "映画鑑賞、読書（恋愛小説）",
     "BirthDay": "6/24",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Tsurugi_Collection",
+    "Name": "ツルギ"
   },
   "Akane": {
     "PathName": "Akane",
+    "DevName": "Akane",
     "FamilyName": "室笠",
     "PersonalName": "アカネ",
     "SchoolYear": "2年生",
@@ -207,10 +264,14 @@
     "Hobby": "お掃除",
     "BirthDay": "4/1",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Akane_Collection",
+    "Name": "アカネ"
   },
   "Chise": {
     "PathName": "Chise",
+    "DevName": "Chise",
     "FamilyName": "和楽",
     "PersonalName": "チセ",
     "SchoolYear": "2年生",
@@ -221,10 +282,14 @@
     "Hobby": "俳句",
     "BirthDay": "7/13",
     "School": "Hyakkiyako",
-    "Club": "Onmyobu"
+    "Club": "Onmyobu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Chise_Collection",
+    "Name": "チセ"
   },
   "Akari": {
     "PathName": "Akari",
+    "DevName": "Akari",
     "FamilyName": "鰐渕",
     "PersonalName": "アカリ",
     "SchoolYear": "3年生",
@@ -235,10 +300,14 @@
     "Hobby": "大食い",
     "BirthDay": "12/9",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Akari_Collection",
+    "Name": "アカリ"
   },
   "Hasumi": {
     "PathName": "Hasumi",
+    "DevName": "Hasumi",
     "FamilyName": "羽川",
     "PersonalName": "ハスミ",
     "SchoolYear": "3年生",
@@ -249,10 +318,14 @@
     "Hobby": "読書、人間観察",
     "BirthDay": "12/12",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Hasumi_Collection",
+    "Name": "ハスミ"
   },
   "Nonomi": {
     "PathName": "Nonomi",
+    "DevName": "Nonomi",
     "FamilyName": "十六夜",
     "PersonalName": "ノノミ",
     "SchoolYear": "2年生",
@@ -263,10 +336,14 @@
     "Hobby": "ショッピング",
     "BirthDay": "9/1",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Abydos_Collection",
+    "CollectionTexture": "Student_Portrait_Nonomi_Collection",
+    "Name": "ノノミ"
   },
   "Kayoko": {
     "PathName": "Kayoko",
+    "DevName": "Kayoko",
     "FamilyName": "鬼方",
     "PersonalName": "カヨコ",
     "SchoolYear": "3年生",
@@ -277,10 +354,14 @@
     "Hobby": "音楽CD収集",
     "BirthDay": "3/17",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Kayoko_Collection",
+    "Name": "カヨコ"
   },
   "Mutsuki": {
     "PathName": "Mutsuki",
+    "DevName": "Mutsuki",
     "FamilyName": "浅黄",
     "PersonalName": "ムツキ",
     "SchoolYear": "2年生",
@@ -291,10 +372,14 @@
     "Hobby": "爆弾収集",
     "BirthDay": "7/29",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Mutsuki_Collection",
+    "Name": "ムツキ"
   },
   "Junko": {
     "PathName": "Junko",
+    "DevName": "Zunko",
     "FamilyName": "赤司",
     "PersonalName": "ジュンコ",
     "SchoolYear": "1年生",
@@ -305,10 +390,14 @@
     "Hobby": "グルメ巡り",
     "BirthDay": "12/27",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Zunko_Collection",
+    "Name": "ジュンコ"
   },
   "Serika": {
     "PathName": "Serika",
+    "DevName": "Serika",
     "FamilyName": "黒見",
     "PersonalName": "セリカ",
     "SchoolYear": "1年生",
@@ -319,10 +408,14 @@
     "Hobby": "貯金、アルバイト",
     "BirthDay": "6/25",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Abydos_Collection",
+    "CollectionTexture": "Student_Portrait_Serika_Collection",
+    "Name": "セリカ"
   },
   "Tsubaki": {
     "PathName": "Tsubaki",
+    "DevName": "Tsubaki",
     "FamilyName": "春日",
     "PersonalName": "ツバキ",
     "SchoolYear": "2年生",
@@ -333,10 +426,14 @@
     "Hobby": "昼寝",
     "BirthDay": "2/3",
     "School": "Hyakkiyako",
-    "Club": "Shugyobu"
+    "Club": "Shugyobu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Tsubaki_Collection",
+    "Name": "ツバキ"
   },
   "Yuuka": {
     "PathName": "Yuuka",
+    "DevName": "Yuuka",
     "FamilyName": "早瀬",
     "PersonalName": "ユウカ",
     "SchoolYear": "2年生",
@@ -347,10 +444,14 @@
     "Hobby": "計算",
     "BirthDay": "3/14",
     "School": "Millennium",
-    "Club": "TheSeminar"
+    "Club": "TheSeminar",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Yuuka_Collection",
+    "Name": "ユウカ"
   },
   "Haruka": {
     "PathName": "Haruka",
+    "DevName": "Haruka",
     "FamilyName": "伊草",
     "PersonalName": "ハルカ",
     "SchoolYear": "1年生",
@@ -361,10 +462,14 @@
     "Hobby": "雑草を育てること",
     "BirthDay": "5/13",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Haruka_Collection",
+    "Name": "ハルカ"
   },
   "Asuna": {
     "PathName": "Asuna",
+    "DevName": "Asuna",
     "FamilyName": "一之瀬",
     "PersonalName": "アスナ",
     "SchoolYear": "3年生",
@@ -375,10 +480,14 @@
     "Hobby": "襲撃",
     "BirthDay": "3/24",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Asuna_Collection",
+    "Name": "アスナ"
   },
   "Kotori": {
     "PathName": "Kotori",
+    "DevName": "Kotori",
     "FamilyName": "豊見",
     "PersonalName": "コトリ",
     "SchoolYear": "1年生",
@@ -389,10 +498,14 @@
     "Hobby": "おしゃべり",
     "BirthDay": "12/31",
     "School": "Millennium",
-    "Club": "Engineer"
+    "Club": "Engineer",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Kotori_Collection",
+    "Name": "コトリ"
   },
   "Suzumi": {
     "PathName": "Suzumi",
+    "DevName": "Suzumi",
     "FamilyName": "守月",
     "PersonalName": "スズミ",
     "SchoolYear": "2年生",
@@ -403,10 +516,14 @@
     "Hobby": "巡回、散策",
     "BirthDay": "8/31",
     "School": "Trinity",
-    "Club": "TrinityVigilance"
+    "Club": "TrinityVigilance",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Suzumi_Collection",
+    "Name": "スズミ"
   },
   "Pina": {
     "PathName": "Pina",
+    "DevName": "Pina",
     "FamilyName": "朝比奈",
     "PersonalName": "フィーナ",
     "SchoolYear": "1年生",
@@ -417,10 +534,14 @@
     "Hobby": "任侠映画鑑賞",
     "BirthDay": "11/3",
     "School": "Hyakkiyako",
-    "Club": "MatsuriOffice"
+    "Club": "MatsuriOffice",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Pina_Collection",
+    "Name": "フィーナ"
   },
   "Hibiki": {
     "PathName": "Hibiki",
+    "DevName": "Hibiki",
     "FamilyName": "猫塚",
     "PersonalName": "ヒビキ",
     "SchoolYear": "1年生",
@@ -431,10 +552,14 @@
     "Hobby": "買い物、コスプレ",
     "BirthDay": "4/2",
     "School": "Millennium",
-    "Club": "Engineer"
+    "Club": "Engineer",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Hibiki_Collection",
+    "Name": "ヒビキ"
   },
   "Karin": {
     "PathName": "Karin",
+    "DevName": "karin",
     "FamilyName": "角楯",
     "PersonalName": "カリン",
     "SchoolYear": "2年生",
@@ -445,10 +570,14 @@
     "Hobby": "お掃除",
     "BirthDay": "2/2",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Karin_Collection",
+    "Name": "カリン"
   },
   "Saya": {
     "PathName": "Saya",
+    "DevName": "Saya",
     "FamilyName": "薬子",
     "PersonalName": "サヤ",
     "SchoolYear": "2年生",
@@ -459,10 +588,14 @@
     "Hobby": "研究",
     "BirthDay": "1/3",
     "School": "Shanhaijing",
-    "Club": "Endanbou"
+    "Club": "Endanbou",
+    "CollectionBG": "BG_Sanhaijing_Collection",
+    "CollectionTexture": "Student_Portrait_Saya_Collection",
+    "Name": "サヤ"
   },
   "Airi": {
     "PathName": "Airi",
+    "DevName": "Airi",
     "FamilyName": "栗村",
     "PersonalName": "アイリ",
     "SchoolYear": "1年生",
@@ -473,10 +606,14 @@
     "Hobby": "美味しいスイーツ探し、お茶会",
     "BirthDay": "1/30",
     "School": "Trinity",
-    "Club": "HoukagoDessert"
+    "Club": "HoukagoDessert",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Airi_Collection",
+    "Name": "アイリ"
   },
   "Fuuka": {
     "PathName": "Fuuka",
+    "DevName": "Fuuka",
     "FamilyName": "愛清",
     "PersonalName": "フウカ",
     "SchoolYear": "2年生",
@@ -487,10 +624,14 @@
     "Hobby": "家庭料理、お弁当作り",
     "BirthDay": "4/30",
     "School": "Gehenna",
-    "Club": "FoodService"
+    "Club": "FoodService",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Fuuka_Collection",
+    "Name": "フウカ"
   },
   "Hanae": {
     "PathName": "Hanae",
+    "DevName": "Hanae",
     "FamilyName": "朝顔",
     "PersonalName": "ハナエ",
     "SchoolYear": "1年生",
@@ -501,10 +642,14 @@
     "Hobby": "ダンス、チアリーディング",
     "BirthDay": "5/12",
     "School": "Trinity",
-    "Club": "KnightsHospitaller"
+    "Club": "KnightsHospitaller",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Hanae_Collection",
+    "Name": "ハナエ"
   },
   "Hare": {
     "PathName": "Hare",
+    "DevName": "Hare",
     "FamilyName": "小鈎",
     "PersonalName": "ハレ",
     "SchoolYear": "2年生",
@@ -515,10 +660,14 @@
     "Hobby": "ゲーム, 映画鑑賞",
     "BirthDay": "4/19",
     "School": "Millennium",
-    "Club": "Veritas"
+    "Club": "Veritas",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Hare_Collection",
+    "Name": "ハレ"
   },
   "Utaha": {
     "PathName": "Utaha",
+    "DevName": "Utaha",
     "FamilyName": "白石",
     "PersonalName": "ウタハ",
     "SchoolYear": "3年生",
@@ -529,10 +678,14 @@
     "Hobby": "発明や修理全般",
     "BirthDay": "11/13",
     "School": "Millennium",
-    "Club": "Engineer"
+    "Club": "Engineer",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Utaha_Collection",
+    "Name": "ウタハ"
   },
   "Ayane": {
     "PathName": "Ayane",
+    "DevName": "Ayane",
     "FamilyName": "奥空",
     "PersonalName": "アヤネ",
     "SchoolYear": "1年生",
@@ -543,10 +696,14 @@
     "Hobby": "家計簿をつけること、骨董品収集",
     "BirthDay": "11/12",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Abydos_Collection",
+    "CollectionTexture": "Student_Portrait_Ayane_Collection",
+    "Name": "アヤネ"
   },
   "Chinatsu": {
     "PathName": "Chinatsu",
+    "DevName": "Chinatsu",
     "FamilyName": "火宮",
     "PersonalName": "チナツ",
     "SchoolYear": "1年生",
@@ -557,10 +714,14 @@
     "Hobby": "哲学書を読むこと",
     "BirthDay": "8/22",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Chinatsu_Collection",
+    "Name": "チナツ"
   },
   "Kotama": {
     "PathName": "Kotama",
+    "DevName": "Kotama",
     "FamilyName": "音瀬",
     "PersonalName": "コタマ",
     "SchoolYear": "3年生",
@@ -571,10 +732,14 @@
     "Hobby": "無線通信、盗聴",
     "BirthDay": "1/5",
     "School": "Millennium",
-    "Club": "Veritas"
+    "Club": "Veritas",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Kotama_Collection",
+    "Name": "コタマ"
   },
   "Juri": {
     "PathName": "Juri",
+    "DevName": "Juri",
     "FamilyName": "牛牧",
     "PersonalName": "ジュリ",
     "SchoolYear": "1年生",
@@ -585,10 +750,14 @@
     "Hobby": "自己流の料理研究",
     "BirthDay": "10/20",
     "School": "Gehenna",
-    "Club": "FoodService"
+    "Club": "FoodService",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Juri_Collection",
+    "Name": "ジュリ"
   },
   "Serina": {
     "PathName": "Serina",
+    "DevName": "Serina",
     "FamilyName": "鷲見",
     "PersonalName": "セリナ",
     "SchoolYear": "2年生",
@@ -599,10 +768,14 @@
     "Hobby": "病院のボランティア",
     "BirthDay": "1/6",
     "School": "Trinity",
-    "Club": "KnightsHospitaller"
+    "Club": "KnightsHospitaller",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Serina_Collection",
+    "Name": "セリナ"
   },
   "Shimiko": {
     "PathName": "Shimiko",
+    "DevName": "Shimiko",
     "FamilyName": "円堂",
     "PersonalName": "シミコ",
     "SchoolYear": "1年生",
@@ -613,10 +786,14 @@
     "Hobby": "読書、しおりづくり",
     "BirthDay": "11/30",
     "School": "Trinity",
-    "Club": "BookClub"
+    "Club": "BookClub",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Shimiko_Collection",
+    "Name": "シミコ"
   },
   "Yoshimi": {
     "PathName": "Yoshimi",
+    "DevName": "Yoshimi",
     "FamilyName": "伊原木",
     "PersonalName": "ヨシミ",
     "SchoolYear": "1年生",
@@ -627,10 +804,14 @@
     "Hobby": "イベントごと、限定スイーツ巡り",
     "BirthDay": "8/29",
     "School": "Trinity",
-    "Club": "HoukagoDessert"
+    "Club": "HoukagoDessert",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Yoshimi_Collection",
+    "Name": "ヨシミ"
   },
   "Mashiro": {
     "PathName": "Mashiro",
+    "DevName": "Mashiro",
     "FamilyName": "静山",
     "PersonalName": "マシロ",
     "SchoolYear": "1年生",
@@ -641,10 +822,14 @@
     "Hobby": "高いところに登ること、観察日記を書くこと",
     "BirthDay": "6/5",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Mashiro_Collection",
+    "Name": "マシロ"
   },
   "Izuna": {
     "PathName": "Izuna",
+    "DevName": "Izuna",
     "FamilyName": "久田",
     "PersonalName": "イズナ",
     "SchoolYear": "1年生",
@@ -655,10 +840,14 @@
     "Hobby": "忍術の勉強、主殿の護衛",
     "BirthDay": "12/16",
     "School": "Hyakkiyako",
-    "Club": "NinpoKenkyubu"
+    "Club": "NinpoKenkyubu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Izuna_Collection",
+    "Name": "イズナ"
   },
   "Shizuko": {
     "PathName": "Shizuko",
+    "DevName": "Shizuko",
     "FamilyName": "河和",
     "PersonalName": "シズコ",
     "SchoolYear": "2年生",
@@ -669,10 +858,14 @@
     "Hobby": "可愛く接客すること、看板娘パンチ ",
     "BirthDay": "7/7",
     "School": "Hyakkiyako",
-    "Club": "MatsuriOffice"
+    "Club": "MatsuriOffice",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Shizuko_Collection",
+    "Name": "シズコ"
   },
   "Aris": {
     "PathName": "Aris",
+    "DevName": "Aris",
     "FamilyName": "天童",
     "PersonalName": "アリス",
     "SchoolYear": "1年生",
@@ -683,10 +876,14 @@
     "Hobby": "ゲーム（特にRPG）",
     "BirthDay": "3/25",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Aris_Collection",
+    "Name": "アリス"
   },
   "Midori": {
     "PathName": "Midori",
+    "DevName": "Midori",
     "FamilyName": "才羽",
     "PersonalName": "ミドリ",
     "SchoolYear": "1年生",
@@ -697,10 +894,14 @@
     "Hobby": "絵を描くこと",
     "BirthDay": "12/8",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Midori_Collection",
+    "Name": "ミドリ"
   },
   "Momoi": {
     "PathName": "Momoi",
+    "DevName": "Momoi",
     "FamilyName": "才羽",
     "PersonalName": "モモイ",
     "SchoolYear": "1年生",
@@ -711,10 +912,14 @@
     "Hobby": "ゲーム",
     "BirthDay": "12/8",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Momoi_Collection",
+    "Name": "モモイ"
   },
   "Cherino": {
     "PathName": "Cherino",
+    "DevName": "Cherino",
     "FamilyName": "連河",
     "PersonalName": "チェリノ",
     "SchoolYear": "3年生",
@@ -725,10 +930,14 @@
     "Hobby": "粛清、雪合戦",
     "BirthDay": "10/27",
     "School": "RedWinter",
-    "Club": "RedwinterSecretary"
+    "Club": "RedwinterSecretary",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_Cherino_Collection",
+    "Name": "チェリノ"
   },
   "Nodoka": {
     "PathName": "Nodoka",
+    "DevName": "Nodoka",
     "FamilyName": "天見",
     "PersonalName": "ノドカ",
     "SchoolYear": "2年生",
@@ -739,10 +948,14 @@
     "Hobby": "天体観測",
     "BirthDay": "2/20",
     "School": "RedWinter",
-    "Club": "Class227"
+    "Club": "Class227",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_Nodoka_Collection",
+    "Name": "ノドカ"
   },
   "Yuzu": {
     "PathName": "Yuzu",
+    "DevName": "Yuzu",
     "FamilyName": "花岡",
     "PersonalName": "ユズ",
     "SchoolYear": "1年生",
@@ -753,10 +966,14 @@
     "Hobby": "ゲーム制作",
     "BirthDay": "8/12",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_Yuzu_Collection",
+    "Name": "ユズ"
   },
   "Azusa": {
     "PathName": "Azusa",
+    "DevName": "Azusa",
     "FamilyName": "白洲",
     "PersonalName": "アズサ",
     "SchoolYear": "2年生",
@@ -767,10 +984,14 @@
     "Hobby": "なし",
     "BirthDay": "12/26",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Azusa_Collection",
+    "Name": "アズサ"
   },
   "Hanako": {
     "PathName": "Hanako",
+    "DevName": "Hanako",
     "FamilyName": "浦和",
     "PersonalName": "ハナコ",
     "SchoolYear": "2年生",
@@ -781,10 +1002,14 @@
     "Hobby": "徘徊",
     "BirthDay": "1/3",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Hanako_Collection",
+    "Name": "ハナコ"
   },
   "Koharu": {
     "PathName": "Koharu",
+    "DevName": "Koharu",
     "FamilyName": "下江",
     "PersonalName": "コハル",
     "SchoolYear": "1年生",
@@ -795,10 +1020,14 @@
     "Hobby": "空想、妄想、エッチな雑誌集め",
     "BirthDay": "4/16",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Koharu_Collection",
+    "Name": "コハル"
   },
   "Azusa_Swimsuit": {
     "PathName": "Azusa_Swimsuit",
+    "DevName": "Azusa_Swimsuit",
     "FamilyName": "白洲",
     "PersonalName": "アズサ",
     "SchoolYear": "2年生",
@@ -809,10 +1038,14 @@
     "Hobby": "なし",
     "BirthDay": "12/26",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_azusa_swimsuit_Collection",
+    "Name": "アズサ（水着）"
   },
   "Mashiro_Swimsuit": {
     "PathName": "Mashiro_Swimsuit",
+    "DevName": "Mashiro_Swimsuit",
     "FamilyName": "静山",
     "PersonalName": "マシロ",
     "SchoolYear": "1年生",
@@ -823,10 +1056,14 @@
     "Hobby": "高いところに登る、観察日記を書く",
     "BirthDay": "6/5",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_mashiro_swimsuit_Collection",
+    "Name": "マシロ（水着）"
   },
   "Tsurugi_Swimsuit": {
     "PathName": "Tsurugi_Swimsuit",
+    "DevName": "Tsurugi_Swimsuit",
     "FamilyName": "剣先",
     "PersonalName": "ツルギ",
     "SchoolYear": "3年生",
@@ -837,10 +1074,14 @@
     "Hobby": "映画鑑賞、読書（恋愛小説）",
     "BirthDay": "6/24",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_CH0060_Collection",
+    "Name": "ツルギ（水着）"
   },
   "Hifumi_Swimsuit": {
     "PathName": "Hifumi_Swimsuit",
+    "DevName": "Hihumi_Swimsuit",
     "FamilyName": "阿慈谷",
     "PersonalName": "ヒフミ",
     "SchoolYear": "2年生",
@@ -851,10 +1092,14 @@
     "Hobby": "ペロログッズ集め、可愛いもの集め、ショッピング、相談に乗ること",
     "BirthDay": "11/27",
     "School": "Trinity",
-    "Club": "RemedialClass"
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_CH0058_Collection",
+    "Name": "ヒフミ（水着）"
   },
   "Hina_Swimsuit": {
     "PathName": "Hina_Swimsuit",
+    "DevName": "CH0063",
     "FamilyName": "空崎",
     "PersonalName": "ヒナ",
     "SchoolYear": "3年生",
@@ -865,10 +1110,14 @@
     "Hobby": "睡眠、休憩",
     "BirthDay": "2/19",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_CH0063_Collection",
+    "Name": "ヒナ（水着）"
   },
   "Iori_Swimsuit": {
     "PathName": "Iori_Swimsuit",
+    "DevName": "CH0064",
     "FamilyName": "銀鏡",
     "PersonalName": "イオリ",
     "SchoolYear": "2年生",
@@ -879,10 +1128,14 @@
     "Hobby": "パトロール、大声を出すこと",
     "BirthDay": "11/8",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_CH0064_Collection",
+    "Name": "イオリ（水着）"
   },
   "Izumi_Swimsuit": {
     "PathName": "Izumi_Swimsuit",
+    "DevName": "Izumi_swimsuit",
     "FamilyName": "獅子堂",
     "PersonalName": "イズミ",
     "SchoolYear": "2年生",
@@ -893,10 +1146,14 @@
     "Hobby": "ゲテモノ料理を食べること、作ること",
     "BirthDay": "5/11",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Swimsuit_Collection",
+    "CollectionTexture": "Student_Portrait_Izumi_swimsuit_Collection",
+    "Name": "イズミ（水着）"
   },
   "Shiroko_Cycling": {
     "PathName": "Shiroko_Cycling",
+    "DevName": "Shiroko_RidingSuit",
     "FamilyName": "砂狼",
     "PersonalName": "シロコ",
     "SchoolYear": "2年生",
@@ -907,10 +1164,14 @@
     "Hobby": "ジョギング、体力トレーニング、ロードバイク",
     "BirthDay": "5/16",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Ridingsuit_Collection",
+    "CollectionTexture": "Student_Portrait_Shiroko_ridingsuit_Collection",
+    "Name": "シロコ（ライディング）"
   },
   "Shun_Small": {
     "PathName": "Shun_Small",
+    "DevName": "CH0066",
     "FamilyName": "春原",
     "PersonalName": "シュン",
     "SchoolYear": "3年生",
@@ -921,10 +1182,14 @@
     "Hobby": "甘い物を食べること",
     "BirthDay": "2/5",
     "School": "Shanhaijing",
-    "Club": "Meihuayuan"
+    "Club": "Meihuayuan",
+    "CollectionBG": "BG_CH0066_Collection",
+    "CollectionTexture": "Student_Portrait_CH0066_Collection",
+    "Name": "シュン（幼女）"
   },
   "Kirino": {
     "PathName": "Kirino",
+    "DevName": "Kirino",
     "FamilyName": "中務",
     "PersonalName": "キリノ",
     "SchoolYear": "1年生",
@@ -935,10 +1200,14 @@
     "Hobby": "食べ歩き",
     "BirthDay": "10/22",
     "School": "Valkyrie",
-    "Club": "anzenkyoku"
+    "Club": "anzenkyoku",
+    "CollectionBG": "BG_Valkyrie_Collection",
+    "CollectionTexture": "Student_Portrait_Kirino_Collection",
+    "Name": "キリノ"
   },
   "Saya_Casual": {
     "PathName": "Saya_Casual",
+    "DevName": "Saya_Casual",
     "FamilyName": "薬子",
     "PersonalName": "サヤ",
     "SchoolYear": "2年生",
@@ -949,10 +1218,14 @@
     "Hobby": "研究",
     "BirthDay": "1/3",
     "School": "Shanhaijing",
-    "Club": "Endanbou"
+    "Club": "Endanbou",
+    "CollectionBG": "BG_Saya_casual_Collection",
+    "CollectionTexture": "Student_Portrait_Saya_Casual_Collection",
+    "Name": "サヤ（私服）"
   },
   "Neru_Bunny": {
     "PathName": "Neru_Bunny",
+    "DevName": "CH0101",
     "FamilyName": "美甘",
     "PersonalName": "ネル",
     "SchoolYear": "3年生",
@@ -963,10 +1236,14 @@
     "Hobby": "勝利",
     "BirthDay": "8/17",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_BunnyGirl_Collection",
+    "CollectionTexture": "Student_Portrait_CH0101_Collection",
+    "Name": "ネル（バニーガール）"
   },
   "Karin_Bunny": {
     "PathName": "Karin_Bunny",
+    "DevName": "CH0100",
     "FamilyName": "角楯",
     "PersonalName": "カリン",
     "SchoolYear": "2年生",
@@ -977,10 +1254,14 @@
     "Hobby": "お掃除",
     "BirthDay": "2/2",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_BunnyGirl_Collection",
+    "CollectionTexture": "Student_Portrait_CH0100_Collection",
+    "Name": "カリン（バニーガール）"
   },
   "Asuna_Bunny": {
     "PathName": "Asuna_Bunny",
+    "DevName": "CH0098",
     "FamilyName": "一之瀬",
     "PersonalName": "アスナ",
     "SchoolYear": "3年生",
@@ -991,10 +1272,14 @@
     "Hobby": "襲撃",
     "BirthDay": "3/24",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_BunnyGirl_Collection",
+    "CollectionTexture": "Student_Portrait_CH0098_Collection",
+    "Name": "アスナ（バニーガール）"
   },
   "Natsu": {
     "PathName": "Natsu",
+    "DevName": "CH0155",
     "FamilyName": "柚鳥",
     "PersonalName": "ナツ",
     "SchoolYear": "1年生",
@@ -1005,10 +1290,14 @@
     "Hobby": "ロマンチックなこと、思索",
     "BirthDay": "12/4",
     "School": "Trinity",
-    "Club": "HoukagoDessert"
+    "Club": "HoukagoDessert",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_CH0155_Collection",
+    "Name": "ナツ"
   },
   "Mari": {
     "PathName": "Mari",
+    "DevName": "Mari",
     "FamilyName": "伊落",
     "PersonalName": "マリー",
     "SchoolYear": "1年生",
@@ -1019,10 +1308,14 @@
     "Hobby": "お祈り、考えごと",
     "BirthDay": "9/12",
     "School": "Trinity",
-    "Club": "SisterHood"
+    "Club": "SisterHood",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Mari_Collection",
+    "Name": "マリー"
   },
   "Hatsune_Miku": {
     "PathName": "Hatsune_Miku",
+    "DevName": "CH9999",
     "FamilyName": "初音",
     "PersonalName": "ミク",
     "SchoolYear": "",
@@ -1033,10 +1326,14 @@
     "Hobby": "歌、ダンス",
     "BirthDay": "8/31",
     "School": "ETC",
-    "Club": "EmptyClub"
+    "Club": "EmptyClub",
+    "CollectionBG": "BG_CH9999_Collection",
+    "CollectionTexture": "Student_Portrait_CH9999_Collection",
+    "Name": "初音ミク"
   },
   "Ako": {
     "PathName": "Ako",
+    "DevName": "Ako",
     "FamilyName": "天雨",
     "PersonalName": "アコ",
     "SchoolYear": "3年生",
@@ -1047,10 +1344,14 @@
     "Hobby": "ヒナ委員長",
     "BirthDay": "12/22",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_ako_Collection",
+    "Name": "アコ"
   },
   "Cherino_HotSpring": {
     "PathName": "Cherino_HotSpring",
+    "DevName": "CH0164",
     "FamilyName": "連河",
     "PersonalName": "チェリノ",
     "SchoolYear": "3年生",
@@ -1061,10 +1362,14 @@
     "Hobby": "粛清、雪合戦",
     "BirthDay": "10/27",
     "School": "RedWinter",
-    "Club": "RedwinterSecretary"
+    "Club": "RedwinterSecretary",
+    "CollectionBG": "BG_Onsen_Collection",
+    "CollectionTexture": "Student_Portrait_CH0164_Collection",
+    "Name": "チェリノ（温泉）"
   },
   "Chinatsu_HotSpring": {
     "PathName": "Chinatsu_HotSpring",
+    "DevName": "CH0163",
     "FamilyName": "火宮",
     "PersonalName": "チナツ",
     "SchoolYear": "1年生",
@@ -1075,10 +1380,14 @@
     "Hobby": "哲学書を読むこと",
     "BirthDay": "8/22",
     "School": "Gehenna",
-    "Club": "Fuuki"
+    "Club": "Fuuki",
+    "CollectionBG": "BG_Onsen_Collection",
+    "CollectionTexture": "Student_Portrait_CH0163_Collection",
+    "Name": "チナツ（温泉）"
   },
   "Tomoe": {
     "PathName": "Tomoe",
+    "DevName": "Tomoe",
     "FamilyName": "佐城",
     "PersonalName": "トモエ",
     "SchoolYear": "3年生",
@@ -1089,10 +1398,14 @@
     "Hobby": "アジテーション",
     "BirthDay": "11/10",
     "School": "RedWinter",
-    "Club": "RedwinterSecretary"
+    "Club": "RedwinterSecretary",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_Tomoe_Collection",
+    "Name": "トモエ"
   },
   "Nodoka_HotSpring": {
     "PathName": "Nodoka_HotSpring",
+    "DevName": "CH0165",
     "FamilyName": "天見",
     "PersonalName": "ノドカ",
     "SchoolYear": "2年生",
@@ -1103,10 +1416,14 @@
     "Hobby": "天体観測",
     "BirthDay": "2/20",
     "School": "RedWinter",
-    "Club": "Class227"
+    "Club": "Class227",
+    "CollectionBG": "BG_Onsen_Collection",
+    "CollectionTexture": "Student_Portrait_CH0165_Collection",
+    "Name": "ノドカ（温泉）"
   },
   "Aru_NewYear": {
     "PathName": "Aru_NewYear",
+    "DevName": "Aru_Newyear",
     "FamilyName": "陸八魔",
     "PersonalName": "アル",
     "SchoolYear": "2年生",
@@ -1117,10 +1434,14 @@
     "Hobby": "経営の勉強",
     "BirthDay": "3/12",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Newyear_Collection",
+    "CollectionTexture": "Student_Portrait_Aru_newyear_Collection",
+    "Name": "アル（正月）"
   },
   "Mutsuki_NewYear": {
     "PathName": "Mutsuki_NewYear",
+    "DevName": "Mutsuki_Newyear",
     "FamilyName": "浅黄",
     "PersonalName": "ムツキ",
     "SchoolYear": "2年生",
@@ -1131,10 +1452,14 @@
     "Hobby": "爆弾収集",
     "BirthDay": "7/29",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Newyear_Collection",
+    "CollectionTexture": "Student_Portrait_Mutsuki_newyear_Collection",
+    "Name": "ムツキ（正月）"
   },
   "Serika_NewYear": {
     "PathName": "Serika_NewYear",
+    "DevName": "Serika_Newyear",
     "FamilyName": "黒見",
     "PersonalName": "セリカ",
     "SchoolYear": "1年生",
@@ -1145,10 +1470,14 @@
     "Hobby": "貯金、アルバイト",
     "BirthDay": "6/25",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Newyear_Collection",
+    "CollectionTexture": "Student_Portrait_Serika_newyear_Collection",
+    "Name": "セリカ（正月）"
   },
   "Wakamo": {
     "PathName": "Wakamo",
+    "DevName": "Wakamo",
     "FamilyName": "狐坂",
     "PersonalName": "ワカモ",
     "SchoolYear": "停学中",
@@ -1159,10 +1488,14 @@
     "Hobby": "破壊、略奪",
     "BirthDay": "4/3",
     "School": "Hyakkiyako",
-    "Club": "EmptyClub"
+    "Club": "EmptyClub",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Wakamo_Collection",
+    "Name": "ワカモ"
   },
   "Fubuki": {
     "PathName": "Fubuki",
+    "DevName": "CH0141",
     "FamilyName": "合歓垣",
     "PersonalName": "フブキ",
     "SchoolYear": "1年生",
@@ -1173,10 +1506,14 @@
     "Hobby": "クロスワード、ラジオ",
     "BirthDay": "10/21",
     "School": "Valkyrie",
-    "Club": "anzenkyoku"
+    "Club": "anzenkyoku",
+    "CollectionBG": "BG_Valkyrie_Collection",
+    "CollectionTexture": "Student_Portrait_CH0141_Collection",
+    "Name": "フブキ"
   },
   "Sena": {
     "PathName": "Sena",
+    "DevName": "CH0081",
     "FamilyName": "氷室",
     "PersonalName": "セナ",
     "SchoolYear": "3年生",
@@ -1187,10 +1524,14 @@
     "Hobby": "待機、薬品の整備",
     "BirthDay": "4/7",
     "School": "Gehenna",
-    "Club": "Emergentology"
+    "Club": "Emergentology",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_Sena_Collection",
+    "Name": "セナ"
   },
   "Chihiro": {
     "PathName": "Chihiro",
+    "DevName": "CH0160",
     "FamilyName": "各務",
     "PersonalName": "チヒロ",
     "SchoolYear": "3年生",
@@ -1201,10 +1542,14 @@
     "Hobby": "電子機器類の買い物",
     "BirthDay": "4/26",
     "School": "Millennium",
-    "Club": "Veritas"
+    "Club": "Veritas",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_CH0160_Collection",
+    "Name": "チヒロ"
   },
   "Mimori": {
     "PathName": "Mimori",
+    "DevName": "Mimori",
     "FamilyName": "水羽",
     "PersonalName": "ミモリ",
     "SchoolYear": "2年生",
@@ -1215,10 +1560,14 @@
     "Hobby": "少女漫画、家事全般",
     "BirthDay": "3/15",
     "School": "Hyakkiyako",
-    "Club": "Shugyobu"
+    "Club": "Shugyobu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Mimori_Collection",
+    "Name": "ミモリ"
   },
   "Ui": {
     "PathName": "Ui",
+    "DevName": "CH0169",
     "FamilyName": "古関",
     "PersonalName": "ウイ",
     "SchoolYear": "3年生",
@@ -1229,10 +1578,14 @@
     "Hobby": "読書、書籍の管理、古書の研究",
     "BirthDay": "4/23",
     "School": "Trinity",
-    "Club": "BookClub"
+    "Club": "BookClub",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_CH0169_Collection",
+    "Name": "ウイ"
   },
   "Hinata": {
     "PathName": "Hinata",
+    "DevName": "Hinata",
     "FamilyName": "若葉",
     "PersonalName": "ヒナタ",
     "SchoolYear": "3年生",
@@ -1243,10 +1596,14 @@
     "Hobby": "お祈り、整理整頓",
     "BirthDay": "5/17",
     "School": "Trinity",
-    "Club": "SisterHood"
+    "Club": "SisterHood",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Hinata_Collection",
+    "Name": "ヒナタ"
   },
   "Marina": {
     "PathName": "Marina",
+    "DevName": "Marina",
     "FamilyName": "池倉",
     "PersonalName": "マリナ",
     "SchoolYear": "2年生",
@@ -1257,10 +1614,14 @@
     "Hobby": "散歩、突撃",
     "BirthDay": "11/4",
     "School": "RedWinter",
-    "Club": "RedwinterSecretary"
+    "Club": "RedwinterSecretary",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_Marina_Collection",
+    "Name": "マリナ"
   },
   "Miyako": {
     "PathName": "Miyako",
+    "DevName": "miyako",
     "FamilyName": "月雪",
     "PersonalName": "ミヤコ",
     "SchoolYear": "1年生",
@@ -1271,10 +1632,14 @@
     "Hobby": "動物系の動画鑑賞",
     "BirthDay": "1/7",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_SRT_Collection",
+    "CollectionTexture": "Student_Portrait_Miyako_Collection",
+    "Name": "ミヤコ"
   },
   "Saki": {
     "PathName": "Saki",
+    "DevName": "CH0144",
     "FamilyName": "空井",
     "PersonalName": "サキ",
     "SchoolYear": "1年生",
@@ -1285,10 +1650,14 @@
     "Hobby": "銃器の整備、植物などの採集",
     "BirthDay": "4/9",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_SRT_Collection",
+    "CollectionTexture": "Student_Portrait_CH0144_Collection",
+    "Name": "サキ"
   },
   "Miyu": {
     "PathName": "Miyu",
+    "DevName": "CH0145",
     "FamilyName": "霞沢",
     "PersonalName": "ミユ",
     "SchoolYear": "1年生",
@@ -1299,10 +1668,14 @@
     "Hobby": "否定的な妄想、現実逃避、小石探し",
     "BirthDay": "7/12",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_SRT_Collection",
+    "CollectionTexture": "Student_Portrait_CH0145_Collection",
+    "Name": "ミユ"
   },
   "Kaede": {
     "PathName": "Kaede",
+    "DevName": "Kaede",
     "FamilyName": "勇美",
     "PersonalName": "カエデ",
     "SchoolYear": "1年生",
@@ -1313,10 +1686,14 @@
     "Hobby": "いたずら（できるだけ我慢してる）、カブトムシを捕まえること",
     "BirthDay": "7/9",
     "School": "Hyakkiyako",
-    "Club": "Shugyobu"
+    "Club": "Shugyobu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_Kaede_Collection",
+    "Name": "カエデ"
   },
   "Iroha": {
     "PathName": "Iroha",
+    "DevName": "CH0156",
     "FamilyName": "棗",
     "PersonalName": "イロハ",
     "SchoolYear": "2年生",
@@ -1327,10 +1704,14 @@
     "Hobby": "読書、サボること",
     "BirthDay": "11/16",
     "School": "Gehenna",
-    "Club": "PandemoniumSociety"
+    "Club": "PandemoniumSociety",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_CH0156_Collection",
+    "Name": "イロハ"
   },
   "Michiru": {
     "PathName": "Michiru",
+    "DevName": "CH0113",
     "FamilyName": "千鳥",
     "PersonalName": "ミチル",
     "SchoolYear": "3年生",
@@ -1341,10 +1722,14 @@
     "Hobby": "新しい忍術の考案、動画作り",
     "BirthDay": "2/22",
     "School": "Hyakkiyako",
-    "Club": "NinpoKenkyubu"
+    "Club": "NinpoKenkyubu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_CH0113_Collection",
+    "Name": "ミチル"
   },
   "Tsukuyo": {
     "PathName": "Tsukuyo",
+    "DevName": "CH0114",
     "FamilyName": "大野",
     "PersonalName": "ツクヨ",
     "SchoolYear": "1年生",
@@ -1355,10 +1740,14 @@
     "Hobby": "身代わりの術、息を潜めること",
     "BirthDay": "4/5",
     "School": "Hyakkiyako",
-    "Club": "NinpoKenkyubu"
+    "Club": "NinpoKenkyubu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_CH0114_Collection",
+    "Name": "ツクヨ"
   },
   "Misaki": {
     "PathName": "Misaki",
+    "DevName": "Misaki",
     "FamilyName": "戒野",
     "PersonalName": "ミサキ",
     "SchoolYear": "2年生",
@@ -1369,10 +1758,14 @@
     "Hobby": "ひとりで過ごすこと",
     "BirthDay": "1/13",
     "School": "Arius",
-    "Club": "AriusSqud"
+    "Club": "AriusSqud",
+    "CollectionBG": "BG_Arius_Collection",
+    "CollectionTexture": "Student_Portrait_Misaki_Collection",
+    "Name": "ミサキ"
   },
   "Hiyori": {
     "PathName": "Hiyori",
+    "DevName": "Hiyori",
     "FamilyName": "槌永",
     "PersonalName": "ヒヨリ",
     "SchoolYear": "2年生",
@@ -1383,10 +1776,14 @@
     "Hobby": "雑誌の収集",
     "BirthDay": "1/8",
     "School": "Arius",
-    "Club": "AriusSqud"
+    "Club": "AriusSqud",
+    "CollectionBG": "BG_Arius_Collection",
+    "CollectionTexture": "Student_Portrait_Hiyori_Collection",
+    "Name": "ヒヨリ"
   },
   "Atsuko": {
     "PathName": "Atsuko",
+    "DevName": "Atsuko",
     "FamilyName": "秤",
     "PersonalName": "アツコ",
     "SchoolYear": "1年生",
@@ -1397,10 +1794,14 @@
     "Hobby": "花のお手入れ",
     "BirthDay": "1/20",
     "School": "Arius",
-    "Club": "AriusSqud"
+    "Club": "AriusSqud",
+    "CollectionBG": "BG_Arius_Collection",
+    "CollectionTexture": "Student_Portrait_Atsuko_Collection",
+    "Name": "アツコ"
   },
   "Wakamo_Swimsuit": {
     "PathName": "Wakamo_Swimsuit",
+    "DevName": "CH0175",
     "FamilyName": "狐坂",
     "PersonalName": "ワカモ",
     "SchoolYear": "停学中",
@@ -1411,10 +1812,14 @@
     "Hobby": "破壊、略奪",
     "BirthDay": "4/3",
     "School": "Hyakkiyako",
-    "Club": "EmptyClub"
+    "Club": "EmptyClub",
+    "CollectionBG": "BG_Swimsuit02_Collection",
+    "CollectionTexture": "Student_Portrait_CH0175_Collection",
+    "Name": "ワカモ（水着）"
   },
   "Nonomi_Swimsuit": {
     "PathName": "Nonomi_Swimsuit",
+    "DevName": "CH0092",
     "FamilyName": "十六夜",
     "PersonalName": "ノノミ",
     "SchoolYear": "2年生",
@@ -1425,10 +1830,14 @@
     "Hobby": "ショッピング",
     "BirthDay": "9/1",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Swimsuit02_Collection",
+    "CollectionTexture": "Student_Portrait_CH0092_Collection",
+    "Name": "ノノミ（水着）"
   },
   "Ayane_Swimsuit": {
     "PathName": "Ayane_Swimsuit",
+    "DevName": "CH0176",
     "FamilyName": "奥空",
     "PersonalName": "アヤネ",
     "SchoolYear": "1年生",
@@ -1439,10 +1848,14 @@
     "Hobby": "家計簿をつけること、骨董品収集",
     "BirthDay": "11/12",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Swimsuit02_Collection",
+    "CollectionTexture": "Student_Portrait_CH0176_Collection",
+    "Name": "アヤネ（水着）"
   },
   "Hoshino_Swimsuit": {
     "PathName": "Hoshino_Swimsuit",
+    "DevName": "Hoshino_Swimsuit",
     "FamilyName": "小鳥遊",
     "PersonalName": "ホシノ",
     "SchoolYear": "3年生",
@@ -1453,10 +1866,14 @@
     "Hobby": "昼寝、ゴロゴロすること",
     "BirthDay": "1/2",
     "School": "Abydos",
-    "Club": "Countermeasure"
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Swimsuit02_Collection",
+    "CollectionTexture": "Student_Portrait_Hoshino_Swimsuit_Collection",
+    "Name": "ホシノ（水着）"
   },
   "Shizuko_Swimsuit": {
     "PathName": "Shizuko_Swimsuit",
+    "DevName": "CH0180",
     "FamilyName": "河和",
     "PersonalName": "シズコ",
     "SchoolYear": "2年生",
@@ -1467,10 +1884,14 @@
     "Hobby": "可愛く接客すること、看板娘パンチ",
     "BirthDay": "7/7",
     "School": "Hyakkiyako",
-    "Club": "MatsuriOffice"
+    "Club": "MatsuriOffice",
+    "CollectionBG": "BG_Swimsuit03_Collection",
+    "CollectionTexture": "Student_Portrait_CH0180_Collection",
+    "Name": "シズコ（水着）"
   },
   "Izuna_Swimsuit": {
     "PathName": "Izuna_Swimsuit",
+    "DevName": "CH0179",
     "FamilyName": "久田",
     "PersonalName": "イズナ",
     "SchoolYear": "1年生",
@@ -1481,10 +1902,14 @@
     "Hobby": "忍術の勉強、主殿の護衛",
     "BirthDay": "12/16",
     "School": "Hyakkiyako",
-    "Club": "NinpoKenkyubu"
+    "Club": "NinpoKenkyubu",
+    "CollectionBG": "BG_Swimsuit03_Collection",
+    "CollectionTexture": "Student_Portrait_CH0179_Collection",
+    "Name": "イズナ（水着）"
   },
   "Chise_Swimsuit": {
     "PathName": "Chise_Swimsuit",
+    "DevName": "CH0178",
     "FamilyName": "和楽",
     "PersonalName": "チセ",
     "SchoolYear": "2年生",
@@ -1495,10 +1920,14 @@
     "Hobby": "俳句",
     "BirthDay": "7/13",
     "School": "Hyakkiyako",
-    "Club": "Onmyobu"
+    "Club": "Onmyobu",
+    "CollectionBG": "BG_Swimsuit03_Collection",
+    "CollectionTexture": "Student_Portrait_CH0178_Collection",
+    "Name": "チセ（水着）"
   },
   "Saori": {
     "PathName": "Saori",
+    "DevName": "Saori",
     "FamilyName": "錠前",
     "PersonalName": "サオリ",
     "SchoolYear": "2年生",
@@ -1509,10 +1938,14 @@
     "Hobby": "なし",
     "BirthDay": "9/3",
     "School": "Arius",
-    "Club": "AriusSqud"
+    "Club": "AriusSqud",
+    "CollectionBG": "BG_Arius_Collection",
+    "CollectionTexture": "Student_Portrait_Saori_Collection",
+    "Name": "サオリ"
   },
   "Moe": {
     "PathName": "Moe",
+    "DevName": "Moe",
     "FamilyName": "風倉",
     "PersonalName": "モエ",
     "SchoolYear": "1年生",
@@ -1523,10 +1956,14 @@
     "Hobby": "打ち上げ花火",
     "BirthDay": "9/13",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_SRT_Collection",
+    "CollectionTexture": "Student_Portrait_Moe_Collection",
+    "Name": "モエ"
   },
   "Kazusa": {
     "PathName": "Kazusa",
+    "DevName": "Kazusa",
     "FamilyName": "杏山",
     "PersonalName": "カズサ",
     "SchoolYear": "1年生",
@@ -1537,10 +1974,14 @@
     "Hobby": "「普通に」スイーツを食べること",
     "BirthDay": "8/5",
     "School": "Trinity",
-    "Club": "HoukagoDessert"
+    "Club": "HoukagoDessert",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Kazusa_Collection",
+    "Name": "カズサ"
   },
   "Kokona": {
     "PathName": "Kokona",
+    "DevName": "CH0137",
     "FamilyName": "春原",
     "PersonalName": "ココナ",
     "SchoolYear": "1年生",
@@ -1551,10 +1992,14 @@
     "Hobby": "絵本を読むこと",
     "BirthDay": "6/1",
     "School": "Shanhaijing",
-    "Club": "Meihuayuan"
+    "Club": "Meihuayuan",
+    "CollectionBG": "BG_Sanhaijing_Collection",
+    "CollectionTexture": "Student_Portrait_CH0137_Collection",
+    "Name": "ココナ"
   },
   "Utaha_Cheerleader": {
     "PathName": "Utaha_Cheerleader",
+    "DevName": "CH0182",
     "FamilyName": "白石",
     "PersonalName": "ウタハ",
     "SchoolYear": "3年生",
@@ -1565,10 +2010,14 @@
     "Hobby": "発明や修理全般",
     "BirthDay": "11/13",
     "School": "Millennium",
-    "Club": "Engineer"
+    "Club": "Engineer",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "CollectionTexture": "Student_Portrait_CH0182_Collection",
+    "Name": "ウタハ（応援団）"
   },
   "Noa": {
     "PathName": "Noa",
+    "DevName": "CH0095",
     "FamilyName": "生塩",
     "PersonalName": "ノア",
     "SchoolYear": "2年生",
@@ -1579,10 +2028,14 @@
     "Hobby": "読書、暗唱",
     "BirthDay": "4/13",
     "School": "Millennium",
-    "Club": "TheSeminar"
+    "Club": "TheSeminar",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_CH0095_Collection",
+    "Name": "ノア"
   },
   "Hibiki_Cheerleader": {
     "PathName": "Hibiki_Cheerleader",
+    "DevName": "CH0181",
     "FamilyName": "猫塚",
     "PersonalName": "ヒビキ",
     "SchoolYear": "1年生",
@@ -1593,10 +2046,14 @@
     "Hobby": "買い物、コスプレ",
     "BirthDay": "4/2",
     "School": "Millennium",
-    "Club": "Engineer"
+    "Club": "Engineer",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "CollectionTexture": "Student_Portrait_CH0181_Collection",
+    "Name": "ヒビキ（応援団）"
   },
   "Akane_Bunny": {
     "PathName": "Akane_Bunny",
+    "DevName": "CH0099",
     "FamilyName": "室笠",
     "PersonalName": "アカネ",
     "SchoolYear": "2年生",
@@ -1607,10 +2064,14 @@
     "Hobby": "お掃除",
     "BirthDay": "4/1",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_BunnyGirl_Collection",
+    "CollectionTexture": "Student_Portrait_CH0099_Collection",
+    "Name": "アカネ（バニーガール）"
   },
   "Yuuka_Track": {
     "PathName": "Yuuka_Track",
+    "DevName": "CH0184",
     "FamilyName": "早瀬",
     "PersonalName": "ユウカ",
     "SchoolYear": "2年生",
@@ -1621,10 +2082,14 @@
     "Hobby": "計算",
     "BirthDay": "3/14",
     "School": "Millennium",
-    "Club": "TheSeminar"
+    "Club": "TheSeminar",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "CollectionTexture": "Student_Portrait_CH0184_Collection",
+    "Name": "ユウカ（体操服）"
   },
   "Mari_Track": {
     "PathName": "Mari_Track",
+    "DevName": "CH0186",
     "FamilyName": "伊落",
     "PersonalName": "マリー",
     "SchoolYear": "1年生",
@@ -1635,10 +2100,14 @@
     "Hobby": "お祈り、考えごと",
     "BirthDay": "9/12",
     "School": "Trinity",
-    "Club": "SisterHood"
+    "Club": "SisterHood",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "CollectionTexture": "Student_Portrait_CH0186_Collection",
+    "Name": "マリー（体操服）"
   },
   "Hasumi_Track": {
     "PathName": "Hasumi_Track",
+    "DevName": "CH0190",
     "FamilyName": "羽川",
     "PersonalName": "ハスミ",
     "SchoolYear": "3年生",
@@ -1649,10 +2118,14 @@
     "Hobby": "読書、人間観察",
     "BirthDay": "12/12",
     "School": "Trinity",
-    "Club": "Justice"
+    "Club": "Justice",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "CollectionTexture": "Student_Portrait_CH0190_Collection",
+    "Name": "ハスミ（体操服）"
   },
   "Himari": {
     "PathName": "Himari",
+    "DevName": "CH0159",
     "FamilyName": "明星",
     "PersonalName": "ヒマリ",
     "SchoolYear": "3年生",
@@ -1663,10 +2136,14 @@
     "Hobby": "今日の運勢の確認、オカルト全般",
     "BirthDay": "12/10",
     "School": "Millennium",
-    "Club": "SPTF"
+    "Club": "SPTF",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_CH0159_Collection",
+    "Name": "ヒマリ"
   },
   "Shigure": {
     "PathName": "Shigure",
+    "DevName": "Shigure",
     "FamilyName": "間宵",
     "PersonalName": "シグレ",
     "SchoolYear": "2年生",
@@ -1677,10 +2154,14 @@
     "Hobby": "自家製ドリンクを作ること",
     "BirthDay": "1/22",
     "School": "RedWinter",
-    "Club": "Class227"
+    "Club": "Class227",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_Shigure_Collection",
+    "Name": "シグレ"
   },
   "Serina_Christmas": {
     "PathName": "Serina_Christmas",
+    "DevName": "CH0194",
     "FamilyName": "鷲見",
     "PersonalName": "セリナ",
     "SchoolYear": "2年生",
@@ -1691,10 +2172,14 @@
     "Hobby": "病院のボランティア",
     "BirthDay": "1/6",
     "School": "Trinity",
-    "Club": "KnightsHospitaller"
+    "Club": "KnightsHospitaller",
+    "CollectionBG": "BG_Holiday_Collection",
+    "CollectionTexture": "Student_Portrait_CH0194_Collection",
+    "Name": "セリナ（クリスマス）"
   },
   "Hanae_Christmas": {
     "PathName": "Hanae_Christmas",
+    "DevName": "CH0195",
     "FamilyName": "朝顔",
     "PersonalName": "ハナエ",
     "SchoolYear": "1年生",
@@ -1705,10 +2190,14 @@
     "Hobby": "ダンス、チアリーディング",
     "BirthDay": "5/12",
     "School": "Trinity",
-    "Club": "KnightsHospitaller"
+    "Club": "KnightsHospitaller",
+    "CollectionBG": "BG_Holiday_Collection",
+    "CollectionTexture": "Student_Portrait_CH0195_Collection",
+    "Name": "ハナエ（クリスマス）"
   },
   "Haruna_NewYear": {
     "PathName": "Haruna_NewYear",
+    "DevName": "CH0191",
     "FamilyName": "黒舘",
     "PersonalName": "ハルナ",
     "SchoolYear": "3年生",
@@ -1719,10 +2208,14 @@
     "Hobby": "美味しいもの探し",
     "BirthDay": "3/1",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_NewYearFestival2",
+    "CollectionTexture": "Student_Portrait_CH0191_Collection",
+    "Name": "ハルナ（正月）"
   },
   "Fuuka_NewYear": {
     "PathName": "Fuuka_NewYear",
+    "DevName": "CH0177",
     "FamilyName": "愛清",
     "PersonalName": "フウカ",
     "SchoolYear": "2年生",
@@ -1733,10 +2226,14 @@
     "Hobby": "家庭料理、お弁当作り",
     "BirthDay": "4/30",
     "School": "Gehenna",
-    "Club": "FoodService"
+    "Club": "FoodService",
+    "CollectionBG": "BG_NewYearFestival2",
+    "CollectionTexture": "Student_Portrait_CH0177_Collection",
+    "Name": "フウカ（正月）"
   },
   "Junko_NewYear": {
     "PathName": "Junko_NewYear",
+    "DevName": "CH0192",
     "FamilyName": "赤司",
     "PersonalName": "ジュンコ",
     "SchoolYear": "1年生",
@@ -1747,10 +2244,14 @@
     "Hobby": "グルメ巡り",
     "BirthDay": "12/27",
     "School": "Gehenna",
-    "Club": "GourmetClub"
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_NewYearFestival2",
+    "CollectionTexture": "Student_Portrait_CH0192_Collection",
+    "Name": "ジュンコ（正月）"
   },
   "Mine": {
     "PathName": "Mine",
+    "DevName": "CH0152",
     "FamilyName": "蒼森",
     "PersonalName": "ミネ",
     "SchoolYear": "3年生",
@@ -1761,10 +2262,14 @@
     "Hobby": "医療品集め",
     "BirthDay": "11/23",
     "School": "Trinity",
-    "Club": "KnightsHospitaller"
+    "Club": "KnightsHospitaller",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_CH0152_Collection",
+    "Name": "ミネ"
   },
   "Mika": {
     "PathName": "Mika",
+    "DevName": "CH0069",
     "FamilyName": "聖園",
     "PersonalName": "ミカ",
     "SchoolYear": "3年生",
@@ -1775,10 +2280,14 @@
     "Hobby": "おしゃべり、アクセサリー集め",
     "BirthDay": "5/8",
     "School": "Trinity",
-    "Club": "TeaParty"
+    "Club": "TeaParty",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_CH0069_Collection",
+    "Name": "ミカ"
   },
   "Megu": {
     "PathName": "Megu",
+    "DevName": "CH0088",
     "FamilyName": "下倉",
     "PersonalName": "メグ",
     "SchoolYear": "3年生",
@@ -1789,10 +2298,14 @@
     "Hobby": "撤去",
     "BirthDay": "4/25",
     "School": "Gehenna",
-    "Club": "HotSpringsDepartment"
+    "Club": "HotSpringsDepartment",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "CollectionTexture": "Student_Portrait_CH0088_Collection",
+    "Name": "メグ"
   },
   "Kanna": {
     "PathName": "Kanna",
+    "DevName": "CH0170",
     "FamilyName": "尾刃",
     "PersonalName": "カンナ",
     "SchoolYear": "3年生",
@@ -1803,10 +2316,14 @@
     "Hobby": "読書、映画鑑賞（推理もの）",
     "BirthDay": "9/7",
     "School": "Valkyrie",
-    "Club": "PublicPeaceBureau"
+    "Club": "PublicPeaceBureau",
+    "CollectionBG": "BG_Valkyrie_Collection",
+    "CollectionTexture": "Student_Portrait_CH0170_Collection",
+    "Name": "カンナ"
   },
   "Sakurako": {
     "PathName": "Sakurako",
+    "DevName": "Sakurako",
     "FamilyName": "歌住",
     "PersonalName": "サクラコ",
     "SchoolYear": "3年生",
@@ -1817,10 +2334,14 @@
     "Hobby": "お祈り",
     "BirthDay": "10/4",
     "School": "Trinity",
-    "Club": "SisterHood"
+    "Club": "SisterHood",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Sakurako_Collection",
+    "Name": "サクラコ"
   },
   "Toki": {
     "PathName": "Toki",
+    "DevName": "CH0187",
     "FamilyName": "飛鳥馬",
     "PersonalName": "トキ",
     "SchoolYear": "1年生",
@@ -1831,10 +2352,14 @@
     "Hobby": "探している最中",
     "BirthDay": "8/16",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_CH0187_Collection",
+    "Name": "トキ"
   },
   "Nagisa": {
     "PathName": "Nagisa",
+    "DevName": "Nagisa",
     "FamilyName": "桐藤",
     "PersonalName": "ナギサ",
     "SchoolYear": "3年生",
@@ -1845,10 +2370,14 @@
     "Hobby": "茶葉収集、お菓子作り、庭の手入れ",
     "BirthDay": "7/4",
     "School": "Trinity",
-    "Club": "TeaParty"
+    "Club": "TeaParty",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_Nagisa_Collection",
+    "Name": "ナギサ"
   },
   "Koyuki": {
     "PathName": "Koyuki",
+    "DevName": "CH0198",
     "FamilyName": "黒崎",
     "PersonalName": "コユキ",
     "SchoolYear": "1年生",
@@ -1859,10 +2388,14 @@
     "Hobby": "運試し、脱出",
     "BirthDay": "2/14",
     "School": "Millennium",
-    "Club": "TheSeminar"
+    "Club": "TheSeminar",
+    "CollectionBG": "BG_Millennium_Collection",
+    "CollectionTexture": "Student_Portrait_CH0198_Collection",
+    "Name": "コユキ"
   },
   "Kayoko_NewYear": {
     "PathName": "Kayoko_NewYear",
+    "DevName": "CH0086",
     "FamilyName": "鬼方",
     "PersonalName": "カヨコ",
     "SchoolYear": "3年生",
@@ -1873,10 +2406,14 @@
     "Hobby": "音楽CD収集",
     "BirthDay": "3/17",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Newyear_Collection",
+    "CollectionTexture": "Student_Portrait_CH0086_Collection",
+    "Name": "カヨコ（正月）"
   },
   "Haruka_NewYear": {
     "PathName": "Haruka_NewYear",
+    "DevName": "CH0087",
     "FamilyName": "伊草",
     "PersonalName": "ハルカ",
     "SchoolYear": "1年生",
@@ -1887,10 +2424,14 @@
     "Hobby": "雑草を育てること",
     "BirthDay": "5/13",
     "School": "Gehenna",
-    "Club": "Kohshinjo68"
+    "Club": "Kohshinjo68",
+    "CollectionBG": "BG_Newyear_Collection",
+    "CollectionTexture": "Student_Portrait_CH0087_Collection",
+    "Name": "ハルカ（正月）"
   },
   "Kaho": {
     "PathName": "Kaho",
+    "DevName": "CH0107",
     "FamilyName": "桑上",
     "PersonalName": "カホ",
     "SchoolYear": "3年生",
@@ -1901,10 +2442,14 @@
     "Hobby": "百鬼夜行文化の広報、\n百鬼夜行グッズ集め",
     "BirthDay": "10/9",
     "School": "Hyakkiyako",
-    "Club": "Onmyobu"
+    "Club": "Onmyobu",
+    "CollectionBG": "BG_Hyakkiyako_Collection",
+    "CollectionTexture": "Student_Portrait_CH0107_Collection",
+    "Name": "カホ"
   },
   "Aris_Maid": {
     "PathName": "Aris_Maid",
+    "DevName": "CH0200",
     "FamilyName": "天童",
     "PersonalName": "アリス",
     "SchoolYear": "1年生",
@@ -1915,10 +2460,14 @@
     "Hobby": "ゲーム（特にRPG）",
     "BirthDay": "3/25",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_OldHouseOutside_Collection",
+    "CollectionTexture": "Student_Portrait_CH0200_Collection",
+    "Name": "アリス（メイド）"
   },
   "Toki_Bunny": {
     "PathName": "Toki_Bunny",
+    "DevName": "CH0211",
     "FamilyName": "飛鳥馬",
     "PersonalName": "トキ",
     "SchoolYear": "1年生",
@@ -1929,10 +2478,14 @@
     "Hobby": "探している最中",
     "BirthDay": "8/16",
     "School": "Millennium",
-    "Club": "CleanNClearing"
+    "Club": "CleanNClearing",
+    "CollectionBG": "BG_BunnyGirl_Collection",
+    "CollectionTexture": "Student_Portrait_CH0211_Collection",
+    "Name": "トキ（バニーガール）"
   },
   "Yuzu_Maid": {
     "PathName": "Yuzu_Maid",
+    "DevName": "CH0203",
     "FamilyName": "花岡",
     "PersonalName": "ユズ",
     "SchoolYear": "1年生",
@@ -1943,10 +2496,14 @@
     "Hobby": "ゲーム制作",
     "BirthDay": "8/12",
     "School": "Millennium",
-    "Club": "GameDev"
+    "Club": "GameDev",
+    "CollectionBG": "BG_OldHouseOutside_Collection",
+    "CollectionTexture": "Student_Portrait_CH0203_Collection",
+    "Name": "ユズ（メイド）"
   },
   "Reisa": {
     "PathName": "Reisa",
+    "DevName": "CH0167",
     "FamilyName": "宇沢",
     "PersonalName": "レイサ",
     "SchoolYear": "1年生",
@@ -1957,10 +2514,14 @@
     "Hobby": "決闘申込み、自己紹介",
     "BirthDay": "5/31",
     "School": "Trinity",
-    "Club": "TrinityVigilance"
+    "Club": "TrinityVigilance",
+    "CollectionBG": "BG_Trinity_Collection",
+    "CollectionTexture": "Student_Portrait_CH0167_Collection",
+    "Name": "レイサ"
   },
   "Rumi": {
     "PathName": "Rumi",
+    "DevName": "CH0135",
     "FamilyName": "朱城",
     "PersonalName": "ルミ",
     "SchoolYear": "3年生",
@@ -1971,10 +2532,14 @@
     "Hobby": "料理、食品開発",
     "BirthDay": "3/5",
     "School": "Shanhaijing",
-    "Club": "BlackTortoisePromenade"
+    "Club": "BlackTortoisePromenade",
+    "CollectionBG": "BG_Sanhaijing_Collection",
+    "CollectionTexture": "Student_Portrait_CH0135_Collection",
+    "Name": "ルミ"
   },
   "Mina": {
     "PathName": "Mina",
+    "DevName": "CH0138",
     "FamilyName": "近衛",
     "PersonalName": "ミナ",
     "SchoolYear": "2年生",
@@ -1985,10 +2550,14 @@
     "Hobby": "映画鑑賞（主にハードボイルド系）",
     "BirthDay": "9/9",
     "School": "Shanhaijing",
-    "Club": "Genryumon"
+    "Club": "Genryumon",
+    "CollectionBG": "BG_Sanhaijing_Collection",
+    "CollectionTexture": "Student_Portrait_CH0138_Collection",
+    "Name": "ミナ"
   },
   "Minori": {
     "PathName": "Minori",
+    "DevName": "CH0214",
     "FamilyName": "安守",
     "PersonalName": "ミノリ",
     "SchoolYear": "3年生",
@@ -1999,10 +2568,14 @@
     "Hobby": "ストライキ、デモ、工作",
     "BirthDay": "7/14",
     "School": "RedWinter",
-    "Club": "LaborParty"
+    "Club": "LaborParty",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "CollectionTexture": "Student_Portrait_CH0214_Collection",
+    "Name": "ミノリ"
   },
   "Miyako_Swimsuit": {
     "PathName": "Miyako_Swimsuit",
+    "DevName": "CH0215",
     "FamilyName": "月雪",
     "PersonalName": "ミヤコ",
     "SchoolYear": "1年生",
@@ -2013,10 +2586,14 @@
     "Hobby": "動物系の動画鑑賞",
     "BirthDay": "1/7",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_FishingVillage2_Collection",
+    "CollectionTexture": "Student_Portrait_CH0215_Collection",
+    "Name": "ミヤコ（水着）"
   },
   "Saki_Swimsuit": {
     "PathName": "Saki_Swimsuit",
+    "DevName": "CH0217",
     "FamilyName": "空井",
     "PersonalName": "サキ",
     "SchoolYear": "1年生",
@@ -2027,10 +2604,14 @@
     "Hobby": "銃器の整備、植物などの採集",
     "BirthDay": "4/9",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_FishingVillage2_Collection",
+    "CollectionTexture": "Student_Portrait_CH0217_Collection",
+    "Name": "サキ（水着）"
   },
   "Miyu_Swimsuit": {
     "PathName": "Miyu_Swimsuit",
+    "DevName": "CH0218",
     "FamilyName": "霞沢",
     "PersonalName": "ミユ",
     "SchoolYear": "1年生",
@@ -2041,6 +2622,9 @@
     "Hobby": "否定的な妄想、現実逃避、小石探し",
     "BirthDay": "7/12",
     "School": "SRT",
-    "Club": "RabbitPlatoon"
+    "Club": "RabbitPlatoon",
+    "CollectionBG": "BG_FishingVillage2_Collection",
+    "CollectionTexture": "Student_Portrait_CH0218_Collection",
+    "Name": "ミユ（水着）"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "f29e226f-a8e4-491d-87aa-8d92bd1268d5",
+  "uuid": "70f37cd8-e226-434e-a89b-f3d62369e4c8",
   "filetype": 71,
   "filename": "BG_Grandstand_Sunset.jpg",
   "name": "[BG_Grandstand_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Grandstand_Sunset.jpg",
+    "value": "/static/images/background/BG_Grandstand_Sunset.jpg",
     "short_desc": ""
   }
 }

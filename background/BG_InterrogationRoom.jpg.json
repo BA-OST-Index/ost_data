@@ -1,5 +1,5 @@
 {
-  "uuid": "c1185a0b-9189-4c2f-8771-c51527b765df",
+  "uuid": "462275f0-d6c4-47a1-9210-fdd386d89703",
   "filetype": 71,
   "filename": "BG_InterrogationRoom.jpg",
   "name": "[BG_InterrogationRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_InterrogationRoom.jpg",
+    "value": "/static/images/background/BG_InterrogationRoom.jpg",
     "short_desc": ""
   }
 }

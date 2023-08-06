@@ -1,5 +1,5 @@
 {
-  "uuid": "1d1aabf6-3611-49c1-98bb-e916f9363038",
+  "uuid": "e70fa03e-6687-41ad-bd6e-fef38e040356",
   "filetype": 71,
   "filename": "BG_RuinCity.jpg",
   "name": "[BG_RuinCity.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinCity.jpg",
+    "value": "/static/images/background/BG_RuinCity.jpg",
     "short_desc": ""
   }
 }

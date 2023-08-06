@@ -1,5 +1,5 @@
 {
-  "uuid": "29b9893e-54fb-4d66-973c-f5135a06fe51",
+  "uuid": "e3932a55-7068-4cb7-ba71-7b368ec73e7c",
   "filetype": 71,
   "filename": "BG_SanctumOfBeatrice.jpg",
   "name": "[BG_SanctumOfBeatrice.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SanctumOfBeatrice.jpg",
+    "value": "/static/images/background/BG_SanctumOfBeatrice.jpg",
     "short_desc": ""
   }
 }

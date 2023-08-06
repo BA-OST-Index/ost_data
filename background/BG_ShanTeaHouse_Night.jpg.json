@@ -1,5 +1,5 @@
 {
-  "uuid": "50abb764-dd74-4dc3-8089-02a06d90e347",
+  "uuid": "09a22ebe-10ac-4fbc-bfe3-9f2f0e36e34b",
   "filetype": 71,
   "filename": "BG_ShanTeaHouse_Night.jpg",
   "name": "[BG_ShanTeaHouse_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ShanTeaHouse_Night.jpg",
+    "value": "/static/images/background/BG_ShanTeaHouse_Night.jpg",
     "short_desc": ""
   }
 }

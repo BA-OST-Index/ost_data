@@ -1,5 +1,5 @@
 {
-  "uuid": "599e3c6a-e400-455e-b539-4b14f864ecef",
+  "uuid": "0fbd8b03-e072-4ed3-bc31-a3d794f2d367",
   "filetype": 71,
   "filename": "BG_DecagrammatonLabortory.jpg",
   "name": "[BG_DecagrammatonLabortory.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_DecagrammatonLabortory.jpg",
+    "value": "/static/images/background/BG_DecagrammatonLabortory.jpg",
     "short_desc": ""
   }
 }

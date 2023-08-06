@@ -1,5 +1,5 @@
 {
-  "uuid": "6da3851f-787d-4506-b4b6-d1d415bc05a3",
+  "uuid": "897e15d5-2714-4e1c-945f-276ac51c3230",
   "filetype": 71,
   "filename": "BG_RyoKanFront2_Night.jpg",
   "name": "[BG_RyoKanFront2_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RyoKanFront2_Night.jpg",
+    "value": "/static/images/background/BG_RyoKanFront2_Night.jpg",
     "short_desc": ""
   }
 }

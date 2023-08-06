@@ -1,5 +1,5 @@
 {
-  "uuid": "cb6da3ea-9929-485d-84d0-f6b08a7473ea",
+  "uuid": "767cfd79-41c1-45b0-92f2-3d417744bc2c",
   "filetype": 71,
   "filename": "BG_GehennaCouncilHall_Night.jpg",
   "name": "[BG_GehennaCouncilHall_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_GehennaCouncilHall_Night.jpg",
+    "value": "/static/images/background/BG_GehennaCouncilHall_Night.jpg",
     "short_desc": ""
   }
 }

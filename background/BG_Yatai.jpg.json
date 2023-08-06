@@ -1,5 +1,5 @@
 {
-  "uuid": "016f4439-1fd6-4a7e-ab19-b6bcd6dc92f4",
+  "uuid": "0166c867-7ab5-4b66-b88f-7ba94624500d",
   "filetype": 71,
   "filename": "BG_Yatai.jpg",
   "name": "[BG_Yatai.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Yatai.jpg",
+    "value": "/static/images/background/BG_Yatai.jpg",
     "short_desc": ""
   }
 }

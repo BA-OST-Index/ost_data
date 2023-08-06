@@ -1,5 +1,5 @@
 {
-  "uuid": "8659de25-bbe1-467d-a1ee-fed6df9da4ba",
+  "uuid": "939db0fc-c1d5-45a9-baf2-6b240e3fe4e7",
   "filetype": 71,
   "filename": "BG_CathedralRuins_Night.jpg",
   "name": "[BG_CathedralRuins_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CathedralRuins_Night.jpg",
+    "value": "/static/images/background/BG_CathedralRuins_Night.jpg",
     "short_desc": ""
   }
 }

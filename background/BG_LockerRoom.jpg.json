@@ -1,5 +1,5 @@
 {
-  "uuid": "4543ea3e-9272-47ab-bf9d-8e95756660b7",
+  "uuid": "96eb4a98-6f87-4cb1-a4eb-364640750d33",
   "filetype": 71,
   "filename": "BG_LockerRoom.jpg",
   "name": "[BG_LockerRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_LockerRoom.jpg",
+    "value": "/static/images/background/BG_LockerRoom.jpg",
     "short_desc": ""
   }
 }

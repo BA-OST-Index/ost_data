@@ -1,5 +1,5 @@
 {
-  "uuid": "3143c1ef-c1b7-4803-ad91-e76cb1f14ef5",
+  "uuid": "eb517a63-f633-4ae0-a594-845757d2a5b9",
   "filetype": 71,
   "filename": "BG_Market.jpg",
   "name": "[BG_Market.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Market.jpg",
+    "value": "/static/images/background/BG_Market.jpg",
     "short_desc": ""
   }
 }

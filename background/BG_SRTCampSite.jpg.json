@@ -1,5 +1,5 @@
 {
-  "uuid": "14c9a2d2-633b-476c-9754-e441d8e68f75",
+  "uuid": "f9e63bb4-7b37-4962-bd93-256e25293fff",
   "filetype": 71,
   "filename": "BG_SRTCampSite.jpg",
   "name": "[BG_SRTCampSite.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_SRTCampSite.jpg",
+    "value": "/static/images/background/BG_SRTCampSite.jpg",
     "short_desc": ""
   }
 }

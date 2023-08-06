@@ -1,5 +1,5 @@
 {
-  "uuid": "176229b1-43e6-4606-a64d-38634d85e3be",
+  "uuid": "0624e57c-210c-40cf-974d-c68f3257fc79",
   "filetype": 71,
   "filename": "BG_Campus_Sunset.jpg",
   "name": "[BG_Campus_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Campus_Sunset.jpg",
+    "value": "/static/images/background/BG_Campus_Sunset.jpg",
     "short_desc": ""
   }
 }

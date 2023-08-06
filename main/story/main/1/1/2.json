@@ -17,40 +17,40 @@
 
   "part": [
     {
-      "name": "遇到白子",
-      "desc": "就在老师穷途末路之际，老师遇到了白子。",
+      "name": "[STORY_MAIN_1_1_2_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P1_DESC]",
       "is_battle": false,
       "track": [],
       "background": ["BG_Residence.jpg"],
-      "character": ["Shiroko"]
-    },
-    {
-      "name": "白子",
-      "desc": "【白子遇到老师的动画】",
-      "is_battle": false,
-      "track": ["OST_8"],
-      "background": ["BG_CS_Abydos_02.jpg"],
       "character": []
     },
     {
-      "name": "说明来意",
-      "desc": "老师在遇见了白子之后，向白子表示自己是来出差的，但苦于找不到路。白子表示周边地区均已废弃，并向老师递能量饮料喝。之后，白子背着老师到达了学校。",
+      "name": "[STORY_MAIN_1_1_2_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P2_DESC]",
       "is_battle": false,
-      "track": ["OST_8"],
+      "track": ["OST_9"],
+      "background": ["BG_CS_Abydos_02.jpg"],
+      "character": ["Shiroko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_2_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_9"],
       "background": ["BG_Residence.jpg"],
       "character": ["Shiroko"]
     },
     {
-      "name": "到达对策委员会",
-      "desc": "将老师背到对策委员会办公室后，老师向众人表明了自己是夏莱老师的身份。",
+      "name": "[STORY_MAIN_1_1_2_P4_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P4_DESC]",
       "is_battle": false,
       "track": ["OST_10"],
       "background": ["BG_CommitteeRoom.jpg"],
       "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
     },
     {
-      "name": "迎战",
-      "desc": "就在众人准备讨论事务时，外面突然响起枪声，原来是头盔圈又来进攻阿拜多斯了。众人立刻开始作战，老师则留在办公室进行指挥。",
+      "name": "[STORY_MAIN_1_1_2_P5_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P5_DESC]",
       "is_battle": false,
       "track": ["OST_5"],
       "background": ["BG_CommitteeRoom.jpg", "BG_SchoolFrontGate.jpg"],
@@ -65,8 +65,8 @@
       "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
     },
     {
-      "name": "胜利",
-      "desc": "众人应战，在老师的指挥下众人获胜。",
+      "name": "[STORY_MAIN_1_1_2_P7_NAME]",
+      "desc": "[STORY_MAIN_1_1_2_P7_DESC]",
       "is_battle": false,
       "track": ["OST_11"],
       "background": ["BG_CityOffice.jpg"],

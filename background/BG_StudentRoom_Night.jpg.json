@@ -1,5 +1,5 @@
 {
-  "uuid": "5602592d-af78-441b-9263-af9c01bc3360",
+  "uuid": "ea6ba73b-1ce6-4f44-9f79-9ecb0d1a1d0f",
   "filetype": 71,
   "filename": "BG_StudentRoom_Night.jpg",
   "name": "[BG_StudentRoom_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_StudentRoom_Night.jpg",
+    "value": "/static/images/background/BG_StudentRoom_Night.jpg",
     "short_desc": ""
   }
 }

@@ -1,5 +1,5 @@
 {
-  "uuid": "0a83144f-5f6c-4764-be5e-a96c3c888a29",
+  "uuid": "3d002d24-4a96-4b4c-a772-3e8a96c5cfb5",
   "filetype": 71,
   "filename": "BG_Gym_Night2.jpg",
   "name": "[BG_Gym_Night2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Gym_Night2.jpg",
+    "value": "/static/images/background/BG_Gym_Night2.jpg",
     "short_desc": ""
   }
 }

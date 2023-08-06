@@ -1,5 +1,5 @@
 {
-  "uuid": "f999c2d9-4263-4cfb-a163-b89dbf1c7461",
+  "uuid": "60b0fe64-b11f-47a7-a9f8-dc79d0d29c57",
   "filetype": 71,
   "filename": "BG_HyakkiyakoCampus.jpg",
   "name": "[BG_HyakkiyakoCampus.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_HyakkiyakoCampus.jpg",
+    "value": "/static/images/background/BG_HyakkiyakoCampus.jpg",
     "short_desc": ""
   }
 }

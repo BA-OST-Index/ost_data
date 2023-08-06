@@ -1,5 +1,5 @@
 {
-  "uuid": "d1ef2fc5-3464-4788-9a2a-9fd35ca1f32a",
+  "uuid": "d1aabd3c-dd78-43e6-9d93-ca20de6ea4a5",
   "filetype": 71,
   "filename": "BG_ConstructionSite.jpg",
   "name": "[BG_ConstructionSite.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ConstructionSite.jpg",
+    "value": "/static/images/background/BG_ConstructionSite.jpg",
     "short_desc": ""
   }
 }

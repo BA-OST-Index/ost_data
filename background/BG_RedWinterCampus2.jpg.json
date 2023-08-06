@@ -1,5 +1,5 @@
 {
-  "uuid": "b638d6fa-0425-488a-ab45-e16b75de7e85",
+  "uuid": "b52da4c7-d048-4410-8611-8953c1ca248d",
   "filetype": 71,
   "filename": "BG_RedWinterCampus2.jpg",
   "name": "[BG_RedWinterCampus2.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RedWinterCampus2.jpg",
+    "value": "/static/images/background/BG_RedWinterCampus2.jpg",
     "short_desc": ""
   }
 }

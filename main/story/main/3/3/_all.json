@@ -1,0 +1,23 @@
+{
+  "uuid": "bb22d254-2c1b-4b9a-941f-dbdd4e008f9a",
+  "filetype": -25,
+  "name": "[STORY_MAIN_3_3_NAME]",
+  "namespace": "3",
+  "desc": "[STORY_MAIN_3_3_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

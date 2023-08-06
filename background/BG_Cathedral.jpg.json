@@ -1,5 +1,5 @@
 {
-  "uuid": "9e867e75-95f4-4b8d-a965-9fe56a552c71",
+  "uuid": "618c396c-862a-4313-a547-7221efb00fd8",
   "filetype": 71,
   "filename": "BG_Cathedral.jpg",
   "name": "[BG_Cathedral.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Cathedral.jpg",
+    "value": "/static/images/background/BG_Cathedral.jpg",
     "short_desc": ""
   }
 }

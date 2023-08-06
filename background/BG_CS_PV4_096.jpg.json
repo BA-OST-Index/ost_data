@@ -1,0 +1,13 @@
+{
+  "uuid": "016f1bfc-6fde-4e7e-89c6-7cd63fbfac8f",
+  "filetype": 71,
+  "filename": "BG_CS_PV4_096.jpg",
+  "name": "[BG_CS_PV4_096.jpg_NAME]",
+  "desc": "[BG_CS_PV4_096.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_CS_PV4_096.jpg",
+    "short_desc": ""
+  }
+}

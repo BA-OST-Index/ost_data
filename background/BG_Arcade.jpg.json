@@ -1,5 +1,5 @@
 {
-  "uuid": "19dabd72-bcd5-4f40-a12e-18eb8733c3e6",
+  "uuid": "84c92419-ac9a-4d21-bf2a-96a1d9c63c74",
   "filetype": 71,
   "filename": "BG_Arcade.jpg",
   "name": "[BG_Arcade.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Arcade.jpg",
+    "value": "/static/images/background/BG_Arcade.jpg",
     "short_desc": ""
   }
 }

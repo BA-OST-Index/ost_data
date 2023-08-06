@@ -1,5 +1,5 @@
 {
-  "uuid": "0e72953d-f0bd-4d1d-b3de-c55738549747",
+  "uuid": "45e031d5-5680-4e8c-a18e-91b3f0f23700",
   "filetype": 71,
   "filename": "BG_Atelier.jpg",
   "name": "[BG_Atelier.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Atelier.jpg",
+    "value": "/static/images/background/BG_Atelier.jpg",
     "short_desc": ""
   }
 }

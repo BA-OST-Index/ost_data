@@ -1,5 +1,5 @@
 {
-  "uuid": "b82da259-364e-4f0c-ba04-433e061f4b9e",
+  "uuid": "ec31f38f-4dcc-44e2-9e9d-9870c39cda17",
   "filetype": 71,
   "filename": "BG_CS_Decagrammaton_01_Night.jpg",
   "name": "[BG_CS_Decagrammaton_01_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Decagrammaton_01_Night.jpg",
+    "value": "/static/images/background/BG_CS_Decagrammaton_01_Night.jpg",
     "short_desc": ""
   }
 }

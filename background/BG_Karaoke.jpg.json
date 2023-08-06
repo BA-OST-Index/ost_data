@@ -1,5 +1,5 @@
 {
-  "uuid": "366e1c92-c5b0-4fc6-803f-efca48c4a1cc",
+  "uuid": "f233a91f-febd-422f-bf8f-cc81464fee04",
   "filetype": 71,
   "filename": "BG_Karaoke.jpg",
   "name": "[BG_Karaoke.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Karaoke.jpg",
+    "value": "/static/images/background/BG_Karaoke.jpg",
     "short_desc": ""
   }
 }

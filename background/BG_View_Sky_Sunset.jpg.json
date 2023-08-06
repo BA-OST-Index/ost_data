@@ -1,5 +1,5 @@
 {
-  "uuid": "5836d40d-e81a-458e-98fc-b60c7de882f2",
+  "uuid": "b6e55fd1-1897-470b-8b67-d0ddff83ecd8",
   "filetype": 71,
   "filename": "BG_View_Sky_Sunset.jpg",
   "name": "[BG_View_Sky_Sunset.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_View_Sky_Sunset.jpg",
+    "value": "/static/images/background/BG_View_Sky_Sunset.jpg",
     "short_desc": ""
   }
 }

@@ -1,9 +1,9 @@
 {
   "uuid": "abf30c05-18bb-4ac6-9b50-1c6e903de5ff",
   "filetype": -27,
-  "name": "",
+  "name": "[BATTLE_BOUNTY_NAME]",
   "namespace": "bounty_hunt",
-  "desc": "",
+  "desc": "[BATTLE_BOUNTY_DESC]",
 
   "include": [
     "[AUTO]"

@@ -1,5 +1,5 @@
 {
-  "uuid": "66fed8cb-4f08-4e2a-af16-3a142da3ff7c",
+  "uuid": "93df6b8f-fe94-4fa0-9810-5e7eb4690f92",
   "filetype": 71,
   "filename": "BG_RuinBuildingCorridor_Night.jpg",
   "name": "[BG_RuinBuildingCorridor_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinBuildingCorridor_Night.jpg",
+    "value": "/static/images/background/BG_RuinBuildingCorridor_Night.jpg",
     "short_desc": ""
   }
 }

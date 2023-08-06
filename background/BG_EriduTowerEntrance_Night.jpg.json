@@ -1,5 +1,5 @@
 {
-  "uuid": "7d7303d6-fca8-4ad0-9ab2-878dde0b8964",
+  "uuid": "66d35fae-5396-484b-ac3e-42c94a574259",
   "filetype": 71,
   "filename": "BG_EriduTowerEntrance_Night.jpg",
   "name": "[BG_EriduTowerEntrance_Night.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_EriduTowerEntrance_Night.jpg",
+    "value": "/static/images/background/BG_EriduTowerEntrance_Night.jpg",
     "short_desc": ""
   }
 }

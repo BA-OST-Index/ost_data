@@ -1,5 +1,5 @@
 {
-  "uuid": "b00bec21-8d13-4560-9a8e-255c4f2ce917",
+  "uuid": "ce4ed74a-b3d3-49a8-a466-7e54522f9df5",
   "filetype": 71,
   "filename": "BG_CitySqaure.jpg",
   "name": "[BG_CitySqaure.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CitySqaure.jpg",
+    "value": "/static/images/background/BG_CitySqaure.jpg",
     "short_desc": ""
   }
 }

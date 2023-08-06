@@ -1,5 +1,5 @@
 {
-  "uuid": "fa273d5e-8056-44bf-bea3-7ef7ca49a1f3",
+  "uuid": "1e8858c1-6e77-4042-8f15-a4d9a78b26f8",
   "filetype": 71,
   "filename": "BG_Infirmary.jpg",
   "name": "[BG_Infirmary.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_Infirmary.jpg",
+    "value": "/static/images/background/BG_Infirmary.jpg",
     "short_desc": ""
   }
 }

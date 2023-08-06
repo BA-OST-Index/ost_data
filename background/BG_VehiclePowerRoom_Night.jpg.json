@@ -1,0 +1,13 @@
+{
+  "uuid": "323f97d8-b733-43fd-b0c4-921d6d124724",
+  "filetype": 71,
+  "filename": "BG_VehiclePowerRoom_Night.jpg",
+  "name": "[BG_VehiclePowerRoom_Night.jpg_NAME]",
+  "desc": "[BG_VehiclePowerRoom_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_VehiclePowerRoom_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,5 +1,5 @@
 {
-  "uuid": "a3efca0d-f548-429e-b9d4-e449e39868c6",
+  "uuid": "9121c235-d0c1-48e9-8f9d-7135ff1479a3",
   "filetype": 71,
   "filename": "BG_RuinSchoolCorridor.jpg",
   "name": "[BG_RuinSchoolCorridor.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_RuinSchoolCorridor.jpg",
+    "value": "/static/images/background/BG_RuinSchoolCorridor.jpg",
     "short_desc": ""
   }
 }

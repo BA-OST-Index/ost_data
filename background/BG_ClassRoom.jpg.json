@@ -1,5 +1,5 @@
 {
-  "uuid": "1f0324da-75dd-476e-9894-16507e909394",
+  "uuid": "b2d075f4-e507-4079-b6ce-d2d7e0a3f255",
   "filetype": 71,
   "filename": "BG_ClassRoom.jpg",
   "name": "[BG_ClassRoom.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_ClassRoom.jpg",
+    "value": "/static/images/background/BG_ClassRoom.jpg",
     "short_desc": ""
   }
 }

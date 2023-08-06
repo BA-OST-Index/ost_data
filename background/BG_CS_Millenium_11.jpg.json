@@ -1,5 +1,5 @@
 {
-  "uuid": "d1495b2f-703e-48b7-a6c1-23df6de2e0ec",
+  "uuid": "5a21c5d5-c464-4fd3-870a-e147e4e9a503",
   "filetype": 71,
   "filename": "BG_CS_Millenium_11.jpg",
   "name": "[BG_CS_Millenium_11.jpg_NAME]",
@@ -7,7 +7,7 @@
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/BG_CS_Millenium_11.jpg",
+    "value": "/static/images/background/BG_CS_Millenium_11.jpg",
     "short_desc": ""
   }
 }
