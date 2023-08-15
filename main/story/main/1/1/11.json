@@ -3,7 +3,7 @@
   "filetype": 11,
 
   "name": "[STORY_MAIN_1_1_11_NAME]",
-  "desc": "[STORY_MAIN_1_1_11_DESC]",
+  "desc": ["[STORY_MAIN_1_1_11_DESC_1]", "[STORY_MAIN_1_1_11_DESC_2]"],
   "pos": {
     "volume": 1,
     "chapter": 1,
