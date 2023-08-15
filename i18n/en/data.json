@@ -1,0 +1,47 @@
+{
+  "[BACKGROUND_NAME]": "All backgrounds",
+  "[BACKGROUND_DESC]": "This page lists all the backgrounds of Blue Archive.",
+
+  "[BATTLE_ALL_NAME]": "All battles (missions)",
+  "[BATTLE_ALL_DESC]": "This page lists all the missions of Blue Archive (event missions excluded).",
+  "[BATTLE_MAIN_NAME]": "All main missions",
+  "[BATTLE_MAIN_DESC]": "This page lists all the main missions of Blue Archive (sub missions excluded).",
+  "[BATTLE_BOUNTY_NAME]": "All bounty missions",
+  "[BATTLE_BOUNTY_DESC]": "This page lists all the bounty missions of Blue Archive.",
+  "[BATTLE_EXCHANGE_NAME]": "All school exchange missions",
+  "[BATTLE_EXCHANGE_DESC]": "This page lists all the school exchange missions of Blue Archive.",
+  "[BATTLE_SPECIAL_NAME]": "All special commissions",
+  "[BATTLE_SPECIAL_DESC]": "This page lists all the special commissions of Blue Archive.",
+  "[BATTLE_TOTAL_NAME]": "All Total Assault BOSS",
+  "[BATTLE_TOTAL_DESC]": "This page lists all the Total Assault BOSS appeared in the game. Please be noted that due to the version difference between the JP and other servers, some bosses may have not appeared in other servers yet.",
+
+  "[TRACK_ALL_NAME]": "All tracks",
+  "[TRACK_ALL_DESC]": "This page lists all track types of Blue Archive.",
+  "[TRACK_ANIMATION_NAME]": "All animation tracks",
+  "[TRACK_ANIMATION_DESC]": "This page lists all the tracks from Blue Archive's official animation.",
+  "[TRACK_OST_NAME]": "All OST tracks",
+  "[TRACK_OST_DESC]": "This page lists all the tracks from Blue Archive's OST.",
+  "[TRACK_SHORT_NAME]": "All short (animation) tracks",
+  "[TRACK_SHORT_DESC]": "This page lists all the tracks from Blue Archive's official short animation.",
+  "[TRACK_OTHER_NAME]": "All other tracks",
+  "[TRACK_OTHER_DESC]": "This page lists all the other tracks. The other tracks refer to the tracks that do not belong to the other three, and they could be a third-party recreation or rearrangement.",
+
+  "[TAG_ALL_NAME]": "All tags",
+  "[TAG_ALL_DESC]": "This page lists all the tags used by this site. Please be noted that these tags are only used in this site, and other sites may have their own ones.",
+
+  "[UI_ALL_NAME]": "All UIs",
+  "[UI_ALL_DESC]": "This page lists all the UIs (user interface) of Blue Archive.",
+
+  "[VIDEO_ALL_NAME]": "All videos",
+  "[VIDEO_ALL_DESC]": "This page lists all the videos recorded.",
+
+  "[EVENT_ALL_NAME]": "All events",
+  "[EVENT_ALL_DESC]": "This page lists all the events of Blue Archive.",
+
+  "[CHAR_ALL_NAME]": "All characters",
+  "[CHAR_ALL_DESC]": "This page lists all the characters of Blue Archive.",
+  "[CHAR_NPC_NAME]": "All NPCs",
+  "[CHAR_NPC_DESC]": "This page lists all the NPCs (non-playable characters) of Blue Archive.",
+  "[CHAR_STU_NAME]": "All students",
+  "[CHAR_STU_DESC]": "This page lists all the students of Blue Archive. The related information is auto generated based on <a href=\"https://schale.gg/\">Schale DB</a> and therefore there might be some data lag (i.e. no data for newly-released characters), advanced data (i.e. characters can not be found in international server due to the half year gap), or even data errors. You're advised to proceed with caution."
+}

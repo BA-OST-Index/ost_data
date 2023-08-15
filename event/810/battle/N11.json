@@ -1,0 +1,14 @@
+{
+  "uuid": "f629bf95-5bef-41ee-89ab-d17736b70f1d",
+  "filetype": 22,
+
+  "name": "[BATTLE_EVENT_810_N11]",
+  "event_id": 810,
+  "no": "N11",
+
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+
+  "track": ["OST_76"]
+}

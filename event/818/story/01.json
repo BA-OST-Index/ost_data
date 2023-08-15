@@ -1,0 +1,44 @@
+{
+  "uuid": "34b2fcc3-45f3-4fa9-8961-600173c050e0",
+  "filetype": 14,
+
+  "name": "[STORY_EVENT_818_1_NAME]",
+  "desc": "[STORY_EVENT_818_1_DESC]",
+  "pos": {
+    "event_id": 818,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_EVENT_818_1_P1_NAME]",
+      "desc": "[STORY_EVENT_818_1_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_107"],
+      "background": ["BG_Broadcastingroom_Off.jpg", "BG_CS_PV3_60.jpg", "BG_CS_PV3_55.jpg", "BG_CS_PV3_57.jpg"],
+      "character": ["Mai", "Shinon"]
+    },
+    {
+      "name": "[STORY_EVENT_818_1_P2_NAME]",
+      "desc": "[STORY_EVENT_818_1_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_107", "OST_7"],
+      "background": ["BG_KivotosStadium.jpg"],
+      "character": ["Ayane", "Hanako"]
+    },
+    {
+      "name": "[STORY_EVENT_818_1_P3_NAME]",
+      "desc": "[STORY_EVENT_818_1_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_130"],
+      "background": ["BG_Broadcastingroom_Off.jpg"],
+      "character": ["Mai", "Shinon"]
+    }
+  ],
+  "is_battle": false
+}

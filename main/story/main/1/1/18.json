@@ -1,0 +1,37 @@
+{
+  "uuid": "dc718735-ec15-4136-a85f-d89c50297714",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_18_NAME]",
+  "desc": "[STORY_MAIN_1_1_18_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_18_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_18_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10", "OST_7"],
+      "background": ["BG_RamenYa.jpg"],
+      "character": ["Mutsuki", "Haruka", "MasterShiba", "Aru", "Kayoko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_18_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_18_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_5"],
+      "background": ["BG_CommitteeRoom.jpg", "BG_DemolitionCity.jpg"],
+      "character": ["Nonomi", "Shiroko", "Serika", "Ayane", "Mutsuki", "Haruka", "Kayoko"]
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,61 @@
+{
+  "uuid": "641951ad-ab4d-4b57-8610-f99d18ed9dff",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_20_NAME]",
+  "desc": "[STORY_MAIN_2_1_20_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_20_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_20_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi", "Aris", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_20_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_20_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_11", "OST_35"],
+      "background": ["BG_ConventionHall.jpg", "BG_GameDevRoom.jpg"],
+      "character": ["Kotori", "Momoi", "Midori", "Yuzu", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_20_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_20_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_39"],
+      "background": ["BG_GameDevRoom.jpg", "BG_ConventionHall_Sunset.jpg"],
+      "character": ["Momoi", "Midori", "Yuzu", "Aris", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_20_P4_NAME]",
+      "desc": "[STORY_MAIN_2_1_20_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_39", "OST_37"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi", "Yuuka", "Maki", "Aris", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_20_P5_NAME]",
+      "desc": "[STORY_MAIN_2_1_20_P5_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_CS_Millenium_07.jpg", "BG_CS_Millenium_08.jpg", "BG_CS_Millenium_09.jpg"],
+      "character": []
+    }
+  ],
+  "is_battle": false
+}

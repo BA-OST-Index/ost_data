@@ -5,34 +5,34 @@
   "[STORY_MAIN_NAME]": "全部主线故事",
   "[STORY_MAIN_DESC]": "本页列出所有的主线故事的篇号及标题。",
 
-  "[STORY_MAIN_1_NAME]": "第一篇-對策委員會篇",
+  "[STORY_MAIN_1_NAME]": "對策委員會篇",
   "[STORY_MAIN_1_DESC]": "阿拜多斯高中面临了废校危机。和对策委员会一起保护学校吧！",
-  "[STORY_MAIN_1_1_NAME]": "第一章-對策委員會奇妙的一天",
+  "[STORY_MAIN_1_1_NAME]": "對策委員會奇妙的一天",
   "[STORY_MAIN_1_1_DESC]": "為了阻止廢校而建立的對策委員會。雖然每天都在苦撐，但學校的債務一點都沒有減少的跡象。",
-  "[STORY_MAIN_1_2_NAME]": "第二章-失去的事物，未曾放棄的事物",
+  "[STORY_MAIN_1_2_NAME]": "失去的事物，未曾放棄的事物",
   "[STORY_MAIN_1_2_DESC]": "陷入困境的阿拜多斯對策委員會。與威脅阿拜多斯高中存亡的陰謀鬥爭，結果會是……?",
 
-  "[STORY_MAIN_2_NAME]": "第二篇-發條花的帕凡舞曲篇",
+  "[STORY_MAIN_2_NAME]": "發條花的帕凡舞曲篇",
   "[STORY_MAIN_2_DESC]": "遊戲開發部正在請求協助。必須在限時內做出完美的遊戲!",
-  "[STORY_MAIN_2_1_NAME]": "第一章-復古・浪漫",
+  "[STORY_MAIN_2_1_NAME]": "復古・浪漫",
   "[STORY_MAIN_2_1_DESC]": "千年的遊戲開發部陷入了廢社危機。熱愛遊戲但成員與實績都不足的她們,能順利製作出「神作」嗎?",
-  "[STORY_MAIN_2_2_NAME]": "第二章-友情與勇氣與希望的浪漫",
+  "[STORY_MAIN_2_2_NAME]": "友情與勇氣與希望的浪漫",
   "[STORY_MAIN_2_2_DESC]": "遊戲開發部全員為了下一屆千年大賞，開始製作新遊戲。但就在此時，學生會長莉央出現了——被告知的真相和突如其來的危機。遊戲開發部能平安度過此劫嗎？",
 
-  "[STORY_MAIN_3_NAME]": "第三篇-伊甸園條約篇",
+  "[STORY_MAIN_3_NAME]": "伊甸園條約篇",
   "[STORY_MAIN_3_DESC]": "格黑娜和三一是死對頭。這兩間學校真的能和解嗎？",
-  "[STORY_MAIN_3_1_NAME]": "第一章-補課開始！",
+  "[STORY_MAIN_3_1_NAME]": "補課開始！",
   "[STORY_MAIN_3_1_DESC]": "四名三一的學生即將被留級。請成為指引她們的「補課部」班導師，將她們 從危機中解救出來吧！",
-  "[STORY_MAIN_3_2_NAME]": "第二章-無法證明的難題",
+  "[STORY_MAIN_3_2_NAME]": "無法證明的難題",
   "[STORY_MAIN_3_2_DESC]": "在這個陰謀、懷疑及背叛交織的黑暗中，補課部的學生們能平安度過這場危機嗎？",
-  "[STORY_MAIN_3_3_NAME]": "第三章-我們的故事",
+  "[STORY_MAIN_3_3_NAME]": "我們的故事",
   "[STORY_MAIN_3_3_DESC]": "終於迎來了伊甸園條約簽字儀式的當天。看似和平的日常生活出現了裂縫，混亂和憎惡的入侵正在加速。最終收束的目的地將會是「破局」,還是——",
-  "[STORY_MAIN_3_4_NAME]": "第四章-為了被遺忘的神祇們的垂憐經",
+  "[STORY_MAIN_3_4_NAME]": "為了被遺忘的神祇們的垂憐經",
   "[STORY_MAIN_3_4_DESC]": "被自己所屬的學園拋棄的奧利斯小隊——徘徊於憎惡和憤怒之間的她們，真的存在著慈悲嗎？",
 
-  "[STORY_MAIN_4_NAME]": "第四篇-卡班諾的兔子篇",
+  "[STORY_MAIN_4_NAME]": "卡班諾的兔子篇",
   "[STORY_MAIN_4_DESC]": "SRT特殊學園在一夜之間突然遭到關閉。新生們的命運將會如何呢……?",
-  "[STORY_MAIN_4_1_NAME]": "第一章-RABBIT小隊開始行動！",
+  "[STORY_MAIN_4_1_NAME]": "RABBIT小隊開始行動！",
   "[STORY_MAIN_4_1_DESC]": "突然下達了SRT特殊學園的廢校命令。RABBIT小隊的學生們不能接受，開始在公園過著露宿野外的生活以示反抗……?",
 
   "[STORY_MAIN_FINAL_NAME]": "Final. 所有奇蹟的起點篇",
@@ -43,16 +43,16 @@
   "[STORY_MAIN_FINAL_2_DESC]": "奇普托斯突然出現了六座高塔。天空被不祥的赤紅壟罩， 未曾出現的威脅向奇普托斯襲來——老師能夠順利解決這個狀況嗎？",
 
   "[STORY_SHORT_NAME]": "全部短篇故事",
-  "[STORY_SHORT_DESC]": "本页列出所有蔚蓝档案的短篇故事。",
+  "[STORY_SHORT_DESC]": "本頁列出所有蔚藍檔案的短篇故事。",
 
-  "[STORY_SIDE_NAME]": "全部支线故事",
-  "[STORY_SIDE_DESC]": "本页列出所有蔚蓝档案的支线故事。",
+  "[STORY_SIDE_NAME]": "全部支線故事",
+  "[STORY_SIDE_DESC]": "本頁列出所有蔚藍檔案的支線故事。",
 
   "[STORY_OTHER_NAME]": "全部其他故事",
-  "[STORY_OTHER_DESC]": "本页列出所有蔚蓝档案的其它故事。",
+  "[STORY_OTHER_DESC]": "本頁列出所有蔚藍檔案的其它故事。",
 
   "[STORY_OTHER_1_NAME]": "序幕",
-  "[STORY_OTHER_1_DESC]": "老师就任第一天的记录。",
+  "[STORY_OTHER_1_DESC]": "老師就任第一天的記錄。",
   "[STORY_OTHER_1_1_NAME]": "序幕-第一章",
-  "[STORY_OTHER_1_1_DESC]": "本页列出所有“序幕”故事第一章中的所有故事。"
+  "[STORY_OTHER_1_1_DESC]": "本頁列出所有“序幕”故事第一章中的所有故事。"
 }

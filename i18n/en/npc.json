@@ -1,14 +1,18 @@
 {
   "[NPC_ARONA_NAME]": "Arona",
-  "[NPC_ARONA_DESC]": "阿罗娜(Arona)是蔚蓝档案中的“什锦之箱”中的系统管理员，设定上是一个辅助老师的个人小助理。阿罗娜的整体色调是蓝色，与游戏名称“蔚蓝/碧蓝档案”相呼应。尽管长得很可爱，阿罗娜在帮助老师招募学生时却经常会不出三星，具体是故意还是不小心的就不得人知了。国际服繁中将其称呼为“彩奈”，某种层面上看可能是在希望阿罗娜能够多出点彩（bushi）。",
+  "[NPC_ARONA_DESC]": "Arona is the system manager of the Shittim Chest in Blue Archive, who is set to be a personal assistant for Sensei. She is overall blue, recalling the game title Blue Archive. Though being cute, Arona seldom brings Sensei a 3-star student when recruiting, which is unknown for being either accidentally or intentionally. In Chinese (Traditional) translation, Arona is called \"彩奈\", with the \"彩\" (rainbow) indicating the color of the letter for a 3-star student; from some aspects, it might be an intensional case for wishing more 3-star students.",
+  "[NPC_BLACKSUIT_NAME]": "The Black Suit",
+  "[NPC_BLACKSUIT_DESC]": "The Black Suit is a villain in Blue Archive, a member of Gematria. His main goal is to investigate the \"Mythic\" in Kivotos, as well as exploit the power of the AI so-called Decagrammaton. He appears in multiple stories.",
   "[NPC_RIN_NAME]": "Rin",
-  "[NPC_RIN_DESC]": "琳是基沃托斯学生会的临时会长，在新手教程以及终章中出现过。",
+  "[NPC_RIN_DESC]": "Rin is the Vice President of the General Student Council. She appears in the Tutorial and Volume Final.",
   "[NPC_MOMOKA_NAME]": "Momoka",
-  "[NPC_MOMOKA_DESC]": "桃香是基沃托斯学生会交通部的部长，在新手教程以及其他一些剧情中均有出现。个人性格很懒，喜欢逃避事情，还喜欢天天吃她的明太子味薯片。在当前设定下，桃香的主要任务就是把任务分配给老师做。",
+  "[NPC_MOMOKA_DESC]": "Momoka is the chief of the General Student Council's Transportation Office. She appears in the Tutorial and some other stories. She has a lazy personality, prefers to avoiding things, and likes eating the chips all the time. Under the current situation, her main task is to distribute tasks to Sensei.",
   "[NPC_MASTERSHIBA_NAME]": "Master Shiba",
-  "[NPC_MASTERSHIBA_DESC]": "柴大将是一位在阿拜多斯校区附近经营着一个名叫“柴犬拉面”的餐厅老板，也是茜香打工的上司。",
+  "[NPC_MASTERSHIBA_DESC]": "Master Shiba is a restaurant owner near the Abydos High School, whose restaurant is known to be \"Shiba Ramen\". He is also the boss of Serika when working.",
   "[NPC_MAI_NAME]": "Mai",
-  "[NPC_MAI_DESC]": "麻衣是一位隶属于克洛卢斯新闻部的部员，负责基沃托斯多数新闻事件的报导工作，在部分剧情中与诗音一起出现。",
+  "[NPC_MAI_DESC]": "Mai is a member of Kronos School's News Club, who is responsible for reporting most news events in Kivotos. She appears with Shinon in some stories.",
   "[NPC_SHINON_NAME]": "Shinon",
-  "[NPC_SHINON_DESC]": "诗音是一位隶属于克洛卢斯新闻部的部员，负责基沃托斯多数新闻事件的报导工作。其有时与麻衣一起出场，在剧情中主要负责新闻实况的解说员，一些新闻大屏幕上常常能看见她充满激情地播报着动态。"
+  "[NPC_SHINON_DESC]": "Shinon is a member of Kronos School's News Club, who is responsible for reporting most news events in Kivotos. She appears with Mai sometimes, and plays a role of live news commentator. She can be seen reporting news energetically on some big news screens.",
+  "[NPC_PMCCEO_NAME]": "PMC CEO",
+  "[NPC_PMCCEO_DESC]": "The CEO of the PMC cooperation and its subsidiaries, one of the main villain in Blue Archive. He appeared in the 1st and Final volumes. His main goal is to bring Kivotos under his rules. He had cooperated with the Black Suit before."
 }

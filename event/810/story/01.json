@@ -1,0 +1,36 @@
+{
+  "uuid": "d57d13bf-5415-4322-b049-b26bf1c027c3",
+  "filetype": 14,
+
+  "name": "[STORY_EVENT_810_1_NAME]",
+  "desc": "[STORY_EVENT_810_1_DESC]",
+  "pos": {
+    "event_id": 810,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_EVENT_810_1_P1_NAME]",
+      "desc": "[STORY_EVENT_810_1_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_CraftChamber.jpg"],
+      "character": ["Kirino", "Fubuki"]
+    },
+    {
+      "name": "[STORY_EVENT_810_1_P2_NAME]",
+      "desc": "[STORY_EVENT_810_1_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_17", "OST_7"],
+      "background": ["BG_ShoppingDistrict.jpg"],
+      "character": []
+    }
+  ],
+  "is_battle": false
+}

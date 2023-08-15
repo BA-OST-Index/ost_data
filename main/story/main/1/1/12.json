@@ -1,0 +1,45 @@
+{
+  "uuid": "186bfff9-7a80-44de-a6b5-42c53b895f52",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_12_NAME]",
+  "desc": "[STORY_MAIN_1_1_12_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_12_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_12_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_Yatai_Night.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Ayane", "Hifumi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_12_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_12_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_KohshinjoRoom.jpg", "BG_UpperOffice_Night.jpg"],
+      "character": ["Mutsuki", "Aru", "Kayoko", "Haruka", "PMCCEO", "BlackSuit"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_12_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_12_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_16"],
+      "background": ["BG_KohshinjoRoom.jpg"],
+      "character": ["Mutsuki", "Aru", "Kayoko", "Haruka"]
+    }
+  ],
+  "is_battle": false
+}

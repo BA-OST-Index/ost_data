@@ -1,0 +1,14 @@
+{
+  "uuid": "1e61ad51-0e93-4433-821e-27ace65ad990",
+  "filetype": 52,
+  "namespace": "pmcceo",
+
+  "name": "[NPC_PMCCEO_NAME]",
+  "desc": "[NPC_PMCCEO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

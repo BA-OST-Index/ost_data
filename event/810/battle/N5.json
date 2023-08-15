@@ -1,0 +1,14 @@
+{
+  "uuid": "c3673604-edb2-4735-a593-d53afb8a4b97",
+  "filetype": 22,
+
+  "name": "[BATTLE_EVENT_810_N5]",
+  "event_id": 810,
+  "no": "N5",
+
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+
+  "track": ["OST_41"]
+}

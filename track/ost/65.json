@@ -1,0 +1,62 @@
+{
+  "uuid": "35d6e979-99dc-4f8d-bf93-3f3509d66cd4",
+
+  "name":{
+    "realname": "[OST_65_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_65_DESC]",
+
+  "release_date": 1612674055,
+  "no": 65,
+  "track_type": 0,
+  "duration": 111,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 2
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=vNGl17i0zug",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "special_case": {
+    "is_ost": true,
+    "is_bond_memory": false,
+    "is_story": false,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "19315d4e-b3b8-4450-8db2-109f2b1b949e",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_19_NAME]",
+  "desc": "[STORY_MAIN_1_1_19_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_19_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_19_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_7", "OST_18"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Mutsuki", "Aru", "Kayoko", "Haruka", "Serika", "Shiroko", "Nonomi", "Ayane"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_19_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_19_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_13", "OST_20"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Aru", "Mutsuki", "Kayoko", "Shiroko", "Serika", "Ayane", "Nonomi"]
+    }
+  ],
+  "is_battle": true
+}

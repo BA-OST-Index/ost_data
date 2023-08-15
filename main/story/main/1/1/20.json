@@ -1,0 +1,53 @@
+{
+  "uuid": "6bab5d15-6690-4924-aa6b-e244c4216c39",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_20_NAME]",
+  "desc": "[STORY_MAIN_1_1_20_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_20_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_20_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_20", "OST_18"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Mutsuki", "Kayoko", "Iori", "Chinatsu", "Serika", "Ayane", "Shiroko", "Nonomi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_20_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_20_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_18"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Iori", "Chinatsu"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_20_P4_NAME]",
+      "desc": "[STORY_MAIN_1_1_20_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Iori", "Chinatsu", "Shiroko", "Nonomi", "Serika", "Ayane", "Ako", "Haruka"]
+    }
+  ],
+  "is_battle": true
+}

@@ -1,0 +1,52 @@
+{
+  "[TAG_BRIGHT_NAME]": "Bright",
+  "[TAG_BRIGHT_DESC]": "In Kivotos, no future is dark; even so, it was temporary, as it will point to the bright ending that is possible to reach. <b>Example: Connected Sky, <i>Does the color of the sky mean anything special to you?</i></b>",
+
+  "[TAG_DAYTODAY_NAME]": "Day to Day",
+  "[TAG_DAYTODAY_DESC]": "Aside from all the ups and downs, we need some to to relax our mind. <b>Example: Lemonade Diary, Nesno wons.</b> Main characteristics are soft, gentle.",
+
+  "[TAG_DISCOURAGED_NAME]": "Discouraged",
+  "[TAG_DISCOURAGED_DESC]": "The future here, seemed to be unforeseeable. <b>Example: Alkaline Tears, Theme 140</b>",
+
+  "[TAG_DREAM_NAME]": "Dream",
+  "[TAG_DREAM_DESC]": "<b>Example: Aoharu</b>",
+
+  "[TAG_ENERGETIC_NAME]": "Energetic",
+  "[TAG_ENERGETIC_DESC]": "<b>Example: FEEEEVER TIME, Undefined Behavior, Goal Wo Nerae!</b> Overall it coincides with the Uplifting genre and combat tracks.",
+
+  "[TAG_MYSTERIOUS_NAME]": "Mysterious",
+  "[TAG_MYSTERIOUS_DESC]": "<b>Example: OperationD</b>",
+
+  "[TAG_GLOOMY_NAME]": "Gloomy",
+  "[TAG_GLOOMY_DESC]": "<b>Example: Crucial Issue, Formless Dream</b>",
+
+  "[TAG_FUTURE_NAME]": "Future",
+  "[TAG_FUTURE_DESC]": "<b>Example: Aoharu</b>",
+
+  "[TAG_FAILURE_NAME]": "Failure",
+  "[TAG_FAILURE_DESC]": "<b>Example: Theme 135, Theme 140</b>",
+
+  "[TAG_SAD_NAME]": "Sad",
+  "[TAG_SAD_DESC]": "<b>Example: Kaphar</b>",
+
+  "[TAG_UNEASY_NAME]": "Uneasy",
+  "[TAG_UNEASY_DESC]": "<b>Example: Let me think about it</b>",
+
+  "[TAG_POSSIBILITIES_NAME]": "Possibilities",
+  "[TAG_POSSIBILITIES_DESC]": "Wait, what's gonna happen?! <b>Example: Theme 137</b>",
+
+  "[TAG_RELAXING_NAME]": "Relaxing",
+  "[TAG_RELAXING_DESC]": "Sometimes it's good to have a cup of tea and relaxed. <b>Example: Cherry Merry Berry</b>",
+
+  "[TAG_NERVOUS_NAME]": "Nervous",
+  "[TAG_NERVOUS_DESC]": "Get ready for combat!<b>Example: Encroached Sky、Polyphonic</b>",
+
+  "[TAG_HOPEFUL_NAME]": "Hopeful",
+  "[TAG_HOPEFUL_DESC]": "Just do it! <b>Example: ystem All Green</b>",
+
+  "[TAG_HOLY_NAME]": "Holy",
+  "[TAG_HOLY_DESC]": "<b>Example: Final Destination of Ark</b>",
+
+  "[TAG_NAUGHTY_NAME]": "Naughty",
+  "[TAG_NAUGHTY_DESC]": "<b>Example: Usagi Flap, Theme 114, Theme 159</b>"
+}

@@ -1,0 +1,17 @@
+{
+  "uuid": "339f139a-629b-4800-9243-5bc07da886f9",
+  "filetype": -45,
+  "name": "[EVENT_GUI_NAME]",
+  "namespace": "ui",
+  "desc": "[EVENT_812_UI_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": true
+  }
+}

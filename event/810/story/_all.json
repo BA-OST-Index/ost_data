@@ -1,0 +1,23 @@
+{
+  "uuid": "88ad353d-bfb2-4309-ab51-c27c50b193ca",
+  "filetype": -43,
+  "name": "[EVENT_GSTORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_810_STORY_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": true
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

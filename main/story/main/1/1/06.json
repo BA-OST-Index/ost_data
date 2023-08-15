@@ -1,0 +1,45 @@
+{
+  "uuid": "f26d9992-74c2-4af9-af6c-98471766a710",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_6_NAME]",
+  "desc": "[STORY_MAIN_1_1_6_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_6_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_6_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_16"],
+      "background": ["BG_StudentRoom_Night.jpg", "BG_CommitteeRoom_Night.jpg"],
+      "character": ["Ayane", "Nonomi", "Shiroko", "Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_6_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_6_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_67", "OST_11"],
+      "background": ["BG_RailWay.jpg"],
+      "character": ["Serika", "Ayane", "Shiroko", "Hoshino", "Nonomi"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_19"],
+      "background": [],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
+    }
+  ],
+  "is_battle": true
+}

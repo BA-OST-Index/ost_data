@@ -1,0 +1,45 @@
+{
+  "uuid": "08edca50-f67b-487a-a27c-6efca058ac01",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_14_NAME]",
+  "desc": "[STORY_MAIN_2_1_14_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_14_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_14_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_13", "OST_49", "OST_20"],
+      "background": ["BG_BuildingCorridor_Night.jpg", "BG_BuildingRooftop_Night.jpg"],
+      "character": ["Momoi", "Midori", "Hare", "Karin", "Utaha"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_14_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_14_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_20"],
+      "background": ["BG_BuildingCorridor_Night.jpg"],
+      "character": ["Kotori", "Maki", "Akane", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_14_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_14_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_IndoorPlaza_Night2.jpg"],
+      "character": ["Momoi", "Midori", "Asuna"]
+    }
+  ],
+  "is_battle": false
+}

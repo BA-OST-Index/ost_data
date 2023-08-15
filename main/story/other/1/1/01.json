@@ -1,0 +1,45 @@
+{
+  "uuid": "74489a51-5d14-4327-9f9b-812dad6d596f",
+  "filetype": 16,
+
+  "name": "[STORY_OTHER_1_1_1_NAME]",
+  "desc": "[STORY_OTHER_1_1_1_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_OTHER_1_1_1_P1_NAME]",
+      "desc": "[STORY_OTHER_1_1_1_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_34"],
+      "background": ["BG_CS_PR_00.jpg", "BG_View_Kivotos.jpg", "BG_CityDowntown.jpg", "BG_DesertResidence_Night.jpg", "BG_SchoolRooftop.jpg", "BG_Wilderness_Night.jpg", "BG_CityOffice.jpg", "BG_CS_PR_01.jpg", "BG_CS_PR_08.jpg", "BG_CS_PR_09.jpg", "BG_CS_PR_07.jpg", "BG_CS_PR_12.jpg", "BG_CS_Trinity_01.jpg", "BG_CS_Gehenna_02_Letter.jpg","BG_CS_Gehenna_03_Letter.jpg", "BG_CS_Gehenna_01_Letter.jpg", "BG_CS_Abydos_01_Letter.jpg", "BG_CS_PR_19.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_OTHER_1_1_1_P2_NAME]",
+      "desc": "[STORY_OTHER_1_1_1_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_10", "OST_11"],
+      "background": ["BG_UpperOffice.jpg", "BG_CS_PR_16.jpg", "BG_CS_PR_10.jpg"],
+      "character": ["Rin"]
+    },
+    {
+      "name": "[STORY_OTHER_1_1_1_P3_NAME]",
+      "desc": "[STORY_OTHER_1_1_1_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_11", "OST_28"],
+      "background": ["BG_ReceptionRoom.jpg"],
+      "character": ["Yuuka", "Hasumi", "Chinatsu", "Suzumi", "Rin", "Momoka"]
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,15 @@
+{
+  "uuid": "b17a125f-25b5-43b7-81cf-f864f8bc3149",
+  "filetype": 32,
+
+  "name": "[UI_EVENT_812_1_NAME]",
+  "desc": "[UI_EVENT_812_1_DESC]",
+  "event_id": 812,
+  "track": "OST_109",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

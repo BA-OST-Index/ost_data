@@ -21,7 +21,7 @@
       "desc": "[STORY_MAIN_2_1_13_P1_DESC]",
       "is_battle": false,
       "track": ["OST_28"],
-      "background": ["Unknown.jpg"],
+      "background": ["BG_HQ2.jpg"],
       "character": ["Aris", "Yuuka", "Akane"]
     },
     {
@@ -45,7 +45,7 @@
       "desc": "[STORY_MAIN_2_1_13_P4_DESC]",
       "is_battle": false,
       "track": ["OST_18"],
-      "background": ["Unknown.jpg"],
+      "background": ["BG_HQ2.jpg"],
       "character": ["Yuuka", "Akane"]
     },
     {
@@ -69,7 +69,7 @@
       "desc": "[STORY_MAIN_2_1_13_P7_DESC]",
       "is_battle": false,
       "track": ["OST_30"],
-      "background": ["Unknown.jpg", "BG_BuildingCorridor_Night.jpg", "BG_MilleniumCorridor_Night.jpg"],
+      "background": ["BG_HQ2.jpg", "BG_BuildingCorridor_Night.jpg", "BG_MilleniumCorridor_Night.jpg"],
       "character": ["Akane", "Maki", "Kotori", "Yuuka", "Midori", "Momoi"]
     },
     {

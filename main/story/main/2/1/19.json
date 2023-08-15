@@ -1,0 +1,61 @@
+{
+  "uuid": "397dd92b-3ef4-42bf-981f-b862a68dac4e",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_19_NAME]",
+  "desc": "[STORY_MAIN_2_1_19_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_19_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_19_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_11", "OST_64", "OST_20"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Midori", "Momoi", "Aris", "Yuzu"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_20"],
+      "background": [],
+      "character": ["Midori", "Momoi", "Aris", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_19_P3_NAME]",
+      "desc": "[STORY_MAIN_2_1_19_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_13", "OST_18", "OST_65"],
+      "background": ["BG_MilleniumCorridor_Night.jpg"],
+      "character": ["Midori", "Momoi", "Aris", "Yuzu", "Neru", "Karin", "Akane"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_19_P4_NAME]",
+      "desc": "[STORY_MAIN_2_1_19_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_49"],
+      "background": ["BG_MilleniumCorridor_Night.jpg", "BG_CS_Millenium_04.jpg", "BG_CS_Millenium_03.jpg", "BG_CS_Millenium_05.jpg", "BG_CS_Millenium_06.jpg"],
+      "character": ["Karin", "Asuna", "Akane", "Midori", "Momoi", "Aris", "Neru"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_19_P5_NAME]",
+      "desc": "[STORY_MAIN_2_1_19_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_MilleniumCorridor_Night.jpg"],
+      "character": ["Akane", "Neru", "Karin", "Asuna"]
+    }
+  ],
+  "is_battle": true
+}

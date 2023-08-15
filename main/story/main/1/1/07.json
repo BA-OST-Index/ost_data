@@ -1,0 +1,45 @@
+{
+  "uuid": "482a354e-b8cd-406b-a7a0-9b73ad40cc4b",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_7_NAME]",
+  "desc": "[STORY_MAIN_1_1_7_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_7_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_7_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_4"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Ayane", "Nonomi", "Hoshino", "Serika", "Shiroko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_7_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_7_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_4"],
+      "background": ["BG_UpperOffice_Night.jpg", "BG_CityOffice_Night.jpg", "BG_CS_Gehenna_01.jpg"],
+      "character": ["PMCCEO"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_7_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_7_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_Infirmary_Night.jpg"],
+      "character": ["Serika"]
+    }
+  ],
+  "is_battle": false
+}

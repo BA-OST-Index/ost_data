@@ -1,0 +1,14 @@
+{
+  "uuid": "7c9c757e-aee4-4fdd-999c-82de4ce65d28",
+  "filetype": 52,
+  "namespace": "blacksuit",
+
+  "name": "[NPC_BLACKSUIT_NAME]",
+  "desc": "[NPC_BLACKSUIT_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

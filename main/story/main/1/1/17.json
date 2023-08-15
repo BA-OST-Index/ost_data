@@ -1,0 +1,53 @@
+{
+  "uuid": "7d67096e-0698-4d03-902b-eaca8a650665",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_17_NAME]",
+  "desc": "[STORY_MAIN_1_1_17_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_17_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_17_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_6"],
+      "background": ["BG_KohshinjoRoom.jpg"],
+      "character": ["Mutsuki", "Aru", "Kayoko", "Haruka"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_17_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_17_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_18", "OST_13"],
+      "background": ["BG_CS_Gehenna_02.jpg", "BG_KohshinjoRoom.jpg"],
+      "character": ["Kayoko", "Hina", "Mutsuki", "Aru"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_17_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_17_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Nonomi", "Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_17_P4_NAME]",
+      "desc": "[STORY_MAIN_1_1_17_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_SchoolFrontGate.jpg", "BG_UpperOffice.jpg", "BG_CS_RAID_01.jpg"],
+      "character": ["Hoshino", "BlackSuit"]
+    }
+  ],
+  "is_battle": false
+}

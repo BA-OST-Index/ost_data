@@ -1,0 +1,47 @@
+{
+  "[BACKGROUND_NAME]": "全部背景",
+  "[BACKGROUND_DESC]": "本頁列出所有蔚藍檔案遊戲中的背景。",
+
+  "[BATTLE_ALL_NAME]": "全部任務",
+  "[BATTLE_ALL_DESC]": "本頁列出所有蔚藍檔案遊戲中的任務（不含活動任務等）。",
+  "[BATTLE_MAIN_NAME]": "全部主線任務",
+  "[BATTLE_MAIN_DESC]": "本頁列出所有的蔚藍檔案主線任務關卡（不含子(Sub)任務）。",
+  "[BATTLE_BOUNTY_NAME]": "全部懸賞通緝任務",
+  "[BATTLE_BOUNTY_DESC]": "本頁列出所有的蔚藍檔案懸賞通緝任務關卡。",
+  "[BATTLE_EXCHANGE_NAME]": "全部學院交流會任務",
+  "[BATTLE_EXCHANGE_DESC]": "本頁列出所有的蔚藍檔案學院交流會任務關卡。",
+  "[BATTLE_SPECIAL_NAME]": "全部特殊任務",
+  "[BATTLE_SPECIAL_DESC]": "本頁列出所有的蔚藍檔案特殊任務關卡",
+  "[BATTLE_TOTAL_NAME]": "全部總力戰BOSS",
+  "[BATTLE_TOTAL_DESC]": "本頁列出所有的蔚藍檔案中出現的總力戰BOSS。請注意，日服由於版本領先，部分BOSS可能未在其他伺服器中出現過。",
+
+  "[TRACK_ALL_NAME]": "全部曲子",
+  "[TRACK_ALL_DESC]": "本頁列出所有的蔚藍檔案曲子的類別。",
+  "[TRACK_ANIMATION_NAME]": "全部動畫曲子",
+  "[TRACK_ANIMATION_DESC]": "本頁列出所有在蔚藍檔案官方動畫中出現的曲子。",
+  "[TRACK_OST_NAME]": "全部OST曲子",
+  "[TRACK_OST_DESC]": "本頁列出所有的蔚藍檔案OST曲子。",
+  "[TRACK_SHORT_NAME]": "全部短篇動畫曲子",
+  "[TRACK_SHORT_DESC]": "本頁列出所有來自蔚藍檔案短篇動畫裡的曲子。",
+  "[TRACK_OTHER_NAME]": "全部其它曲子",
+  "[TRACK_OTHER_DESC]": "本頁列出所有蔚藍檔案的其它曲目。其他曲目是指不屬於上述三種分類內的曲目，它可能是第三方創作或改編的曲目。",
+
+  "[TAG_ALL_NAME]": "全部標籤",
+  "[TAG_ALL_DESC]": "本頁列出所有本站使用的標籤。請注意，這些標籤僅在本站通用，其它站點可能有其它標籤。",
+
+  "[UI_ALL_NAME]": "全部UI(使用者介面)",
+  "[UI_ALL_DESC]": "本頁列出所有蔚藍檔案中出現的不同UI(使用者介面)。",
+
+  "[VIDEO_ALL_NAME]": "全部影片",
+  "[VIDEO_ALL_DESC]": "本頁列出所有本站已收錄的影片。",
+
+  "[EVENT_ALL_NAME]": "全部活動",
+  "[EVENT_ALL_DESC]": "本頁列出所有蔚藍檔案的活動。",
+
+  "[CHAR_ALL_NAME]": "全部角色/人物",
+  "[CHAR_ALL_DESC]": "本頁列出所有蔚藍檔案中的角色/人物。",
+  "[CHAR_NPC_NAME]": "全部NPC",
+  "[CHAR_NPC_DESC]": "本頁列出所有蔚藍檔案的NPC（不可遊玩角色）。",
+  "[CHAR_STU_NAME]": "全部學生",
+  "[CHAR_STU_DESC]": "本頁列出所有蔚藍檔案的學生。學生的相關資訊基於<a href=\"https://schale.gg/\">Schale DB</a>的資料自動生成，因而可能會出現資料滯後（如剛出的新角色沒有資料）、超前（國際服晚半年），以至於是不準確的情況，敬請注意。"
+}

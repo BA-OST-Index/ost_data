@@ -1,0 +1,45 @@
+{
+  "uuid": "7d67096e-0698-4d03-902b-eaca8a650665",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_14_NAME]",
+  "desc": "[STORY_MAIN_1_1_14_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_14_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_14_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_6", "OST_7"],
+      "background": ["BG_Bank.jpg"],
+      "character": ["Aru", "Mutsuki", "Kayoko", "Haruka", "Hoshino", "Shiroko", "Nonomi", "Serika", "Hifumi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_14_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_14_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_CityTown.jpg", "BG_BuildingFrontGate.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi", "Aru", "Mutsuki", "Kayoko", "Haruka"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
+    }
+  ],
+  "is_battle": true
+}

@@ -1,0 +1,45 @@
+{
+  "uuid": "7d67096e-0698-4d03-902b-eaca8a650665",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_13_NAME]",
+  "desc": "[STORY_MAIN_1_1_13_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_13_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_13_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_BlackMarket.jpg", "BG_CityTown.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_13_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_13_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_CityTown.jpg", "BG_BuildingFrontGate.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_13_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_13_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_27", "OST_7"],
+      "background": ["BG_CityTown.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi", "Ayane"]
+    }
+  ],
+  "is_battle": false
+}

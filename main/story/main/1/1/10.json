@@ -1,0 +1,45 @@
+{
+  "uuid": "8f980264-7b74-4c2a-82b6-4050f9a6f785",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_10_NAME]",
+  "desc": "[STORY_MAIN_1_1_10_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_10_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_10_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_Residence.jpg"],
+      "character": ["Ayane", "Mutsuki"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_10_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_10_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_SchoolFrontGate.jpg"],
+      "character": ["Ayane", "Shiroko", "Hoshino", "Nonomi", "Serika"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_10_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_10_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_17"],
+      "background": ["BG_CommitteeRoom.jpg", "BG_CS_Gehenna_01.jpg"],
+      "character": ["Ayane", "Shiroko", "Hoshino", "Nonomi", "Serika"]
+    }
+  ],
+  "is_battle": false
+}

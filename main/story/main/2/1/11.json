@@ -2,12 +2,12 @@
   "uuid": "2ec8b4d5-6fad-4f4d-931b-48c32f3761fe",
   "filetype": 11,
 
-  "name": "[STORY_MAIN_2_1_10_NAME]",
-  "desc": "[STORY_MAIN_2_1_10_DESC]",
+  "name": "[STORY_MAIN_2_1_11_NAME]",
+  "desc": "[STORY_MAIN_2_1_11_DESC]",
   "pos": {
     "volume": 2,
     "chapter": 1,
-    "segment": 10
+    "segment": 11
   },
   "image": {
     "platform": -1,

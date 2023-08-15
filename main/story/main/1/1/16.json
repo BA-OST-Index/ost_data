@@ -1,0 +1,37 @@
+{
+  "uuid": "4ff59839-a3e7-4632-a8b5-61eb7c954f49",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_1_16_NAME]",
+  "desc": "[STORY_MAIN_1_1_16_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 1,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_1_16_P1_NAME]",
+      "desc": "[STORY_MAIN_1_1_16_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Hoshino", "Shiroko", "Nonomi", "Serika", "Ayane", "Hifumi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_17_P2_NAME]",
+      "desc": "[STORY_MAIN_1_1_17_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_SchoolFrontGate.jpg"],
+      "character": ["Hoshino", "Shiroko", "Nonomi", "Serika", "Ayane", "Hifumi"]
+    }
+  ],
+  "is_battle": false
+}

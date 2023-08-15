@@ -1,0 +1,45 @@
+{
+  "uuid": "5e11545d-f13c-44aa-bcd2-dfc12691a6a6",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_1_16_NAME]",
+  "desc": "[STORY_MAIN_2_1_16_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 1,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_1_16_P1_NAME]",
+      "desc": "[STORY_MAIN_2_1_16_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_ComputerCenter_Off.jpg"],
+      "character": ["Midori", "Momoi", "Aris", "Neru", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_16_P2_NAME]",
+      "desc": "[STORY_MAIN_2_1_16_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_ComputerCenter_Off.jpg"],
+      "character": ["Momoi", "Midori", "Yuzu", "Aris"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_20"],
+      "background": [],
+      "character": ["Midori", "Momoi", "Yuzu", "Aris"]
+    }
+  ],
+  "is_battle": true
+}

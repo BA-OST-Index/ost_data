@@ -1,0 +1,23 @@
+{
+  "uuid": "2224eb2d-5693-46f4-b306-ede4c8c93cfe",
+  "filetype": -42,
+  "name": "[EVENT_810_NAME]",
+  "namespace": "810",
+  "desc": "[EVENT_810_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}
