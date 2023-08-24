@@ -1,0 +1,45 @@
+{
+  "uuid": "63b2f750-6183-45ef-8cae-c5944e61c8e3",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_9_NAME]",
+  "desc": "[STORY_MAIN_1_2_9_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_9_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_9_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_18"],
+      "background": ["BG_DesertCamp2.jpg", "BG_DesertCamp.jpg"],
+      "character": ["Hoshino", "Serika", "Shiroko", "Nonomi", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_9_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_9_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_41", "OST_30"],
+      "background": ["BG_DesertCamp.jpg"],
+      "character": ["Hoshino", "Ayane", "Serika", "Nonomi", "Shiroko"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_19"],
+      "background": [],
+      "character": ["Hoshino", "Shiroko", "Nonomi", "Serika", "Ayane"]
+    }
+  ],
+  "is_battle": true
+}

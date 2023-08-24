@@ -1,0 +1,45 @@
+{
+  "uuid": "a5f77341-1623-4f08-b199-f2c26eee190f",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_10_NAME]",
+  "desc": "[STORY_MAIN_1_2_10_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_10_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_10_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_20", "OST_27"],
+      "background": ["BG_Wilderness.jpg"],
+      "character": ["Serika", "Shiroko", "Hoshino", "Ayane", "PMCCEO", "Nonomi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_10_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_10_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_UpperOffice.jpg"],
+      "character": ["BlackSuit", "PMCCEO"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_10_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_10_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_Wilderness.jpg"],
+      "character": ["Hoshino", "PMCCEO", "Serika", "Nonomi", "Shiroko"]
+    }
+  ],
+  "is_battle": false
+}

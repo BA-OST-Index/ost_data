@@ -1,0 +1,53 @@
+{
+  "uuid": "5a6e111b-9aa7-4c6f-8da9-3f805f21ff2e",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_8_NAME]",
+  "desc": "[STORY_MAIN_2_2_8_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_8_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_8_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_55"],
+      "background": ["BG_View_Sky.jpg", "BG_CS_Millenium_19.jpg", "BG_CraftChamber.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_2_2_8_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_8_P2_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_BuildingCorridor.jpg"],
+      "character": ["Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_8_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_8_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_15"],
+      "background": ["BG_GameDevRoom_Night.jpg", "BG_CS_Millenium_20.jpg", "BG_CS_Millenium_21.jpg"],
+      "character": ["Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_8_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_8_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_92"],
+      "background": ["BG_SubwayHall.jpg", "BG_Arcade.jpg"],
+      "character": ["Midori", "Yuzu", "Rio"]
+    }
+  ],
+  "is_battle": false
+}

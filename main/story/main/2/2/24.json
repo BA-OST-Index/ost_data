@@ -1,0 +1,77 @@
+{
+  "uuid": "3eea9a76-9386-47b3-a172-b77945c27ff8",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_24_NAME]",
+  "desc": "[STORY_MAIN_2_2_24_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 24
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_24_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_93"],
+      "background": ["BG_CS_Millenium_02.jpg", "BG_RuinCity.jpg", "BG_RuinUndergroundPassage.jpg", "BG_RuinUndergroundPassage_Night.jpg", "BG_RuinCenter.jpg"],
+      "character": ["Momoi", "Yuzu", "Midori", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_93"],
+      "background": ["BG_EriduCityTown.jpg", "BG_EriduCityTown_Night.jpg", "BG_RuinCenter.jpg"],
+      "character": ["Neru", "Toki", "Momoi", "Midori", "Yuzu", "Hibiki", "Utaha", "Kotori", "Aris", "ArisKey"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P3_DESC]",
+      "is_battle": true,
+      "track": ["OST_140"],
+      "background": ["BG_GameDevRoom_Night.jpg", "BG_RuinCenter.jpg", "BG_CS_Millenium_19.jpg"],
+      "character": ["Rio", "Midori", "Yuzu", "Neru"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_RuinCenter.jpg"],
+      "character": ["Momoi", "Aris", "Midori", "Yuzu", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P5_DESC]",
+      "is_battle": false,
+      "track": ["short_1"],
+      "background": ["BG_CS_Millenium_51.jpg", "BG_CS_Millenium_52.jpg", "BG_CS_Millenium_53.jpg", "BG_CS_Millenium_54.jpg", "BG_RuinCenter.jpg", "BG_CS_Millenium_55.jpg", "BG_CS_Millenium_56.jpg", "BG_CS_Millenium_57.jpg", "BG_White.jpg"],
+      "character": ["Aris", "Momoi", "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P6_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P6_DESC]",
+      "is_battle": false,
+      "track": ["short_1"],
+      "background": ["BG_RuinCenter.jpg", "BG_White.jpg"],
+      "character": ["Aris", "Momoi", "Midori", "Yuzu", "ArisKey"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_24_P7_NAME]",
+      "desc": "[STORY_MAIN_2_2_24_P7_DESC]",
+      "is_battle": false,
+      "track": ["short_1"],
+      "background": ["BG_EriduCityTown_Night.jpg", "BG_EriduTowerEntrance_Night.jpg", "BG_EriduTowerInside_Night.jpg", "BG_BigSisterRoom2.jpg", "BG_BigSisterRoom_Night.jpg", "BG_White.jpg", "BG_CS_Millenium_58.jpg"],
+      "character": ["Rio", "Momoi", "Midori", "Yuzu", "Aris"]
+    }
+  ],
+  "is_battle": false
+}

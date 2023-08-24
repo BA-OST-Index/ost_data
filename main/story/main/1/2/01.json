@@ -1,0 +1,93 @@
+{
+  "uuid": "497fe9b9-974e-4d42-8c55-925db0b3a55b",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_1_NAME]",
+  "desc": ["[STORY_MAIN_1_2_1_DESC_1]", "[STORY_MAIN_1_2_1_DESC_2]"],
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_1_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P1_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Haruka"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Nonomi", "Shiroko", "Serika", "Ayane", "Ako", "Iori"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Serika", "Shiroko", "Nonomi", "Ayane", "Ako"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_29"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Iori", "Haruka", "Ako", "Kayoko", "Mutsuki"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P5_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_41"],
+      "background": ["BG_DemolitionCity.jpg", "BG_SchoolFrontGate.jpg"],
+      "character": ["Ako", "Kayoko", "Serika", "Shiroko", "Nonomi", "Ayane", "Hifumi", "Chinatsu"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P6_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P6_DESC]",
+      "is_battle": false,
+      "track": ["OST_7"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Aru", "Kayoko", "Mutsuki", "Serika", "Shiroko", "Nonomi", "Haruka"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Haruka", "Mutsuki", "Aru", "Shiroko", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P8_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P8_DESC]",
+      "is_battle": false,
+      "track": ["OST_18"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Ako", "Ayane", "Serika", "Kayoko", "Aru", "Mutsuki"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_1_P9_NAME]",
+      "desc": "[STORY_MAIN_1_2_1_P9_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Ako", "Hina", "Serika", "Nonomi", "Shiroko", "Iori", "Chinatsu"]
+    }
+  ],
+  "is_battle": true
+}

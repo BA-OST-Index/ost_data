@@ -1,0 +1,45 @@
+{
+  "uuid": "94ead21f-9897-497d-91f0-0c8d801fff0a",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_11_NAME]",
+  "desc": "[STORY_MAIN_2_2_11_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_11_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_11_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_129"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Hare", "Maki", "Kotama", "Akane", "Karin", "Asuna", "Neru"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_11_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_11_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_135"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Rio", "Momoi", "Yuzu", "Hare", "Midori"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_11_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_11_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_64"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Momoi", "Midori", "Yuzu", "Neru", "Hare", "Kotama", "Maki", "Akane", "Karin", "Asuna"]
+    }
+  ],
+  "is_battle": false
+}

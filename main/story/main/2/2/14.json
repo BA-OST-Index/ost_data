@@ -1,0 +1,45 @@
+{
+  "uuid": "65faae0b-f2f3-487a-8149-699c530a9ce0",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_14_NAME]",
+  "desc": "[STORY_MAIN_2_2_14_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_14_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_14_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_29"],
+      "background": ["BG_EriduCityTown.jpg"],
+      "character": ["Toki", "Asuna", "Akane", "Karin", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_14_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_14_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_49"],
+      "background": ["BG_EriduCityTown.jpg"],
+      "character": ["Neru", "Asuna", "Toki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_14_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_14_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_40"],
+      "background": ["BG_RuinUndergroundPassage_Night.jpg", "BG_White.jpg", "BG_EriduCityTown_Night.jpg"],
+      "character": ["Kotori", "Hibiki", "Momoi", "Midori", "Hare", "Kotama", "Maki"]
+    }
+  ],
+  "is_battle": false
+}

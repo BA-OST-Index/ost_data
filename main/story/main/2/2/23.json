@@ -1,0 +1,45 @@
+{
+  "uuid": "b3d38b1c-de76-4e56-88e4-752cbbc02d6f",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_23_NAME]",
+  "desc": "[STORY_MAIN_2_2_23_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_23_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_23_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_76"],
+      "background": ["BG_BigSisterRoom2.jpg", "BG_EriduCityTown_Night.jpg"],
+      "character": ["ArisKey", "Yuuka", "Noa", "Momoi", "Midori", "Yuzu", "Rio", "Kotori", "Hibiki", "Utaha"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_23_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_23_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_40"],
+      "background": ["BG_BigSisterRoom2.jpg"],
+      "character": ["Himari", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_23_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_23_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_40"],
+      "background": ["BG_BigSisterRoom2.jpg", "BG_ComputerCenter.jpg", "BG_ComputerCenter_Off.jpg", "BG_EriduCityTown_Night.jpg", "BG_EriduTowerEntrance_Night.jpg"],
+      "character": ["Himari", "Yuzu", "Momoi", "Midori", "Yuuka", "Noa", "Maki", "Hare", "Kotama", "Sumire", "Chihiro", "Hibiki", "Utaha", "Kotori", "Akane", "Asuna", "Karin", "Eimi", "Rio", "ArisKey"]
+    }
+  ],
+  "is_battle": false
+}

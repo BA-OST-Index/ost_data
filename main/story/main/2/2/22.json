@@ -1,0 +1,45 @@
+{
+  "uuid": "5cf6bf2e-1818-4010-b52f-1e492d701625",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_22_NAME]",
+  "desc": "[STORY_MAIN_2_2_22_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 22
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_22_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_22_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_EriduTowerRooftop_Night.jpg"],
+      "character": ["Neru", "Momoi",  "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_22_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_22_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_73"],
+      "background": ["BG_BigSisterRoom.jpg"],
+      "character": ["Momoi", "Midori", "Yuzu", "Chihiro", "Rio", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_22_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_22_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_122", "OST_65"],
+      "background": ["BG_BigSisterRoom2.jpg", "BG_View_Eridu_Night.jpg", "BG_EriduCityTown_Night.jpg", "BG_RuinUndergroundPassage_Night.jpg", "BG_EriduTowerEntrance_Night.jpg"],
+      "character": ["ArisKey", "Momoi", "Midori", "Yuzu", "Chihiro", "Rio", "Yuuka", "Noa"]
+    }
+  ],
+  "is_battle": false
+}

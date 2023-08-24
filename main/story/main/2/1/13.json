@@ -37,7 +37,7 @@
       "desc": "[STORY_MAIN_2_1_13_P3_DESC]",
       "is_battle": false,
       "track": ["OST_40"],
-      "background": ["BG_SchoolRooftop.jpg"],
+      "background": ["BG_MilleniumCenter_Night.jpg"],
       "character": ["Momoi", "Midori", "Hare", "Maki", "Kotori"]
     },
     {

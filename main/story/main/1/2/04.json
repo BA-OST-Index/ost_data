@@ -1,0 +1,53 @@
+{
+  "uuid": "ca588320-69d9-4aeb-b1a4-d5855a8bbf29",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_4_NAME]",
+  "desc": "[STORY_MAIN_1_2_4_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_4_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_4_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_SchoolFrontGate.jpg"],
+      "character": ["Nonomi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_4_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_4_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_10"],
+      "background": ["BG_SchoolFrontGate.jpg"],
+      "character": ["Nonomi", "Shiroko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_4_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_4_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_44"],
+      "background": ["BG_ClassCorridor.jpg", "BG_ClassRoom.jpg"],
+      "character": ["Hoshino", "Shiroko", "Nonomi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_4_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_4_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Hoshino", "Shiroko", "Nonomi", "Serika", "Ayane"]
+    }
+  ],
+  "is_battle": false
+}

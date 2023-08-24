@@ -1,0 +1,53 @@
+{
+  "uuid": "519c778b-a67c-4dfb-a15f-d7f17ebff0ab",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_19_NAME]",
+  "desc": "[STORY_MAIN_2_2_19_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_19_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_19_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_137"],
+      "background": ["BG_EriduCityTown_Night.jpg"],
+      "character": ["Toki", "Neru", "Chihiro", "Momoi", "Midori", "Yuzu", "Akane"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_19_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_19_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_75", "OST_74"],
+      "background": ["BG_EriduCityTown_Night.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_EriduTowerRooftop_Night.jpg"],
+      "character": ["Neru", "Toki", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_19_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_19_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_74", "OST_49"],
+      "background": ["BG_CS_Millenium_42.jpg", "BG_CS_Millenium_43.jpg", "BG_CS_Millenium_44.jpg", "BG_CS_Millenium_44_2.jpg"],
+      "character": ["Toki", "Neru", "Momoi", "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_19_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_19_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_137"],
+      "background": ["BG_EriduCityTown_Night.jpg"],
+      "character": ["Neru", "Toki", "Rio", "Chihiro", "Momoi"]
+    }
+  ],
+  "is_battle": false
+}

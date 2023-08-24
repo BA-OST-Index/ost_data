@@ -1,0 +1,53 @@
+{
+  "uuid": "5ca2629b-b428-4212-8675-5cbd0c0acad3",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_12_NAME]",
+  "desc": "[STORY_MAIN_2_2_12_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_12_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_12_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Yuuka", "Noa", "Hare", "Momoi", "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_12_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_12_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_68"],
+      "background": ["BG_MilleniumCenter.jpg", "BG_View_Eridu.jpg"],
+      "character": ["Yuuka", "Noa", "Akane"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_12_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_12_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_68", "OST_130"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Utaha", "Hibiki", "Kotori", "Momoi", "Midori", "Toki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_12_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_12_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_129", "OST_28"],
+      "background": ["BG_MilleniumCenter.jpg"],
+      "character": ["Akane", "Utaha", "Hare", "Kotama", "Neru", "Momoi", "Yuzu", "Midori", "Asuna", "Karin", "Maki"]
+    }
+  ],
+  "is_battle": false
+}

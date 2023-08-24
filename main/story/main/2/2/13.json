@@ -1,0 +1,53 @@
+{
+  "uuid": "7a63bd36-a0b9-4730-8030-8111a4728a2c",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_13_NAME]",
+  "desc": ["[STORY_MAIN_2_2_13_DESC_1]", "[STORY_MAIN_2_2_13_DESC_2]"],
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_13_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_13_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_92"],
+      "background": ["BG_Prison.jpg", "BG_View_Eridu.jpg", "BG_BigSisterRoom.jpg"],
+      "character": ["Himari", "Rio", "Toki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_13_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_13_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_92"],
+      "background": ["BG_View_Eridu.jpg", "BG_SubwayHall_Night.jpg", "BG_RuinUndergroundPassage_Night.jpg"],
+      "character": ["Utaha", "Hibiki", "Kotori", "Hare", "Maki", "Kotama", "Momoi", "Midori"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_76"],
+      "background": [],
+      "character": ["Yuzu", "Momoi", "Midori", "Kotama", "Utaha", "Hibiki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_13_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_13_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_58", "OST_60"],
+      "background": ["BG_EriduCityTown.jpg"],
+      "character": ["Asuna", "Karin", "Akane", "Toki"]
+    }
+  ],
+  "is_battle": true
+}

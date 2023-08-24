@@ -1,0 +1,93 @@
+{
+  "uuid": "3f07f858-6162-4c34-b217-cd1dff563a6b",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_13_NAME]",
+  "desc": "[STORY_MAIN_1_2_13_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_13_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_CS_Abydos_06.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_UpperOffice.jpg"],
+      "character": ["Hoshino", "BlackSuit"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_CS_Abydos_06.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_CS_Abydos_06.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P5_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_BuildingFrontGate.jpg"],
+      "character": ["Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P6_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P6_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_CS_Abydos_06.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P7_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P7_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_CommitteeRoom.jpg", "BG_DemolitionCity.jpg"],
+      "character": ["Serika", "Shiroko", "Ayane", "PMCCEO", "Nonomi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_13_P8_NAME]",
+      "desc": "[STORY_MAIN_1_2_13_P8_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Shiroko", "Ayane", "Serika"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_20"],
+      "background": [],
+      "character": ["Shiroko", "Nonomi", "Serika", "Ayane"]
+    }
+  ],
+  "is_battle": true
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "15a7e5bb-e1c6-48a5-8ef2-e6d8ca04d196",
+  "filetype": 52,
+  "namespace": "yume",
+
+  "name": "[NPC_YUME_NAME]",
+  "desc": "[NPC_YUME_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

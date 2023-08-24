@@ -1,0 +1,53 @@
+{
+  "uuid": "d1ceb3af-5ef7-4abd-bd80-9eb96861aae2",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_20_NAME]",
+  "desc": "[STORY_MAIN_2_2_20_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_20_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_20_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_67"],
+      "background": ["BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Chihiro", "Akane", "Asuna", "Karin", "Momoi", "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_20_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_20_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_53"],
+      "background": ["BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Neru", "Momoi", "Midori", "Asuna", "Karin", "Akane", "Chihiro"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_20_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_20_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_53"],
+      "background": ["BG_EriduCityTown_Night.jpg", "BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Yuzu", "Momoi", "Midori", "Chihiro", "Karin", "Akane", "Neru"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_20_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_20_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_137"],
+      "background": ["BG_EriduTowerEntrance_Night.jpg"],
+      "character": ["Neru", "Toki", "Rio", "Akane", "Asuna"]
+    }
+  ],
+  "is_battle": false
+}

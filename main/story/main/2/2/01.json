@@ -1,0 +1,53 @@
+{
+  "uuid": "9240cd06-9bed-48d1-9b17-c13498ff42aa",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_1_NAME]",
+  "desc": "[STORY_MAIN_2_2_1_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_1_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_1_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_73"],
+      "background": ["BG_UpperOffice_Night.jpg"],
+      "character": ["Himari", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_1_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_1_P2_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_IndoorPlaza_Night2.jpg", "BG_UpperOffice_Night.jpg"],
+      "character": ["Himari", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_1_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_1_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_41"],
+      "background": ["BG_IndoorPlaza_Night2.jpg"],
+      "character": ["Himari", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_1_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_1_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_33", "OST_29"],
+      "background": ["BG_MilleniumCorridor_Night.jpg", "BG_MilleniumCorridor_Night_Blur.jpg"],
+      "character": ["Himari", "Toki"]
+    }
+  ],
+  "is_battle": false
+}

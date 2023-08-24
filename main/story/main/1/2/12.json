@@ -1,0 +1,77 @@
+{
+  "uuid": "c7f41026-7bee-49e1-b91c-34063ea53c63",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_12_NAME]",
+  "desc": "[STORY_MAIN_1_2_12_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_12_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_55"],
+      "background": [],
+      "character": ["Yume", "Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_13"],
+      "background": ["BG_CommitteeRoom.jpg"],
+      "character": ["Hoshino", "Serika", "Shiroko", "Nonomi", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_15"],
+      "background": ["BG_CommitteeRoom_Night2.jpg"],
+      "character": ["Hoshino", "Shiroko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_37"],
+      "background": ["BG_ClassStairs_Night.jpg", "BG_ClassCorridor_Night.jpg"],
+      "character": ["Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P5_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_ClassCorridor_Night.jpg", "BG_CS_RAID_01.jpg", "BG_UpperOffice.jpg"],
+      "character": ["Hoshino", "BlackSuit"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P6_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P6_DESC]",
+      "is_battle": false,
+      "track": ["OST_43", "OST_46"],
+      "background": ["BG_ClassCorridor_Night.jpg"],
+      "character": ["Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_12_P7_NAME]",
+      "desc": "[STORY_MAIN_1_2_12_P7_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_SchoolFrontGate.jpg", "BG_CommitteeRoom.jpg"],
+      "character": ["Ayane"]
+    }
+  ],
+  "is_battle": false
+}

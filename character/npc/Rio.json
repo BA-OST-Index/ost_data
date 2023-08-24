@@ -1,0 +1,14 @@
+{
+  "uuid": "df42ec1b-33ae-49e7-87cb-8d1b42b72cb5",
+  "filetype": 52,
+  "namespace": "rio",
+
+  "name": "[NPC_RIO_NAME]",
+  "desc": "[NPC_RIO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

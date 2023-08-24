@@ -1,0 +1,61 @@
+{
+  "uuid": "65faae0b-f2f3-487a-8109-699c530a9ce0",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_10_NAME]",
+  "desc": "[STORY_MAIN_2_2_10_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_10_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_10_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_BuildingCorridor_Night.jpg"],
+      "character": ["Neru", "Rio", "Toki", "Midori", "Yuzu"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_10_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_10_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_92"],
+      "background": ["BG_BuildingCorridor.jpg"],
+      "character": ["Toki", "Midori", "Yuzu", "Rio", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_10_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_10_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_134"],
+      "background": ["BG_GameDevRoom_Night.jpg", "BG_CS_Millenium_20.jpg", "BG_CS_Millenium_21.jpg"],
+      "character": ["Rio", "Aris", "Midori", "Yuzu", "Neru", "Toki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_10_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_10_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_140"],
+      "background": ["BG_CS_Millenium_22.jpg", "BG_CS_Millenium_23.jpg", "BG_CS_Millenium_24.jpg", "BG_CS_Millenium_25.jpg"],
+      "character": ["Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_10_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_10_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_92"],
+      "background": ["BG_GameDevRoom_Night.jpg"],
+      "character": ["Rio", "Neru", "Toki", "Yuzu", "Midori"]
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,78 @@
+{
+  "uuid": "b58525d1-cf3e-4225-af91-c13b1d5e1f40",
+
+  "name":{
+    "realname": "[SHORT_1_NAME]",
+    "known_as": []
+  },
+  "desc": "[SHORT_1_DESC]",
+
+  "release_date": 1669086009,
+  "no": 1,
+  "track_type": 1,
+  "duration": 144,
+  "filetype": 2,
+
+  "composer": {
+    "composer_id": 0
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=lsQrEl4znzo",
+          "platform": 3,
+          "short_desc": "[TRACK_COPYRIGHT_LIMIT]"
+        },
+        {
+          "value": "https://www.youtube.com/watch?v=U-KM10P73c4",
+          "platform": 3,
+          "short_desc": "[TRACK_UNOFFICIAL]"
+        }
+      ],
+      "desc": "[SHORT_1_VERSION_SHORT]",
+      "is_main": true
+    },
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=sGYH4nbDtu8",
+          "platform": 3,
+          "short_desc": "[TRACK_UNOFFICIAL]"
+        }
+      ],
+      "desc": "[SHORT_1_VERSION_FULL]",
+      "is_main": false
+    }
+  ],
+
+  "special_case": {
+    "is_ost": false,
+    "is_bond_memory": false,
+    "is_story": true,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

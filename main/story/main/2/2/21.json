@@ -1,0 +1,61 @@
+{
+  "uuid": "44059ea4-1c9b-4ddf-849b-3434895d1a3f",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_21_NAME]",
+  "desc": "[STORY_MAIN_2_2_21_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_21_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_21_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_76"],
+      "background": ["BG_EriduTowerEntrance_Night.jpg", "BG_EriduTowerInside_Night.jpg"],
+      "character": ["Toki", "Neru", "Asuna", "Karin", "Akane", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_21_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_21_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_76"],
+      "background": ["BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Chihiro", "Asuna", "Akane", "Yuzu", "Neru", "Momoi"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_21_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_21_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_76", "OST_65"],
+      "background": ["BG_EriduTowerInside_Night.jpg", "BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Neru", "Asuna", "Karin", "Toki", "Rio", "Chihiro", "Akane"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_21_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_21_P4_DESC]",
+      "is_battle": false,
+      "track": [],
+      "background": ["BG_IndoorPlaza_Night3.jpg", "BG_EriduTowerInside_Night.jpg"],
+      "character": ["Neru", "Akane", "Rio", "Toki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_21_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_21_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_75"],
+      "background": ["BG_CS_Millenium_45.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_CS_Millenium_46.jpg", "BG_CS_Millenium_47.jpg", "BG_CS_Millenium_48.jpg", "BG_CS_Millenium_49.jpg", "BG_ComputerCenter.jpg", "BG_EriduTowerRooftop_Night.jpg", "BG_BigSisterRoom.jpg"],
+      "character": ["Rio", "Neru", "Chihiro", "Toki", "Yuzu", "Midori"]
+    }
+  ],
+  "is_battle": false
+}

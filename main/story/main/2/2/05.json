@@ -1,0 +1,77 @@
+{
+  "uuid": "58c6070f-ac82-43e2-a423-8e10c593eb38",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_5_NAME]",
+  "desc": "[STORY_MAIN_2_2_5_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_5_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_4"],
+      "background": ["BG_MilleniumCenter.jpg", "BG_Auditorium2.jpg"],
+      "character": ["Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_15"],
+      "background": ["BG_MilleniumCampus.jpg"],
+      "character": ["Kotori", "Utaha", "Hare", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_15"],
+      "background": ["BG_BusStation.jpg", "BG_ConventionHall.jpg", "BG_VillaComplex.jpg"],
+      "character": []
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_8", "OST_16", "OST_25"],
+      "background": ["BG_SubwayHall.jpg", "BG_Arcade.jpg"],
+      "character": ["Neru", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_31", "OST_16"],
+      "background": ["BG_CS_Millenium_14.jpg", "BG_CS_Millenium_15.jpg", "BG_CS_Millenium_16.jpg", "BG_CS_Millenium_17.jpg"],
+      "character": ["Neru", "Aris", "Akane"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P6_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P6_DESC]",
+      "is_battle": false,
+      "track": ["OST_16"],
+      "background": ["BG_Arcade.jpg"],
+      "character": ["Neru", "Akane", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_5_P7_NAME]",
+      "desc": "[STORY_MAIN_2_2_5_P7_DESC]",
+      "is_battle": false,
+      "track": ["OST_22", "OST_64", "OST_21"],
+      "background": ["BG_View_Sky_Sunset.jpg", "BG_Campus_Sunset.jpg", "BG_CS_Millenium_14.jpg", "BG_CS_Millenium_18.jpg"],
+      "character": ["Aris"]
+    }
+  ],
+  "is_battle": false
+}

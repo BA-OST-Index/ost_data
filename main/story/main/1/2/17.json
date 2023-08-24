@@ -1,0 +1,85 @@
+{
+  "uuid": "09c3d087-7513-4552-a457-07bea64b8972",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_17_NAME]",
+  "desc": ["[STORY_MAIN_1_2_17_DESC_1]", "[STORY_MAIN_1_2_17_DESC_2]"],
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_17_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_GehennaCampus.jpg"],
+      "character": ["Iori", "Hina"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_TrinityTerrace.jpg"],
+      "character": ["Nagisa", "Hifumi"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_FoodCartRamen.jpg"],
+      "character": ["MasterShiba", "Mutsuki", "Haruka", "Aru", "Kayoko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_SchoolFrontGate.jpg"],
+      "character": ["Shiroko", "Nonomi", "Serika", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P5_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_32"],
+      "background": ["BG_FoodCartRamen.jpg"],
+      "character": ["MasterShiba"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_19"],
+      "background": [],
+      "character": ["Shiroko", "Nonomi", "Serika", "Ayane"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P6_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P6_DESC]",
+      "is_battle": false,
+      "track": ["OST_18"],
+      "background": ["BG_HQ2.jpg"],
+      "character": ["PMCCEO"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_17_P7_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P7_DESC]",
+      "is_battle": false,
+      "track": ["OST_18"],
+      "background": ["BG_Wilderness.jpg"],
+      "character": ["Hina", "Ako", "Iori", "Chinatsu"]
+    }
+  ],
+  "is_battle": true
+}

@@ -1,0 +1,69 @@
+{
+  "uuid": "3eadd5ee-cabd-4d61-93e2-3c92f35590dd",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_1_2_14_NAME]",
+  "desc": "[STORY_MAIN_1_2_14_DESC]",
+  "pos": {
+    "volume": 1,
+    "chapter": 2,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_1_2_14_P1_NAME]",
+      "desc": "[STORY_MAIN_1_2_14_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Serika", "Nonomi", "Shiroko", "Ayane", "PMCCEO"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_14_P2_NAME]",
+      "desc": "[STORY_MAIN_1_2_14_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_UndergroundPassage.jpg"],
+      "character": ["Hoshino", "BlackSuit"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_14_P3_NAME]",
+      "desc": "[STORY_MAIN_1_2_14_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_CS_Abydos_07.jpg"],
+      "character": ["Hoshino"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_14_P4_NAME]",
+      "desc": "[STORY_MAIN_1_2_14_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_35"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["Ayane", "Nonomi", "PMCCEO", "Serika", "Shiroko"]
+    },
+    {
+      "name": "[STORY_MAIN_1_2_14_P5_NAME]",
+      "desc": "[STORY_MAIN_1_2_14_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_65"],
+      "background": ["BG_DemolitionCity.jpg"],
+      "character": ["PMCCEO", "Aru", "Ayane", "Kayoko", "Mutsuki", "Haruka"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_18"],
+      "background": [],
+      "character": ["Haruka", "Mutsuki", "Aru", "Kayoko"]
+    }
+  ],
+  "is_battle": false
+}

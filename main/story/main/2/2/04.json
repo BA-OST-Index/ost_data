@@ -1,0 +1,45 @@
+{
+  "uuid": "6abf989f-04da-4c15-8af5-16ea105f7bd5",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_4_NAME]",
+  "desc": "[STORY_MAIN_2_2_4_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_4_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_4_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_16", "OST_18", "OST_17"],
+      "background": ["BG_View_Sky.jpg", "BG_MilleniumCampus.jpg", "BG_SchoolGround.jpg"],
+      "character": ["Aris", "Sumire"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_4_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_4_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_11"],
+      "background": ["BG_CityOffice.jpg"],
+      "character": ["Aris", "Asuna", "Karin"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_4_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_4_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_11"],
+      "background": ["BG_CityOffice.jpg"],
+      "character": ["Asuna", "Karin", "Aris"]
+    }
+  ],
+  "is_battle": false
+}

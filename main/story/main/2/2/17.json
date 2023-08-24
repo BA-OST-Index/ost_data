@@ -1,0 +1,45 @@
+{
+  "uuid": "9379b3f3-01ab-414f-be70-cf35b6d5fd12",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_17_NAME]",
+  "desc": ["[STORY_MAIN_2_2_17_DESC_1]", "[STORY_MAIN_2_2_17_DESC_2]"],
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_17_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_17_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_60", "OST_68"],
+      "background": ["BG_EriduCityTown_Night.jpg", "BG_ComputerCenter_Off.jpg"],
+      "character": ["Chihiro", "Midori", "Maki", "Hare", "Kotama", "Hibiki", "Utaha", "Kotori", "Midori", "Yuzu", "Neru", "Sumire"]
+    },
+    {
+      "name": "[STORY_BATTLE_NAME]",
+      "desc": "[STORY_BATTLE_DESC]",
+      "is_battle": true,
+      "track": ["OST_68"],
+      "background": [],
+      "character": ["Yuzu", "Momoi", "Midori", "Kotori", "Utaha", "Hibiki"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_17_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_17_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_8", "OST_40"],
+      "background": ["BG_EriduCityTown_Night.jpg"],
+      "character": ["Utaha", "Kotori", "Hibiki", "Yuzu", "Momoi", "Midori", "Chihiro"]
+    }
+  ],
+  "is_battle": true
+}

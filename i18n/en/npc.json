@@ -14,5 +14,11 @@
   "[NPC_SHINON_NAME]": "Shinon",
   "[NPC_SHINON_DESC]": "Shinon is a member of Kronos School's News Club, who is responsible for reporting most news events in Kivotos. She appears with Mai sometimes, and plays a role of live news commentator. She can be seen reporting news energetically on some big news screens.",
   "[NPC_PMCCEO_NAME]": "PMC CEO",
-  "[NPC_PMCCEO_DESC]": "The CEO of the PMC cooperation and its subsidiaries, one of the main villain in Blue Archive. He appeared in the 1st and Final volumes. His main goal is to bring Kivotos under his rules. He had cooperated with the Black Suit before."
+  "[NPC_PMCCEO_DESC]": "The CEO of the PMC cooperation and its subsidiaries, one of the main villain in Blue Archive. He appeared in the 1st and Final volumes. His main goal is to bring Kivotos under his rules. He had cooperated with the Black Suit before.",
+  "[NPC_ARISKEY_NAME]": "Key",
+  "[NPC_ARISKEY_DESC]": "Key is another personality that exists within Aris' database. It was designed to help the \"Princess\", i.e. Aris, to destroy Kivotos. In Volume 2, Key was activated after interacting with the remains of Divi: Sion; in Volume Final, Aris requested help from Key but got destroyed in the progress, and Key sacrificed herself in exchange of Aris' revival. The last known copy is stored on Momoi's game console that carries G.BIBLE, but the status of the G.BIBLE remains unknown after all the events.",
+  "[NPC_RIO_NAME]": "Rio",
+  "[NPC_RIO_DESC]": "Rio is the former president of Seminar of Millennium Science School, who resigned after the incidents happened in Volume 2. She is the creator of the Eridu City, a fortress city designed to prevent crisis against Kivotos.",
+  "[NPC_YUME_NAME]": "Yume",
+  "[NPC_YUME_DESC]": "Yume is the president of the former Abydos Student Council. She had worked together with Hoshino and holds a positive view of the future (as Hoshino recalls). Her image only appeared once in a photo taken with Hoshino. Currently there's no more information about her, but some suspect that she was dead, as seen in the Chapter 1 and the Volume Final."
 }

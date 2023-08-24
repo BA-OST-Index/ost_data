@@ -1,0 +1,14 @@
+{
+  "uuid": "0a1f1737-f7ea-4c10-8aec-c4d4ce0c1e6f",
+  "filetype": 52,
+  "namespace": "ariskey",
+
+  "name": "[NPC_ARISKEY_NAME]",
+  "desc": "[NPC_ARISKEY_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }
+}

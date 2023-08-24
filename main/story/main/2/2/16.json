@@ -1,0 +1,61 @@
+{
+  "uuid": "11e18421-98e7-465d-a930-5e4c05c71dab",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_16_NAME]",
+  "desc": "[STORY_MAIN_2_2_16_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_16_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_16_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_29"],
+      "background": ["BG_EriduCityTown_Night.jpg"],
+      "character": ["Toki", "Neru", "Momoi", "Midori", "Yuzu", "Hibiki", "Utaha", "Kotori"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_16_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_16_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_69"],
+      "background": ["BG_Prison.jpg"],
+      "character": ["Himari", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_16_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_16_P3_DESC]",
+      "is_battle": true,
+      "track": ["OST_68"],
+      "background": ["BG_BigSisterRoom.jpg", "BG_IndoorPlaza_Night3.jpg"],
+      "character": ["Rio", "Himari", "Eimi"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_16_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_16_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_68"],
+      "background": ["BG_ComputerCenter.jpg"],
+      "character": ["Maki", "Hare", "Kotama"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_16_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_16_P5_DESC]",
+      "is_battle": false,
+      "track": ["OST_68"],
+      "background": ["BG_ComputerCenter.jpg"],
+      "character": ["Hibiki", "Utaha", "Kotori", "Momoi", "Midori", "Yuzu", "Chihiro"]
+    }
+  ],
+  "is_battle": false
+}

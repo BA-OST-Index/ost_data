@@ -1,0 +1,45 @@
+{
+  "uuid": "6041e557-ae22-4132-8d74-d02d485fee69",
+  "filetype": 11,
+
+  "name": "[STORY_MAIN_2_2_3_NAME]",
+  "desc": "[STORY_MAIN_2_2_3_DESC]",
+  "pos": {
+    "volume": 2,
+    "chapter": 2,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+
+  "part": [
+    {
+      "name": "[STORY_MAIN_2_2_3_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_3_P1_DESC]",
+      "is_battle": false,
+      "track": ["OST_64", "OST_130"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Yuzu", "Aris"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_3_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_3_P2_DESC]",
+      "is_battle": false,
+      "track": ["OST_49", "OST_16"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Yuzu", "Aris", "Momoi", "Midori"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_3_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_3_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_44"],
+      "background": ["BG_MilleniumCampus.jpg", "BG_GameDevRoom.jpg"],
+      "character": ["Aris"]
+    }
+  ],
+  "is_battle": false
+}

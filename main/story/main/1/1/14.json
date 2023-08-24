@@ -29,7 +29,7 @@
       "desc": "[STORY_MAIN_1_1_14_P2_DESC]",
       "is_battle": false,
       "track": ["OST_10"],
-      "background": ["BG_CityTown.jpg", "BG_BuildingFrontGate.jpg"],
+      "background": ["BG_Bank.jpg"],
       "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi", "Aru", "Mutsuki", "Kayoko", "Haruka"]
     },
     {
