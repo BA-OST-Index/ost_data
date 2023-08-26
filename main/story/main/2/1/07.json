@@ -38,7 +38,7 @@
       "is_battle": true,
       "track": ["OST_20"],
       "background": [],
-      "character": []
+      "character": ["Momoi", "Midori", "Aris", "Yuzu"]
     },
     {
       "name": "[STORY_MAIN_2_1_7_P4_NAME]",
@@ -46,7 +46,7 @@
       "is_battle": false,
       "track": ["OST_13", "OST_28"],
       "background": ["BG_Hangar2.jpg"],
-      "character": ["Momoi", "Midori", "Aris", "Yuzu"]
+      "character": ["Aris", "Hibiki", "Utaha"]
     }
   ],
   "is_battle": true

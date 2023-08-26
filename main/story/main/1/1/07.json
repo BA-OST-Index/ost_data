@@ -28,7 +28,7 @@
       "name": "[STORY_MAIN_1_1_7_P2_NAME]",
       "desc": "[STORY_MAIN_1_1_7_P2_DESC]",
       "is_battle": false,
-      "track": ["OST_4"],
+      "track": ["OST_27"],
       "background": ["BG_UpperOffice_Night.jpg", "BG_CityOffice_Night.jpg", "BG_CS_Gehenna_01.jpg"],
       "character": ["PMCCEO"]
     },

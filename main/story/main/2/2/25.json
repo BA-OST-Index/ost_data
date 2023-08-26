@@ -35,7 +35,7 @@
     {
       "name": "[STORY_MAIN_2_2_25_P3_NAME]",
       "desc": "[STORY_MAIN_2_2_25_P3_DESC]",
-      "is_battle": true,
+      "is_battle": false,
       "track": ["OST_31", "OST_38", "OST_50"],
       "background": ["BG_VIPLounge.jpg"],
       "character": ["Asuna", "Karin", "Akane", "Neru", "Toki"]
