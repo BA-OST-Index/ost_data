@@ -48,5 +48,14 @@
   "[TAG_HOLY_DESC]": "<b>Example: Final Destination of Ark</b>",
 
   "[TAG_NAUGHTY_NAME]": "Naughty",
-  "[TAG_NAUGHTY_DESC]": "<b>Example: Usagi Flap, Theme 114, Theme 159</b>"
+  "[TAG_NAUGHTY_DESC]": "<b>Example: Usagi Flap, Theme 114, Theme 159</b>",
+
+  "[TAG_CHAOS_NAME]": "Chaos",
+  "[TAG_CHAOS_DESC]": "Most battle tracks have this characteristic. The general representation includes fast drums and featuring multiple elements in a short period of time.",
+
+  "[TAG_CHEERFUL_NAME]": "Cheerful",
+  "[TAG_CHEERFUL_DESC]": "<b>Example: Lovely Picnic</b>",
+
+  "[TAG_EMERGENCY_NAME]": "Emergency",
+  "[TAG_EMERGENCY_DESC]": "Most battle tracks have this characteristic and are able to render such \"atmosphere\" (be noted that this tag emphasizes the \"rendered atmosphere\".) <b>Example: Tech N Tech, NRG FielD (Mechanical Jungle doesn't belong to this tag.)</b>"
 }

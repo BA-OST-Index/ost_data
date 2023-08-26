@@ -24,7 +24,7 @@
   },
 
   "tags": {
-    "overall": [],
+    "overall": ["discouraged", "sad", "failure"],
     "beginning": [],
     "middle": [],
     "ending": []

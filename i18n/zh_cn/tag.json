@@ -48,5 +48,14 @@
   "[TAG_HOLY_DESC]": "<b>举例/联想：Final Destination of Ark</b>",
 
   "[TAG_NAUGHTY_NAME]": "调皮的",
-  "[TAG_NAUGHTY_DESC]": "<b>举例/联想：Usagi Flap、第114首曲子、第159首曲子</b>"
+  "[TAG_NAUGHTY_DESC]": "<b>举例/联想：Usagi Flap、第114首曲子、第159首曲子</b>",
+
+  "[TAG_CHAOS_NAME]": "混乱",
+  "[TAG_CHAOS_DESC]": "大部分战斗曲均具备此特性，一般的表现形式为鼓点快、元素偏多的情况。",
+
+  "[TAG_CHEERFUL_NAME]": "欢快",
+  "[TAG_CHEERFUL_DESC]": "<b>举例/联想：Lovely Picnic</b>",
+
+  "[TAG_EMERGENCY_NAME]": "紧急",
+  "[TAG_EMERGENCY_DESC]": "通常战斗曲都带有这种风格并能够渲染出这种【氛围】（注意：这个标签只强调的是氛围感）。<b>举例/联想：Tech N Tech、NRG FielD（Mechanical Jungle不属于这个标签）</b>"
 }

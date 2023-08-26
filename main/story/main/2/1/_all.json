@@ -16,7 +16,7 @@
   },
 
   "image": {
-    "value": "",
+    "value": "/static/images/background/BG_GameDevRoom.jpg",
     "short_desc": "",
     "platform": -1
   }
