@@ -1,0 +1,17 @@
+name: When Push
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v1
+        with:
+          token: ${{ secrets.ACTION_SCRIPT }}
+          event-type: ost-data-update-event
+          repository: BA-OST-Index/ost_data_parser
