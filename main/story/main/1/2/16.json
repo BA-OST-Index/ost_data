@@ -90,7 +90,7 @@
     },
     {
       "name": "[STORY_MAIN_1_2_16_P10_NAME]",
-      "desc": "[STORY_MAIN_1_2_16_P10_NAME]",
+      "desc": "[STORY_MAIN_1_2_16_P10_DESC]",
       "is_battle": true,
       "track": ["OST_45"],
       "background": ["BG_CommitteeRoom_Night2.jpg"],
@@ -98,7 +98,7 @@
     },
     {
       "name": "[STORY_MAIN_1_2_16_P11_NAME]",
-      "desc": "[STORY_MAIN_1_2_16_P11_NAME]",
+      "desc": "[STORY_MAIN_1_2_16_P11_DESC]",
       "is_battle": true,
       "track": ["OST_45"],
       "background": ["BG_CommitteeRoom_Night2.jpg"],

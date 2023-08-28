@@ -3,11 +3,11 @@
   "filetype": 71,
   "filename": "Unknown.jpg",
   "name": "[Unknown.jpg_NAME]",
-  "desc": "[Unknown_DESC]",
+  "desc": "[Unknown.jpg_DESC]",
   "tag": [],
   "image": {
     "platform": -1,
-    "value": "/static/image/background/Unknown.jpg",
+    "value": "/static/images/background/Unknown.jpg",
     "short_desc": ""
   }
 }
