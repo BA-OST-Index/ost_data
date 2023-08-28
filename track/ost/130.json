@@ -37,6 +37,11 @@
           "value": "https://www.youtube.com/watch?v=cpqv73Xekr0",
           "platform": 3,
           "short_desc": ""
+        },
+        {
+          "value": "https://www.bilibili.com/video/BV11h41157aa/",
+          "platform": 2,
+          "short_desc": ""
         }
       ],
       "desc": "[OST_VERSION_ORIGINAL]",
