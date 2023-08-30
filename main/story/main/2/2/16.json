@@ -35,7 +35,7 @@
     {
       "name": "[STORY_MAIN_2_2_16_P3_NAME]",
       "desc": "[STORY_MAIN_2_2_16_P3_DESC]",
-      "is_battle": true,
+      "is_battle": false,
       "track": ["OST_68"],
       "background": ["BG_BigSisterRoom.jpg", "BG_IndoorPlaza_Night3.jpg"],
       "character": ["Rio", "Himari", "Eimi"]

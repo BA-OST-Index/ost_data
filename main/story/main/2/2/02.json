@@ -33,32 +33,32 @@
       "character": ["Midori", "Momoi"]
     },
     {
-      "name": "[STORY_MAIN_2_2_1_P3_NAME]",
-      "desc": "[STORY_MAIN_2_2_1_P3_DESC]",
+      "name": "[STORY_MAIN_2_2_2_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_2_P3_DESC]",
       "is_battle": false,
       "track": ["OST_17"],
       "background": ["BG_GameDevRoom.jpg"],
       "character": ["Aris", "Yuzu", "Midori", "Momoi"]
     },
     {
-      "name": "[STORY_MAIN_2_2_1_P4_NAME]",
-      "desc": "[STORY_MAIN_2_2_1_P4_DESC]",
+      "name": "[STORY_MAIN_2_2_2_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_2_P4_DESC]",
       "is_battle": false,
       "track": ["OST_19"],
       "background": ["BG_GameDevRoom.jpg", "BG_CS_Millenium_02.jpg"],
       "character": ["Aris", "Momoi", "Yuzu", "Midori"]
     },
     {
-      "name": "[STORY_MAIN_2_2_1_P5_NAME]",
-      "desc": "[STORY_MAIN_2_2_1_P5_DESC]",
+      "name": "[STORY_MAIN_2_2_2_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_2_P5_DESC]",
       "is_battle": false,
       "track": ["OST_18", "OST_75"],
       "background": ["BG_CS_Millenium_02.jpg", "BG_GameDevRoom.jpg"],
       "character": ["Yuzu", "Aris", "Momoi", "Midori"]
     },
     {
-      "name": "[STORY_MAIN_2_2_1_P6_NAME]",
-      "desc": "[STORY_MAIN_2_2_1_P6_DESC]",
+      "name": "[STORY_MAIN_2_2_2_P6_NAME]",
+      "desc": "[STORY_MAIN_2_2_2_P6_DESC]",
       "is_battle": false,
       "track": ["OST_22", "OST_64"],
       "background": ["BG_GameDevRoom.jpg"],
