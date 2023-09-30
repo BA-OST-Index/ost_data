@@ -1,0 +1,67 @@
+{
+  "uuid": "8750e272-21fa-4f46-b34d-38a7fec0c090",
+
+  "name":{
+    "realname": "[OST_151_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_151_DESC]",
+
+  "release_date": 1678630637,
+  "no": 151,
+  "track_type": 0,
+  "duration": 124,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 2
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=yvT7f6Zo4sA",
+          "platform": 3,
+          "short_desc": ""
+        },
+        {
+          "value": "https://www.bilibili.com/video/BV1iP411R7Th/",
+          "platform": 2,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "special_case": {
+    "is_ost": true,
+    "is_bond_memory": false,
+    "is_story": false,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

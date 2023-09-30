@@ -1,0 +1,10 @@
+{
+  "uuid": "727f5b34-453f-44ad-9558-1f9f8b4f3c8f",
+  "filetype": -53,
+  "namespace": "haruna_track",
+  "name": "Haruna_Track",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -28,7 +28,15 @@
       "name": "[STORY_MAIN_1_1_6_P2_NAME]",
       "desc": "[STORY_MAIN_1_1_6_P2_DESC]",
       "is_battle": false,
-      "track": ["OST_67", "OST_11"],
+      "track": ["OST_67"],
+      "background": [],
+      "character": ["Serika"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_6_P3_NAME]",
+      "desc": "[STORY_MAIN_1_1_6_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_11"],
       "background": ["BG_RailWay.jpg"],
       "character": ["Serika", "Ayane", "Shiroko", "Hoshino", "Nonomi"]
     },
@@ -38,7 +46,7 @@
       "is_battle": true,
       "track": ["OST_19"],
       "background": [],
-      "character": ["Shiroko", "Serika", "Nonomi", "Ayane", "Hoshino"]
+      "character": ["Hoshino", "Shiroko", "Nonomi", "Serika", "Ayane", "L0"]
     }
   ],
   "is_battle": true

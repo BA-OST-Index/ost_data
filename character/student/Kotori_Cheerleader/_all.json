@@ -1,0 +1,10 @@
+{
+  "uuid": "939a083b-b361-4914-9f39-da7e541330c2",
+  "filetype": -53,
+  "namespace": "kotori_cheerleader",
+  "name": "Kotori_Cheerleader",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

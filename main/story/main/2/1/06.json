@@ -21,7 +21,7 @@
       "desc": "[STORY_MAIN_2_1_6_P1_DESC]",
       "is_battle": false,
       "track": ["OST_28"],
-      "background": ["BG_GameDevRoom.jpg"],
+      "background": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"],
       "character": ["Momoi", "Midori", "Aris", "Yuzu"]
     },
     {

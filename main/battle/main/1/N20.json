@@ -1,0 +1,14 @@
+{
+  "uuid": "dcd41c25-1ca4-447a-b590-62c3137ded1c",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_1_N20]",
+  "chapter": 1,
+  "no": "N20",
+  
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+  
+  "track": ["OST_18"]
+}

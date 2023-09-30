@@ -1,5 +1,6 @@
 {
   "Aru": {
+    "Id": 10000,
     "PathName": "Aru",
     "DevName": "Aru",
     "FamilyName": "陆八魔",
@@ -14,10 +15,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Aru_Collection",
-    "Name": "亚瑠"
+    "Name": "亚瑠",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Eimi": {
+    "Id": 10001,
     "PathName": "Eimi",
     "DevName": "Eimi",
     "FamilyName": "和泉元",
@@ -32,10 +36,13 @@
     "School": "Millennium",
     "Club": "SPTF",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Eimi_Collection",
-    "Name": "英美"
+    "Name": "英美",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Haruna": {
+    "Id": 10002,
     "PathName": "Haruna",
     "DevName": "Haruna",
     "FamilyName": "黒馆",
@@ -45,15 +52,18 @@
     "Birthday": "3月1日",
     "CharacterSSRNew": "要一起启程前往，美食的世界吗？",
     "ProfileIntroduction": "格黑娜学园所属，美食研究会的会长。\n\n虽然从外表来看是个散发高傲气质的富家千金，但是只要和食物有关，她就是个不顾一切的热血美食家。\n和想吃美食的心情相反，胃口很小，所以吃得并不多。\n据说她爱吃大肠锅和内脏烧烤等油腻的食物。",
-    "Hobby": "寻找好吃的东西",
+    "Hobby": "寻找美食",
     "BirthDay": "3/1",
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Haruna_Collection",
-    "Name": "羽留奈"
+    "Name": "羽留奈",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Hifumi": {
+    "Id": 10003,
     "PathName": "Hifumi",
     "DevName": "Hihumi",
     "FamilyName": "阿慈谷",
@@ -68,10 +78,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Hihumi_Collection",
-    "Name": "日步美"
+    "Name": "日步美",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Hina": {
+    "Id": 10004,
     "PathName": "Hina",
     "DevName": "Hina",
     "FamilyName": "空崎",
@@ -86,10 +99,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Hina_Collection",
-    "Name": "阳奈"
+    "Name": "阳奈",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Hoshino": {
+    "Id": 10005,
     "PathName": "Hoshino",
     "DevName": "Hoshino",
     "FamilyName": "小鸟游",
@@ -104,10 +120,13 @@
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Abydos_Collection",
-    "CollectionTexture": "Student_Portrait_Hoshino_Collection",
-    "Name": "星野"
+    "Name": "星野",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Iori": {
+    "Id": 10006,
     "PathName": "Iori",
     "DevName": "Iori",
     "FamilyName": "银镜",
@@ -122,10 +141,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Iori_Collection",
-    "Name": "伊织"
+    "Name": "伊织",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Maki": {
+    "Id": 10007,
     "PathName": "Maki",
     "DevName": "Maki",
     "FamilyName": "小涂",
@@ -140,10 +162,13 @@
     "School": "Millennium",
     "Club": "Veritas",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Maki_Collection",
-    "Name": "真纪"
+    "Name": "真纪",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Neru": {
+    "Id": 10008,
     "PathName": "Neru",
     "DevName": "Neru",
     "FamilyName": "美甘",
@@ -152,16 +177,19 @@
     "CharacterAge": "17岁",
     "Birthday": "8月17日",
     "CharacterSSRNew": "给我鼓起干劲哦。要全力上了！",
-    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&amp;C」的队长。\n\n乍看之下只是个在女仆服上穿着丝卡将的小小不良少女，但其实是拥有千年学园最强战斗能力的特务。\n因此她的代号「Double O」被周围的人视为是誓约胜利的象征。",
+    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&C」的队长。\n\n乍看之下只是个在女仆服上穿着丝卡将的小小不良少女，但其实是拥有千年学园最强战斗能力的特务。\n因此她的代号「Double O」被周围的人视为是誓约胜利的象征。",
     "Hobby": "胜利",
     "BirthDay": "8/17",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Neru_Collection",
-    "Name": "宁瑠"
+    "Name": "宁瑠",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Izumi": {
+    "Id": 10009,
     "PathName": "Izumi",
     "DevName": "Izumi",
     "FamilyName": "狮子堂",
@@ -176,10 +204,13 @@
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Izumi_Collection",
-    "Name": "泉"
+    "Name": "泉",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Shiroko": {
+    "Id": 10010,
     "PathName": "Shiroko",
     "DevName": "Shiroko",
     "FamilyName": "砂狼",
@@ -189,15 +220,18 @@
     "Birthday": "5月16日",
     "CharacterSSRNew": "需要我的帮助？",
     "ProfileIntroduction": "阿拜多斯高中所属，喜欢运动的阿拜多斯对策委员会的突击队长。\n\n虽然给人沉默寡言且几乎没有表情变化的冷淡印象，但其实是个说她比任何人都珍惜阿拜多斯高中也不为过的少女。\n为了复兴学园会不择手段，因此偶尔会提出令人意想不到的想法。",
-    "Hobby": "慢跑、锻炼体力、骑自行车",
+    "Hobby": "慢跑、体力训练、公路自行车",
     "BirthDay": "5/16",
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Abydos_Collection",
-    "CollectionTexture": "Student_Portrait_Shiroko_Collection",
-    "Name": "白子"
+    "Name": "白子",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Shun": {
+    "Id": 10011,
     "PathName": "Shun",
     "DevName": "Shun",
     "FamilyName": "春原",
@@ -212,10 +246,13 @@
     "School": "Shanhaijing",
     "Club": "Meihuayuan",
     "CollectionBG": "BG_Sanhaijing_Collection",
-    "CollectionTexture": "Student_Portrait_Shun_Collection",
-    "Name": "旬"
+    "Name": "旬",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Sumire": {
+    "Id": 10012,
     "PathName": "Sumire",
     "DevName": "Sumire",
     "FamilyName": "乙花",
@@ -230,10 +267,13 @@
     "School": "Millennium",
     "Club": "TrainingClub",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Sumire_Collection",
-    "Name": "堇"
+    "Name": "堇",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Tsurugi": {
+    "Id": 10013,
     "PathName": "Tsurugi",
     "DevName": "Tsurugi",
     "FamilyName": "剑先",
@@ -248,10 +288,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Tsurugi_Collection",
-    "Name": "弦生"
+    "Name": "弦生",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Akane": {
+    "Id": 13000,
     "PathName": "Akane",
     "DevName": "Akane",
     "FamilyName": "室笠",
@@ -260,16 +303,19 @@
     "CharacterAge": "16岁",
     "Birthday": "4月1日",
     "CharacterSSRNew": "",
-    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&amp;C」的特务。\n\n代号为「Zero Three」，专门负责「清扫」的成员。\n会以温柔的印象为武器潜入敌阵，用炸药把敌方阵营一扫而空，因而以「清扫专家」的绰号广为人知。",
+    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&C」的特务。\n\n代号为「Zero Three」，专门负责「清扫」的成员。\n会以温柔的印象为武器潜入敌阵，用炸药把敌方阵营一扫而空，因而以「清扫专家」的绰号广为人知。",
     "Hobby": "清扫",
     "BirthDay": "4/1",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Akane_Collection",
-    "Name": "朱音"
+    "Name": "朱音",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Chise": {
+    "Id": 13001,
     "PathName": "Chise",
     "DevName": "Chise",
     "FamilyName": "和乐",
@@ -284,10 +330,13 @@
     "School": "Hyakkiyako",
     "Club": "Onmyobu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Chise_Collection",
-    "Name": "知世"
+    "Name": "知世",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Akari": {
+    "Id": 13002,
     "PathName": "Akari",
     "DevName": "Akari",
     "FamilyName": "鳄渕",
@@ -302,10 +351,13 @@
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Akari_Collection",
-    "Name": "亚伽里"
+    "Name": "亚伽里",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Hasumi": {
+    "Id": 13003,
     "PathName": "Hasumi",
     "DevName": "Hasumi",
     "FamilyName": "羽川",
@@ -320,10 +372,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Hasumi_Collection",
-    "Name": "莲实"
+    "Name": "莲实",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Nonomi": {
+    "Id": 13004,
     "PathName": "Nonomi",
     "DevName": "Nonomi",
     "FamilyName": "十六夜",
@@ -338,10 +393,13 @@
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Abydos_Collection",
-    "CollectionTexture": "Student_Portrait_Nonomi_Collection",
-    "Name": "野乃美"
+    "Name": "野乃美",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Kayoko": {
+    "Id": 13005,
     "PathName": "Kayoko",
     "DevName": "Kayoko",
     "FamilyName": "鬼方",
@@ -356,10 +414,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Kayoko_Collection",
-    "Name": "佳世子"
+    "Name": "佳世子",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Mutsuki": {
+    "Id": 13006,
     "PathName": "Mutsuki",
     "DevName": "Mutsuki",
     "FamilyName": "浅黄",
@@ -374,10 +435,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Mutsuki_Collection",
-    "Name": "无月"
+    "Name": "无月",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Junko": {
+    "Id": 13007,
     "PathName": "Junko",
     "DevName": "Zunko",
     "FamilyName": "赤司",
@@ -387,15 +451,18 @@
     "Birthday": "12月27日",
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜学园所属，美食研究会装作一本正经的暴食家。\n\n和喜欢吃古怪的食物、总是暴饮暴食的其他美食研究会的成员不同，某种程度上是可以有常识地享受美食，但只要美食出现在眼前，就有可能失去理性。",
-    "Hobby": "探访美食店",
+    "Hobby": "美食巡回",
     "BirthDay": "12/27",
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Zunko_Collection",
-    "Name": "淳子"
+    "Name": "淳子",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Serika": {
+    "Id": 13008,
     "PathName": "Serika",
     "DevName": "Serika",
     "FamilyName": "黒见",
@@ -410,10 +477,13 @@
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Abydos_Collection",
-    "CollectionTexture": "Student_Portrait_Serika_Collection",
-    "Name": "茜香"
+    "Name": "茜香",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Tsubaki": {
+    "Id": 13009,
     "PathName": "Tsubaki",
     "DevName": "Tsubaki",
     "FamilyName": "春日",
@@ -428,10 +498,13 @@
     "School": "Hyakkiyako",
     "Club": "Shugyobu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Tsubaki_Collection",
-    "Name": "椿"
+    "Name": "椿",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Yuuka": {
+    "Id": 13010,
     "PathName": "Yuuka",
     "DevName": "Yuuka",
     "FamilyName": "早瀬",
@@ -446,10 +519,13 @@
     "School": "Millennium",
     "Club": "TheSeminar",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Yuuka_Collection",
-    "Name": "优香"
+    "Name": "优香",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Haruka": {
+    "Id": 16000,
     "PathName": "Haruka",
     "DevName": "Haruka",
     "FamilyName": "伊草",
@@ -464,10 +540,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Haruka_Collection",
-    "Name": "遥香"
+    "Name": "遥香",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Asuna": {
+    "Id": 16001,
     "PathName": "Asuna",
     "DevName": "Asuna",
     "FamilyName": "一之瀬",
@@ -476,16 +555,19 @@
     "CharacterAge": "17岁",
     "Birthday": "3月24日",
     "CharacterSSRNew": "",
-    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&amp;C」的特务。\n\n代号为「Zero One」，是通过卓越且如同动物般的感觉与直觉度过无数难关的老手。\n虽然经常在运行任务时随便相信他人而自曝身分，或者把可疑的物品全部摧毁之类令人难以理解的行动，但最终总是能拿出好成果。",
+    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&C」的特务。\n\n代号为「Zero One」，是通过卓越且如同动物般的感觉与直觉度过无数难关的老手。\n虽然经常在运行任务时随便相信他人而自曝身分，或者把可疑的物品全部摧毁之类令人难以理解的行动，但最终总是能拿出好成果。",
     "Hobby": "袭击",
     "BirthDay": "3/24",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Asuna_Collection",
-    "Name": "明日奈"
+    "Name": "明日奈",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Kotori": {
+    "Id": 16002,
     "PathName": "Kotori",
     "DevName": "Kotori",
     "FamilyName": "豊见",
@@ -500,10 +582,13 @@
     "School": "Millennium",
     "Club": "Engineer",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Kotori_Collection",
-    "Name": "亚都梨"
+    "Name": "亚都梨",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Suzumi": {
+    "Id": 16003,
     "PathName": "Suzumi",
     "DevName": "Suzumi",
     "FamilyName": "守月",
@@ -518,10 +603,13 @@
     "School": "Trinity",
     "Club": "TrinityVigilance",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Suzumi_Collection",
-    "Name": "铃美"
+    "Name": "铃美",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Pina": {
+    "Id": 16004,
     "PathName": "Pina",
     "DevName": "Pina",
     "FamilyName": "朝比奈",
@@ -536,10 +624,13 @@
     "School": "Hyakkiyako",
     "Club": "MatsuriOffice",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Pina_Collection",
-    "Name": "菲娜"
+    "Name": "菲娜",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Hibiki": {
+    "Id": 20000,
     "PathName": "Hibiki",
     "DevName": "Hibiki",
     "FamilyName": "猫冢",
@@ -549,15 +640,18 @@
     "Birthday": "4月2日",
     "CharacterSSRNew": "有什么需要改造的东西吗？",
     "ProfileIntroduction": "千年科学学园所属，工程师部的成员。\n\n虽然稍微缺乏社交能力且说话较木讷，但她与生俱有的工学才能相当突出，发明了不少神奇的物品。\n她的发明几乎毫无缺点，全部都被称为杰作也不为过。但每个作品一定会带有一个奇怪的功能，经常让用户不知所措。",
-    "Hobby": "Cosplay、购物",
+    "Hobby": "购物、Cosplay",
     "BirthDay": "4/2",
     "School": "Millennium",
     "Club": "Engineer",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Hibiki_Collection",
-    "Name": "响"
+    "Name": "响",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Karin": {
+    "Id": 20001,
     "PathName": "Karin",
     "DevName": "karin",
     "FamilyName": "角楯",
@@ -566,16 +660,19 @@
     "CharacterAge": "16岁",
     "Birthday": "2月2日",
     "CharacterSSRNew": "遵照主人的指示",
-    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&amp;C」的特务。\n\n代号为「Zero Two」，使用强大的火力负责后援。\n和看似凶恶的外表不同，其实是C&amp;C特务中最谨慎的人。每天在都为了阻止在作战中时常暴走的明日奈和朱音而伤脑筋。",
+    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&C」的特务。\n\n代号为「Zero Two」，使用强大的火力负责后援。\n和看似凶恶的外表不同，其实是C&C特务中最谨慎的人。每天在都为了阻止在作战中时常暴走的明日奈和朱音而伤脑筋。",
     "Hobby": "清扫",
     "BirthDay": "2/2",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Karin_Collection",
-    "Name": "花凛"
+    "Name": "花凛",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Saya": {
+    "Id": 20002,
     "PathName": "Saya",
     "DevName": "Saya",
     "FamilyName": "薬子",
@@ -590,10 +687,13 @@
     "School": "Shanhaijing",
     "Club": "Endanbou",
     "CollectionBG": "BG_Sanhaijing_Collection",
-    "CollectionTexture": "Student_Portrait_Saya_Collection",
-    "Name": "沙耶"
+    "Name": "沙耶",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Airi": {
+    "Id": 23000,
     "PathName": "Airi",
     "DevName": "Airi",
     "FamilyName": "栗村",
@@ -608,10 +708,13 @@
     "School": "Trinity",
     "Club": "HoukagoDessert",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Airi_Collection",
-    "Name": "爱莉"
+    "Name": "爱莉",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Fuuka": {
+    "Id": 23001,
     "PathName": "Fuuka",
     "DevName": "Fuuka",
     "FamilyName": "爱清",
@@ -621,15 +724,18 @@
     "Birthday": "4月30日",
     "CharacterSSRNew": "",
     "ProfileIntroduction": "格黑娜学园所属，负责管理格黑娜学园餐厅的供给部的成员。\n\n每天早上都为格黑娜学生准备非常大量的食物，是格黑娜少有的，善良认真的学生。\n料理手艺还算不错，但由于餐厅人手不足，其料理实力时常被低估。\n但她并未就此放弃，每天都为了提供更好的餐点而不断努力着。",
-    "Hobby": "做料理、做便当",
+    "Hobby": "家庭料理、做便当",
     "BirthDay": "4/30",
     "School": "Gehenna",
     "Club": "FoodService",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Fuuka_Collection",
-    "Name": "风华"
+    "Name": "风华",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Hanae": {
+    "Id": 23002,
     "PathName": "Hanae",
     "DevName": "Hanae",
     "FamilyName": "朝颜",
@@ -644,10 +750,13 @@
     "School": "Trinity",
     "Club": "KnightsHospitaller",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Hanae_Collection",
-    "Name": "花绘"
+    "Name": "花绘",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Hare": {
+    "Id": 23003,
     "PathName": "Hare",
     "DevName": "Hare",
     "FamilyName": "小钩",
@@ -662,10 +771,13 @@
     "School": "Millennium",
     "Club": "Veritas",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Hare_Collection",
-    "Name": "晴"
+    "Name": "晴",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Utaha": {
+    "Id": 23004,
     "PathName": "Utaha",
     "DevName": "Utaha",
     "FamilyName": "白石",
@@ -680,10 +792,13 @@
     "School": "Millennium",
     "Club": "Engineer",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Utaha_Collection",
-    "Name": "咏叶"
+    "Name": "咏叶",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Ayane": {
+    "Id": 23005,
     "PathName": "Ayane",
     "DevName": "Ayane",
     "FamilyName": "奥空",
@@ -698,10 +813,13 @@
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Abydos_Collection",
-    "CollectionTexture": "Student_Portrait_Ayane_Collection",
-    "Name": "绫音"
+    "Name": "绫音",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Chinatsu": {
+    "Id": 26000,
     "PathName": "Chinatsu",
     "DevName": "Chinatsu",
     "FamilyName": "火宫",
@@ -716,10 +834,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Chinatsu_Collection",
-    "Name": "千夏"
+    "Name": "千夏",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Kotama": {
+    "Id": 26001,
     "PathName": "Kotama",
     "DevName": "Kotama",
     "FamilyName": "音瀬",
@@ -734,10 +855,13 @@
     "School": "Millennium",
     "Club": "Veritas",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Kotama_Collection",
-    "Name": "小玉"
+    "Name": "小玉",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Juri": {
+    "Id": 26002,
     "PathName": "Juri",
     "DevName": "Juri",
     "FamilyName": "牛牧",
@@ -752,10 +876,13 @@
     "School": "Gehenna",
     "Club": "FoodService",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Juri_Collection",
-    "Name": "茱莉"
+    "Name": "茱莉",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Serina": {
+    "Id": 26003,
     "PathName": "Serina",
     "DevName": "Serina",
     "FamilyName": "鹫见",
@@ -770,10 +897,13 @@
     "School": "Trinity",
     "Club": "KnightsHospitaller",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Serina_Collection",
-    "Name": "芹奈"
+    "Name": "芹奈",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Shimiko": {
+    "Id": 26004,
     "PathName": "Shimiko",
     "DevName": "Shimiko",
     "FamilyName": "円堂",
@@ -788,10 +918,13 @@
     "School": "Trinity",
     "Club": "BookClub",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Shimiko_Collection",
-    "Name": "志美子"
+    "Name": "志美子",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Yoshimi": {
+    "Id": 26005,
     "PathName": "Yoshimi",
     "DevName": "Yoshimi",
     "FamilyName": "伊原木",
@@ -806,10 +939,13 @@
     "School": "Trinity",
     "Club": "HoukagoDessert",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Yoshimi_Collection",
-    "Name": "喜美"
+    "Name": "喜美",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Mashiro": {
+    "Id": 20003,
     "PathName": "Mashiro",
     "DevName": "Mashiro",
     "FamilyName": "静山",
@@ -824,10 +960,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Mashiro_Collection",
-    "Name": "麻白"
+    "Name": "麻白",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Izuna": {
+    "Id": 10014,
     "PathName": "Izuna",
     "DevName": "Izuna",
     "FamilyName": "久田",
@@ -842,10 +981,13 @@
     "School": "Hyakkiyako",
     "Club": "NinpoKenkyubu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Izuna_Collection",
-    "Name": "伊树菜"
+    "Name": "伊树菜",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Shizuko": {
+    "Id": 23006,
     "PathName": "Shizuko",
     "DevName": "Shizuko",
     "FamilyName": "河和",
@@ -860,10 +1002,13 @@
     "School": "Hyakkiyako",
     "Club": "MatsuriOffice",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Shizuko_Collection",
-    "Name": "静子"
+    "Name": "静子",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Aris": {
+    "Id": 10015,
     "PathName": "Aris",
     "DevName": "Aris",
     "FamilyName": "天童",
@@ -878,10 +1023,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Aris_Collection",
-    "Name": "爱丽丝"
+    "Name": "爱丽丝",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Midori": {
+    "Id": 10016,
     "PathName": "Midori",
     "DevName": "Midori",
     "FamilyName": "才羽",
@@ -896,10 +1044,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Midori_Collection",
-    "Name": "绿"
+    "Name": "绿",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Momoi": {
+    "Id": 13011,
     "PathName": "Momoi",
     "DevName": "Momoi",
     "FamilyName": "才羽",
@@ -914,10 +1065,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Momoi_Collection",
-    "Name": "桃井"
+    "Name": "桃井",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Cherino": {
+    "Id": 10017,
     "PathName": "Cherino",
     "DevName": "Cherino",
     "FamilyName": "连河",
@@ -932,10 +1086,13 @@
     "School": "RedWinter",
     "Club": "RedwinterSecretary",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_Cherino_Collection",
-    "Name": "洁莉诺"
+    "Name": "洁莉诺",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Nodoka": {
+    "Id": 26006,
     "PathName": "Nodoka",
     "DevName": "Nodoka",
     "FamilyName": "天见",
@@ -950,10 +1107,13 @@
     "School": "RedWinter",
     "Club": "Class227",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_Nodoka_Collection",
-    "Name": "和香"
+    "Name": "和香",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Yuzu": {
+    "Id": 10018,
     "PathName": "Yuzu",
     "DevName": "Yuzu",
     "FamilyName": "花冈",
@@ -968,10 +1128,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_Yuzu_Collection",
-    "Name": "柚子"
+    "Name": "柚子",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Azusa": {
+    "Id": 10019,
     "PathName": "Azusa",
     "DevName": "Azusa",
     "FamilyName": "白洲",
@@ -986,10 +1149,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Azusa_Collection",
-    "Name": "梓"
+    "Name": "梓",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Hanako": {
+    "Id": 23007,
     "PathName": "Hanako",
     "DevName": "Hanako",
     "FamilyName": "浦和",
@@ -1004,10 +1170,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Hanako_Collection",
-    "Name": "花子"
+    "Name": "花子",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Koharu": {
+    "Id": 10020,
     "PathName": "Koharu",
     "DevName": "Koharu",
     "FamilyName": "下江",
@@ -1022,10 +1191,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Koharu_Collection",
-    "Name": "小春"
+    "Name": "小春",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Azusa_Swimsuit": {
+    "Id": 10021,
     "PathName": "Azusa_Swimsuit",
     "DevName": "Azusa_Swimsuit",
     "FamilyName": "白洲",
@@ -1040,10 +1212,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_azusa_swimsuit_Collection",
-    "Name": "梓(泳装)"
+    "Name": "梓(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Mashiro_Swimsuit": {
+    "Id": 20004,
     "PathName": "Mashiro_Swimsuit",
     "DevName": "Mashiro_Swimsuit",
     "FamilyName": "静山",
@@ -1058,10 +1233,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_mashiro_swimsuit_Collection",
-    "Name": "麻白(泳装)"
+    "Name": "麻白(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Tsurugi_Swimsuit": {
+    "Id": 16005,
     "PathName": "Tsurugi_Swimsuit",
     "DevName": "Tsurugi_Swimsuit",
     "FamilyName": "剑先",
@@ -1076,10 +1254,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_CH0060_Collection",
-    "Name": "弦生(泳装)"
+    "Name": "弦生(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Hifumi_Swimsuit": {
+    "Id": 20005,
     "PathName": "Hifumi_Swimsuit",
     "DevName": "Hihumi_Swimsuit",
     "FamilyName": "阿慈谷",
@@ -1094,10 +1275,13 @@
     "School": "Trinity",
     "Club": "RemedialClass",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_CH0058_Collection",
-    "Name": "日步美(泳装)"
+    "Name": "日步美(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Hina_Swimsuit": {
+    "Id": 10022,
     "PathName": "Hina_Swimsuit",
     "DevName": "CH0063",
     "FamilyName": "空崎",
@@ -1112,10 +1296,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_CH0063_Collection",
-    "Name": "阳奈(泳装)"
+    "Name": "阳奈(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Iori_Swimsuit": {
+    "Id": 10023,
     "PathName": "Iori_Swimsuit",
     "DevName": "CH0064",
     "FamilyName": "银镜",
@@ -1125,15 +1312,18 @@
     "Birthday": "11月8日",
     "CharacterSSRNew": "没有在夏天玩过头，而违反校规的笨蛋吧？",
     "ProfileIntroduction": "格黑娜学园所属，参加夏季合宿训练的风纪委员会之「冷酷的专家」。\n\n为了不让问题儿童们因为夏天而得意忘形，和其他的风纪委员前来海边监视。因为问题儿童们源源不绝，导致难得来海边却一直在战斗，内心感到不满，但没有表现出来。",
-    "Hobby": "巡逻、大声说话",
+    "Hobby": "巡逻、斥责",
     "BirthDay": "11/8",
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_CH0064_Collection",
-    "Name": "伊织(泳装)"
+    "Name": "伊织(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Izumi_Swimsuit": {
+    "Id": 16006,
     "PathName": "Izumi_Swimsuit",
     "DevName": "Izumi_swimsuit",
     "FamilyName": "狮子堂",
@@ -1148,10 +1338,13 @@
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_Swimsuit_Collection",
-    "CollectionTexture": "Student_Portrait_Izumi_swimsuit_Collection",
-    "Name": "泉(泳装)"
+    "Name": "泉(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Shiroko_Cycling": {
+    "Id": 10024,
     "PathName": "Shiroko_Cycling",
     "DevName": "Shiroko_RidingSuit",
     "FamilyName": "砂狼",
@@ -1160,16 +1353,19 @@
     "CharacterAge": "16岁",
     "Birthday": "5月16日",
     "CharacterSSRNew": "那么，老师。我到了会马上连络你哦",
-    "ProfileIntroduction": "阿拜多斯高级中学所属，换上了骑行用的正式装束，阿拜多斯对策委员会的突击队长。\n\n脱下平常的制服，鼓起干劲换上骑行服的她，总觉得看起来比平常还要开朗。目标虽然是夸张的「纵贯奇普托斯」，但不知是否因为有着值得信赖的伙伴，本人看来并没有不安和担心的样子。",
-    "Hobby": "慢跑、体力训练、公路车",
+    "ProfileIntroduction": "阿拜多斯高中所属，换上了骑行用的正式装束，阿拜多斯对策委员会的突击队长。\n\n脱下平常的制服，鼓起干劲换上骑行服的她，总觉得看起来比平常还要开朗。目标虽然是夸张的「纵贯奇普托斯」，但不知是否因为有着值得信赖的伙伴，本人看来并没有不安和担心的样子。",
+    "Hobby": "慢跑、体力训练、公路自行车",
     "BirthDay": "5/16",
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Ridingsuit_Collection",
-    "CollectionTexture": "Student_Portrait_Shiroko_ridingsuit_Collection",
-    "Name": "白子(单车)"
+    "Name": "白子(单车)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Shun_Small": {
+    "Id": 10025,
     "PathName": "Shun_Small",
     "DevName": "CH0066",
     "FamilyName": "春原",
@@ -1184,10 +1380,13 @@
     "School": "Shanhaijing",
     "Club": "Meihuayuan",
     "CollectionBG": "BG_CH0066_Collection",
-    "CollectionTexture": "Student_Portrait_CH0066_Collection",
-    "Name": "旬(幼女)"
+    "Name": "旬(幼女)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Kirino": {
+    "Id": 13012,
     "PathName": "Kirino",
     "DevName": "Kirino",
     "FamilyName": "中务",
@@ -1202,10 +1401,13 @@
     "School": "Valkyrie",
     "Club": "anzenkyoku",
     "CollectionBG": "BG_Valkyrie_Collection",
-    "CollectionTexture": "Student_Portrait_Kirino_Collection",
-    "Name": "桐乃"
+    "Name": "桐乃",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Saya_Casual": {
+    "Id": 20006,
     "PathName": "Saya_Casual",
     "DevName": "Saya_Casual",
     "FamilyName": "薬子",
@@ -1220,10 +1422,13 @@
     "School": "Shanhaijing",
     "Club": "Endanbou",
     "CollectionBG": "BG_Saya_casual_Collection",
-    "CollectionTexture": "Student_Portrait_Saya_Casual_Collection",
-    "Name": "沙耶(私服)"
+    "Name": "沙耶(私服)",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Neru_Bunny": {
+    "Id": 10026,
     "PathName": "Neru_Bunny",
     "DevName": "CH0101",
     "FamilyName": "美甘",
@@ -1232,16 +1437,19 @@
     "CharacterAge": "17岁",
     "Birthday": "8月17日",
     "CharacterSSRNew": "真是，没办法接受……",
-    "ProfileIntroduction": "千年科学学园所属，为了任务而换上兔女郎装的「C&amp;C」队长。\n\n平常的话，她是绝对不会穿上这身服装，但为了任务也没办法。平常为了作战，她能忍耐各种事，但只有那件丝卡将是绝对不肯脱下。",
+    "ProfileIntroduction": "千年科学学园所属，为了任务而换上兔女郎装的「C&C」队长。\n\n平常的话，她是绝对不会穿上这身服装，但为了任务也没办法。平常为了作战，她能忍耐各种事，但只有那件丝卡将是绝对不肯脱下。",
     "Hobby": "胜利",
     "BirthDay": "8/17",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_BunnyGirl_Collection",
-    "CollectionTexture": "Student_Portrait_CH0101_Collection",
-    "Name": "宁瑠(兔女郎)"
+    "Name": "宁瑠(兔女郎)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Karin_Bunny": {
+    "Id": 10027,
     "PathName": "Karin_Bunny",
     "DevName": "CH0100",
     "FamilyName": "角楯",
@@ -1249,17 +1457,20 @@
     "SchoolYear": "2年级",
     "CharacterAge": "16岁",
     "Birthday": "2月2日",
-    "CharacterSSRNew": "无论是什么样的任务，都和我没关系",
-    "ProfileIntroduction": "千年科学学园所属，直接参加这次作战最前线的「C&amp;C」特务。\n\n嘴里虽说着「如果是为了任务的话」，仍然兴冲冲地换装。不过，却比平时更在意周围的人投来的视线。",
-    "Hobby": "打扫",
+    "CharacterSSRNew": "无论是什么样的任务，对我来说都无所谓",
+    "ProfileIntroduction": "千年科学学园所属，直接参加这次作战最前线的「C&C」特务。\n\n嘴里虽说着「如果是为了任务的话」，仍然兴冲冲地换装。不过，却比平时更在意周围的人投来的视线。",
+    "Hobby": "清扫",
     "BirthDay": "2/2",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_BunnyGirl_Collection",
-    "CollectionTexture": "Student_Portrait_CH0100_Collection",
-    "Name": "花凛(兔女郎)"
+    "Name": "花凛(兔女郎)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Asuna_Bunny": {
+    "Id": 10028,
     "PathName": "Asuna_Bunny",
     "DevName": "CH0098",
     "FamilyName": "一之瀬",
@@ -1268,16 +1479,19 @@
     "CharacterAge": "17岁",
     "Birthday": "3月24日",
     "CharacterSSRNew": "今天也开心的玩吧，主人！",
-    "ProfileIntroduction": "千年科学学园所属，为了潜入任务而换装成兔女郎的「C&amp;C」特务。\n\n虽然不是平常的女仆装，但完全不受影响，一如既往的情绪高昂。甚至能说因为身处在新的地方体验新的事物，看起来比平时还要开心。",
+    "ProfileIntroduction": "千年科学学园所属，为了潜入任务而换装成兔女郎的「C&C」特务。\n\n虽然不是平常的女仆装，但完全不受影响，一如既往的情绪高昂。甚至能说因为身处在新的地方体验新的事物，看起来比平时还要开心。",
     "Hobby": "袭击",
     "BirthDay": "3/24",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_BunnyGirl_Collection",
-    "CollectionTexture": "Student_Portrait_CH0098_Collection",
-    "Name": "明日奈(兔女郎)"
+    "Name": "明日奈(兔女郎)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Natsu": {
+    "Id": 10029,
     "PathName": "Natsu",
     "DevName": "CH0155",
     "FamilyName": "柚鸟",
@@ -1292,10 +1506,13 @@
     "School": "Trinity",
     "Club": "HoukagoDessert",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_CH0155_Collection",
-    "Name": "夏"
+    "Name": "夏",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Mari": {
+    "Id": 23008,
     "PathName": "Mari",
     "DevName": "Mari",
     "FamilyName": "伊落",
@@ -1310,10 +1527,13 @@
     "School": "Trinity",
     "Club": "SisterHood",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Mari_Collection",
-    "Name": "玛丽"
+    "Name": "玛丽",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Hatsune_Miku": {
+    "Id": 20007,
     "PathName": "Hatsune_Miku",
     "DevName": "CH9999",
     "FamilyName": "初音",
@@ -1328,10 +1548,13 @@
     "School": "ETC",
     "Club": "EmptyClub",
     "CollectionBG": "BG_CH9999_Collection",
-    "CollectionTexture": "Student_Portrait_CH9999_Collection",
-    "Name": "初音未来"
+    "Name": "初音未来",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Ako": {
+    "Id": 20008,
     "PathName": "Ako",
     "DevName": "Ako",
     "FamilyName": "天雨",
@@ -1346,10 +1569,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_ako_Collection",
-    "Name": "亚子"
+    "Name": "亚子",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Cherino_HotSpring": {
+    "Id": 20009,
     "PathName": "Cherino_HotSpring",
     "DevName": "CH0164",
     "FamilyName": "连河",
@@ -1364,10 +1590,13 @@
     "School": "RedWinter",
     "Club": "RedwinterSecretary",
     "CollectionBG": "BG_Onsen_Collection",
-    "CollectionTexture": "Student_Portrait_CH0164_Collection",
-    "Name": "洁莉诺(温泉)"
+    "Name": "洁莉诺(温泉)",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Chinatsu_HotSpring": {
+    "Id": 10030,
     "PathName": "Chinatsu_HotSpring",
     "DevName": "CH0163",
     "FamilyName": "火宫",
@@ -1382,10 +1611,13 @@
     "School": "Gehenna",
     "Club": "Fuuki",
     "CollectionBG": "BG_Onsen_Collection",
-    "CollectionTexture": "Student_Portrait_CH0163_Collection",
-    "Name": "千夏(温泉)"
+    "Name": "千夏(温泉)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Tomoe": {
+    "Id": 16007,
     "PathName": "Tomoe",
     "DevName": "Tomoe",
     "FamilyName": "佐城",
@@ -1400,10 +1632,13 @@
     "School": "RedWinter",
     "Club": "RedwinterSecretary",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_Tomoe_Collection",
-    "Name": "智惠"
+    "Name": "智惠",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Nodoka_HotSpring": {
+    "Id": 20010,
     "PathName": "Nodoka_HotSpring",
     "DevName": "CH0165",
     "FamilyName": "天见",
@@ -1418,10 +1653,13 @@
     "School": "RedWinter",
     "Club": "Class227",
     "CollectionBG": "BG_Onsen_Collection",
-    "CollectionTexture": "Student_Portrait_CH0165_Collection",
-    "Name": "和香(温泉)"
+    "Name": "和香(温泉)",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Aru_NewYear": {
+    "Id": 10031,
     "PathName": "Aru_NewYear",
     "DevName": "Aru_Newyear",
     "FamilyName": "陆八魔",
@@ -1436,10 +1674,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Newyear_Collection",
-    "CollectionTexture": "Student_Portrait_Aru_newyear_Collection",
-    "Name": "亚瑠(正月)"
+    "Name": "亚瑠(正月)",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Mutsuki_NewYear": {
+    "Id": 10032,
     "PathName": "Mutsuki_NewYear",
     "DevName": "Mutsuki_Newyear",
     "FamilyName": "浅黄",
@@ -1454,10 +1695,13 @@
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Newyear_Collection",
-    "CollectionTexture": "Student_Portrait_Mutsuki_newyear_Collection",
-    "Name": "无月(正月)"
+    "Name": "无月(正月)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Serika_NewYear": {
+    "Id": 20011,
     "PathName": "Serika_NewYear",
     "DevName": "Serika_Newyear",
     "FamilyName": "黒见",
@@ -1472,10 +1716,13 @@
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Newyear_Collection",
-    "CollectionTexture": "Student_Portrait_Serika_newyear_Collection",
-    "Name": "茜香(正月)"
+    "Name": "茜香(正月)",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Wakamo": {
+    "Id": 10033,
     "PathName": "Wakamo",
     "DevName": "Wakamo",
     "FamilyName": "狐坂",
@@ -1490,10 +1737,13 @@
     "School": "Hyakkiyako",
     "Club": "EmptyClub",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Wakamo_Collection",
-    "Name": "若藻"
+    "Name": "若藻",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Fubuki": {
+    "Id": 16008,
     "PathName": "Fubuki",
     "DevName": "CH0141",
     "FamilyName": "合歓垣",
@@ -1508,10 +1758,13 @@
     "School": "Valkyrie",
     "Club": "anzenkyoku",
     "CollectionBG": "BG_Valkyrie_Collection",
-    "CollectionTexture": "Student_Portrait_CH0141_Collection",
-    "Name": "吹雪"
+    "Name": "吹雪",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Sena": {
+    "Id": 20012,
     "PathName": "Sena",
     "DevName": "CH0081",
     "FamilyName": "氷室",
@@ -1526,10 +1779,13 @@
     "School": "Gehenna",
     "Club": "Emergentology",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_Sena_Collection",
-    "Name": "瀬奈"
+    "Name": "瀬奈",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Chihiro": {
+    "Id": 20013,
     "PathName": "Chihiro",
     "DevName": "CH0160",
     "FamilyName": "各务",
@@ -1544,10 +1800,13 @@
     "School": "Millennium",
     "Club": "Veritas",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_CH0160_Collection",
-    "Name": "千寻"
+    "Name": "千寻",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Mimori": {
+    "Id": 10034,
     "PathName": "Mimori",
     "DevName": "Mimori",
     "FamilyName": "水羽",
@@ -1562,10 +1821,13 @@
     "School": "Hyakkiyako",
     "Club": "Shugyobu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Mimori_Collection",
-    "Name": "三森"
+    "Name": "三森",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Ui": {
+    "Id": 10035,
     "PathName": "Ui",
     "DevName": "CH0169",
     "FamilyName": "古関",
@@ -1580,10 +1842,13 @@
     "School": "Trinity",
     "Club": "BookClub",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_CH0169_Collection",
-    "Name": "忧"
+    "Name": "忧",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Hinata": {
+    "Id": 10036,
     "PathName": "Hinata",
     "DevName": "Hinata",
     "FamilyName": "若叶",
@@ -1592,16 +1857,19 @@
     "CharacterAge": "17岁",
     "Birthday": "5月17日",
     "CharacterSSRNew": "有什么，我可以做到的事吗？",
-    "ProfileIntroduction": "所属修女会的勤劳又善良的少女。\n\n负责三一大圣堂的管理重责，能勤劳的完成交付的工作，对任何人都很亲切。但是个性迷糊，经常会出错，对自己比较没有信心。\n虽然每天带在身上的背包里装着巨大的设置型榴弹机关枪，但从来都没有显露出很重的感觉。",
+    "ProfileIntroduction": "所属修女会的勤劳又善良的少女。\n\n负责三一大教堂的管理重责，能勤劳的完成交付的工作，对任何人都很亲切。但是个性迷糊，经常会出错，对自己比较没有信心。\n虽然每天带在身上的背包里装着巨大的设置型榴弹机关枪，但从来都没有显露出很重的感觉。",
     "Hobby": "祈祷、整理整顿",
     "BirthDay": "5/17",
     "School": "Trinity",
     "Club": "SisterHood",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Hinata_Collection",
-    "Name": "日向"
+    "Name": "日向",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Marina": {
+    "Id": 10037,
     "PathName": "Marina",
     "DevName": "Marina",
     "FamilyName": "池仓",
@@ -1616,10 +1884,13 @@
     "School": "RedWinter",
     "Club": "RedwinterSecretary",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_Marina_Collection",
-    "Name": "玛丽娜"
+    "Name": "玛丽娜",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Miyako": {
+    "Id": 10038,
     "PathName": "Miyako",
     "DevName": "miyako",
     "FamilyName": "月雪",
@@ -1634,10 +1905,13 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_SRT_Collection",
-    "CollectionTexture": "Student_Portrait_Miyako_Collection",
-    "Name": "都子"
+    "Name": "都子",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Saki": {
+    "Id": 20014,
     "PathName": "Saki",
     "DevName": "CH0144",
     "FamilyName": "空井",
@@ -1646,16 +1920,19 @@
     "CharacterAge": "15岁",
     "Birthday": "4月9日",
     "CharacterSSRNew": "这里是RABBIT2，感度良好",
-    "ProfileIntroduction": "SRT特殊学园所属，RABBIT小队的斥侯。\n\n为了追求规矩严格的生活而进入SRT特殊学园就读，然而学园却突然被关闭。现在过着和小队成员们一起在公园露宿的生活。随身携带写着SRT学园战术的教科书，是重视原则行动的类型。因为有采集山菜和收集废弃品的兴趣，似乎对现在总是资源不足的公园生活能有各种帮助。\n代号为「RABBIT2」",
+    "ProfileIntroduction": "SRT特殊学园所属，RABBIT小队的先锋。\n\n为了追求规矩严格的生活而进入SRT特殊学园就读，然而学园却突然被关闭。现在过着和小队成员们一起在公园露宿的生活。随身携带写着SRT学园战术的教科书，是重视原则行动的类型。因为有采集山菜和收集废弃品的兴趣，似乎对现在总是资源不足的公园生活能有各种帮助。\n代号为「RABBIT2」",
     "Hobby": "枪枝整备、采集植物",
     "BirthDay": "4/9",
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_SRT_Collection",
-    "CollectionTexture": "Student_Portrait_CH0144_Collection",
-    "Name": "咲希"
+    "Name": "咲希",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Miyu": {
+    "Id": 10039,
     "PathName": "Miyu",
     "DevName": "CH0145",
     "FamilyName": "霞沢",
@@ -1670,10 +1947,13 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_SRT_Collection",
-    "CollectionTexture": "Student_Portrait_CH0145_Collection",
-    "Name": "美优"
+    "Name": "美优",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Kaede": {
+    "Id": 20015,
     "PathName": "Kaede",
     "DevName": "Kaede",
     "FamilyName": "勇美",
@@ -1688,10 +1968,13 @@
     "School": "Hyakkiyako",
     "Club": "Shugyobu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_Kaede_Collection",
-    "Name": "枫"
+    "Name": "枫",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Iroha": {
+    "Id": 20016,
     "PathName": "Iroha",
     "DevName": "CH0156",
     "FamilyName": "枣",
@@ -1700,16 +1983,19 @@
     "CharacterAge": "16岁",
     "Birthday": "11月16日",
     "CharacterSSRNew": "……需要我？\n真是的，真没办法呢",
-    "ProfileIntroduction": "格黑娜学园所属，「万魔殿」的议员之一。\n\n虽然基本上是个讨厌麻烦的人，但她所属的格黑娜学园却总是问题百出，且学生会「万魔殿」（准确来说是真琴）自然是不会让她如意的。\n是个时常把「真没办法」、「好麻烦」挂在嘴边，淡然面对源源不断产生的问题与业务的中阶主管。被同样所属「万魔殿」，如吉祥物一般的存在「伊吹」所治愈，今天也一边叹着气一边运行着业务。",
+    "ProfileIntroduction": "格黑娜学园所属，「万魔殿」的议员之一。\n\n虽然基本上是个讨厌麻烦的人，但她所属的格黑娜学园却总是问题百出，且学生会「万魔殿」（准确来说是真琴）自然是不会让她如意的。\n是个时常把「真没办法」、「好麻烦」挂在嘴边，淡然面对源源不断产生的问题与业务的中阶管理者。被同样所属「万魔殿」，如吉祥物一般的存在「伊吹」所治愈，今天也一边叹着气一边运行着业务。",
     "Hobby": "读书、偷懒",
     "BirthDay": "11/16",
     "School": "Gehenna",
     "Club": "PandemoniumSociety",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_CH0156_Collection",
-    "Name": "伊吕波"
+    "Name": "伊吕波",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Michiru": {
+    "Id": 16009,
     "PathName": "Michiru",
     "DevName": "CH0113",
     "FamilyName": "千鸟",
@@ -1724,10 +2010,13 @@
     "School": "Hyakkiyako",
     "Club": "NinpoKenkyubu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_CH0113_Collection",
-    "Name": "三千留"
+    "Name": "三千留",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Tsukuyo": {
+    "Id": 10040,
     "PathName": "Tsukuyo",
     "DevName": "CH0114",
     "FamilyName": "大野",
@@ -1742,10 +2031,13 @@
     "School": "Hyakkiyako",
     "Club": "NinpoKenkyubu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_CH0114_Collection",
-    "Name": "月夜"
+    "Name": "月夜",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Misaki": {
+    "Id": 10041,
     "PathName": "Misaki",
     "DevName": "Misaki",
     "FamilyName": "戒野",
@@ -1760,10 +2052,13 @@
     "School": "Arius",
     "Club": "AriusSqud",
     "CollectionBG": "BG_Arius_Collection",
-    "CollectionTexture": "Student_Portrait_Misaki_Collection",
-    "Name": "美咲"
+    "Name": "美咲",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Hiyori": {
+    "Id": 20017,
     "PathName": "Hiyori",
     "DevName": "Hiyori",
     "FamilyName": "槌永",
@@ -1778,10 +2073,13 @@
     "School": "Arius",
     "Club": "AriusSqud",
     "CollectionBG": "BG_Arius_Collection",
-    "CollectionTexture": "Student_Portrait_Hiyori_Collection",
-    "Name": "日和"
+    "Name": "日和",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Atsuko": {
+    "Id": 10042,
     "PathName": "Atsuko",
     "DevName": "Atsuko",
     "FamilyName": "秤",
@@ -1796,10 +2094,13 @@
     "School": "Arius",
     "Club": "AriusSqud",
     "CollectionBG": "BG_Arius_Collection",
-    "CollectionTexture": "Student_Portrait_Atsuko_Collection",
-    "Name": "敦子"
+    "Name": "敦子",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Wakamo_Swimsuit": {
+    "Id": 10043,
     "PathName": "Wakamo_Swimsuit",
     "DevName": "CH0175",
     "FamilyName": "狐坂",
@@ -1814,10 +2115,13 @@
     "School": "Hyakkiyako",
     "Club": "EmptyClub",
     "CollectionBG": "BG_Swimsuit02_Collection",
-    "CollectionTexture": "Student_Portrait_CH0175_Collection",
-    "Name": "若藻(泳装)"
+    "Name": "若藻(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Nonomi_Swimsuit": {
+    "Id": 10044,
     "PathName": "Nonomi_Swimsuit",
     "DevName": "CH0092",
     "FamilyName": "十六夜",
@@ -1826,16 +2130,19 @@
     "CharacterAge": "16岁",
     "Birthday": "9月1日",
     "CharacterSSRNew": "说到夏天的话，果然是大家一起去海边呢☆",
-    "ProfileIntroduction": "阿拜多斯高级中学所属，来到夏天海边非常开心的阿拜多斯对策委员会成员。\n\n即使来到度假胜地，依然会温柔地照顾大家。顺带一提，因为太过期待这次的旅行，听说她买了比平常更多东西做准备。",
+    "ProfileIntroduction": "阿拜多斯高中所属，来到夏天海边非常开心的阿拜多斯对策委员会成员。\n\n即使来到度假胜地，依然会温柔地照顾大家。顺带一提，因为太过期待这次的旅行，听说她买了比平常更多东西做准备。",
     "Hobby": "购物",
     "BirthDay": "9/1",
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Swimsuit02_Collection",
-    "CollectionTexture": "Student_Portrait_CH0092_Collection",
-    "Name": "野乃美(泳装)"
+    "Name": "野乃美(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Ayane_Swimsuit": {
+    "Id": 26007,
     "PathName": "Ayane_Swimsuit",
     "DevName": "CH0176",
     "FamilyName": "奥空",
@@ -1844,16 +2151,19 @@
     "CharacterAge": "15岁",
     "Birthday": "11月12日",
     "CharacterSSRNew": "",
-    "ProfileIntroduction": "阿拜多斯高级中学所属，来到夏日海边的阿拜多斯对策委员会书记。\n\n虽然下定决心要趁机忘记平日的辛劳，彻底玩乐……但还是没办法排除天生的认真做事态度。",
+    "ProfileIntroduction": "阿拜多斯高中所属，来到夏日海边的阿拜多斯对策委员会书记。\n\n虽然下定决心要趁机忘记平日的辛劳，彻底玩乐……但还是没办法排除天生的认真做事态度。",
     "Hobby": "写家计簿、搜集古董",
     "BirthDay": "11/12",
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Swimsuit02_Collection",
-    "CollectionTexture": "Student_Portrait_CH0176_Collection",
-    "Name": "绫音(泳装)"
+    "Name": "绫音(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Hoshino_Swimsuit": {
+    "Id": 10045,
     "PathName": "Hoshino_Swimsuit",
     "DevName": "Hoshino_Swimsuit",
     "FamilyName": "小鸟游",
@@ -1862,16 +2172,19 @@
     "CharacterAge": "17岁",
     "Birthday": "1月2日",
     "CharacterSSRNew": "来这边呀老师～ \n还挺凉快的唷？",
-    "ProfileIntroduction": "阿拜多斯高级中学所属，为了追求悠闲夏日，而来到无人岛的对策委员会委员长。\n\n跟她怕麻烦的态度相反，各项准备都非常确实。而她本人并没有发现自己比平常还要积极。",
+    "ProfileIntroduction": "阿拜多斯高中所属，为了追求悠闲夏日，而来到无人岛的对策委员会委员长。\n\n跟她怕麻烦的态度相反，各项准备都非常确实。而她本人并没有发现自己比平常还要积极。",
     "Hobby": "午睡、无所事事",
     "BirthDay": "1/2",
     "School": "Abydos",
     "Club": "Countermeasure",
     "CollectionBG": "BG_Swimsuit02_Collection",
-    "CollectionTexture": "Student_Portrait_Hoshino_Swimsuit_Collection",
-    "Name": "星野(泳装)"
+    "Name": "星野(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Shizuko_Swimsuit": {
+    "Id": 26008,
     "PathName": "Shizuko_Swimsuit",
     "DevName": "CH0180",
     "FamilyName": "河和",
@@ -1886,10 +2199,13 @@
     "School": "Hyakkiyako",
     "Club": "MatsuriOffice",
     "CollectionBG": "BG_Swimsuit03_Collection",
-    "CollectionTexture": "Student_Portrait_CH0180_Collection",
-    "Name": "静子(泳装)"
+    "Name": "静子(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Izuna_Swimsuit": {
+    "Id": 10046,
     "PathName": "Izuna_Swimsuit",
     "DevName": "CH0179",
     "FamilyName": "久田",
@@ -1899,15 +2215,18 @@
     "Birthday": "12月16日",
     "CharacterSSRNew": "不才伊树菜！这个夏天也\n与主公一同尽全力修行！",
     "ProfileIntroduction": "百鬼夜行联合学园所属，为了修行而造访海边的忍术研究部少女。\n虽然伊树奈平常就很有活力，但这次似乎受到夏日能量的影响，将以200%的活力迎接主公。为了成为更适合夏天的忍者，伊树菜今天也要以修行的名目，和主公一起尽情享受夏天。",
-    "Hobby": "钻研忍术、护卫主公。",
+    "Hobby": "钻研忍术、护卫主公",
     "BirthDay": "12/16",
     "School": "Hyakkiyako",
     "Club": "NinpoKenkyubu",
     "CollectionBG": "BG_Swimsuit03_Collection",
-    "CollectionTexture": "Student_Portrait_CH0179_Collection",
-    "Name": "伊树菜(泳装)"
+    "Name": "伊树菜(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Chise_Swimsuit": {
+    "Id": 10047,
     "PathName": "Chise_Swimsuit",
     "DevName": "CH0178",
     "FamilyName": "和乐",
@@ -1922,10 +2241,13 @@
     "School": "Hyakkiyako",
     "Club": "Onmyobu",
     "CollectionBG": "BG_Swimsuit03_Collection",
-    "CollectionTexture": "Student_Portrait_CH0178_Collection",
-    "Name": "知世(泳装)"
+    "Name": "知世(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Saori": {
+    "Id": 10048,
     "PathName": "Saori",
     "DevName": "Saori",
     "FamilyName": "锭前",
@@ -1940,10 +2262,13 @@
     "School": "Arius",
     "Club": "AriusSqud",
     "CollectionBG": "BG_Arius_Collection",
-    "CollectionTexture": "Student_Portrait_Saori_Collection",
-    "Name": "沙织"
+    "Name": "沙织",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Moe": {
+    "Id": 20018,
     "PathName": "Moe",
     "DevName": "Moe",
     "FamilyName": "风仓",
@@ -1958,10 +2283,13 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_SRT_Collection",
-    "CollectionTexture": "Student_Portrait_Moe_Collection",
-    "Name": "萌"
+    "Name": "萌",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Kazusa": {
+    "Id": 10049,
     "PathName": "Kazusa",
     "DevName": "Kazusa",
     "FamilyName": "杏山",
@@ -1976,10 +2304,13 @@
     "School": "Trinity",
     "Club": "HoukagoDessert",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Kazusa_Collection",
-    "Name": "千纱"
+    "Name": "千纱",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Kokona": {
+    "Id": 10050,
     "PathName": "Kokona",
     "DevName": "CH0137",
     "FamilyName": "春原",
@@ -1994,10 +2325,13 @@
     "School": "Shanhaijing",
     "Club": "Meihuayuan",
     "CollectionBG": "BG_Sanhaijing_Collection",
-    "CollectionTexture": "Student_Portrait_CH0137_Collection",
-    "Name": "心菜"
+    "Name": "心菜",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Utaha_Cheerleader": {
+    "Id": 10051,
     "PathName": "Utaha_Cheerleader",
     "DevName": "CH0182",
     "FamilyName": "白石",
@@ -2012,10 +2346,13 @@
     "School": "Millennium",
     "Club": "Engineer",
     "CollectionBG": "BG_Cheerleading_Collection",
-    "CollectionTexture": "Student_Portrait_CH0182_Collection",
-    "Name": "咏叶(应援团)"
+    "Name": "咏叶(应援团)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Noa": {
+    "Id": 10052,
     "PathName": "Noa",
     "DevName": "CH0095",
     "FamilyName": "生塩",
@@ -2030,10 +2367,13 @@
     "School": "Millennium",
     "Club": "TheSeminar",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_CH0095_Collection",
-    "Name": "乃爱"
+    "Name": "乃爱",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Hibiki_Cheerleader": {
+    "Id": 16010,
     "PathName": "Hibiki_Cheerleader",
     "DevName": "CH0181",
     "FamilyName": "猫冢",
@@ -2048,10 +2388,13 @@
     "School": "Millennium",
     "Club": "Engineer",
     "CollectionBG": "BG_Cheerleading_Collection",
-    "CollectionTexture": "Student_Portrait_CH0181_Collection",
-    "Name": "响(应援团)"
+    "Name": "响(应援团)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Akane_Bunny": {
+    "Id": 20019,
     "PathName": "Akane_Bunny",
     "DevName": "CH0099",
     "FamilyName": "室笠",
@@ -2060,16 +2403,19 @@
     "CharacterAge": "16岁",
     "Birthday": "4月1日",
     "CharacterSSRNew": "我是主人的女仆……\n不对，现在\n应该说是主人的兔子吧",
-    "ProfileIntroduction": "千年科学学园所属，为了潜入任务而换上兔女郎服装的「C&amp;C」特务。\n\n即使身处陌生的环境，依然率先准备兔女郎服装、引爆C4清除障碍物，和平常一样沉着地运行作战。不知是不是因为穿着和平常不同的服装，随时都可以窥见兴奋的神情。",
+    "ProfileIntroduction": "千年科学学园所属，为了潜入任务而换上兔女郎服装的「C&C」特务。\n\n即使身处陌生的环境，依然率先准备兔女郎服装、引爆C4清除障碍物，和平常一样沉着地运行作战。不知是不是因为穿着和平常不同的服装，随时都可以窥见兴奋的神情。",
     "Hobby": "清扫",
     "BirthDay": "4/1",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_BunnyGirl_Collection",
-    "CollectionTexture": "Student_Portrait_CH0099_Collection",
-    "Name": "朱音(兔女郎)"
+    "Name": "朱音(兔女郎)",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Yuuka_Track": {
+    "Id": 10053,
     "PathName": "Yuuka_Track",
     "DevName": "CH0184",
     "FamilyName": "早瀬",
@@ -2084,10 +2430,13 @@
     "School": "Millennium",
     "Club": "TheSeminar",
     "CollectionBG": "BG_Cheerleading_Collection",
-    "CollectionTexture": "Student_Portrait_CH0184_Collection",
-    "Name": "优香(体育服)"
+    "Name": "优香(体育服)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Mari_Track": {
+    "Id": 10054,
     "PathName": "Mari_Track",
     "DevName": "CH0186",
     "FamilyName": "伊落",
@@ -2102,10 +2451,13 @@
     "School": "Trinity",
     "Club": "SisterHood",
     "CollectionBG": "BG_Cheerleading_Collection",
-    "CollectionTexture": "Student_Portrait_CH0186_Collection",
-    "Name": "玛丽(体育服)"
+    "Name": "玛丽(体育服)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Hasumi_Track": {
+    "Id": 16011,
     "PathName": "Hasumi_Track",
     "DevName": "CH0190",
     "FamilyName": "羽川",
@@ -2120,10 +2472,13 @@
     "School": "Trinity",
     "Club": "Justice",
     "CollectionBG": "BG_Cheerleading_Collection",
-    "CollectionTexture": "Student_Portrait_CH0190_Collection",
-    "Name": "莲实(体育服)"
+    "Name": "莲实(体育服)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Himari": {
+    "Id": 20020,
     "PathName": "Himari",
     "DevName": "CH0159",
     "FamilyName": "明星",
@@ -2138,10 +2493,13 @@
     "School": "Millennium",
     "Club": "SPTF",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_CH0159_Collection",
-    "Name": "阳葵"
+    "Name": "阳葵",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Shigure": {
+    "Id": 10055,
     "PathName": "Shigure",
     "DevName": "Shigure",
     "FamilyName": "间宵",
@@ -2156,10 +2514,13 @@
     "School": "RedWinter",
     "Club": "Class227",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_Shigure_Collection",
-    "Name": "时雨"
+    "Name": "时雨",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Serina_Christmas": {
+    "Id": 10056,
     "PathName": "Serina_Christmas",
     "DevName": "CH0194",
     "FamilyName": "鹫见",
@@ -2174,10 +2535,13 @@
     "School": "Trinity",
     "Club": "KnightsHospitaller",
     "CollectionBG": "BG_Holiday_Collection",
-    "CollectionTexture": "Student_Portrait_CH0194_Collection",
-    "Name": "芹奈(圣诞节)"
+    "Name": "芹奈(圣诞节)",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Hanae_Christmas": {
+    "Id": 20021,
     "PathName": "Hanae_Christmas",
     "DevName": "CH0195",
     "FamilyName": "朝颜",
@@ -2192,10 +2556,13 @@
     "School": "Trinity",
     "Club": "KnightsHospitaller",
     "CollectionBG": "BG_Holiday_Collection",
-    "CollectionTexture": "Student_Portrait_CH0195_Collection",
-    "Name": "花绘(圣诞节)"
+    "Name": "花绘(圣诞节)",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Haruna_NewYear": {
+    "Id": 10057,
     "PathName": "Haruna_NewYear",
     "DevName": "CH0191",
     "FamilyName": "黒馆",
@@ -2210,10 +2577,13 @@
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_NewYearFestival2",
-    "CollectionTexture": "Student_Portrait_CH0191_Collection",
-    "Name": "羽留奈(正月)"
+    "Name": "羽留奈(正月)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Fuuka_NewYear": {
+    "Id": 20022,
     "PathName": "Fuuka_NewYear",
     "DevName": "CH0177",
     "FamilyName": "爱清",
@@ -2223,15 +2593,18 @@
     "Birthday": "4月30日",
     "CharacterSSRNew": "老师，吃过跨年荞麦面了吗？\n希望今年对我们彼此都是平安顺利的一年",
     "ProfileIntroduction": "格黑娜学园所属，迎接新年换上和服的供给部成员。\n\n虽然希望今年能一直维持平静的生活，但周围的环境是否允许她过着平静生活，还是一个未知数。",
-    "Hobby": "制作家庭料理、做便当",
+    "Hobby": "家庭料理、做便当",
     "BirthDay": "4/30",
     "School": "Gehenna",
     "Club": "FoodService",
     "CollectionBG": "BG_NewYearFestival2",
-    "CollectionTexture": "Student_Portrait_CH0177_Collection",
-    "Name": "风华(正月)"
+    "Name": "风华(正月)",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "Unarmed"
   },
   "Junko_NewYear": {
+    "Id": 16012,
     "PathName": "Junko_NewYear",
     "DevName": "CH0192",
     "FamilyName": "赤司",
@@ -2246,10 +2619,13 @@
     "School": "Gehenna",
     "Club": "GourmetClub",
     "CollectionBG": "BG_NewYearFestival2",
-    "CollectionTexture": "Student_Portrait_CH0192_Collection",
-    "Name": "淳子(正月)"
+    "Name": "淳子(正月)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Mine": {
+    "Id": 10058,
     "PathName": "Mine",
     "DevName": "CH0152",
     "FamilyName": "苍森",
@@ -2264,172 +2640,202 @@
     "School": "Trinity",
     "Club": "KnightsHospitaller",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_CH0152_Collection",
-    "Name": "美祢"
+    "Name": "美祢",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Mika": {
+    "Id": 10059,
     "PathName": "Mika",
     "DevName": "CH0069",
     "FamilyName": "圣园",
-    "PersonalName": "ミカ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "17歳",
+    "PersonalName": "弥香",
+    "SchoolYear": "3年级",
+    "CharacterAge": "17岁",
     "Birthday": "5月8日",
-    "CharacterSSRNew": "うん、お待たせ！\nこれからはなんでも私に任せてね☆",
-    "ProfileIntroduction": "トリニティ総合学园所属、トリニティを构成している生徒连合「パテル」の元リーダーだった少女。\n\n元ティーパーティーの一人で、リーダーであるナギサとは幼驯染でもある。しかし、政治的には対立している立场のため、公私の区别はしっかりしている。いつも楽しそうに笑い、无邪気な姿を见せる彼女だが、人に言えない悩みを胸の里に抱えているらしい。",
-    "Hobby": "おしゃべり、アクセサリー集め",
+    "CharacterSSRNew": "嗯，让你久等了！\n今后无论什么事都包在我身上吧☆",
+    "ProfileIntroduction": "三一综合学园所属，是担任构成三一的学生联盟「圣父派」前任领袖的少女。\n\n原本是茶会的一员，和主席渚是青梅竹马。然而由于政治上属于对立立场，在公私方面区分得很清楚。\n虽然她总是露出开心的笑容，展现天真无邪的样子，但心里似乎有着无法与他人诉说的烦恼。",
+    "Hobby": "聊天、收集饰品",
     "BirthDay": "5/8",
     "School": "Trinity",
     "Club": "TeaParty",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_CH0069_Collection",
-    "Name": "弥香"
+    "Name": "弥香",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
   },
   "Megu": {
+    "Id": 10060,
     "PathName": "Megu",
     "DevName": "CH0088",
     "FamilyName": "下仓",
-    "PersonalName": "メグ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "17歳",
+    "PersonalName": "惠",
+    "SchoolYear": "3年级",
+    "CharacterAge": "17岁",
     "Birthday": "4月25日",
-    "CharacterSSRNew": "障害物？私に任せて！撤去しちゃうよ～！",
-    "ProfileIntroduction": "ゲヘナ学园所属、温泉开発部の心臓であり、开発现场の作业班长。\n\nすべての问题事を「撤去する」ことで解决できると心の底から信じている。豪快で竹を割ったような性格、抜群の撤去能力で温泉开発部员から厚い信頼を得ている。",
-    "Hobby": "撤去",
+    "CharacterSSRNew": "障碍物？交给我吧！马上撤除唷～！",
+    "ProfileIntroduction": "格黑娜学园所属，温泉开发部的心脏，也是开发现场的作业班长。\n\n打从心底相信「拆除」可以解决所有的问题。\n豪爽豁然的性格与出众的拆除能力受到温泉开发部的所有人的信赖。",
+    "Hobby": "拆除",
     "BirthDay": "4/25",
     "School": "Gehenna",
     "Club": "HotSpringsDepartment",
     "CollectionBG": "BG_Gehenna_Collection",
-    "CollectionTexture": "Student_Portrait_CH0088_Collection",
-    "Name": "惠"
+    "Name": "惠",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Kanna": {
+    "Id": 20023,
     "PathName": "Kanna",
     "DevName": "CH0170",
     "FamilyName": "尾刃",
-    "PersonalName": "カンナ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "17歳",
+    "PersonalName": "环奈",
+    "SchoolYear": "3年级",
+    "CharacterAge": "17岁",
     "Birthday": "9月7日",
-    "CharacterSSRNew": "市民のため、诚心诚意奉仕します",
-    "ProfileIntroduction": "ヴァルキューレ警察学校所属、公安局の局长を务める生徒。\n\n担当すると决めた犯罪に対して、谛めるという文本を知らないほどに执拗に闻き込み、真相を明らかにすることから世间では「狂犬」というあだ名で知られている。固い空気とあだ名のせいで激情型だと误解されがちだが、実际は常に冷静で、现実的な価値観の持ち主である。",
-    "Hobby": "読书、映画鉴赏（推理もの）",
+    "CharacterSSRNew": "为了市民，诚心诚意地奉献",
+    "ProfileIntroduction": "女武神警察学园所属，担任公安局局长的学生。\n\n对于决定负责的案件，会以不知放弃为何的执着进行审问进而揭发真相，因此以「狂犬」之名为人所知。由于其刚正的气质和绰号的原因，经常被误认为激情的类型，实际上是个能随时保持冷静，拥有现实价值观的人。",
+    "Hobby": "阅读、电影欣赏（推理类）",
     "BirthDay": "9/7",
     "School": "Valkyrie",
     "Club": "PublicPeaceBureau",
     "CollectionBG": "BG_Valkyrie_Collection",
-    "CollectionTexture": "Student_Portrait_CH0170_Collection",
-    "Name": "环奈"
+    "Name": "环奈",
+    "SquadType": "Support",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Sakurako": {
+    "Id": 10061,
     "PathName": "Sakurako",
     "DevName": "Sakurako",
     "FamilyName": "歌住",
-    "PersonalName": "サクラコ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "17歳",
+    "PersonalName": "樱子",
+    "SchoolYear": "3年级",
+    "CharacterAge": "17岁",
     "Birthday": "10月4日",
-    "CharacterSSRNew": "あなたの一挙手一投足……。\nいつも、见守っておりますよ",
-    "ProfileIntroduction": "トリニティ総合学园所属、シスターフッドの敬虔な生徒。\n\n何事に対しても真剣に向き合うため、多くの生徒から厚い信頼を受けている。生真面目すぎるせいで流行や常识からズレてしまうことも。",
-    "Hobby": "お祈り",
+    "CharacterSSRNew": "您的一举一动……\n我一直都关注着",
+    "ProfileIntroduction": "三一综合学园所属，修女会虔诚的学生。\n\n对任何事都会认真面对，深受许多学生的信赖。\n偶尔会因过于正经导致与流行和常识脱节。",
+    "Hobby": "祈祷",
     "BirthDay": "10/4",
     "School": "Trinity",
     "Club": "SisterHood",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Sakurako_Collection",
-    "Name": "樱子"
+    "Name": "樱子",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Toki": {
+    "Id": 10062,
     "PathName": "Toki",
     "DevName": "CH0187",
     "FamilyName": "飞鸟马",
-    "PersonalName": "トキ",
-    "SchoolYear": "1年生",
-    "CharacterAge": "16歳",
+    "PersonalName": "季",
+    "SchoolYear": "1年级",
+    "CharacterAge": "16岁",
     "Birthday": "8月16日",
-    "CharacterSSRNew": "何なりとお申し付けください。\n私は完璧なエージェントであり、メイドですので",
-    "ProfileIntroduction": "ミレニアムサイエンススクール所属、秘密组织「C&amp;C」の5番目のエージェント。\n\nC&amp;C所属だが、これまではリオの専属メイド兼ボディーガードとして活动してきたため、トキの颜を知っている人はほとんどいない。ハイテク兵器や技术に基づいて戦う优れたエージェント。今までは単独行动がメインだったが、実は寂しがり屋という一面も。",
-    "Hobby": "探している最中",
+    "CharacterSSRNew": "请尽管交给我吧。\n我是完美的特务，同时也是女仆",
+    "ProfileIntroduction": "千年科学学园所属，秘密组织「C&C」的第五个特务。\n\n虽然隶属C&C，但至今为止都以莉央专属女仆兼保镳的身分活动，所以几乎没有人知道季的长相。是善于使用高科技武器和技术战斗的优秀特务。虽然一直以单独行动为主，其实也有害怕寂寞的一面。",
+    "Hobby": "寻找中",
     "BirthDay": "8/16",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_CH0187_Collection",
-    "Name": "季"
+    "Name": "季",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "ElasticArmor"
   },
   "Nagisa": {
+    "Id": 20024,
     "PathName": "Nagisa",
     "DevName": "Nagisa",
     "FamilyName": "桐藤",
-    "PersonalName": "ナギサ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "17歳",
+    "PersonalName": "渚",
+    "SchoolYear": "3年级",
+    "CharacterAge": "17岁",
     "Birthday": "7月4日",
-    "CharacterSSRNew": "……ごきげんよう。\nトリニティを代表してご挨拶申し上げます",
-    "ProfileIntroduction": "トリニティ総合学园所属、トリニティを构成している生徒连合「フィリウス」のリーダーであり、生徒会「ティーパーティー」のホスト。\n\n穏やかで优しい言叶遣いだが、本音をほとんど明かさないため、気难しく谜の多い人物と评されている。趣味はお茶会に使う茶叶やお茶菓子を用意すること。多くのトリニティ生が彼女のお茶会に招待される日を梦见ている。",
-    "Hobby": "茶叶収集、お菓子作り、庭の手入れ",
+    "CharacterSSRNew": "……贵安。\n我代表三一向您问好",
+    "ProfileIntroduction": "三一综合学园所属，担任构成三一的学生联盟「圣子派」的领袖，同时也是学生会「茶会」的主席。\n\n虽然说话温柔和蔼，但因为几乎不会展现真心，被评为难以相处且充满谜团的人物。兴趣是准备茶会使用的茶叶与茶点。许多三一的学生都非常期盼被招待到她的茶会的那天。",
+    "Hobby": "收集茶叶、制作点心、整理庭园",
     "BirthDay": "7/4",
     "School": "Trinity",
     "Club": "TeaParty",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_Nagisa_Collection",
-    "Name": "渚"
+    "Name": "渚",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Koyuki": {
+    "Id": 10063,
     "PathName": "Koyuki",
     "DevName": "CH0198",
-    "FamilyName": "黒崎",
-    "PersonalName": "コユキ",
-    "SchoolYear": "1年生",
-    "CharacterAge": "15歳",
+    "FamilyName": "黑崎",
+    "PersonalName": "小雪",
+    "SchoolYear": "1年级",
+    "CharacterAge": "15岁",
     "Birthday": "2月14日",
-    "CharacterSSRNew": "思い通りにいかない时こそ、\n人生は面白くなるんですよ！",
-    "ProfileIntroduction": "ミレニアムサイエンススクール所属、生徒会「セミナー」のトラブルメーカーな天才少女。\n\n数学的な暗号の解読に関して、天赋の才を持っているが、本人にはその自覚が全くない。また、自分では制御できない运が络む要素が好きで、様々な方法で自分の运を试している。苦难にあっても谛めない。",
-    "Hobby": "运试し、脱出",
+    "CharacterSSRNew": "不如预期的时候，\n人生才会有趣唷！",
+    "ProfileIntroduction": "千年科学学园所属，学生会「研讨会」如麻烦制造机一般的天才少女。\n\n对于解读数学暗号有着天赋之才，然而本人对此完全没有自觉。此外，十分喜爱自己无法控制的、与运气相关的要素，时常用各种方法测试自己的运气。尽管苦难重重也依然不放弃。",
+    "Hobby": "测试运气，逃脱",
     "BirthDay": "2/14",
     "School": "Millennium",
     "Club": "TheSeminar",
     "CollectionBG": "BG_Millennium_Collection",
-    "CollectionTexture": "Student_Portrait_CH0198_Collection",
-    "Name": "小雪"
+    "Name": "小雪",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Kayoko_NewYear": {
+    "Id": 10064,
     "PathName": "Kayoko_NewYear",
     "DevName": "CH0086",
     "FamilyName": "鬼方",
-    "PersonalName": "カヨコ",
-    "SchoolYear": "3年生",
-    "CharacterAge": "18歳",
+    "PersonalName": "佳世子",
+    "SchoolYear": "3年级",
+    "CharacterAge": "18岁",
     "Birthday": "3月17日",
-    "CharacterSSRNew": "今年はどうか、\nいい事がたくさんありますように",
-    "ProfileIntroduction": "新年を迎えたゲヘナ学园所属、便利屋68の课长。\n\n新年を迎えて他のメンバーと同じく着饰ったはずなのに、まるで普段から袖を通しているかのように、その立ち居振る舞いには贯禄がある。騒动を面倒くさがってはいるものの、便利屋68のためなら知恵を贷してくれる。",
-    "Hobby": "音楽CD収集",
+    "CharacterSSRNew": "希望今年\n能发生许多好事",
+    "ProfileIntroduction": "迎接新年的格黑娜学园所属，便利屋68的课长。\n\n为了迎接新年，和其他成员一样特别打扮了自己，却仿佛平常就穿着一样，能从其举手投足中感受到威严。虽然对骚动感到麻烦，但依然愿意为便利屋68贡献她的智能。",
+    "Hobby": "收集音乐CD",
     "BirthDay": "3/17",
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Newyear_Collection",
-    "CollectionTexture": "Student_Portrait_CH0086_Collection",
-    "Name": "カヨコ（正月）"
+    "Name": "佳世子(正月)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
   },
   "Haruka_NewYear": {
+    "Id": 20025,
     "PathName": "Haruka_NewYear",
     "DevName": "CH0087",
     "FamilyName": "伊草",
-    "PersonalName": "ハルカ",
-    "SchoolYear": "1年生",
-    "CharacterAge": "15歳",
+    "PersonalName": "遥香",
+    "SchoolYear": "1年级",
+    "CharacterAge": "15岁",
     "Birthday": "5月13日",
-    "CharacterSSRNew": "今年も……。\n死ぬほど顽张ります！！",
-    "ProfileIntroduction": "新年を迎えたゲヘナ学园所属、便利屋68の平社员。\n\n大切な人たちと新年を过ごす事に惯れておらず、みんなと合わせるために、普段着ない服に袖を通して着饰った。",
-    "Hobby": "雑草を育てること",
+    "CharacterSSRNew": "今年也会……\n拚死努力的！！",
+    "ProfileIntroduction": "迎接新年的格黑娜学园所属，便利屋68的普通职员。\n\n不习惯和重视的人们一起过新年，为了配合大家而穿上了平时完全不会穿的服装。",
+    "Hobby": "种杂草",
     "BirthDay": "5/13",
     "School": "Gehenna",
     "Club": "Kohshinjo68",
     "CollectionBG": "BG_Newyear_Collection",
-    "CollectionTexture": "Student_Portrait_CH0087_Collection",
-    "Name": "ハルカ（正月）"
+    "Name": "遥香(正月)",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Kaho": {
+    "Id": 10065,
     "PathName": "Kaho",
     "DevName": "CH0107",
     "FamilyName": "桑上",
@@ -2444,10 +2850,13 @@
     "School": "Hyakkiyako",
     "Club": "Onmyobu",
     "CollectionBG": "BG_Hyakkiyako_Collection",
-    "CollectionTexture": "Student_Portrait_CH0107_Collection",
-    "Name": "カホ"
+    "Name": "佳穗",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
   },
   "Aris_Maid": {
+    "Id": 10066,
     "PathName": "Aris_Maid",
     "DevName": "CH0200",
     "FamilyName": "天童",
@@ -2462,10 +2871,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_OldHouseOutside_Collection",
-    "CollectionTexture": "Student_Portrait_CH0200_Collection",
-    "Name": "アリス（メイド）"
+    "Name": "爱丽丝(女仆)",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
   },
   "Toki_Bunny": {
+    "Id": 10067,
     "PathName": "Toki_Bunny",
     "DevName": "CH0211",
     "FamilyName": "飞鸟马",
@@ -2474,16 +2886,19 @@
     "CharacterAge": "16歳",
     "Birthday": "8月16日",
     "CharacterSSRNew": "作戦遂行准备、完了。いつでも行けます。\nこの格好……？何か问题でも？",
-    "ProfileIntroduction": "潜入作戦なら当然バニーガール服だと信じてやまない、ミレニアムサイエンススクール所属、秘密组织「C&amp;C」のエージェント。\n\n普段特殊な立ち位置にいたからか、あまり縁がなかった潜入任务を任されたことに、いつもより少しテンションが上がっている模様。C&amp;Cの先辈と同じような任务ができる事に内心嬉しそうな姿を见せるが、本人は平静を装っている。",
+    "ProfileIntroduction": "潜入作戦なら当然バニーガール服だと信じてやまない、ミレニアムサイエンススクール所属、秘密组织「C&C」のエージェント。\n\n普段特殊な立ち位置にいたからか、あまり縁がなかった潜入任务を任されたことに、いつもより少しテンションが上がっている模様。C&Cの先辈と同じような任务ができる事に内心嬉しそうな姿を见せるが、本人は平静を装っている。",
     "Hobby": "探している最中",
     "BirthDay": "8/16",
     "School": "Millennium",
     "Club": "CleanNClearing",
     "CollectionBG": "BG_BunnyGirl_Collection",
-    "CollectionTexture": "Student_Portrait_CH0211_Collection",
-    "Name": "トキ（バニーガール）"
+    "Name": "季(兔女郎)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
   },
   "Yuzu_Maid": {
+    "Id": 26009,
     "PathName": "Yuzu_Maid",
     "DevName": "CH0203",
     "FamilyName": "花冈",
@@ -2498,10 +2913,13 @@
     "School": "Millennium",
     "Club": "GameDev",
     "CollectionBG": "BG_OldHouseOutside_Collection",
-    "CollectionTexture": "Student_Portrait_CH0203_Collection",
-    "Name": "ユズ（メイド）"
+    "Name": "柚子(女仆)",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "ElasticArmor"
   },
   "Reisa": {
+    "Id": 10068,
     "PathName": "Reisa",
     "DevName": "CH0167",
     "FamilyName": "宇沢",
@@ -2516,10 +2934,13 @@
     "School": "Trinity",
     "Club": "TrinityVigilance",
     "CollectionBG": "BG_Trinity_Collection",
-    "CollectionTexture": "Student_Portrait_CH0167_Collection",
-    "Name": "レイサ"
+    "Name": "澪纱",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "HeavyArmor"
   },
   "Rumi": {
+    "Id": 10069,
     "PathName": "Rumi",
     "DevName": "CH0135",
     "FamilyName": "朱城",
@@ -2534,10 +2955,13 @@
     "School": "Shanhaijing",
     "Club": "BlackTortoisePromenade",
     "CollectionBG": "BG_Sanhaijing_Collection",
-    "CollectionTexture": "Student_Portrait_CH0135_Collection",
-    "Name": "ルミ"
+    "Name": "瑠美",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Mina": {
+    "Id": 10070,
     "PathName": "Mina",
     "DevName": "CH0138",
     "FamilyName": "近卫",
@@ -2552,10 +2976,13 @@
     "School": "Shanhaijing",
     "Club": "Genryumon",
     "CollectionBG": "BG_Sanhaijing_Collection",
-    "CollectionTexture": "Student_Portrait_CH0138_Collection",
-    "Name": "ミナ"
+    "Name": "美奈",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Minori": {
+    "Id": 20026,
     "PathName": "Minori",
     "DevName": "CH0214",
     "FamilyName": "安守",
@@ -2570,10 +2997,13 @@
     "School": "RedWinter",
     "Club": "LaborParty",
     "CollectionBG": "BG_Redwinter_Collection",
-    "CollectionTexture": "Student_Portrait_CH0214_Collection",
-    "Name": "ミノリ"
+    "Name": "实里",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
   },
   "Miyako_Swimsuit": {
+    "Id": 10071,
     "PathName": "Miyako_Swimsuit",
     "DevName": "CH0215",
     "FamilyName": "月雪",
@@ -2588,10 +3018,13 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_FishingVillage2_Collection",
-    "CollectionTexture": "Student_Portrait_CH0215_Collection",
-    "Name": "ミヤコ（水着）"
+    "Name": "都子(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Saki_Swimsuit": {
+    "Id": 10072,
     "PathName": "Saki_Swimsuit",
     "DevName": "CH0217",
     "FamilyName": "空井",
@@ -2606,10 +3039,13 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_FishingVillage2_Collection",
-    "CollectionTexture": "Student_Portrait_CH0217_Collection",
-    "Name": "サキ（水着）"
+    "Name": "咲希(泳装)",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "HeavyArmor"
   },
   "Miyu_Swimsuit": {
+    "Id": 26010,
     "PathName": "Miyu_Swimsuit",
     "DevName": "CH0218",
     "FamilyName": "霞沢",
@@ -2624,7 +3060,261 @@
     "School": "SRT",
     "Club": "RabbitPlatoon",
     "CollectionBG": "BG_FishingVillage2_Collection",
-    "CollectionTexture": "Student_Portrait_CH0218_Collection",
-    "Name": "ミユ（水着）"
+    "Name": "美优(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
+  },
+  "Shiroko_Swimsuit": {
+    "Id": 20027,
+    "PathName": "Shiroko_Swimsuit",
+    "DevName": "CH0188",
+    "FamilyName": "砂狼",
+    "PersonalName": "シロコ",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "5月16日",
+    "CharacterSSRNew": "……浮かれてない。\nすべきことをするだけ",
+    "ProfileIntroduction": "真夏の无人岛リゾートに到着したアビドス対策委员会の切り込み队长。\n\nリゾート再建や食料采集などを率先して行ってくれる。むしろサバイバルにはしゃいでさえいるようで、水着に着替えてもマイペースなところは変わらない模様。",
+    "Hobby": "ジョギング、体力トレーニング、ロードバイク",
+    "BirthDay": "5/16",
+    "School": "Abydos",
+    "Club": "Countermeasure",
+    "CollectionBG": "BG_Swimsuit02_Collection",
+    "Name": "白子(泳装)",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "LightArmor"
+  },
+  "Ui_Swimsuit": {
+    "Id": 10073,
+    "PathName": "Ui_Swimsuit",
+    "DevName": "CH0204",
+    "FamilyName": "古関",
+    "PersonalName": "ウイ",
+    "SchoolYear": "3年生",
+    "CharacterAge": "17歳",
+    "Birthday": "4月23日",
+    "CharacterSSRNew": "はあ、はあ……暑い……\n最悪……",
+    "ProfileIntroduction": "遗迹调查に来たトリニティ総合学园所属、図书委员会の委员长。\n\n外に出て体を动かす事は苦手だが、古书や遗迹、遗物好きのため调查自体には真面目に取り组んでいる模様。",
+    "Hobby": "読书、书籍の管理、古书の研究",
+    "BirthDay": "4/23",
+    "School": "Trinity",
+    "Club": "BookClub",
+    "CollectionBG": "BG_WaterFall",
+    "Name": "ウイ（水着）",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "ElasticArmor"
+  },
+  "Hinata_Swimsuit": {
+    "Id": 20028,
+    "PathName": "Hinata_Swimsuit",
+    "DevName": "CH0210",
+    "FamilyName": "若叶",
+    "PersonalName": "ヒナタ",
+    "SchoolYear": "3年生",
+    "CharacterAge": "17歳",
+    "Birthday": "5月17日",
+    "CharacterSSRNew": "よかったら、荷物をお持ちしましょうか？",
+    "ProfileIntroduction": "遗迹调查を手伝うべく、共に岛に向かったトリニティ総合学园所属、シスターフッドの少女。\n\n场所や状况が変わっても、彼女の人助けの本质は変わらない。のんびりとした岛の空気に当てられて普段より少し浮かれている模様。",
+    "Hobby": "お祈り、整理整顿",
+    "BirthDay": "5/17",
+    "School": "Trinity",
+    "Club": "SisterHood",
+    "CollectionBG": "BG_WaterFall",
+    "Name": "ヒナタ（水着）",
+    "SquadType": "Support",
+    "BulletType": "Explosion",
+    "ArmorType": "LightArmor"
+  },
+  "Koharu_Swimsuit": {
+    "Id": 16013,
+    "PathName": "Koharu_Swimsuit",
+    "DevName": "CH0205",
+    "FamilyName": "下江",
+    "PersonalName": "コハル",
+    "SchoolYear": "1年生",
+    "CharacterAge": "15歳",
+    "Birthday": "4月16日",
+    "CharacterSSRNew": "",
+    "ProfileIntroduction": "先生を监视すべく岛にやってきたトリニティ総合学园所属、补习授业部の一员。\n\n正义実现委员会の一人として、风纪を乱すものを许さない！という使命感を持っているが、岛でのバカンスも悪くないと思っている模様。",
+    "Hobby": "空想、妄想、エッチな雑志集め",
+    "BirthDay": "4/16",
+    "School": "Trinity",
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_WaterFall",
+    "Name": "コハル（水着）",
+    "SquadType": "Main",
+    "BulletType": "Mystic",
+    "ArmorType": "HeavyArmor"
+  },
+  "Hanako_Swimsuit": {
+    "Id": 10074,
+    "PathName": "Hanako_Swimsuit",
+    "DevName": "CH0209",
+    "FamilyName": "浦和",
+    "PersonalName": "ハナコ",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "1月3日",
+    "CharacterSSRNew": "あら……。\nこんなにびっしょり……♡",
+    "ProfileIntroduction": "夏を迎えて岛を访れたトリニティ総合学园所属、补习授业部の女の子。\n\n多少大胆な格好をしているものの、普段の人を试すような言动は鸣りを潜め、素直に心の内を开いてくれている模様。",
+    "Hobby": "徘徊",
+    "BirthDay": "1/3",
+    "School": "Trinity",
+    "Club": "RemedialClass",
+    "CollectionBG": "BG_WaterFall",
+    "Name": "ハナコ（水着）",
+    "SquadType": "Main",
+    "BulletType": "Sonic",
+    "ArmorType": "HeavyArmor"
+  },
+  "Mimori_Swimsuit": {
+    "Id": 20029,
+    "PathName": "Mimori_Swimsuit",
+    "DevName": "CH0183",
+    "FamilyName": "水羽",
+    "PersonalName": "ミモリ",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "3月15日",
+    "CharacterSSRNew": "このまま、この时间が続いてくれたらいいのに……",
+    "ProfileIntroduction": "海に合わせて水着に着替えた百鬼夜行连合学院所属、修行部の副部长。\n\n普段は落ち着いていて穏やかな笑颜を浮かべる彼女だが、水着に着替えた今だけは、いつもより少しだけ浮かれている模様。",
+    "Hobby": "少女漫画、家事全般",
+    "BirthDay": "3/15",
+    "School": "Hyakkiyako",
+    "Club": "Shugyobu",
+    "CollectionBG": "BG_Swimsuit03_Collection",
+    "Name": "ミモリ（水着）",
+    "SquadType": "Support",
+    "BulletType": "Mystic",
+    "ArmorType": "Unarmed"
+  },
+  "Meru": {
+    "Id": 10075,
+    "PathName": "Meru",
+    "DevName": "CH0124",
+    "FamilyName": "姫木",
+    "PersonalName": "メル",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "12月21日",
+    "CharacterSSRNew": "起きて……\n原稿…… しないと……",
+    "ProfileIntroduction": "レッドウィンター连邦学园所属、図书委员会「知识解放戦线」の一人。\n\n同じ知识解放戦线であるモミジと违って、二次创作を楽しむだけでなく自らも创作をしている。ハンドルネームは「メルリー」。仲が良さそうな、あるいは悪そうな生徒同士の関系にインスピレーションを受ける事が多く、所谓ナマモノ同人をしている。仇敌関系にあるトリニティ、ゲヘナの生徒もメルの「创作対象」であり、よく描かれるため、メルの悪名は学园外にも轰いている。",
+    "Hobby": "漫画を描くこと、妄想",
+    "BirthDay": "12/21",
+    "School": "RedWinter",
+    "Club": "KnowledgeLiberationFront",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "Name": "メル",
+    "SquadType": "Main",
+    "BulletType": "Pierce",
+    "ArmorType": "LightArmor"
+  },
+  "Momiji": {
+    "Id": 13013,
+    "PathName": "Momiji",
+    "DevName": "Momiji",
+    "FamilyName": "秋泉",
+    "PersonalName": "モミジ",
+    "SchoolYear": "1年生",
+    "CharacterAge": "15歳",
+    "Birthday": "8月7日",
+    "CharacterSSRNew": "",
+    "ProfileIntroduction": "レッドウィンター连邦学园所属、「知识解放戦线」の文学少女。\n\nパンとおやつのために戦うレッドウィンターの他生徒とは违い、彼女は図书馆により多くの蔵书を置くために戦っている。かなりのオタクで、事务局に出す図书购入申请の大半は个人的な理由によるもの。そのため、ほとんどの申请は却下されているが、それでもモミジは谛めずに申请し続けている。",
+    "Hobby": "漫画収集",
+    "BirthDay": "8/7",
+    "School": "RedWinter",
+    "Club": "KnowledgeLiberationFront",
+    "CollectionBG": "BG_Redwinter_Collection",
+    "Name": "モミジ",
+    "SquadType": "Main",
+    "BulletType": "Sonic",
+    "ArmorType": "HeavyArmor"
+  },
+  "Kotori_Cheerleader": {
+    "Id": 10076,
+    "PathName": "Kotori_Cheerleader",
+    "DevName": "CH0185",
+    "FamilyName": "豊见",
+    "PersonalName": " コトリ",
+    "SchoolYear": "1年生",
+    "CharacterAge": "15歳",
+    "Birthday": "12月31日",
+    "CharacterSSRNew": "场所が変わっても知识の価値は変わりません！",
+    "ProfileIntroduction": "大运动会でみんなを応援するべく、チア服に着替えたミレニアムサイエンススクール所属、エンジニア部の部员。\n\n元気良く明るい声で応援をする间も、いつもの说明や解说は欠かさない。",
+    "Hobby": "おしゃべり",
+    "BirthDay": "12/31",
+    "School": "Millennium",
+    "Club": "Engineer",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "Name": "コトリ（応援団）",
+    "SquadType": "Main",
+    "BulletType": "Explosion",
+    "ArmorType": "Unarmed"
+  },
+  "Haruna_Track": {
+    "Id": 20030,
+    "PathName": "Haruna_Track",
+    "DevName": "CH0193",
+    "FamilyName": "黒馆",
+    "PersonalName": "ハルナ",
+    "SchoolYear": "3年生",
+    "CharacterAge": "17歳",
+    "Birthday": "3月1日",
+    "CharacterSSRNew": "运动した分、お腹も减ったかと思います。\nさあ、ともに美食の旅へと参りましょう",
+    "ProfileIntroduction": "晄轮大祭のために体操服に着替えたゲヘナ学园所属、美食研究会の部长。\n\nいつでも、どこでも、美食への探求は続いており、晄轮大祭というキヴォトス最大の大运动会でしか味わえない美食を求めてさまよっている。盛り上がっている现场の雰囲気にあてられたのか、いつもより少し楽しそうだ。",
+    "Hobby": "美味しいもの探し",
+    "BirthDay": "3/1",
+    "School": "Gehenna",
+    "Club": "GourmetClub",
+    "CollectionBG": "BG_Cheerleading_Collection",
+    "Name": "ハルナ（体操服）",
+    "SquadType": "Support",
+    "BulletType": "Sonic",
+    "ArmorType": "HeavyArmor"
+  },
+  "Ichika": {
+    "Id": 10077,
+    "PathName": "Ichika",
+    "DevName": "CH0071",
+    "FamilyName": "仲正",
+    "PersonalName": "イチカ",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "11月11日",
+    "CharacterSSRNew": "あれ？约束の时间ってまだっすよね？\n待たせちゃったっすか？",
+    "ProfileIntroduction": "いつも穏やかな表情のトリニティ総合学园所属、正义実现委员会の一员。\n\n様々な生徒が所属する正义実现委员会の中で、仲裁を主に担当している。他学园との関系も比较的良い方。人当たりの良い性格は、生来のものではなく努力の赐物なのだとか。",
+    "Hobby": "人助け、色々手を出している最中",
+    "BirthDay": "11/11",
+    "School": "Trinity",
+    "Club": "Justice",
+    "CollectionBG": "BG_Trinity_Collection",
+    "Name": "イチカ",
+    "SquadType": "Main",
+    "BulletType": "Sonic",
+    "ArmorType": "HeavyArmor"
+  },
+  "Kasumi": {
+    "Id": 10078,
+    "PathName": "Kasumi",
+    "DevName": "CH0089",
+    "FamilyName": "鬼怒川",
+    "PersonalName": "カスミ",
+    "SchoolYear": "2年生",
+    "CharacterAge": "16歳",
+    "Birthday": "5月24日",
+    "CharacterSSRNew": "温泉开発の定义なんて、话したことあっただろうか？",
+    "ProfileIntroduction": "ゲヘナ学园所属、温泉开発部の部长。\n\n源泉が流れる土地は全て温泉にしなければならないと主张し、一度决めたらどこであろうと手段を选ばず爆破してしまう。部员からは全面的な支持を得ているが、実际の言动や行动は指名手配中の犯罪者である。",
+    "Hobby": "爆破、温泉开発",
+    "BirthDay": "5/24",
+    "School": "Gehenna",
+    "Club": "HotSpringsDepartment",
+    "CollectionBG": "BG_Gehenna_Collection",
+    "Name": "カスミ",
+    "SquadType": "Main",
+    "BulletType": "Sonic",
+    "ArmorType": "HeavyArmor"
   }
 }

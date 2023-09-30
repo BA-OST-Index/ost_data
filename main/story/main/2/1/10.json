@@ -30,7 +30,7 @@
       "is_battle": true,
       "track": ["OST_41"],
       "background": ["BG_RuinCity.jpg"],
-      "character": ["Momoi", "Midori", "Aris", "Yuzu"]
+      "character": ["Momoi", "Midori", "Aris", "Yuzu", "L0"]
     }
   ],
   "is_battle": true

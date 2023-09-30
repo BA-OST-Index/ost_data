@@ -16,9 +16,19 @@
 
   "part": [
     {
+      "name": "[STORY_BOND_YUUKA_1_P0_NAME]",
+      "desc": "[STORY_BOND_YUUKA_1_P0_DESC]",
+      "is_memory": false,
+      "is_momotalk": true,
+      "track": [],
+      "background": [],
+      "character": []
+    },
+    {
       "name": "[STORY_BOND_YUUKA_1_P1_NAME]",
       "desc": "[STORY_BOND_YUUKA_1_P1_DESC]",
       "is_memory": false,
+      "is_momotalk": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
       "character": ["Yuuka"]
@@ -27,6 +37,7 @@
       "name": "[STORY_BOND_YUUKA_1_P2_NAME]",
       "desc": "[STORY_BOND_YUUKA_1_P2_DESC]",
       "is_memory": true,
+      "is_momotalk": false,
       "track": ["OST_17"],
       "background": [],
       "character": ["Yuuka"]
@@ -35,6 +46,7 @@
       "name": "[STORY_BOND_YUUKA_1_P3_NAME]",
       "desc": "[STORY_BOND_YUUKA_1_P3_DESC]",
       "is_memory": false,
+      "is_momotalk": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
       "character": ["Yuuka"]

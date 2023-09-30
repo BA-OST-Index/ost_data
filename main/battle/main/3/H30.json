@@ -1,0 +1,14 @@
+{
+  "uuid": "443b420d-0dc4-4fc5-bc7e-5b45ae024a67",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_3_H30]",
+  "chapter": 3,
+  "no": "H30",
+  
+  "is_hard": true,
+  "is_normal": false,
+  "is_sub": false,
+  
+  "track": ["OST_73"]
+}

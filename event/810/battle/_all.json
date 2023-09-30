@@ -1,7 +1,7 @@
 {
   "uuid": "76ac01e4-5322-419b-a4b6-e911a960f412",
   "filetype": -44,
-  "name": "[EVENT_GBATTLE_NAME]",
+  "name": "[EVENT_BATTLE_NAME]",
   "namespace": "battle",
   "desc": "[EVENT_810_BATTLE_DESC]",
 

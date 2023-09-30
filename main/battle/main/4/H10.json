@@ -1,0 +1,14 @@
+{
+  "uuid": "d722f666-b58d-46c3-b9cf-8a066901e151",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_4_H10]",
+  "chapter": 4,
+  "no": "H10",
+  
+  "is_hard": true,
+  "is_normal": false,
+  "is_sub": false,
+  
+  "track": ["OST_60"]
+}

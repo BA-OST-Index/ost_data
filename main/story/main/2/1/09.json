@@ -36,13 +36,21 @@
       "name": "[STORY_MAIN_2_1_9_P3_NAME]",
       "desc": "[STORY_MAIN_2_1_9_P3_DESC]",
       "is_battle": false,
-      "track": ["OST_23", "OST_7"],
+      "track": ["OST_23"],
       "background": ["BG_GameDevRoom.jpg"],
-      "character": ["Momoi", "Midori", "Aris", "Yuuka"]
+      "character": ["Yuuka", "Momoi", "Midori"]
     },
     {
       "name": "[STORY_MAIN_2_1_9_P4_NAME]",
       "desc": "[STORY_MAIN_2_1_9_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_7"],
+      "background": ["BG_GameDevRoom.jpg"],
+      "character": ["Momoi", "Midori", "Yuuka"]
+    },
+    {
+      "name": "[STORY_MAIN_2_1_9_P5_NAME]",
+      "desc": "[STORY_MAIN_2_1_9_P5_DESC]",
       "is_battle": false,
       "track": ["OST_16", "OST_28"],
       "background": ["BG_GameDevRoom.jpg"],

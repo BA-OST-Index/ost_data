@@ -1,0 +1,14 @@
+{
+  "uuid": "722c7966-a40f-44b2-9309-4c57c8741bc0",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_9_N10]",
+  "chapter": 9,
+  "no": "N10",
+  
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+  
+  "track": ["OST_18"]
+}

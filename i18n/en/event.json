@@ -1,6 +1,6 @@
 {
-  "[EVENT_GSTORY_NAME]": "All stories",
-  "[EVENT_GBATTLE_NAME]": "All missions",
+  "[EVENT_STORY_NAME]": "All stories",
+  "[EVENT_BATTLE_NAME]": "All missions",
   "[EVENT_GUI_NAME]": "All UIs",
 
   "[EVENT_810_NAME]": "Schale's Happy ♡ Valentine Patrol",

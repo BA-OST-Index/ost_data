@@ -1,0 +1,10 @@
+{
+  "uuid": "65bfc515-05e6-49b5-b4f0-354ed1eb531c",
+  "filetype": -53,
+  "namespace": "hanako_swimsuit",
+  "name": "Hanako_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "dec6b3aa-62be-406f-9c78-391da20122a6",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_6_N30]",
+  "chapter": 6,
+  "no": "N30",
+  
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+  
+  "track": ["OST_69"]
+}

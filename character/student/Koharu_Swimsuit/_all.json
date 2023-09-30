@@ -1,0 +1,10 @@
+{
+  "uuid": "7f2bdb92-1d3a-47c6-9f4a-28604f2095dd",
+  "filetype": -53,
+  "namespace": "koharu_swimsuit",
+  "name": "Koharu_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

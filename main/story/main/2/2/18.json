@@ -28,25 +28,33 @@
       "name": "[STORY_MAIN_2_2_18_P2_NAME]",
       "desc": "[STORY_MAIN_2_2_18_P2_DESC]",
       "is_battle": false,
-      "track": ["OST_30", "OST_27"],
+      "track": ["OST_30"],
       "background": ["BG_EriduCityTown_Night.jpg", "BG_View_Eridu_Night.jpg", "BG_EriduTowerRooftop_Night.jpg", "BG_EriduTowerEntrance_Night.jpg"],
-      "character": ["Chihiro", "Momoi", "Midori", "Yuzu", "Asuna", "Akane", "Karin", "Neru", "Rio"]
+      "character": ["Chihiro", "Momoi", "Midori", "Yuzu"]
     },
     {
       "name": "[STORY_MAIN_2_2_18_P3_NAME]",
       "desc": "[STORY_MAIN_2_2_18_P3_DESC]",
+      "is_battle": false,
+      "track": ["OST_27"],
+      "background": ["BG_EriduTowerEntrance_Night.jpg"],
+      "character": ["Yuzu", "Momoi", "Midori", "Asuna", "Akane", "Karin", "Neru", "Chihiro", "Toki", "Rio"]
+    },
+    {
+      "name": "[STORY_MAIN_2_2_18_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_18_P4_DESC]",
       "is_battle": false,
       "track": ["OST_137"],
       "background": ["BG_CS_Millenium_26.jpg", "BG_CS_Millenium_27.jpg", "BG_CS_Millenium_28.jpg", "BG_EriduCityTown_Night.jpg", "BG_CS_Millenium_29.jpg", "BG_CS_Millenium_30.jpg", "BG_CS_Millenium_31.jpg", "BG_CS_Millenium_32.jpg", "BG_CS_Millenium_33.jpg", "BG_CS_Millenium_34.jpg", "BG_CS_Millenium_35.jpg", "BG_CS_Millenium_36.jpg", "BG_CS_Millenium_37.jpg", "BG_CS_Millenium_38.jpg", "BG_CS_Millenium_39.jpg", "BG_CS_Millenium_40.jpg", "BG_CS_Millenium_41_2.jpg", "BG_CS_Millenium_41.jpg"],
       "character": ["Toki", "Midori", "Yuzu", "Chihiro"]
     },
     {
-      "name": "[STORY_MAIN_2_2_18_P4_NAME]",
-      "desc": "[STORY_MAIN_2_2_18_P4_DESC]",
+      "name": "[STORY_MAIN_2_2_18_P5_NAME]",
+      "desc": "[STORY_MAIN_2_2_18_P5_DESC]",
       "is_battle": true,
       "track": ["OST_137"],
       "background": [],
-      "character": ["Neru", "Asuna", "Akane", "Karin"]
+      "character": ["Neru", "Asuna", "Akane", "Karin", "L0"]
     }
   ],
   "is_battle": true

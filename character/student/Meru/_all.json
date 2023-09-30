@@ -1,0 +1,10 @@
+{
+  "uuid": "904ed1f3-3046-4c34-9750-811dc60f1ade",
+  "filetype": -53,
+  "namespace": "meru",
+  "name": "Meru",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

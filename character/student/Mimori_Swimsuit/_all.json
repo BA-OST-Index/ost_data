@@ -1,0 +1,10 @@
+{
+  "uuid": "ce462ddd-5e5c-41ef-b757-f6425571ae2f",
+  "filetype": -53,
+  "namespace": "mimori_swimsuit",
+  "name": "Mimori_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

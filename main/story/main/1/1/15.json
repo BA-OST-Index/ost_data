@@ -36,9 +36,17 @@
       "name": "[STORY_MAIN_1_1_15_P3_NAME]",
       "desc": "[STORY_MAIN_1_1_15_P3_DESC]",
       "is_battle": false,
-      "track": ["OST_8", "OST_7"],
-      "background": ["BG_CityOffice.jpg", "BG_SchoolFrontGate.jpg", "BG_KohshinjoRoom.jpg"],
+      "track": ["OST_8", "OST_16"],
+      "background": ["BG_CityOffice.jpg"],
       "character": ["Serika", "Nonomi", "Shiroko", "Hoshino", "Hifumi", "Aru", "Kayoko", "Mutsuki", "Haruka"]
+    },
+    {
+      "name": "[STORY_MAIN_1_1_15_P4_NAME]",
+      "desc": "[STORY_MAIN_1_1_15_P4_DESC]",
+      "is_battle": false,
+      "track": ["OST_7"],
+      "background": ["BG_SchoolFrontGate.jpg", "BG_CityOffice.jpg", "BG_KohshinjoRoom.jpg"],
+      "character": ["Nonomi", "Hoshino", "Serika", "Shiroko", "Hifumi", "Aru", "Kayoko", "Mutsuki", "Haruka"]
     }
   ],
   "is_battle": false

@@ -1,0 +1,28 @@
+{
+  "uuid": "1c510403-7148-4f98-b25d-8aade4f93c8a",
+  "filetype": -28,
+  "name": "[BATTLE_MAIN_3_NAME]",
+  "namespace": "3",
+  "desc": "[BATTLE_MAIN_3_DESC]",
+  
+  "include": [
+    "[AUTO]"
+  ],
+  
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": [{
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }]
+}

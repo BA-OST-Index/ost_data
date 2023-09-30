@@ -17,32 +17,32 @@
 
   "part": [
     {
-      "name": "[STORY_MAIN_2_2_5_P1_NAME]",
-      "desc": "[STORY_MAIN_2_2_5_P1_DESC]",
+      "name": "[STORY_MAIN_2_2_6_P1_NAME]",
+      "desc": "[STORY_MAIN_2_2_6_P1_DESC]",
       "is_battle": false,
       "track": ["OST_13"],
       "background": ["BG_CraftChamber.jpg"],
       "character": ["Hare", "Maki", "Kotama"]
     },
     {
-      "name": "[STORY_MAIN_2_2_5_P2_NAME]",
-      "desc": "[STORY_MAIN_2_2_5_P2_DESC]",
+      "name": "[STORY_MAIN_2_2_6_P2_NAME]",
+      "desc": "[STORY_MAIN_2_2_6_P2_DESC]",
       "is_battle": false,
       "track": ["OST_33"],
       "background": ["BG_BuildingCorridor.jpg", "BG_ComputerCenter.jpg"],
       "character": ["Aris", "Momoi", "Momoi", "Yuzu", "Hare", "Maki", "Kotama"]
     },
     {
-      "name": "[STORY_MAIN_2_2_5_P3_NAME]",
-      "desc": "[STORY_MAIN_2_2_5_P3_DESC]",
+      "name": "[STORY_MAIN_2_2_6_P3_NAME]",
+      "desc": "[STORY_MAIN_2_2_6_P3_DESC]",
       "is_battle": false,
       "track": ["OST_129"],
       "background": ["BG_ComputerCenter.jpg"],
       "character": ["Hare", "Kotama", "Maki", "Momoi", "Yuzu", "Midori", "Aris"]
     },
     {
-      "name": "[STORY_MAIN_2_2_5_P4_NAME]",
-      "desc": "[STORY_MAIN_2_2_5_P4_DESC]",
+      "name": "[STORY_MAIN_2_2_6_P4_NAME]",
+      "desc": "[STORY_MAIN_2_2_6_P4_DESC]",
       "is_battle": false,
       "track": ["OST_122", "OST_16", "OST_25"],
       "background": ["BG_ComputerCenter.jpg"],
@@ -54,7 +54,7 @@
       "is_battle": true,
       "track": ["OST_20"],
       "background": [],
-      "character": ["Yuzu", "Midori", "Maki", "Hare", "Kotama"]
+      "character": ["Yuzu", "Midori", "Maki", "Hare", "Kotama", "L0"]
     }
   ],
   "is_battle": true

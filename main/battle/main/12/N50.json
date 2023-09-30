@@ -1,0 +1,14 @@
+{
+  "uuid": "217c2ac1-483d-4519-99b5-ba25591f82a6",
+  "filetype": 21,
+  
+  "name": "[BATTLE_MAIN_12_N50]",
+  "chapter": 12,
+  "no": "N50",
+  
+  "is_hard": false,
+  "is_normal": true,
+  "is_sub": false,
+  
+  "track": ["OST_30"]
+}

@@ -1,0 +1,10 @@
+{
+  "uuid": "9b93b2d9-3c8f-42c5-aef3-4556c343dc57",
+  "filetype": -53,
+  "namespace": "momiji",
+  "name": "Momiji",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

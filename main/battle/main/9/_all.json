@@ -1,0 +1,28 @@
+{
+  "uuid": "249b0df2-840c-4a05-ae35-8e28402191da",
+  "filetype": -28,
+  "name": "[BATTLE_MAIN_9_NAME]",
+  "namespace": "9",
+  "desc": "[BATTLE_MAIN_9_DESC]",
+  
+  "include": [
+    "[AUTO]"
+  ],
+  
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": [{
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }]
+}

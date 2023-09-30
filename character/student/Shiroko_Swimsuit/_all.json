@@ -1,0 +1,10 @@
+{
+  "uuid": "44c298ec-9829-40de-a7c8-be6a952304fd",
+  "filetype": -53,
+  "namespace": "shiroko_swimsuit",
+  "name": "Shiroko_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

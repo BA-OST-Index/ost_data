@@ -1,5 +1,5 @@
 {
-  "[EVENT_GSTORY_NAME]": "全部故事",
-  "[EVENT_GBATTLE_NAME]": "全部任务",
+  "[EVENT_STORY_NAME]": "全部故事",
+  "[EVENT_BATTLE_NAME]": "全部任务",
   "[EVENT_GUI_NAME]": "全部UI"
 }

@@ -1,0 +1,10 @@
+{
+  "uuid": "f94f7a11-41e7-482d-b221-498f88488e19",
+  "filetype": -53,
+  "namespace": "ui_swimsuit",
+  "name": "Ui_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

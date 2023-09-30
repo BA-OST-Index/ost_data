@@ -1,0 +1,28 @@
+{
+  "uuid": "fef0bd06-38ee-4118-b1e3-b51af6b7299e",
+  "filetype": -28,
+  "name": "[BATTLE_MAIN_7_NAME]",
+  "namespace": "7",
+  "desc": "[BATTLE_MAIN_7_DESC]",
+  
+  "include": [
+    "[AUTO]"
+  ],
+  
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": [{
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  }]
+}
