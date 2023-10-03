@@ -6,5 +6,10 @@
   "desc": "",
   "include": [
     "[AUTO]"
-  ]
+  ],
+
+  "related_to": {
+    "character_variant": ["Kayoko_NewYear"],
+    "character_other": []
+  }
 }

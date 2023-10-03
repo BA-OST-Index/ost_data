@@ -6,5 +6,10 @@
   "desc": "",
   "include": [
     "[AUTO]"
-  ]
+  ],
+
+  "related_to": {
+    "character_variant": ["Hanae_Christmas"],
+    "character_other": []
+  }
 }

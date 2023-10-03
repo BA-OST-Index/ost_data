@@ -6,5 +6,10 @@
   "desc": "",
   "include": [
     "[AUTO]"
-  ]
+  ],
+
+  "related_to": {
+    "character_variant": ["Haruna_NewYear", "Haruna_Track"],
+    "character_other": []
+  }
 }

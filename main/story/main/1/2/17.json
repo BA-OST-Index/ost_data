@@ -65,16 +65,16 @@
       "character": ["Shiroko", "Nonomi", "Serika", "Ayane", "L0"]
     },
     {
-      "name": "[STORY_MAIN_1_2_17_P6_NAME]",
-      "desc": "[STORY_MAIN_1_2_17_P6_DESC]",
+      "name": "[STORY_MAIN_1_2_17_P7_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P7_DESC]",
       "is_battle": false,
       "track": ["OST_18"],
       "background": ["BG_HQ2.jpg"],
       "character": ["PMCCEO"]
     },
     {
-      "name": "[STORY_MAIN_1_2_17_P7_NAME]",
-      "desc": "[STORY_MAIN_1_2_17_P7_DESC]",
+      "name": "[STORY_MAIN_1_2_17_P8_NAME]",
+      "desc": "[STORY_MAIN_1_2_17_P8_DESC]",
       "is_battle": false,
       "track": ["OST_18"],
       "background": ["BG_Wilderness.jpg"],

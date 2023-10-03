@@ -6,5 +6,10 @@
   "desc": "",
   "include": [
     "[AUTO]"
-  ]
+  ],
+
+  "related_to": {
+    "character_variant": ["Shiroko_Cycling", "Shiroko_Swimsuit"],
+    "character_other": []
+  }
 }
