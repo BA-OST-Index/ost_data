@@ -1,0 +1,10 @@
+{
+  "uuid": "e170127f-8263-4790-9ce5-66071e5ff203",
+  "filetype": -53,
+  "namespace": "ichika",
+  "name": "Ichika",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

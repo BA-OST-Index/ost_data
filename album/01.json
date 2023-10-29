@@ -1,0 +1,15 @@
+{
+  "uuid": "80097a34-1ab3-4064-929a-ad18a2eecc36",
+  "filetype": 5,
+  "name": "[ALBUM_01_NAME]",
+  "desc": "[ALBUM_01_DESC]",
+  "cover_img": "/static/images/album/01.png",
+  "release_date": 1648080000,
+  "disc_num": 2,
+  "album_id": "01",
+
+  "tracks": [
+    ["OST_1", "OST_9", "OST_11", "OST_12", "OST_14", "OST_16", "OST_17", "OST_22", "OST_25", "OST_26", "OST_28", "OST_39", "OST_45", "OST_46", "OST_51", "OST_52", "OST_53", "OST_54", "OST_65"],
+    ["OST_3", "OST_18", "OST_19", "OST_20", "OST_23", "OST_24", "OST_27", "OST_29", "OST_30", "OST_41", "OST_48", "OST_49", "OST_56", "OST_58", "OST_71", "OST_72", "OST_76", "OST_78", "OST_85"]
+  ]
+}

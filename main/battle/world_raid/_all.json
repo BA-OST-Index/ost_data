@@ -1,0 +1,17 @@
+{
+  "uuid": "7505183b-b41e-465b-a197-acc8524a0f1c",
+  "filetype": -27,
+  "name": "[BATTLE_WORLDRAID_NAME]",
+  "namespace": "world_raid",
+  "desc": "[BATTLE_WORLDRAID_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  }
+}

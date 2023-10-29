@@ -1,0 +1,11 @@
+{
+  "uuid": "b1b5be73-e4d8-4563-b5f4-f8a9d4749c0a",
+  "filetype": -13,
+  "name": "",
+  "namespace": "album",
+  "desc": "",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

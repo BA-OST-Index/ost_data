@@ -1,0 +1,10 @@
+{
+  "uuid": "a5a0cff2-4a1b-4b1e-abae-8d3487404900",
+  "filetype": -53,
+  "namespace": "kasumi",
+  "name": "Kasumi",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}
