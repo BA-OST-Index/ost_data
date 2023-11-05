@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_07.jpg_NAME]",
   "desc": "[BG_CS_Event_07.jpg_DESC]",
   "tag": [],
+  "character": ["Ui", "Hinata"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_07.jpg",

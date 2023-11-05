@@ -5,6 +5,7 @@
   "name": "[BG_CS_Arius_05_2.jpg_NAME]",
   "desc": "[BG_CS_Arius_05_2.jpg_DESC]",
   "tag": [],
+  "character": ["Mika"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Arius_05_2.jpg",

@@ -5,6 +5,7 @@
   "name": "[BG_CS_Arius_01.jpg_NAME]",
   "desc": "[BG_CS_Arius_01.jpg_DESC]",
   "tag": [],
+  "character": ["Saori"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Arius_01.jpg",

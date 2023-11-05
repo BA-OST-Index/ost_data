@@ -5,6 +5,7 @@
   "name": "[BG_CS_Abydos_03.jpg_NAME]",
   "desc": "[BG_CS_Abydos_03.jpg_DESC]",
   "tag": [],
+  "character": ["Shiroko", "Nonomi", "Hoshino", "Ayane", "Serika"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Abydos_03.jpg",

@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_03.jpg_NAME]",
   "desc": "[BG_CS_Event_03.jpg_DESC]",
   "tag": [],
+  "character": ["Iori", "Akari", "Izumi", "Haruna", "Junko"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_03.jpg",

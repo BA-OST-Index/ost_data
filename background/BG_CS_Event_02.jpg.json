@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_02.jpg_NAME]",
   "desc": "[BG_CS_Event_02.jpg_DESC]",
   "tag": [],
+  "character": ["Iori", "Chinatsu"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_02.jpg",

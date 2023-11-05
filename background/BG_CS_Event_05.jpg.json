@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_05.jpg_NAME]",
   "desc": "[BG_CS_Event_05.jpg_DESC]",
   "tag": [],
+  "character": ["Aru_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear", "Haruka_NewYear", "Serika_NewYear"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_05.jpg",

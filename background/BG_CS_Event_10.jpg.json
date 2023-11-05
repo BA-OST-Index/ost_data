@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_10.jpg_NAME]",
   "desc": "[BG_CS_Event_10.jpg_DESC]",
   "tag": [],
+  "character": ["Shizuko_Swimsuit", "Chise_Swimsuit", "Mimori_Swimsuit", "Izuna_Swimsuit", ""],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_10.jpg",

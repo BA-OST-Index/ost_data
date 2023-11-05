@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_11.jpg_NAME]",
   "desc": "[BG_CS_Event_11.jpg_DESC]",
   "tag": [],
+  "character": ["Reisa", "Kazusa", "Natsu", "Yoshimi", "Airi"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_11.jpg",

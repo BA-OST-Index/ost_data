@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_15.jpg_NAME]",
   "desc": "[BG_CS_Event_15.jpg_DESC]",
   "tag": [],
+  "character": ["Fuuka_NewYear", "Haruna_NewYear", "Junko_NewYear", "Akari", "Izumi", "Juri"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_15.jpg",

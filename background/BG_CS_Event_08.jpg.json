@@ -5,6 +5,7 @@
   "name": "[BG_CS_Event_08.jpg_NAME]",
   "desc": "[BG_CS_Event_08.jpg_DESC]",
   "tag": [],
+  "character": ["Tsukuyo", "Iroha", "Izuna", "Kaede", "Michiru"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_CS_Event_08.jpg",

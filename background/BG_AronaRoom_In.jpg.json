@@ -5,6 +5,7 @@
   "name": "[BG_AronaRoom_In.jpg_NAME]",
   "desc": "[BG_AronaRoom_In.jpg_DESC]",
   "tag": [],
+  "character": ["Arona"],
   "image": {
     "platform": -1,
     "value": "/static/images/background/BG_AronaRoom_In.jpg",
