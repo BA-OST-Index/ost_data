@@ -3,6 +3,7 @@ import os
 import logging
 import sys
 import uuid
+import pprint
 
 filepath = ".."
 LOGGER = logging.getLogger()
@@ -11,6 +12,8 @@ ALL_UUID = []
 
 REPLACE_IF_CONFLICTED = True
 DISABLE_WRITING = True
+
+ERROR_JSON = []
 
 
 def traverse_path(namespace: list):
@@ -29,14 +32,18 @@ def traverse_path(namespace: list):
             LOGGER.debug(f"CHECKING: {curr_filepath}")
 
             with open(curr_filepath, mode="r", encoding="UTF-8") as file:
-                original_content = json.load(file)
+                try:
+                    original_content = json.load(file)
+                except json.JSONDecodeError:
+                    LOGGER.error(f"JSON ERROR: {curr_filepath}")
+                    ERROR_JSON.append(curr_filepath)
 
             # try to get uuid
             try:
                 file_uuid = original_content["uuid"]
             except KeyError:
                 # guess this is something special, but whatsoever move on
-                LOGGER.warning(f"SKIPPING: {curr_filepath}")
+                LOGGER.info(f"SKIPPING: {curr_filepath}")
                 continue
 
             # check uuid
@@ -63,3 +70,7 @@ def traverse_path(namespace: list):
 
 
 traverse_path([filepath])
+
+if len(ERROR_JSON) != 0:
+    pprint.pprint(ERROR_JSON)
+    raise Exception

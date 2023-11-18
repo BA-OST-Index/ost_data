@@ -2,6 +2,8 @@ name: When Push
 
 on:
   push:
+    branches:
+      - 'main'
   workflow_dispatch:
 
 jobs:
@@ -9,6 +11,17 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    # Configure the enviroment
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    # Pre-check the json
+    - name: Json Precheck
+      run: python _scripts/json_checker.py
+
+    # Dispatch the parser
     - name: Repository Dispatch
       uses: peter-evans/repository-dispatch@v1
       with:
