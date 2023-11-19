@@ -3,7 +3,7 @@
   "filetype": 28,
 
   "name": "WakamoSwimsuit",
-  "track": "OST_121",
+  "track": ["OST_121"],
 
   "image": {
     "platform": -1,

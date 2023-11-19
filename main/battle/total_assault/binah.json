@@ -3,7 +3,7 @@
   "filetype": 24,
 
   "name": "Binah",
-  "track": "OST_24",
+  "track": ["OST_24"],
 
   "image": {
     "platform": -1,
