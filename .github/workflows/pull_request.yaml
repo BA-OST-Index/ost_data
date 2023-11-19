@@ -17,4 +17,4 @@ jobs:
 
     # Pre-check the json
     - name: Json Precheck
-      run: python precheck.py
+      run: python ./precheck.py
