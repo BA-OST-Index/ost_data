@@ -14,6 +14,7 @@ REPLACE_IF_CONFLICTED = True
 DISABLE_WRITING = True
 
 ERROR_JSON = []
+CONFLICTED_JSON = []
 
 
 def traverse_path(namespace: list):
@@ -51,6 +52,8 @@ def traverse_path(namespace: list):
                 LOGGER.warning(f"WARNING:\t\t\t{curr_filepath}\tUUID conflicted!")
                 LOGGER.warning(f"\tORIGINAL: {original_content}")
 
+                CONFLICTED_JSON.append(curr_filepath)
+
                 # replace uuid
                 if REPLACE_IF_CONFLICTED:
                     while True:
@@ -72,5 +75,10 @@ def traverse_path(namespace: list):
 traverse_path([filepath])
 
 if len(ERROR_JSON) != 0:
+    print("ERROR JSON:")
     pprint.pprint(ERROR_JSON)
-    raise Exception
+if len(CONFLICTED_JSON) != 0:
+    print("CONFLICTED JSON:")
+    pprint.pprint(CONFLICTED_JSON)
+if len(ERROR_JSON) != 0 or len(CONFLICTED_JSON) != 0:
+    raise AssertionError
