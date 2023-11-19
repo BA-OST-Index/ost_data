@@ -22,5 +22,12 @@
       "is_main": true
     }
   ],
-  "track": ["OST_45"]
+  "track": ["OST_45"],
+
+  "stats": {
+    "is_jp": false, "is_global": false, "is_cn": true,
+    "is_pv": false, "is_pv_char": true, "is_pv_ani": false,
+    "is_mv": false, "is_animation": false, "is_other": true,
+    "is_ad": false, "is_ingame": false
+  }
 }
