@@ -5,7 +5,6 @@ import sys
 import uuid
 import pprint
 
-filepath = ".."
 LOGGER = logging.getLogger()
 logging.basicConfig(stream=sys.stdout, level=logging.DEBUG)
 ALL_UUID = []
@@ -72,13 +71,18 @@ def traverse_path(namespace: list):
         traverse_path(namespace + [folder])
 
 
-traverse_path([filepath])
+def run(filepath):
+    traverse_path([filepath])
 
-if len(ERROR_JSON) != 0:
-    print("ERROR JSON:")
-    pprint.pprint(ERROR_JSON)
-if len(CONFLICTED_JSON) != 0:
-    print("CONFLICTED JSON:")
-    pprint.pprint(CONFLICTED_JSON)
-if len(ERROR_JSON) != 0 or len(CONFLICTED_JSON) != 0:
-    raise AssertionError
+    if len(ERROR_JSON) != 0:
+        print("ERROR JSON:")
+        pprint.pprint(ERROR_JSON)
+    if len(CONFLICTED_JSON) != 0:
+        print("CONFLICTED JSON:")
+        pprint.pprint(CONFLICTED_JSON)
+    if len(ERROR_JSON) != 0 or len(CONFLICTED_JSON) != 0:
+        raise AssertionError
+
+
+if __name__ == "__main__":
+    run("..")

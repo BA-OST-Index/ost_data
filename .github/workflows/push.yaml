@@ -19,7 +19,7 @@ jobs:
 
     # Pre-check the json
     - name: Json Precheck
-      run: python _scripts/json_checker.py
+      run: python precheck.py
 
     # Dispatch the parser
     - name: Repository Dispatch
