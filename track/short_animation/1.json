@@ -60,12 +60,13 @@
     }
   ],
 
-  "special_case": {
-    "is_ost": false,
-    "is_bond_memory": false,
-    "is_story": true,
-    "is_battle": false,
-    "is_event": false
+  "stats": {
+    "is_ba": true,
+    "is_jp": true,
+    "is_global": true,
+    "is_cn": false,
+    "is_segment": false,
+    "is_sub": false
   },
 
   "reference": [],
