@@ -13,6 +13,11 @@
     "value": "",
     "short_desc": ""
   },
+  "source": {
+    "zh_tw": [
+      {"platform": 2, "value": "https://www.bilibili.com/video/BV15k4y1a7QZ/", "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"}
+    ]
+  },
 
   "part": [
     {
@@ -22,7 +27,10 @@
       "is_momotalk": true,
       "track": [],
       "background": [],
-      "character": []
+      "character": [],
+      "source": {
+        "zh_tw": [{"timestamp": 0}]
+      }
     },
     {
       "name": "[STORY_BOND_YUUKA_1_P1_NAME]",
@@ -31,7 +39,10 @@
       "is_momotalk": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
-      "character": ["Yuuka"]
+      "character": ["Yuuka"],
+      "source": {
+        "zh_tw": [{"timestamp": 47}]
+      }
     },
     {
       "name": "[STORY_BOND_YUUKA_1_P2_NAME]",
@@ -40,7 +51,10 @@
       "is_momotalk": false,
       "track": ["OST_17"],
       "background": [],
-      "character": ["Yuuka"]
+      "character": ["Yuuka"],
+      "source": {
+        "zh_tw": [{"timestamp": 114}]
+      }
     },
     {
       "name": "[STORY_BOND_YUUKA_1_P3_NAME]",
@@ -49,7 +63,10 @@
       "is_momotalk": false,
       "track": ["OST_10"],
       "background": ["BG_MainOffice.jpg"],
-      "character": ["Yuuka"]
+      "character": ["Yuuka"],
+      "source": {
+        "zh_tw": [{"timestamp": 235}]
+      }
     }
   ],
   "is_memory": true
