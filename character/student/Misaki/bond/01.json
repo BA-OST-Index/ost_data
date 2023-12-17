@@ -1,0 +1,251 @@
+{
+  "uuid": "77d19bd3-bb9f-4cb2-910e-21d759fd7945",
+  "filetype": 15,
+  "name": "[STORY_BOND_MISAKI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MISAKI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "Misaki",
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV1uG411d7c4/",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_BOND_MISAKI_1_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P1_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 26
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P2_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_BuildingFrontGate.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P2_S2_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_BuildingFrontGate.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 115
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P3_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_BuildingRooftop.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 165
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P4_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_3"
+          ],
+          "background": [
+            "BG_BuildingCorridor2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 216
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P5_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_BuildingCorridor2_Night.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 240
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P6_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_BuildingCorridor2_Night.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P6_S2_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_7"
+          ],
+          "background": [
+            "BG_BuildingCorridor2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_1_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 306
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_1_P7_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_15"
+          ],
+          "background": [
+            "BG_BuildingFrontGate.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    }
+  ],
+  "is_memory": false
+}
