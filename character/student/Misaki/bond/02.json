@@ -1,5 +1,5 @@
 {
-  "uuid": "9df438b8-40f9-48b1-95d4-0174f96d7ba6",
+  "uuid": "e998d789-5ba1-41a3-9a79-8b6dcef9c13a",
   "filetype": 15,
   "name": "[STORY_BOND_MISAKI_2_NAME]",
   "desc": [
@@ -58,7 +58,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 20
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -67,18 +67,6 @@
       "data": [
         {
           "desc": "[STORY_BOND_MISAKI_2_P2_S1_DESC]",
-          "character": [
-            "Misaki"
-          ],
-          "track": [
-            "OST_10"
-          ],
-          "background": [
-            "BG_ShanStreet.jpg"
-          ]
-        },
-        {
-          "desc": "[STORY_BOND_MISAKI_2_P2_S2_DESC]",
           "character": [
             "Misaki"
           ],
@@ -99,7 +87,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 85
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -128,7 +116,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 124
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -177,7 +165,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 185
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],

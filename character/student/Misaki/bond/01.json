@@ -1,5 +1,5 @@
 {
-  "uuid": "77d19bd3-bb9f-4cb2-910e-21d759fd7945",
+  "uuid": "320428a5-4167-46eb-899a-a142a50c086f",
   "filetype": 15,
   "name": "[STORY_BOND_MISAKI_1_NAME]",
   "desc": [
@@ -58,7 +58,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 26
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -67,18 +67,6 @@
       "data": [
         {
           "desc": "[STORY_BOND_MISAKI_1_P2_S1_DESC]",
-          "character": [
-            "Misaki"
-          ],
-          "track": [
-            "OST_33"
-          ],
-          "background": [
-            "BG_BuildingFrontGate.jpg"
-          ]
-        },
-        {
-          "desc": "[STORY_BOND_MISAKI_1_P2_S2_DESC]",
           "character": [
             "Misaki"
           ],
@@ -99,7 +87,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 115
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -128,7 +116,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 165
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -157,7 +145,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 216
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -184,7 +172,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 240
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -223,7 +211,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 306
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],

@@ -1,5 +1,5 @@
 {
-  "uuid": "d4b2cd38-8fb5-4d41-b6fd-9aa96cfcf94a",
+  "uuid": "a3d7e4c3-cfa4-4a1b-a426-8415fea3d42a",
   "filetype": 15,
   "name": "[STORY_BOND_MISAKI_3_NAME]",
   "desc": [
@@ -58,7 +58,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 32
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -85,7 +85,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 69
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -101,20 +101,6 @@
           "background": [
             "BG_LuxuriousRooms2.jpg"
           ]
-        },
-        {
-          "desc": "[STORY_BOND_MISAKI_3_P3_S2_DESC]",
-          "character": [
-            "Misaki"
-          ],
-          "track": [],
-          "background": []
-        },
-        {
-          "desc": "[STORY_BOND_MISAKI_3_P3_S3_DESC]",
-          "character": [],
-          "track": [],
-          "background": []
         }
       ],
       "is_memory": false,
@@ -126,7 +112,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 153
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -135,6 +121,54 @@
       "data": [
         {
           "desc": "[STORY_BOND_MISAKI_3_P4_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P5_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P6_S1_DESC]",
           "character": [
             "Misaki"
           ],
@@ -148,12 +182,12 @@
       "is_momotalk": false
     },
     {
-      "name": "[STORY_BOND_MISAKI_3_P5_NAME]",
+      "name": "[STORY_BOND_MISAKI_3_P7_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 262
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -161,7 +195,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_BOND_MISAKI_3_P5_S1_DESC]",
+          "desc": "[STORY_BOND_MISAKI_3_P7_S1_DESC]",
           "character": [
             "Misaki"
           ],
@@ -171,7 +205,7 @@
           ]
         },
         {
-          "desc": "[STORY_BOND_MISAKI_3_P5_S2_DESC]",
+          "desc": "[STORY_BOND_MISAKI_3_P7_S2_DESC]",
           "character": [
             "Misaki"
           ],
@@ -187,12 +221,12 @@
       "is_momotalk": false
     },
     {
-      "name": "[STORY_BOND_MISAKI_3_P6_NAME]",
+      "name": "[STORY_BOND_MISAKI_3_P8_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 343
+            "timestamp": 0
           }
         ],
         "zh_cn_cn": [],
@@ -200,7 +234,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_BOND_MISAKI_3_P6_S1_DESC]",
+          "desc": "[STORY_BOND_MISAKI_3_P8_S1_DESC]",
           "character": [],
           "track": [],
           "background": []
