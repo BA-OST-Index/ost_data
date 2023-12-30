@@ -1,0 +1,14 @@
+{
+  "uuid": "5c74310e-465d-471d-a3cf-17a61ecd8783",
+  "filetype": 52,
+  "namespace": "kaya",
+
+  "name": "[NPC_KAYA_NAME]",
+  "desc": "[NPC_KAYA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaya_Portrait.webp",
+    "short_desc": ""
+  }
+}

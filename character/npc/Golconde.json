@@ -1,0 +1,14 @@
+{
+  "uuid": "050fd841-d08a-4879-8f13-9c27ffa5c9bd",
+  "filetype": 52,
+  "namespace": "golconde",
+
+  "name": "[NPC_GOLCONDE_NAME]",
+  "desc": "[NPC_GOLCONDE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Golconde_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "069387f3-ac58-4046-b940-1de6cb75bcdd",
+  "filetype": 52,
+  "namespace": "pmc_general",
+
+  "name": "[NPC_PMC_GENERAL_NAME]",
+  "desc": "[NPC_PMC_GENERAL_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaiser_PMC_General_Portrait.webp",
+    "short_desc": ""
+  }
+}

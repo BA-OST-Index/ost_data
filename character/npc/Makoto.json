@@ -1,0 +1,14 @@
+{
+  "uuid": "70df7a0e-f6fe-47de-822b-30f0903160ee",
+  "filetype": 52,
+  "namespace": "makoto",
+
+  "name": "[NPC_MAKOTO_NAME]",
+  "desc": "[NPC_MAKOTO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Makoto_Portrait.webp",
+    "short_desc": ""
+  }
+}

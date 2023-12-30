@@ -1,0 +1,14 @@
+{
+  "uuid": "1d89e0a6-1f86-4083-b492-15aa72b7191f",
+  "filetype": 52,
+  "namespace": "ibuki",
+
+  "name": "[NPC_IBUKI_NAME]",
+  "desc": "[NPC_IBUKI_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Ibuki_Portrait.webp",
+    "short_desc": ""
+  }
+}

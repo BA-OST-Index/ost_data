@@ -1,0 +1,503 @@
+{
+  "uuid": "c9ce3c6f-ec85-4616-b1bb-9effe9e65b05",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=7",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P1_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Serika"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P1_S2_DESC]",
+          "character": [
+            "MemberOfSisterhood",
+            "Sakurako"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_TrinityOldLibrary.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P1_S3_DESC]",
+          "character": [
+            "Mine"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_Ward.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P2_S1_DESC]",
+          "character": [
+            "Nagisa",
+            "Seia",
+            "Mika"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_TrinityTerrace.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P3_S1_DESC]",
+          "character": [
+            "Iroha",
+            "Makoto"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_GehennaClubRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P4_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_BigSisterRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P5_S1_DESC]",
+          "character": [
+            "MemberOfXuanlong",
+            "Kisaki"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_ShanVIPRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P6_S1_DESC]",
+          "character": [
+            "Kaho",
+            "Niya"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_HyakkiyakoMeetingroom2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P7_S1_DESC]",
+          "character": [
+            "MemberOfLaborParty"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_RedWinterCampus2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P8_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg",
+            "BG_CS_S1Final_05.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P9_S1_DESC]",
+          "character": [
+            "StudentOfValkyrie"
+          ],
+          "track": [],
+          "background": [
+            "BG_MainOffice.jpg",
+            "BG_BuildingRooftop.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P10_S1_DESC]",
+          "character": [
+            "StudentOfValkyrie"
+          ],
+          "track": [],
+          "background": [
+            "BG_HelicopterInside.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P11_S1_DESC]",
+          "character": [
+            "Kirino"
+          ],
+          "track": [],
+          "background": [
+            "BG_Market.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P12_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [],
+          "background": [
+            "BG_HelicopterInside.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P13_S1_DESC]",
+          "character": [
+            "Kaya",
+            "PMC_General"
+          ],
+          "track": [
+            "OST_93"
+          ],
+          "background": [
+            "BG_RuinSchoolCorridor.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P13_S2_DESC]",
+          "character": [
+            "PMC_General"
+          ],
+          "track": [
+            "OST_93"
+          ],
+          "background": [
+            "BG_RuinSchoolCorridor.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P13_S3_DESC]",
+          "character": [
+            "PMC_President"
+          ],
+          "track": [
+            "OST_93"
+          ],
+          "background": [
+            "BG_UpperOffice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P14_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P14_S1_DESC]",
+          "character": [
+            "PMC_General",
+            "PMC_Specialist"
+          ],
+          "track": [
+            "OST_93"
+          ],
+          "background": [
+            "BG_RuinSchoolCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_7_P15_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_7_P15_S1_DESC]",
+          "character": [
+            "PMC_General",
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_93"
+          ],
+          "background": [
+            "BG_HelicopterInside.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

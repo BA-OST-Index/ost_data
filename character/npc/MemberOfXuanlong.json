@@ -1,0 +1,14 @@
+{
+  "uuid": "93f2fa71-1afd-40bc-bc6b-e2d6827e651f",
+  "filetype": 52,
+  "namespace": "memberofxuanlong",
+
+  "name": "[NPC_MEMBER_OF_XUANLONG_NAME]",
+  "desc": "[NPC_MEMBER_OF_XUANLONG_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Genryumon_Mafia_Portrait.webp",
+    "short_desc": ""
+  }
+}

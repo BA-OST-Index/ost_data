@@ -1,0 +1,452 @@
+{
+  "uuid": "540dd281-08ce-444b-81e0-04455583b940",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_2_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=2",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P1_S1_DESC]",
+          "character": [
+            "Kuzunoha",
+            "Seia"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_HyakkiyakoLookOut.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P2_S1_DESC]",
+          "character": [
+            "Beatrice"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_SanctumOfBeatrice.jpg",
+            "BG_CS_Arius_03.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P2_S2_DESC]",
+          "character": [
+            "Kuzunoha",
+            "Seia"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_HyakkiyakoLookOut.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P3_S1_DESC]",
+          "character": [
+            "Kuzunoha",
+            "Seia"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_HyakkiyakoLookOut.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P4_S1_DESC]",
+          "character": [
+            "Seia",
+            "Kuzunoha"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_PV4_008.jpg",
+            "BG_CS_PV4_007.jpg",
+            "BG_CS_PV4_006.jpg",
+            "BG_CS_PV4_115.jpg",
+            "BG_CS_PR_09.jpg",
+            "BG_CS_PR_08.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P5_S1_DESC]",
+          "character": [
+            "BlackSuit",
+            "Maestro",
+            "Golconde",
+            "Beatrice"
+          ],
+          "track": [
+            "OST_70"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg",
+            "BG_CS_PV4_003.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P6_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_70"
+          ],
+          "background": [
+            "BG_CS_Arius_03.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P6_S2_DESC]",
+          "character": [
+            "BlackSuit",
+            "Maestro",
+            "Golconde",
+            "Beatrice"
+          ],
+          "track": [
+            "OST_70"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg",
+            "BG_CS_PV4_003.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P7_S1_DESC]",
+          "character": [
+            "Beatrice",
+            "BlackSuit",
+            "Maestro",
+            "Golconde"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg",
+            "BG_CS_Arius_03.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P8_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_S1Final_03.jpg",
+            "BG_CS_PR_08.jpg",
+            "BG_CS_S1Final_04.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P9_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_38"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P10_S1_DESC]",
+          "character": [
+            "Seia"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_TrinityTerrace_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P11_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CS_PV3_02_2.jpg",
+            "BG_CS_PV4_007.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P12_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P12_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_PR_06.jpg",
+            "BG_GeneralMeetingRoom.jpg",
+            "BG_CS_PV4_021.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_2_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_2_P13_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_16"
+          ],
+          "background": [
+            "BG_ReceptionRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

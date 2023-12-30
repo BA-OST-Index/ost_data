@@ -1,0 +1,330 @@
+{
+  "uuid": "cb2d021f-3ae4-41a9-bf8b-a2587a08ec7d",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=3",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P1_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_Wilderness.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P2_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_CityOffice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P3_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Shiroko",
+            "Ayane",
+            "Serika",
+            "Nonomi"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P4_S1_DESC]",
+          "character": [
+            "Midori",
+            "Momoi",
+            "Yuzu",
+            "Aris"
+          ],
+          "track": [
+            "OST_64"
+          ],
+          "background": [
+            "BG_GameDevRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P5_S1_DESC]",
+          "character": [
+            "Aris",
+            "Midori",
+            "Momoi",
+            "Yuzu"
+          ],
+          "track": [
+            "OST_64"
+          ],
+          "background": [
+            "BG_GameDevRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P6_S1_DESC]",
+          "character": [
+            "Aris",
+            "Momoi",
+            "Yuzu",
+            "Midori"
+          ],
+          "track": [
+            "OST_64"
+          ],
+          "background": [
+            "BG_GameDevRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P7_S1_DESC]",
+          "character": [
+            "ArisKey"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_RuinCenter.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P8_S1_DESC]",
+          "character": [
+            "Himari"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_BigSisterRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P9_S1_DESC]",
+          "character": [
+            "Eimi",
+            "Himari"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_BigSisterRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_3_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_3_P10_S1_DESC]",
+          "character": [
+            "Toki",
+            "Himari",
+            "Eimi"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_BigSisterRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

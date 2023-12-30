@@ -1,0 +1,14 @@
+{
+  "uuid": "381a4f46-ab2c-439a-b4c4-6c36a681d688",
+  "filetype": 52,
+  "namespace": "memberofpublicpeace",
+
+  "name": "[NPC_MEMBER_OF_PUBLIC_PEACE_NAME]",
+  "desc": "[NPC_MEMBER_OF_PUBLIC_PEACE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Valkyrie_Student_Portrait.webp",
+    "short_desc": ""
+  }
+}

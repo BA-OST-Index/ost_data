@@ -1,0 +1,14 @@
+{
+  "uuid": "5e643122-7d64-4be0-9b65-863c386acf13",
+  "filetype": 52,
+  "namespace": "pmc_solider",
+
+  "name": "[NPC_PMC_SOLIDER_NAME]",
+  "desc": "[NPC_PMC_SOLIDER_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaiser_PMC_Droid_Portrait.webp",
+    "short_desc": ""
+  }
+}

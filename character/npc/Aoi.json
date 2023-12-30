@@ -1,0 +1,14 @@
+{
+  "uuid": "fbb96369-d444-4fb7-82d9-1b2e917bfd0d",
+  "filetype": 52,
+  "namespace": "aoi",
+
+  "name": "[NPC_AOI_NAME]",
+  "desc": "[NPC_AOI_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Aoi_Portrait.webp",
+    "short_desc": ""
+  }
+}

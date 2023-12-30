@@ -1,0 +1,14 @@
+{
+  "uuid": "1d89e0a6-1f86-4083-b492-15aa72b7191f",
+  "filetype": 52,
+  "namespace": "pmc_specialist",
+
+  "name": "[NPC_PMC_SOF_NAME]",
+  "desc": "[NPC_PMC_SOF_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaiser_PMC_Special_Force_Portrait.webp",
+    "short_desc": ""
+  }
+}

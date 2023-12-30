@@ -1,0 +1,14 @@
+{
+  "uuid": "6c49408b-235a-497c-bc9d-c02961235b76",
+  "filetype": 52,
+  "namespace": "studentoftrinity",
+
+  "name": "[NPC_STUDENT_OF_TRINITY_NAME]",
+  "desc": "[NPC_STUDENT_OF_TRINITY_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Trinity_Student_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "21dc401c-9757-4b5c-bdef-66b5da4b0316",
+  "filetype": 52,
+  "namespace": "niko",
+
+  "name": "[NPC_NIKO_NAME]",
+  "desc": "[NPC_NIKO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Niko_Portrait.webp",
+    "short_desc": ""
+  }
+}

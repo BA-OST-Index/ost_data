@@ -1,0 +1,14 @@
+{
+  "uuid": "8eb99ba5-29a9-4501-a38d-e055dd0b64a8",
+  "filetype": 52,
+  "namespace": "seia",
+
+  "name": "[NPC_SEIA_NAME]",
+  "desc": "[NPC_SEIA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Seia_Portrait.webp",
+    "short_desc": ""
+  }
+}

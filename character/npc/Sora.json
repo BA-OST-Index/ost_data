@@ -1,0 +1,14 @@
+{
+  "uuid": "944d4adc-2c7b-49c1-8757-9436b5330faf",
+  "filetype": 52,
+  "namespace": "sora",
+
+  "name": "[NPC_SORA_NAME]",
+  "desc": "[NPC_SORA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Sora_Portrait.webp",
+    "short_desc": ""
+  }
+}

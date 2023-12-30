@@ -1,0 +1,413 @@
+{
+  "uuid": "5b7670a9-9062-4dd9-ac3f-e4e7ac963a52",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=9",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P1_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_Prison.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P2_S1_DESC]",
+          "character": [
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_Prison.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P3_S1_DESC]",
+          "character": [
+            "PMC_Solider",
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_ValkyrieOffice_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P4_S1_DESC]",
+          "character": [
+            "PMC_Solider",
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_Campus_Night.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P4_S2_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki",
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_Campus_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P5_S1_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki",
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_ShootingRange.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P5_S2_DESC]",
+          "character": [
+            "Kanna"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_CityOffice_Night.jpg",
+            "BG_CityDowntown_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P6_S1_DESC]",
+          "character": [
+            "Kanna",
+            "Kirino",
+            "Fubuki"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_ShootingRange.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P7_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_ReceptionRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P8_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_GeneralMeetingRoom.jpg",
+            "BG_CS_PV4_013.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P8_S2_DESC]",
+          "character": [
+            "Sakurako",
+            "Rin",
+            "Mine",
+            "Seia",
+            "Mika"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CS_PV4_014.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P8_S3_DESC]",
+          "character": [
+            "Iroha",
+            "Makoto",
+            "Ibuki",
+            "Mika",
+            "Seia"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CS_PV4_015.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P8_S4_DESC]",
+          "character": [
+            "Sakurako",
+            "Makoto",
+            "Rin",
+            "Mine",
+            "Iroha",
+            "Nagisa",
+            "Mika"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CS_PV4_013.jpg",
+            "BG_CS_PV4_013_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P8_S5_DESC]",
+          "character": [
+            "Cherino"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CS_PV4_016.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P9_S1_DESC]",
+          "character": [
+            "Rin",
+            "Aoi"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_GeneralMeetingRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_9_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_9_P10_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "Aoi",
+            "Rin"
+          ],
+          "track": [],
+          "background": [
+            "BG_GeneralMeetingRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

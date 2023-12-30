@@ -1,0 +1,14 @@
+{
+  "uuid": "be83d742-b548-4c23-83b4-c49a054e3c09",
+  "filetype": 52,
+  "namespace": "kurumi",
+
+  "name": "[NPC_KURUMI_NAME]",
+  "desc": "[NPC_KURUMI_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kurumi_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "2230b14e-96e0-4f92-8df9-9a311dfc1698",
+  "filetype": 52,
+  "namespace": "gscpres",
+
+  "name": "[NPC_GSC_PRES_NAME]",
+  "desc": "[NPC_GSC_PRES_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/GSC_President_Portrait.webp",
+    "short_desc": ""
+  }
+}
