@@ -1,0 +1,447 @@
+{
+  "uuid": "0027a992-066e-4d3a-9d18-57c7f9bfd9fa",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_13_DESC_1]",
+    "[STORY_MAIN_finalS1_1_13_DESC_2]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=13",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P1_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Saki",
+            "Miyu",
+            "Moe"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SRTCampSite.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P2_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P3_S1_DESC]",
+          "character": [
+            "Moe",
+            "Saki",
+            "Miyako",
+            "Miyu"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SRTCampSite.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P4_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P5_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Miyu",
+            "Moe",
+            "Saki",
+            "Kirino",
+            "Fubuki"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SRTCampSite.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P6_S1_DESC]",
+          "character": [
+            "PMC_General",
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_BuildingFront2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P7_S1_DESC]",
+          "character": [
+            "Miyu",
+            "Miyako",
+            "Kirino",
+            "Fubuki",
+            "Saki",
+            "Moe"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SRTCampSite.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P7_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P8_S1_DESC]",
+          "character": [
+            "PMC_Solider",
+            "Moe",
+            "Saki",
+            "Miyu",
+            "Miyako",
+            "Kirino",
+            "MemberOfPublicPeace",
+            "Fubuki"
+          ],
+          "track": [
+            "OST_68"
+          ],
+          "background": [
+            "BG_CityDowntown.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P9_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Miyu",
+            "Kirino",
+            "Fubuki",
+            "Saki",
+            "Moe",
+            "MemberOfPublicPeace"
+          ],
+          "track": [
+            "OST_18"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P10_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_BuildingFront2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P11_S1_DESC]",
+          "character": [
+            "PMC_Solider",
+            "Miyako",
+            "Sora"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_Shop.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P12_S1_DESC]",
+          "character": [
+            "Saki",
+            "Miyako",
+            "Moe",
+            "MemberOfPublicPeace",
+            "Momoka",
+            "Miyu",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_BuildingFront2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_13_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_13_P13_S1_DESC]",
+          "character": [
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_ComputerCenter_Off.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

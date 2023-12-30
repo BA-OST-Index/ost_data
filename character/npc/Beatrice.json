@@ -1,0 +1,14 @@
+{
+  "uuid": "d93e8e9c-ecbc-48f1-b675-a912f35e02bc",
+  "filetype": 52,
+  "namespace": "beatrice",
+
+  "name": "[NPC_BEATRICE_NAME]",
+  "desc": "[NPC_BEATRICE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Beatrice_Portrait.webp",
+    "short_desc": ""
+  }
+}

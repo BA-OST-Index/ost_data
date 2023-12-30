@@ -1,0 +1,14 @@
+{
+  "uuid": "68014faa-74a2-4beb-818e-a530e43bf61d",
+  "filetype": 52,
+  "namespace": "shirokoterror",
+
+  "name": "[NPC_SHIROKOTERROR_NAME]",
+  "desc": "[NPC_SHIROKOTERROR_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Golconde_Portrait.webp",
+    "short_desc": ""
+  }
+}

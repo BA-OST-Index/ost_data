@@ -1,0 +1,14 @@
+{
+  "uuid": "babf7938-8fd5-45d6-91c7-6be682f6cb2d",
+  "filetype": 52,
+  "namespace": "niya",
+
+  "name": "[NPC_NIYA_NAME]",
+  "desc": "[NPC_NIYA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Niya_Portrait.webp",
+    "short_desc": ""
+  }
+}

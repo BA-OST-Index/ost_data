@@ -1,0 +1,14 @@
+{
+  "uuid": "36f59c3f-12f4-47c4-a1fc-070620de74e3",
+  "filetype": 52,
+  "namespace": "memberoflaborparty",
+
+  "name": "[NPC_MEMBER_OF_LABOR_PARTY_NAME]",
+  "desc": "[NPC_MEMBER_OF_LABOR_PARTY_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Red_Winter_Yoheki_Soldier_Portrait.webp",
+    "short_desc": ""
+  }
+}

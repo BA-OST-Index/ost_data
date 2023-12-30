@@ -1,0 +1,14 @@
+{
+  "uuid": "f425d8f7-e107-4589-9b81-fc1e2658d4ae",
+  "filetype": 52,
+  "namespace": "maestro",
+
+  "name": "[NPC_MAESTRO_NAME]",
+  "desc": "[NPC_MAESTRO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Maestro_Portrait.webp",
+    "short_desc": ""
+  }
+}

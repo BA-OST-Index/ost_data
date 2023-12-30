@@ -1,0 +1,14 @@
+{
+  "uuid": "70244af7-3d90-4634-bd55-56cd093a6f55",
+  "filetype": 52,
+  "namespace": "pmc_president",
+
+  "name": "[NPC_PMC_PRESIDENT_NAME]",
+  "desc": "[NPC_PMC_PRESIDENT_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaiser_PMC_President_Portrait.webp",
+    "short_desc": ""
+  }
+}

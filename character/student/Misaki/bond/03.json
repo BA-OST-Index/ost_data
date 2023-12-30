@@ -1,0 +1,248 @@
+{
+  "uuid": "a3d7e4c3-cfa4-4a1b-a426-8415fea3d42a",
+  "filetype": 15,
+  "name": "[STORY_BOND_MISAKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MISAKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "Misaki",
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV1uG411d7c4/?p=3",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_BOND_MISAKI_3_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P1_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": true
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P2_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_CityOffice_Night.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P3_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_LuxuriousRooms2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P4_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P5_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P6_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_105"
+          ],
+          "background": []
+        }
+      ],
+      "is_memory": true,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P7_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_LuxuriousRooms2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P7_S2_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_7"
+          ],
+          "background": [
+            "BG_LuxuriousRooms2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_3_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_3_P8_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": true
+    }
+  ],
+  "is_memory": true
+}

@@ -1,0 +1,119 @@
+{
+  "uuid": "580e8acf-19c7-4626-858c-28b9be32291a",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=11",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_11_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_11_P1_S1_DESC]",
+          "character": [
+            "Fubuki",
+            "Kirino"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ShootingRange.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_11_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_11_P2_S1_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_11_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_11_P3_S1_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki",
+            "Kanna"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ClassCorridor2_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

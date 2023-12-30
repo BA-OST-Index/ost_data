@@ -1,0 +1,193 @@
+{
+  "uuid": "e998d789-5ba1-41a3-9a79-8b6dcef9c13a",
+  "filetype": 15,
+  "name": "[STORY_BOND_MISAKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MISAKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "Misaki",
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV1uG411d7c4/?p=2",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_BOND_MISAKI_2_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P1_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": true
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_2_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P2_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_10"
+          ],
+          "background": [
+            "BG_ShanStreet.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_2_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P3_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_10"
+          ],
+          "background": [
+            "BG_RiversideRoad.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_2_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P4_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_RiversideRoad.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P4_S2_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_91"
+          ],
+          "background": [
+            "BG_RiversideRoad.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P4_S3_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [],
+          "background": [
+            "BG_RiversideRoad.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_MISAKI_2_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_MISAKI_2_P5_S1_DESC]",
+          "character": [
+            "Misaki"
+          ],
+          "track": [
+            "OST_43"
+          ],
+          "background": [
+            "BG_VillaComplex.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    }
+  ],
+  "is_memory": false
+}

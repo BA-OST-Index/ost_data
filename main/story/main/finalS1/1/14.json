@@ -1,0 +1,249 @@
+{
+  "uuid": "92c82365-d5e0-41a9-a81e-87d8525843fc",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_14_DESC_1]",
+    "[STORY_MAIN_finalS1_1_14_DESC_2]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=14",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P1_S1_DESC]",
+          "character": [
+            "Maestro",
+            "BlackSuit",
+            "Golconde"
+          ],
+          "track": [
+            "OST_70"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P2_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": [
+            "BG_CS_S1Final_10.jpg",
+            "BG_CS_S1Final_11.jpg",
+            "BG_CS_S1Final_11_2.jpg",
+            "BG_CS_S1Final_12.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P3_S1_DESC]",
+          "character": [
+            "PMC_General",
+            "PMC_Solider"
+          ],
+          "track": [],
+          "background": [
+            "BG_IndoorPlaza_Night3.jpg",
+            "BG_CraftChamber_Night.jpg",
+            "BG_BuildingCorridor_Night.jpg",
+            "BG_BuildingRooftop.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P3_S2_DESC]",
+          "character": [
+            "Miyako"
+          ],
+          "track": [],
+          "background": [
+            "BG_BuildingFront2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P4_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Miyu",
+            "Kirino",
+            "Fubuki",
+            "Saki",
+            "Moe"
+          ],
+          "track": [
+            "OST_115"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P5_S1_DESC]",
+          "character": [
+            "PMC_General"
+          ],
+          "track": [
+            "OST_115"
+          ],
+          "background": [
+            "BG_IndoorPlaza_Night3.jpg",
+            "BG_BuildingCorridor_Night.jpg",
+            "BG_BuildingRooftop.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P5_S2_DESC]",
+          "character": [
+            "PMC_Specialist",
+            "Miyako"
+          ],
+          "track": [
+            "OST_115"
+          ],
+          "background": [
+            "BG_CraftChamber_Night.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P5_S3_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_115"
+          ],
+          "background": [
+            "BG_BuildingCorridor2_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_14_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_14_P6_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Saki",
+            "PMC_General"
+          ],
+          "track": [
+            "OST_115"
+          ],
+          "background": [
+            "BG_MainOffice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

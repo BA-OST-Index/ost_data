@@ -1,0 +1,14 @@
+{
+  "uuid": "9f968763-48da-4205-b4b2-d72b5666fc4f",
+  "filetype": 52,
+  "namespace": "studentofvalkyrie",
+
+  "name": "[NPC_STUDENT_OF_VALKYRIE_NAME]",
+  "desc": "[NPC_STUDENT_OF_VALKYRIE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Valkyrie_Student_Portrait.webp",
+    "short_desc": ""
+  }
+}

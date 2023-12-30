@@ -1,0 +1,404 @@
+{
+  "uuid": "fe8adecd-82fc-4ce2-a21e-468400df4d3f",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=4",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P1_S1_DESC]",
+          "character": [
+            "Sakurako",
+            "MemberOfSisterhood"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_AriusBasilica.jpg",
+            "BG_Cathedral_Night.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P1_S2_DESC]",
+          "character": [
+            "MemberOfSisterhood",
+            "Sakurako"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_CS_Arius_03.jpg",
+            "BG_SanctumOfBeatrice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P2_S1_DESC]",
+          "character": [
+            "Nagisa",
+            "Seia",
+            "Mika"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_TrinityMeetingRoom.jpg",
+            "BG_TrinityMeetingRoom3.jpg",
+            "BG_TrinityMeetingRoom4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P3_S1_DESC]",
+          "character": [
+            "Azusa",
+            "Hifumi",
+            "Hanako",
+            "Koharu"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_TrinityClassRoom2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P4_S1_DESC]",
+          "character": [
+            "Azusa",
+            "Koharu",
+            "Hanako",
+            "Hifumi"
+          ],
+          "track": [
+            "OST_91"
+          ],
+          "background": [
+            "BG_TrinityClassRoom2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P5_S1_DESC]",
+          "character": [
+            "Hifumi",
+            "Hanako",
+            "Koharu",
+            "Azusa"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_IndoorPlaza_Night3.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P6_S1_DESC]",
+          "character": [
+            "Azusa",
+            "Hifumi",
+            "Hanako"
+          ],
+          "track": [
+            "OST_3"
+          ],
+          "background": [
+            "BG_IndoorPlaza_Night3.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P7_S1_DESC]",
+          "character": [
+            "Azusa",
+            "Hifumi",
+            "Hanako",
+            "Koharu"
+          ],
+          "track": [
+            "OST_22"
+          ],
+          "background": [
+            "BG_TrinityCampus.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P7_S2_DESC]",
+          "character": [
+            "StudentOfTrinity",
+            "Ichika"
+          ],
+          "track": [
+            "OST_32"
+          ],
+          "background": [
+            "BG_TrinityCampusPlaza.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P8_S1_DESC]",
+          "character": [
+            "Hifumi",
+            "Hanako",
+            "Azusa",
+            "Koharu"
+          ],
+          "track": [
+            "OST_22"
+          ],
+          "background": [
+            "BG_TrinityCampus.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P9_S1_DESC]",
+          "character": [
+            "Natsu",
+            "Yoshimi",
+            "Airi",
+            "Kazusa",
+            "StudentOfTrinity"
+          ],
+          "track": [
+            "OST_130"
+          ],
+          "background": [
+            "BG_TrinityCampus.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P10_S1_DESC]",
+          "character": [
+            "StudentOfTrinity",
+            "Natsu",
+            "Yoshimi",
+            "Airi",
+            "Kazusa"
+          ],
+          "track": [
+            "OST_130"
+          ],
+          "background": [
+            "BG_TrinityCampus.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_4_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_4_P11_S1_DESC]",
+          "character": [
+            "Natsu",
+            "Kazusa",
+            "Yoshimi",
+            "StudentOfTrinity",
+            "Airi",
+            "Ichika"
+          ],
+          "track": [
+            "OST_128"
+          ],
+          "background": [
+            "BG_TrinityCampus.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

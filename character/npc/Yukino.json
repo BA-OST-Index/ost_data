@@ -1,0 +1,14 @@
+{
+  "uuid": "a67a643b-7ce7-41d3-b825-1e449b4772cc",
+  "filetype": 52,
+  "namespace": "yukino",
+
+  "name": "[NPC_YUKINO_NAME]",
+  "desc": "[NPC_YUKINO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Yukino_Portrait.webp",
+    "short_desc": ""
+  }
+}

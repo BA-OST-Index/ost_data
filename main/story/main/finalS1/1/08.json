@@ -1,0 +1,391 @@
+{
+  "uuid": "1de5ee82-3112-4bdc-a8ec-d934b7570470",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_1_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_1_8_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 1,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 3,
+        "value": "https://www.bilibili.com/video/BV17V4y1t7m5/?p=8",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P1_S1_DESC]",
+          "character": [
+            "Serika",
+            "Hoshino",
+            "Shiroko",
+            "Nonomi",
+            "Ayane"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P2_S1_DESC]",
+          "character": [
+            "Nonomi",
+            "Hoshino",
+            "Serika",
+            "Ayane"
+          ],
+          "track": [
+            "OST_13"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P3_S1_DESC]",
+          "character": [
+            "PMC_Solider",
+            "Shiroko"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_CityDowntown.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P3_S2_DESC]",
+          "character": [
+            "Ayane",
+            "Serika",
+            "Hoshino"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P4_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Ayane"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P5_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_HelicopterInside.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P5_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P6_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [],
+          "background": [
+            "BG_AronaRoom.jpg",
+            "BG_AronaRoom_Night.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P6_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_CS_PV2_70.jpg",
+            "BG_CS_PV2_71.jpg",
+            "BG_CS_PV2_72.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P7_S1_DESC]",
+          "character": [
+            "PMC_Solider"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_HelicopterInside.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P8_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Nonomi",
+            "Hoshino"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P9_S1_DESC]",
+          "character": [
+            "Shiroko"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_CS_PV4_001.jpg",
+            "BG_CS_PV4_002.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P10_S1_DESC]",
+          "character": [
+            "Nonomi",
+            "Hoshino",
+            "Serika",
+            "Ayane"
+          ],
+          "track": [
+            "OST_122"
+          ],
+          "background": [
+            "BG_CommitteeRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_1_8_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_1_8_P11_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": [
+            "BG_CS_PV4_001_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}
