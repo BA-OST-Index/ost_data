@@ -1,0 +1,142 @@
+{
+  "uuid": "e3947d2e-1ecb-4dca-b70a-36610bb8f70f",
+  "filetype": 15,
+  "name": "[STORY_BOND_YUUKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_YUUKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "Yuuka",
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV15k4y1a7QZ?p=4",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_BOND_YUUKA_4_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_YUUKA_4_P1_S1_DESC]",
+          "character": [
+            "Yuuka"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": true
+    },
+    {
+      "name": "[STORY_BOND_YUUKA_4_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 31
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_YUUKA_4_P2_S1_DESC]",
+          "character": [
+            "Yuuka"
+          ],
+          "track": [
+            "OST_16"
+          ],
+          "background": [
+            "BG_ClassRoom2_Night.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_YUUKA_4_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 57
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_YUUKA_4_P3_S1_DESC]",
+          "character": [
+            "Yuuka"
+          ],
+          "track": [],
+          "background": [
+            "BG_ClassRoom2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    },
+    {
+      "name": "[STORY_BOND_YUUKA_4_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 75
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_BOND_YUUKA_4_P4_S1_DESC]",
+          "character": [
+            "Yuuka"
+          ],
+          "track": [
+            "OST_22"
+          ],
+          "background": [
+            "BG_ClassRoom2.jpg"
+          ]
+        }
+      ],
+      "is_memory": false,
+      "is_momotalk": false
+    }
+  ],
+  "is_memory": false
+}
