@@ -1,0 +1,14 @@
+{
+  "uuid": "f7372c3e-c5e0-46e5-88bd-19aa41291ac5",
+  "filetype": 52,
+  "namespace": "amasrobot",
+
+  "name": "[NPC_AMAS_ROBOT_NAME]",
+  "desc": "[NPC_AMAS_ROBOT_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Millennium_Amas_SMG_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "9226c12b-6834-437d-b2a1-5a7ca9dcb271",
+  "filetype": 52,
+  "namespace": "kaitenger",
+
+  "name": "[NPC_KAITENGER_NAME]",
+  "desc": "[NPC_KAITENGER_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kaitenger_Collection.webp",
+    "short_desc": ""
+  }
+}

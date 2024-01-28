@@ -1,0 +1,14 @@
+{
+  "uuid": "35b80b38-7b8d-4556-a108-22fd0d65ce9b",
+  "filetype": 52,
+  "namespace": "memberofhotspringsdepartment",
+
+  "name": "[NPC_MEMBER_OF_THE_HOT_SPRINGS_DEPARTMENT_NAME]",
+  "desc": "[NPC_MEMBER_OF_THE_HOT_SPRINGS_DEPARTMENT_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Hot_Spring_Soldier_Portrait.webp",
+    "short_desc": ""
+  }
+}

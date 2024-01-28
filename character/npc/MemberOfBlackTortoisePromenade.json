@@ -1,0 +1,14 @@
+{
+  "uuid": "47acb911-1698-4d2f-9847-847e766e0c0e",
+  "filetype": 52,
+  "namespace": "memberofblacktortoisepromenade",
+
+  "name": "[NPC_MEMBER_OF_BLACK_TORTOISE_PROMENADE_NAME]",
+  "desc": "[NPC_MEMBER_OF_BLACK_TORTOISE_PROMENADE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Genbu_Store_Cook_Portrait.webp",
+    "short_desc": ""
+  }
+}

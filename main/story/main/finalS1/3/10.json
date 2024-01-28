@@ -562,10 +562,24 @@
             "Himari"
           ],
           "track": [
-            "BG_UtnapishtimBridge_V2_2.jpg"
+            "OST_150"
           ],
           "background": [
-            "//"
+            "BG_UtnapishtimBridge_V2_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P13_S2_DESC]",
+          "character": [],
+          "track": [],
+          "background": [
+            "BG_CS_PV4_071.jpg",
+            "BG_CS_PV4_072.jpg",
+            "BG_CS_S1Final_04.jpg",
+            "BG_CS_S1Final_23.jpg",
+            "BG_CS_PV4_073.jpg",
+            "BG_CS_PV4_076.jpg",
+            "BG_CS_PR_07.jpg"
           ]
         }
       ],

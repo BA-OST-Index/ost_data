@@ -1,0 +1,14 @@
+{
+  "uuid": "8d5cca83-1065-40b2-a4a3-68d3d82a18e7",
+  "filetype": 52,
+  "namespace": "rabu",
+
+  "name": "[NPC_RABU_NAME]",
+  "desc": "[NPC_RABU_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Rabu_Portrait.webp",
+    "short_desc": ""
+  }
+}

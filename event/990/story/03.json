@@ -1,5 +1,5 @@
 {
-  "uuid": "e16c2c83-c0fc-4fe7-a412-17d78ca4623c",
+  "uuid": "8eebc95c-30ce-47b6-93c0-c04454498061",
   "filetype": 14,
   "name": "[STORY_EVENT_990_3_NAME]",
   "desc": [
@@ -20,7 +20,7 @@
     "zh_tw": [
       {
         "platform": 2,
-        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=23",
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=24",
         "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
       }
     ],
@@ -44,28 +44,17 @@
         {
           "desc": "[STORY_EVENT_990_3_P1_S1_DESC]",
           "character": [
-            "Eimi",
-            "Ichika",
-            "Karin",
-            "Akane"
+            "Yuzu",
+            "Hina",
+            "Aris"
           ],
           "track": [
-            "OST_48"
+            "OST_56"
           ],
           "background": [
-            "BG_DestructionFront.jpg"
-          ]
-        },
-        {
-          "desc": "[STORY_EVENT_990_3_P1_S2_DESC]",
-          "character": [
-            "OST_48"
-          ],
-          "track": [
-            "BG_CS_PV4_052.jpg"
-          ],
-          "background": [
-            "--"
+            "BG_Amusement_Erode.jpg",
+            "BG_CS_Millenium_02.jpg",
+            "BG_CS_Millenium_02.jpg"
           ]
         }
       ],
@@ -77,7 +66,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 96
+            "timestamp": 21
           }
         ],
         "zh_cn_cn": [],
@@ -87,17 +76,17 @@
         {
           "desc": "[STORY_EVENT_990_3_P2_S1_DESC]",
           "character": [
-            "Neru",
-            "Cherino",
-            "Asuna",
-            "Eimi",
-            "Karin",
-            "Tsurugi",
-            "Akane",
-            "MemberOfRedWinterOffice"
+            "Hina",
+            "Aris",
+            "Miyako",
+            "Miyu",
+            "Moe",
+            "Saki",
+            "Momoi",
+            "Midori"
           ],
           "track": [
-            "OST_48"
+            "OST_56"
           ],
           "background": []
         }
@@ -110,7 +99,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 272
+            "timestamp": 117
           }
         ],
         "zh_cn_cn": [],
@@ -120,10 +109,10 @@
         {
           "desc": "[STORY_EVENT_990_3_P3_S1_DESC]",
           "character": [
-            "Momoka"
+            "Ayumu"
           ],
           "track": [
-            "OST_65"
+            "OST_12"
           ],
           "background": [
             "BG_HQ_Erode.jpg"

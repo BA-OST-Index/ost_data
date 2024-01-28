@@ -1,5 +1,5 @@
 {
-  "uuid": "32240b7f-3910-4da0-97f0-e7f0b510c831",
+  "uuid": "72d7109f-949f-4857-929b-a480690c5060",
   "filetype": 14,
   "name": "[STORY_EVENT_990_8_NAME]",
   "desc": [
@@ -20,7 +20,7 @@
     "zh_tw": [
       {
         "platform": 2,
-        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=28",
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=29",
         "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
       }
     ],
@@ -43,41 +43,17 @@
       "data": [
         {
           "desc": "[STORY_EVENT_990_8_P1_S1_DESC]",
-          "character": [],
-          "track": [
-            "OST_98"
-          ],
-          "background": [
-            "BG_CityOffice_Ruin.jpg"
-          ]
-        },
-        {
-          "desc": "[STORY_EVENT_990_8_P1_S2_DESC]",
           "character": [
-            "Hifumi",
-            "Azusa"
+            "Ayumu",
+            "Momoka",
+            "Himari",
+            "Rin"
           ],
           "track": [
-            "OST_98"
+            "OST_101"
           ],
           "background": [
-            "BG_CS_PV4_061.jpg",
-            "BG_CityOffice_Ruin.jpg"
-          ]
-        },
-        {
-          "desc": "[STORY_EVENT_990_8_P1_S3_DESC]",
-          "character": [
-            "Haruna",
-            "Junko",
-            "Izumi",
-            "Akari"
-          ],
-          "track": [
-            "OST_98"
-          ],
-          "background": [
-            "BG_CS_PV4_060.jpg"
+            "BG_HQ_Erode.jpg"
           ]
         }
       ],
@@ -89,7 +65,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 80
+            "timestamp": 21
           }
         ],
         "zh_cn_cn": [],
@@ -99,22 +75,19 @@
         {
           "desc": "[STORY_EVENT_990_8_P2_S1_DESC]",
           "character": [
-            "Haruna",
-            "Akari",
-            "Junko",
-            "Izumi",
-            "Fuuka",
-            "Juri",
-            "Azusa",
-            "Hifumi"
+            "Himari",
+            "Eimi",
+            "Chihiro"
           ],
           "track": [
-            "OST_98"
+            "OST_68"
           ],
-          "background": []
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
         }
       ],
-      "is_battle": true
+      "is_battle": false
     },
     {
       "name": "[STORY_EVENT_990_8_P3_NAME]",
@@ -122,7 +95,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 260
+            "timestamp": 94
           }
         ],
         "zh_cn_cn": [],
@@ -132,15 +105,113 @@
         {
           "desc": "[STORY_EVENT_990_8_P3_S1_DESC]",
           "character": [
-            "Ayumu",
-            "Momoka",
-            "Rin"
+            "Kaitenger"
           ],
           "track": [
-            "OST_12"
+            "OST_78"
           ],
           "background": [
-            "BG_SchaleOperationRoom2.jpg",
+            "BG_CityOffice_Ruin.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_990_8_P3_S2_DESC]",
+          "character": [
+            "Himari",
+            "Chihiro",
+            "Eimi"
+          ],
+          "track": [
+            "OST_78"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_990_8_P3_S3_DESC]",
+          "character": [
+            "Hifumi",
+            "Azusa"
+          ],
+          "track": [
+            "OST_78"
+          ],
+          "background": [
+            "BG_CS_PV4_061.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_990_8_P3_S4_DESC]",
+          "character": [
+            "Kaitenger",
+            "Junko",
+            "Izumi",
+            "Haruna",
+            "Akari"
+          ],
+          "track": [
+            "OST_72"
+          ],
+          "background": [
+            "BG_CityOffice_Ruin.jpg",
+            "BG_CS_PV4_062.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_990_8_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 183
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_8_P4_S1_DESC]",
+          "character": [
+            "Kaitenger"
+          ],
+          "track": [
+            "OST_151"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_EVENT_990_8_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 340
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_8_P5_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_40"
+          ],
+          "background": [
+            "BG_CS_S1Final_05.jpg",
             "BG_HQ_Erode.jpg"
           ]
         }

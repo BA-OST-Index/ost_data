@@ -1,0 +1,14 @@
+{
+  "uuid": "249ae87f-d37d-416b-8eab-e0d2eeb75fcb",
+  "filetype": 52,
+  "namespace": "memberofjusticetaskforce",
+
+  "name": "[NPC_MEMBER_OF_JUSTICE_TASK_FORCE_NAME]",
+  "desc": "[NPC_MEMBER_OF_JUSTICE_TASK_FORCE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Justice_Task_Force_Member_Portrait.webp",
+    "short_desc": ""
+  }
+}

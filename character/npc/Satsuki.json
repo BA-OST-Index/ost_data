@@ -1,0 +1,14 @@
+{
+  "uuid": "7dc2be7c-2158-4a1d-b8c0-fd9279eea52a",
+  "filetype": 52,
+  "namespace": "satsuki",
+
+  "name": "[NPC_SATSUKI_NAME]",
+  "desc": "[NPC_SATSUKI_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Satsuki_Portrait.webp",
+    "short_desc": ""
+  }
+}

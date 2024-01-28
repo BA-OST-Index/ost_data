@@ -1,0 +1,23 @@
+{
+  "uuid": "18fe0751-2f41-43aa-9642-494950884641",
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_991_STORY_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": true
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

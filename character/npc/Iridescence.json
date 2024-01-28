@@ -1,0 +1,14 @@
+{
+  "uuid": "31ccbf09-fc5f-4946-a0fd-e3a632b72151",
+  "filetype": 52,
+  "namespace": "iridescence",
+
+  "name": "[NPC_IRIDESCENCE_NAME]",
+  "desc": "[NPC_IRIDESCENCE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_CS_S1Final_20.jpg",
+    "short_desc": ""
+  }
+}

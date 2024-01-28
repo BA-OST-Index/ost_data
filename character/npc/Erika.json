@@ -1,0 +1,14 @@
+{
+  "uuid": "de6c6260-1b90-482a-992a-471217720452",
+  "filetype": 52,
+  "namespace": "erika",
+
+  "name": "[NPC_ERIKA_NAME]",
+  "desc": "[NPC_ERIKA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Erika_Portrait.webp",
+    "short_desc": ""
+  }
+}

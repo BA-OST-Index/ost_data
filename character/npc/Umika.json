@@ -1,0 +1,14 @@
+{
+  "uuid": "b41fb886-c3b3-402f-92e8-4ca14d0b3668",
+  "filetype": 52,
+  "namespace": "umika",
+
+  "name": "[NPC_UMIKA_NAME]",
+  "desc": "[NPC_UMIKA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Umika_Portrait.webp",
+    "short_desc": ""
+  }
+}

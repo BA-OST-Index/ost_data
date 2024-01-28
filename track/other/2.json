@@ -1,0 +1,74 @@
+{
+  "uuid": "e858a60c-129b-41c7-a87f-c5f8e3ccf6a8",
+
+  "name":{
+    "realname": "[OTHER_2_NAME]",
+    "known_as": []
+  },
+  "desc": "[OTHER_2_DESC]",
+
+  "release_date": 1678492800,
+  "no": 2,
+  "track_type": 3,
+  "duration": 298,
+  "filetype": 4,
+
+  "composer": {
+    "composer_id": 1
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=LT7g8Ul-yRI",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    },
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=rC6l-oTe13k",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[TRACK_VERSION_OFFICE_ENGLISH]",
+      "is_main": false
+    }
+  ],
+
+  "stats": {
+    "is_ba": true,
+    "is_jp": true,
+    "is_global": true,
+    "is_cn": false,
+    "is_segment": false,
+    "is_sub": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

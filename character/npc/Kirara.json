@@ -1,0 +1,14 @@
+{
+  "uuid": "2b831ee5-688f-4e8a-a137-dfe628e1922b",
+  "filetype": 52,
+  "namespace": "Kirara",
+
+  "name": "[NPC_KIRARA_NAME]",
+  "desc": "[NPC_KIRARA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Kirara_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "uuid": "29b709af-3764-4823-9dbb-d189fd24ef83",
+  "filetype": 52,
+  "namespace": "plana",
+
+  "name": "[NPC_PLANA_NAME]",
+  "desc": "[NPC_PLANA_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Plana_Portrait.webp",
+    "short_desc": ""
+  }
+}

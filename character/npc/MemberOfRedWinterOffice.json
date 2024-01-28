@@ -1,0 +1,14 @@
+{
+  "uuid": "06b869f7-20ca-49da-8fe4-20da131b5df2",
+  "filetype": 52,
+  "namespace": "memberofredwinteroffice",
+
+  "name": "[NPC_MEMBER_OF_RED_WINTER_OFFICE_NAME]",
+  "desc": "[NPC_MEMBER_OF_RED_WINTER_OFFICE_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Red_Winter_Guard_Portrait.webp",
+    "short_desc": ""
+  }
+}

@@ -273,7 +273,7 @@
           "desc": "[STORY_MAIN_finalS1_3_9_P8_S1_DESC]",
           "character": [
             "Seia",
-            "Miki",
+            "Mika",
             "Nagisa"
           ],
           "track": [
@@ -311,7 +311,7 @@
             "OST_135"
           ],
           "background": [
-            "BG_{snSRT}CampSite_Night.jpg"
+            "BG_SRTCampSite_Night.jpg"
           ]
         }
       ],

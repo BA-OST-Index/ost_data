@@ -1,0 +1,14 @@
+{
+  "uuid": "5d7c90fd-f770-497c-aa9e-7207aebe5444",
+  "filetype": 52,
+  "namespace": "memberofprefectteam",
+
+  "name": "[NPC_MEMBER_OF_PREFECT_TEAM_NAME]",
+  "desc": "[NPC_MEMBER_OF_PREFECT_TEAM_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Gehenna_Fuuki_Soldier_Portrait.webp",
+    "short_desc": ""
+  }
+}

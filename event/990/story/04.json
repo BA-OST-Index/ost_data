@@ -1,5 +1,5 @@
 {
-  "uuid": "8eebc95c-30ce-47b6-93c0-c04454498061",
+  "uuid": "3730564a-e7e2-459f-86fe-3631d89d6428",
   "filetype": 14,
   "name": "[STORY_EVENT_990_4_NAME]",
   "desc": [
@@ -20,7 +20,7 @@
     "zh_tw": [
       {
         "platform": 2,
-        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=24",
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=25",
         "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
       }
     ],
@@ -44,17 +44,30 @@
         {
           "desc": "[STORY_EVENT_990_4_P1_S1_DESC]",
           "character": [
-            "Yuzu",
-            "Hina",
-            "Aris"
+            "Mine",
+            "Hanako",
+            "Sakurako"
           ],
           "track": [
-            "OST_56"
+            "OST_85"
           ],
           "background": [
-            "BG_Amusement_Erode.jpg",
-            "BG_CS_Millenium_02.jpg",
-            "BG_CS_Millenium_02.jpg"
+            "BG_CS_PV4_054.jpg",
+            "BG_CS_PV4_056.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_990_4_P1_S2_DESC]",
+          "character": [
+            "Saori",
+            "Atsuko"
+          ],
+          "track": [
+            "OST_85"
+          ],
+          "background": [
+            "BG_RuinInside.jpg",
+            "BG_CS_PV4_055.jpg"
           ]
         }
       ],
@@ -66,7 +79,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 21
+            "timestamp": 53
           }
         ],
         "zh_cn_cn": [],
@@ -76,17 +89,16 @@
         {
           "desc": "[STORY_EVENT_990_4_P2_S1_DESC]",
           "character": [
-            "Hina",
-            "Aris",
-            "Miyako",
-            "Miyu",
-            "Moe",
-            "Saki",
-            "Momoi",
-            "Midori"
+            "Mine",
+            "Hinata",
+            "Saori",
+            "Atsuko",
+            "Serina",
+            "Hiyori",
+            "Misaki"
           ],
           "track": [
-            "OST_56"
+            "OST_85"
           ],
           "background": []
         }
@@ -99,7 +111,7 @@
         "en": [],
         "zh_tw": [
           {
-            "timestamp": 117
+            "timestamp": 212
           }
         ],
         "zh_cn_cn": [],
@@ -109,7 +121,7 @@
         {
           "desc": "[STORY_EVENT_990_4_P3_S1_DESC]",
           "character": [
-            "Ayumu"
+            "Rin"
           ],
           "track": [
             "OST_12"

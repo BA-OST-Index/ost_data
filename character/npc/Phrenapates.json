@@ -1,0 +1,14 @@
+{
+  "uuid": "d44a3ad7-d4cb-4f10-8c68-268ab2d78f4e",
+  "filetype": 52,
+  "namespace": "phrenapates",
+
+  "name": "[NPC_PHRENAPATES_NAME]",
+  "desc": "[NPC_PHRENAPATES_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Phrenapates_Portrait.webp",
+    "short_desc": ""
+  }
+}

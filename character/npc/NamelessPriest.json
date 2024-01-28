@@ -1,0 +1,14 @@
+{
+  "uuid": "0bf00a38-3449-4014-a081-18e6f7bf4d35",
+  "filetype": 52,
+  "namespace": "namelesspriest",
+
+  "name": "[NPC_NAMELESS_PRIEST_NAME]",
+  "desc": "[NPC_NAMELESS_PRIEST_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Nameless_Priest_Portrait.webp",
+    "short_desc": ""
+  }
+}

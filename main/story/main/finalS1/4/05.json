@@ -54,7 +54,7 @@
             "OST_76"
           ],
           "background": [
-            "--"
+            "BG_UtnapishtimBridge_V5.jpg"
           ]
         }
       ],
@@ -62,6 +62,36 @@
     },
     {
       "name": "[STORY_MAIN_finalS1_4_5_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 29
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_5_P2_S1_DESC]",
+          "character": [
+            "Toki",
+            "Rio",
+            "Himari"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_RuinCity_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_5_P3_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -74,7 +104,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P2_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P3_S1_DESC]",
           "character": [
             "Rio",
             "Toki",
@@ -92,7 +122,7 @@
       "is_battle": false
     },
     {
-      "name": "[STORY_MAIN_finalS1_4_5_P3_NAME]",
+      "name": "[STORY_MAIN_finalS1_4_5_P4_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -105,7 +135,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P3_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P4_S1_DESC]",
           "character": [
             "Toki",
             "Rio"
@@ -122,7 +152,7 @@
       "is_battle": false
     },
     {
-      "name": "[STORY_MAIN_finalS1_4_5_P4_NAME]",
+      "name": "[STORY_MAIN_finalS1_4_5_P5_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -135,7 +165,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P4_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P5_S1_DESC]",
           "character": [
             "Toki",
             "Asuna",
@@ -156,7 +186,7 @@
       "is_battle": false
     },
     {
-      "name": "[STORY_MAIN_finalS1_4_5_P5_NAME]",
+      "name": "[STORY_MAIN_finalS1_4_5_P6_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -169,7 +199,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P5_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P6_S1_DESC]",
           "character": [
             "Noa",
             "Rio",
@@ -186,7 +216,7 @@
       "is_battle": false
     },
     {
-      "name": "[STORY_MAIN_finalS1_4_5_P6_NAME]",
+      "name": "[STORY_MAIN_finalS1_4_5_P7_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -199,7 +229,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P6_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P7_S1_DESC]",
           "character": [
             "Rio",
             "Yuuka",
@@ -216,7 +246,7 @@
       "is_battle": false
     },
     {
-      "name": "[STORY_MAIN_finalS1_4_5_P7_NAME]",
+      "name": "[STORY_MAIN_finalS1_4_5_P8_NAME]",
       "source": {
         "en": [],
         "zh_tw": [
@@ -229,7 +259,7 @@
       },
       "data": [
         {
-          "desc": "[STORY_MAIN_finalS1_4_5_P7_S1_DESC]",
+          "desc": "[STORY_MAIN_finalS1_4_5_P8_S1_DESC]",
           "character": [
             "Himari",
             "Rio",

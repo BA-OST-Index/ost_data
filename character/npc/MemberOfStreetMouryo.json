@@ -1,0 +1,14 @@
+{
+  "uuid": "5f2d24ab-b202-41d4-941f-8d76307d415e",
+  "filetype": 52,
+  "namespace": "memberofstreetmouryo",
+
+  "name": "[NPC_MEMBER_OF_STREET_MOURYO_NAME]",
+  "desc": "[NPC_MEMBER_OF_STREET_MOURYO_DESC]",
+
+  "image": {
+    "platform": -1,
+    "value": "/static/images/npc/Street_Ghost_Yukata_RL_Portrait.webp",
+    "short_desc": ""
+  }
+}
