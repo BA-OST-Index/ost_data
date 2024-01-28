@@ -1,0 +1,138 @@
+{
+  "uuid": "59e06ba5-cc21-4ba7-a707-a428bf98c990",
+  "filetype": 14,
+  "name": "[STORY_EVENT_990_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_990_6_DESC_1]",
+    "[STORY_EVENT_990_6_DESC_2]"
+  ],
+  "pos": {
+    "event_id": 990,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=26",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_990_6_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_6_P1_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Noa",
+            "Koyuki"
+          ],
+          "track": [
+            "OST_100"
+          ],
+          "background": [
+            "BG_CS_PV4_057.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_990_6_P1_S2_DESC]",
+          "character": [
+            "Chihiro",
+            "Kasumi",
+            "Megu"
+          ],
+          "track": [
+            "OST_100"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg",
+            "BG_CS_PV4_059.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_990_6_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 42
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_6_P2_S1_DESC]",
+          "character": [
+            "Megu",
+            "Yuuka",
+            "Noa",
+            "Chihiro",
+            "Hare",
+            "Koyuki",
+            "MemberOfHotSpringsDepartment"
+          ],
+          "track": [
+            "OST_100"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_EVENT_990_6_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 232
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_6_P3_S1_DESC]",
+          "character": [
+            "Momoka"
+          ],
+          "track": [
+            "OST_12"
+          ],
+          "background": [
+            "BG_HQ_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

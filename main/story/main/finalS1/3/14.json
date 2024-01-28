@@ -1,0 +1,337 @@
+{
+  "uuid": "5ded321e-dd3a-4e77-be73-a98bbccb5824",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_14_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=14",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P1_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "Momoka",
+            "Rin",
+            "Hanako",
+            "Ako",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg",
+            "BG_CS_PV4_120.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 30
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P2_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "Momoka",
+            "Yuuka",
+            "Himari",
+            "Ako",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg",
+            "BG_UndergroundPassage_Night.jpg",
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 60
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P3_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Ayane",
+            "Nonomi",
+            "Serika"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 80
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P4_S1_DESC]",
+          "character": [
+            "Haruna",
+            "Junko",
+            "Fuuka",
+            "Ako",
+            "Akari",
+            "Izumi"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg",
+            "BG_InSideTank.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 109
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P5_S1_DESC]",
+          "character": [
+            "Yuzu",
+            "Yuuka",
+            "Midori",
+            "Momoi"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_UndergroundPassage_Night.jpg",
+            "BG_PowerRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 143
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P6_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_149"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 147
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P7_S1_DESC]",
+          "character": [
+            "Haruna",
+            "Junko",
+            "Akari",
+            "Izumi",
+            "Fuuka"
+          ],
+          "track": [
+            "OST_19"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 192
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P8_S1_DESC]",
+          "character": [
+            "Yuzu",
+            "Momoi",
+            "Midori"
+          ],
+          "track": [
+            "OST_19"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 269
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P9_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Nonomi",
+            "Serika"
+          ],
+          "track": [
+            "OST_19"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_14_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 362
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_14_P10_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Nonomi",
+            "Serika"
+          ],
+          "track": [
+            "OST_20"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

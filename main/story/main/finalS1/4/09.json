@@ -1,0 +1,335 @@
+{
+  "uuid": "5d2484a1-4d18-495e-920c-ec105e55103a",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_4_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_4_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 4,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1B94y1x75F/?p=10",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P1_S1_DESC]",
+          "character": [
+            "Shinon"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_CS_PV3_02.jpg",
+            "BG_CS_S1Final_83.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 47
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P2_S1_DESC]",
+          "character": [
+            "Shinon"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_CS_S1Final_83.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 103
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P3_S1_DESC]",
+          "character": [
+            "Shinon"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_CS_S1Final_83.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 112
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P4_S1_DESC]",
+          "character": [
+            "Mai"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_CS_S1Final_83.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 125
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P5_S1_DESC]",
+          "character": [
+            "Kaya",
+            "PMC_General"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_DrawingRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 170
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P6_S1_DESC]",
+          "character": [
+            "Momoi",
+            "Midori",
+            "Yuzu",
+            "Aris"
+          ],
+          "track": [
+            "OST_64"
+          ],
+          "background": [
+            "BG_GameDevRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 214
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P7_S1_DESC]",
+          "character": [
+            "Momoi",
+            "Midori",
+            "Yuzu",
+            "Aris"
+          ],
+          "track": [
+            "OST_64",
+            "OST_61"
+          ],
+          "background": [
+            "BG_GameDevRoom.jpg",
+            "BG_CS_Millenium_02.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 258
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P8_S1_DESC]",
+          "character": [
+            "Toki",
+            "Eimi",
+            "Momoi",
+            "Midori",
+            "Yuzu",
+            "Aris"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 308
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P9_S1_DESC]",
+          "character": [
+            "Himari",
+            "Aris",
+            "Momoi",
+            "Midori"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_9_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 359
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_9_P10_S1_DESC]",
+          "character": [
+            "Himari",
+            "Aris",
+            "Yuzu",
+            "Midori",
+            "Momoi"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

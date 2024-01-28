@@ -1,0 +1,344 @@
+{
+  "uuid": "405527cf-264e-4bcd-bff2-3e1e78c60044",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_4_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_4_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 4,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1B94y1x75F/?p=1",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P1_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_CS_PV4_008_2.jpg",
+            "BG_RiversideRoad_Erode.jpg",
+            "BG_Park_Erode.jpg",
+            "BG_RuinCity_Erode.jpg",
+            "BG_RailWay_Erode.jpg",
+            "BG_Wilderness_Erode.jpg",
+            "BG_View_Atrahasis_erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 20
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P2_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Himari"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_CS_PV4_131.jpg",
+            "BG_CS_PV4_130.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 41
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P3_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Ako",
+            "Kayoko",
+            "Himari"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P3_S2_DESC]",
+          "character": [
+            "Chihiro",
+            "Maki",
+            "Kotama",
+            "Hare"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_ComputerCenter_Erode.jpg",
+            "BG_UtnapishtimBridge_V6.jpg",
+            "BG_CS_PV4_132.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P3_S3_DESC]",
+          "character": [
+            "Himari",
+            "Rin",
+            "Ayumu",
+            "Momoka"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 112
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P4_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "ShirokoTerror",
+            "Plana"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_CS_PV4_144.jpg",
+            "BG_CS_PV4_149.jpg",
+            "BG_CS_S1Final_34.jpg",
+            "BG_CS_S1Final_35.jpg",
+            "BG_CS_PV4_150.jpg",
+            "BG_CS_PV4_144_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P4_S2_DESC]",
+          "character": [
+            "Arona",
+            "Plana"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg",
+            "BG_CS_PV4_144_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 214
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P5_S1_DESC]",
+          "character": [
+            "Plana",
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_CS_PV4_144_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P5_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 277
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P6_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Shiroko",
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_144_2.jpg",
+            "BG_CS_S1Final_04.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 317
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P7_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_151.jpg",
+            "BG_CS_PV4_153.jpg",
+            "BG_CS_PV4_146.jpg",
+            "BG_CS_PV4_147.jpg",
+            "BG_CS_PV4_154.jpg",
+            "BG_CS_PV4_155_2.jpg",
+            "BG_CS_PV4_155.jpg",
+            "BG_CS_PV4_144_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_1_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 363
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_1_P8_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "ShirokoTerror",
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_144_2.jpg",
+            "BG_CS_PV4_152.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

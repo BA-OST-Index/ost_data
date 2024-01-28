@@ -1,0 +1,91 @@
+{
+  "uuid": "56ba9b13-678d-40d3-96d7-6d0b8113eba5",
+  "filetype": 14,
+  "name": "[STORY_EVENT_822_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_822_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 822,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=18",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_822_4_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_4_P1_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu",
+            "ShirokoTerror",
+            "Hoshino",
+            "Ayane",
+            "Serika",
+            "Nonomi"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_128_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_4_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 46
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_4_P2_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_101"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

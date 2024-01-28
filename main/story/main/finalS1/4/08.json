@@ -1,0 +1,253 @@
+{
+  "uuid": "661a2432-36dc-462e-809c-88d64818b3b0",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_4_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_4_8_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 4,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1B94y1x75F/?p=9",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P1_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_CS_PV4_074.jpg",
+            "BG_CS_PV4_074_3.jpg",
+            "BG_CS_PV4_075.jpg",
+            "BG_CS_S1Final_74.jpg",
+            "BG_CS_S1Final_75.jpg",
+            "BG_CS_PV3_77.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 91
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P2_S1_DESC]",
+          "character": [
+            "Arona",
+            "Plana"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_CS_PV4_074.jpg",
+            "BG_CS_PV4_161.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 126
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P3_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Shiroko"
+          ],
+          "track": [],
+          "background": [
+            "BG_ForestRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 200
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P4_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Shiroko"
+          ],
+          "track": [
+            "OST_162"
+          ],
+          "background": [
+            "BG_CS_S1Final_76.jpg",
+            "BG_CS_S1Final_76_2.jpg",
+            "BG_CS_S1Final_76_3.jpg",
+            "BG_CS_S1Final_76_4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 247
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P5_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_162"
+          ],
+          "background": [
+            "BG_ForestRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 288
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P6_S1_DESC]",
+          "character": [
+            "Plana",
+            "Arona"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_CS_PV4_161.jpg",
+            "BG_CS_PV4_074.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_8_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 354
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_8_P7_S1_DESC]",
+          "character": [
+            "Arona",
+            "Plana"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_CS_S1Final_77.jpg",
+            "BG_CS_S1Final_78.jpg",
+            "BG_CS_S1Final_79.jpg",
+            "BG_CS_S1Final_80.jpg",
+            "BG_CS_S1Final_81.jpg",
+            "BG_CS_S1Final_82.jpg",
+            "BG_CS_PV4_074_3.jpg",
+            "BG_CS_PV4_074_4.jpg",
+            "BG_CS_PV4_074_4_En.jpg",
+            "BG_CS_PV4_074_4_Th.jpg",
+            "BG_CS_PV4_074_4_Tw.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "0abfc8db-d305-4415-8e2e-4b26c5623b8a",
+  "filetype": 14,
+  "name": "[STORY_EVENT_991_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_991_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 991,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=7",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_991_1_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_1_P1_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_FrenapatisLobby.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

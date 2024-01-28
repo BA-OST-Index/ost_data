@@ -1,0 +1,211 @@
+{
+  "uuid": "6bc91dd9-bfc7-439a-bbd7-f082d128e78d",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_2_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_2_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 2,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=6",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P1_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Maki",
+            "Nonomi",
+            "Hoshino",
+            "Serika",
+            "Kayoko",
+            "Mutsuki",
+            "Haruka",
+            "Aru"
+          ],
+          "track": [
+            "OST_49"
+          ],
+          "background": [
+            "BG_RailWay_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 32
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P2_S1_DESC]",
+          "character": [
+            "Haruka",
+            "Kayoko",
+            "Mutsuki",
+            "Aru"
+          ],
+          "track": [
+            "OST_49"
+          ],
+          "background": [
+            "BG_RailWay_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 60
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P3_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_148"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 78
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P4_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Serika",
+            "Nonomi",
+            "Ayane"
+          ],
+          "track": [
+            "OST_68"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 130
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P5_S1_DESC]",
+          "character": [
+            "Aru",
+            "Haruka",
+            "Mutsuki",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_68"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_6_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 183
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_6_P6_S1_DESC]",
+          "character": [
+            "Aru",
+            "Haruka",
+            "Mutsuki",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_20"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

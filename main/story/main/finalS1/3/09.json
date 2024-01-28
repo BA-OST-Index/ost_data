@@ -1,0 +1,449 @@
+{
+  "uuid": "bf22f06a-b7e0-49bb-ab89-ad3e82b4ae36",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=9",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P1_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Noa"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_BuildingCorridor.jpg",
+            "BG_Milleniumclub_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 34
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P2_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Hoshino",
+            "Serika",
+            "Nonomi"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CommitteeRoom_Night2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 72
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P3_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Nonomi",
+            "Mutsuki",
+            "Haruka",
+            "Kayoko",
+            "Aru"
+          ],
+          "track": [
+            "OST_45"
+          ],
+          "background": [
+            "BG_CommitteeRoom_Night2.jpg",
+            "BG_CS_Abydos_03.jpg",
+            "BG_Bank.jpg",
+            "BG_CS_Abydos_06.jpg",
+            "BG_CS_Abydos_08.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 166
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P4_S1_DESC]",
+          "character": [
+            "Midori",
+            "Momoi",
+            "Yuzu",
+            "Aris"
+          ],
+          "track": [
+            "OST_67"
+          ],
+          "background": [
+            "BG_Ward_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 291
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P5_S1_DESC]",
+          "character": [
+            "Aris",
+            "Yuzu",
+            "Momoi",
+            "Midori"
+          ],
+          "track": [
+            "OST_140",
+            "other_1"
+          ],
+          "background": [
+            "BG_Ward_Night.jpg",
+            "BG_RuinCenter.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 385
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P6_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Hifumi",
+            "Azusa",
+            "Koharu"
+          ],
+          "track": [
+            "OST_21"
+          ],
+          "background": [
+            "BG_TrinityClassRoom2_Night.jpg",
+            "BG_TrinityClassRoom.jpg",
+            "BG_CS_Trinity_03.jpg",
+            "BG_CS_Trinity_04.jpg",
+            "BG_CS_Trinity_15.jpg",
+            "BG_CS_Trinity_16.jpg",
+            "BG_CS_Trinity_17.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 452
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P7_S1_DESC]",
+          "character": [
+            "Hina",
+            "Ako"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_GehennaClubRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 467
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P8_S1_DESC]",
+          "character": [
+            "Seia",
+            "Miki",
+            "Nagisa"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_TrinityTerrace_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 513
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P9_S1_DESC]",
+          "character": [
+            "Miyu",
+            "Miyako",
+            "Saki",
+            "Moe"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_{snSRT}CampSite_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 545
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P10_S1_DESC]",
+          "character": [
+            "Misaki",
+            "Saori",
+            "Atsuko",
+            "Hiyori"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_CathedralRuins_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 602
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P11_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_PV4_102.jpg",
+            "BG_CS_PV4_104.jpg",
+            "BG_CS_PV4_103.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P11_S2_DESC]",
+          "character": [
+            "Ayumu",
+            "Rin"
+          ],
+          "track": [],
+          "background": [
+            "BG_Ward_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 660
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P12_S1_DESC]",
+          "character": [
+            "Rin",
+            "Aoi"
+          ],
+          "track": [
+            "OST_67"
+          ],
+          "background": [
+            "BG_Ward_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_9_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 720
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_9_P13_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_12"
+          ],
+          "background": [
+            "BG_Ward.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

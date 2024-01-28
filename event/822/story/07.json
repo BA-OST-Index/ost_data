@@ -1,0 +1,308 @@
+{
+  "uuid": "6ca0f0d1-c180-4d53-aa8a-c85989f4f45a",
+  "filetype": 14,
+  "name": "[STORY_EVENT_822_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_822_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 822,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=19",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_822_7_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 153
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P1_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Hoshino",
+            "Ayane",
+            "Serika",
+            "Nonomi"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 180
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P2_S1_DESC]",
+          "character": [
+            "Hoshino"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 190
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P3_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Ayane"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 205
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P4_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Shiroko",
+            "Nonomi",
+            "Serika",
+            "Hoshino"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_CS_Millenium_02.jpg",
+            "BG_CS_PV4_128_2.jpg",
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 284
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P5_S1_DESC]",
+          "character": [
+            "Rin",
+            "Ayumu",
+            "Momoka",
+            "Himari",
+            "Ayane",
+            "Nonomi",
+            "Hoshino",
+            "Serika"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 377
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P6_S1_DESC]",
+          "character": [
+            "Rin",
+            "Ayumu",
+            "Momoka"
+          ],
+          "track": [],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 400
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P7_S1_DESC]",
+          "character": [
+            "Haruna",
+            "Junko",
+            "Akari",
+            "Izumi"
+          ],
+          "track": [
+            "OST_32"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 412
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P8_S1_DESC]",
+          "character": [
+            "Yuzu",
+            "Aris",
+            "Midori",
+            "Momoi"
+          ],
+          "track": [
+            "OST_32"
+          ],
+          "background": [
+            "BG_PowerRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_7_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 429
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_7_P9_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_32"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,275 @@
+{
+  "uuid": "b1574b86-17a7-477a-a6f7-b2891809472d",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=6",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P1_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg",
+            "BG_CS_PV4_067_2.jpg",
+            "BG_CS_PV4_069_2.jpg",
+            "BG_CS_PV4_070_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P1_S2_DESC]",
+          "character": [
+            "Rin",
+            "Himari",
+            "Chihiro"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 56
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P2_S1_DESC]",
+          "character": [
+            "Kotori",
+            "Hibiki",
+            "Utaha",
+            "Aris",
+            "Chihiro"
+          ],
+          "track": [
+            "OST_40"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 84
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P3_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Aris",
+            "Momoi",
+            "Midori",
+            "Yuzu",
+            "Noa"
+          ],
+          "track": [
+            "OST_40"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 164
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P4_S1_DESC]",
+          "character": [
+            "Utaha",
+            "Kotori"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 165
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P5_S1_DESC]",
+          "character": [
+            "Chihiro",
+            "Kotama",
+            "Hare"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P5_S2_DESC]",
+          "character": [
+            "Hanako",
+            "Himari"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 236
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P6_S1_DESC]",
+          "character": [
+            "Himari",
+            "Hanako"
+          ],
+          "track": [
+            "OST_33"
+          ],
+          "background": [
+            "BG_CS_PV4_068_2.jpg",
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_6_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 273
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_6_P7_S1_DESC]",
+          "character": [
+            "ArisKey"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_RuinCenter.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

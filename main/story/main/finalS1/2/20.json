@@ -1,0 +1,238 @@
+{
+  "uuid": "84b62c39-76fd-4d8d-b42b-6dccf92f3ad4",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_2_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_2_20_DESC_1]",
+    "[STORY_MAIN_finalS1_2_20_DESC_2]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 2,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=20",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_2_20_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P1_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "Momoka",
+            "Rin"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_HQ_Erode.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P1_S2_DESC]",
+          "character": [],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_View_Schale_erode.jpg",
+            "BG_BuildingFrontGate.jpg",
+            "BG_Campus.jpg",
+            "BG_CitySqaure.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P1_S3_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki",
+            "Kanna",
+            "StudentOfValkyrie"
+          ],
+          "track": [],
+          "background": [
+            "BG_BuildingFrontGate.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P1_S4_DESC]",
+          "character": [
+            "Rabu"
+          ],
+          "track": [
+            "OST_114"
+          ],
+          "background": [
+            "BG_Campus.jpg",
+            "BG_CitySqaure.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P1_S5_DESC]",
+          "character": [
+            "Wakamo"
+          ],
+          "track": [
+            "OST_114"
+          ],
+          "background": [
+            "BG_BuildingRooftop.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_20_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 60
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P2_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_148"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_20_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 134
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P3_S1_DESC]",
+          "character": [
+            "Kirino",
+            "Fubuki",
+            "Kanna",
+            "MemberOfPublicPeace"
+          ],
+          "track": [
+            "OST_101"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_20_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 260
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P4_S1_DESC]",
+          "character": [
+            "Wakamo",
+            "Rabu"
+          ],
+          "track": [
+            "OST_142"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_20_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 414
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P5_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_142"
+          ],
+          "background": [
+            "BG_CS_PV4_028_2.jpg",
+            "BG_CS_S1Final_05.jpg",
+            "BG_Wilderness_Erode.jpg",
+            "BG_RailWay_Erode.jpg",
+            "BG_AriusCampus.jpg",
+            "BG_DemolitionCity.jpg",
+            "BG_RiversideRoad_Erode.jpg",
+            "BG_EriduCityTown_Erode.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_20_P5_S2_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_142"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

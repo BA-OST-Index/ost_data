@@ -1,0 +1,424 @@
+{
+  "uuid": "54baa71f-41f3-4500-838a-375494d9e65a",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=3",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P1_S1_DESC]",
+          "character": [
+            "Himari",
+            "Chihiro",
+            "Utaha"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 25
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P2_S1_DESC]",
+          "character": [
+            "Himari",
+            "Chihiro",
+            "Utaha"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 52
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P3_S1_DESC]",
+          "character": [
+            "Utaha",
+            "Kotori",
+            "Hibiki",
+            "Chihiro"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_CS_PV4_106_2.jpg",
+            "BG_CS_S1Final_28_2.jpg",
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P3_S2_DESC]",
+          "character": [
+            "Yuuka",
+            "Himari"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 129
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P4_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "Momoka"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_HQ2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P4_S2_DESC]",
+          "character": [
+            "Hanako",
+            "Rin",
+            "Himari"
+          ],
+          "track": [],
+          "background": [
+            "BG_HQ2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 154
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P5_S1_DESC]",
+          "character": [
+            "Shimiko",
+            "Ui",
+            "Sakurako",
+            "Mari",
+            "Nagisa",
+            "Seia",
+            "Hanako",
+            "Himari",
+            "Yuuka",
+            "Ako",
+            "Ayane",
+            "Momoka"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_TrinityOldLibrary.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 226
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P6_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Himari"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_CS_S1Final_28_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 245
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P7_S1_DESC]",
+          "character": [
+            "Himari",
+            "Hanako",
+            "Yuuka",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 285
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P8_S1_DESC]",
+          "character": [
+            "Himari",
+            "Yuuka",
+            "Kayoko",
+            "Hanako",
+            "Ayane"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_SpecialOperationRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 313
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P9_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_HQ2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 331
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P10_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_CS_PV4_003_3.jpg",
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 370
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P11_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_3_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 394
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_3_P12_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

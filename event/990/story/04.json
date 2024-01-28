@@ -1,0 +1,126 @@
+{
+  "uuid": "8eebc95c-30ce-47b6-93c0-c04454498061",
+  "filetype": 14,
+  "name": "[STORY_EVENT_990_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_990_4_DESC_1]",
+    "[STORY_EVENT_990_4_DESC_2]"
+  ],
+  "pos": {
+    "event_id": 990,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=24",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_990_4_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_4_P1_S1_DESC]",
+          "character": [
+            "Yuzu",
+            "Hina",
+            "Aris"
+          ],
+          "track": [
+            "OST_56"
+          ],
+          "background": [
+            "BG_Amusement_Erode.jpg",
+            "BG_CS_Millenium_02.jpg",
+            "BG_CS_Millenium_02.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_990_4_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 21
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_4_P2_S1_DESC]",
+          "character": [
+            "Hina",
+            "Aris",
+            "Miyako",
+            "Miyu",
+            "Moe",
+            "Saki",
+            "Momoi",
+            "Midori"
+          ],
+          "track": [
+            "OST_56"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_EVENT_990_4_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 117
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_990_4_P3_S1_DESC]",
+          "character": [
+            "Ayumu"
+          ],
+          "track": [
+            "OST_12"
+          ],
+          "background": [
+            "BG_HQ_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": true
+}

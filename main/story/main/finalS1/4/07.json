@@ -1,0 +1,268 @@
+{
+  "uuid": "7bea20a3-bb58-40a1-88a7-be9edb98c3e3",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_4_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_4_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 4,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1B94y1x75F/?p=7",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P1_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 20
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P2_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_65_2.jpg",
+            "BG_CS_S1Final_65.jpg",
+            "BG_CS_S1Final_66.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 36
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P3_S1_DESC]",
+          "character": [
+            "Plana"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_PV4_028.jpg",
+            "BG_CS_PV4_029.jpg",
+            "BG_CS_PV4_048.jpg",
+            "BG_CS_PV4_049.jpg",
+            "BG_CS_PV4_051.jpg",
+            "BG_CS_PV4_054.jpg",
+            "BG_CS_PV4_055.jpg",
+            "BG_CS_PV4_057.jpg",
+            "BG_CS_PV4_063.jpg",
+            "BG_CS_PV4_065.jpg",
+            "BG_CS_PV4_127.jpg",
+            "BG_CS_PV4_113.jpg",
+            "BG_CS_PV4_116.jpg",
+            "BG_CS_PV4_118.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 77
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P4_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg",
+            "BG_AronaRoom.jpg",
+            "BG_AbandonedCorridor.jpg",
+            "BG_AbandonedCorridor_Night.jpg",
+            "BG_CathedralRuins.jpg",
+            "BG_CathedralRuins_Night.jpg",
+            "BG_CS_PV4_157.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P4_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg",
+            "BG_CS_PV4_158.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 161
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P5_S1_DESC]",
+          "character": [
+            "Plana",
+            "Arona"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_AronaRoom_Night.jpg",
+            "BG_CS_PV4_158.jpg",
+            "BG_AronaRoom.jpg",
+            "BG_CS_PV4_074.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 251
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P6_S1_DESC]",
+          "character": [
+            "Arona",
+            "Plana"
+          ],
+          "track": [
+            "OST_152"
+          ],
+          "background": [
+            "BG_CS_S1Final_67.jpg",
+            "BG_CS_S1Final_68.jpg",
+            "BG_CS_S1Final_69.jpg",
+            "BG_CS_S1Final_70.jpg",
+            "BG_CS_S1Final_71.jpg",
+            "BG_CS_S1Final_72.jpg",
+            "BG_CS_S1Final_73.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_7_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 345
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_7_P7_S1_DESC]",
+          "character": [],
+          "track": [
+            "other_2"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

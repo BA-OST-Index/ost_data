@@ -1,0 +1,660 @@
+{
+  "uuid": "d6b73c1c-fcef-409c-baef-6b5ac6fe3002",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=21",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P1_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Ako",
+            "Hanako",
+            "Kayoko",
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 21
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P2_S1_DESC]",
+          "character": [
+            "Hare",
+            "Kotama",
+            "Maki",
+            "Chihiro"
+          ],
+          "track": [
+            "OST_27"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P2_S2_DESC]",
+          "character": [
+            "Rio",
+            "Himari"
+          ],
+          "track": [],
+          "background": [
+            "BG_BigSisterRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 53
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P3_S1_DESC]",
+          "character": [
+            "Chihiro",
+            "Kotama",
+            "Maki",
+            "Hare"
+          ],
+          "track": [
+            "OST_149"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P3_S2_DESC]",
+          "character": [
+            "Yuuka",
+            "Ako",
+            "Hanako",
+            "Kayoko"
+          ],
+          "track": [],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg",
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 105
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P4_S1_DESC]",
+          "character": [
+            "Chihiro",
+            "Maki",
+            "Hare",
+            "Kotama"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P4_S2_DESC]",
+          "character": [
+            "Ayumu",
+            "Kotama",
+            "Rin",
+            "Yuuka",
+            "Himari"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg",
+            "BG_CS_PV4_131.jpg",
+            "BG_CS_PV4_130.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 157
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P5_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P5_S2_DESC]",
+          "character": [
+            "Yuuka",
+            "Himari"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 180
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P6_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayumu"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_View_Atrahasis.jpg",
+            "BG_View_Atrahasis_erode.jpg",
+            "BG_UtnapishtimBridge_V5.jpg",
+            "BG_View_Schale_erode.jpg",
+            "BG_MainOffice_Erode.jpg",
+            "BG_Wilderness_Erode.jpg",
+            "BG_RuinCity_Erode.jpg",
+            "BG_RiversideRoad_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 208
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P7_S1_DESC]",
+          "character": [
+            "Iori",
+            "Chinatsu",
+            "Hina"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_SlumFront.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 217
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P8_S1_DESC]",
+          "character": [
+            "Toki"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_EriduCityTown_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 226
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P9_S1_DESC]",
+          "character": [
+            "Niya",
+            "Kaho"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_HyakkiyakoFestivalRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 234
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P10_S1_DESC]",
+          "character": [
+            "Koyuki",
+            "Noa"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_MilleniumCampus.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 241
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P11_S1_DESC]",
+          "character": [
+            "Saki",
+            "Miyu",
+            "Moe",
+            "Miyako"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_CityDowntown.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 253
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P12_S1_DESC]",
+          "character": [
+            "Nagisa",
+            "Mika"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_TrinityTerrace.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 279
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P13_S1_DESC]",
+          "character": [
+            "Hiyori",
+            "Misaki",
+            "Saori",
+            "Atsuko"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_AriusStreet.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P14_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 297
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P14_S1_DESC]",
+          "character": [
+            "Hare",
+            "Kotama",
+            "Maki",
+            "Chihiro"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ComputerCenter_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P15_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 315
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P15_S1_DESC]",
+          "character": [
+            "Ayane",
+            "Serika",
+            "Hoshino",
+            "Nonomi"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P16_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 330
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P16_S1_DESC]",
+          "character": [
+            "Shiroko"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_CS_PV4_128_2.jpg",
+            "BG_CS_PV4_141.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P17_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 387
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P17_S1_DESC]",
+          "character": [
+            "Shiroko",
+            "Phrenapates"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_PV4_144_2.jpg",
+            "BG_CS_PV4_142.jpg",
+            "BG_CS_PV4_143.jpg",
+            "BG_CS_PV4_144.jpg",
+            "BG_CS_PV4_145.jpg",
+            "BG_CS_S1Final_33.jpg",
+            "BG_CS_PV4_146.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_16_P18_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 444
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P18_S1_DESC]",
+          "character": [
+            "Shiroko"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_147.jpg",
+            "BG_CS_PV4_149.jpg",
+            "BG_CS_PV4_144_2.jpg",
+            "BG_CS_PV4_147.jpg",
+            "BG_CS_S1Final_34.jpg",
+            "BG_CS_S1Final_35.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_16_P18_S2_DESC]",
+          "character": [
+            "Phrenapates",
+            "Plana",
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_157"
+          ],
+          "background": [
+            "BG_CS_PV4_144_2.jpg",
+            "BG_CS_PV4_148.jpg",
+            "BG_CS_PV4_149.jpg",
+            "BG_CS_PV4_150.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

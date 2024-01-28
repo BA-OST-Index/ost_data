@@ -1,0 +1,23 @@
+{
+  "uuid": "b52dc7da-06fa-4c16-ae97-37eda47ef69e",
+  "filetype": -25,
+  "name": "[STORY_MAIN_FINAL_2_NAME]",
+  "namespace": "2",
+  "desc": "[STORY_MAIN_FINAL_2_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "/static/images/background/BG_CS_PV4_043_2.jpg",
+    "short_desc": "",
+    "platform": -1
+  }
+}

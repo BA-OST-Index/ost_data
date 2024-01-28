@@ -1,0 +1,333 @@
+{
+  "uuid": "931978f5-478a-449f-9e95-5ec7fa731e73",
+  "filetype": 14,
+  "name": "[STORY_EVENT_991_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_991_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 991,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=7",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_991_7_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1532
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P1_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1551
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P2_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_S1Final_51.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1590
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P3_S1_DESC]",
+          "character": [
+            "Iridescence",
+            "NamelessPriest"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_20.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1631
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P4_S1_DESC]",
+          "character": [
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_54.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1641
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P5_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_49.jpg",
+            "BG_CS_S1Final_45.jpg",
+            "BG_CS_S1Final_41.jpg",
+            "BG_CS_S1Final_44.jpg",
+            "BG_CS_S1Final_51.jpg",
+            "BG_CS_S1Final_55.jpg",
+            "BG_CS_S1Final_43_2.jpg",
+            "BG_CS_S1Final_17.jpg",
+            "BG_CS_S1Final_21.jpg",
+            "BG_CS_S1Final_56.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1719
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P6_S1_DESC]",
+          "character": [
+            "Iridescence",
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_20.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_991_7_P6_S2_DESC]",
+          "character": [
+            "NamelessPriest"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1771
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P7_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_57.jpg",
+            "BG_CS_S1Final_58.jpg",
+            "BG_CS_S1Final_59.jpg",
+            "BG_CS_S1Final_60.jpg",
+            "BG_CS_S1Final_61.jpg",
+            "BG_CS_S1Final_62.jpg",
+            "BG_CS_S1Final_63.jpg",
+            "BG_CS_S1Final_20.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1787
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P8_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Plana"
+          ],
+          "track": [],
+          "background": [
+            "BG_CS_S1Final_64.jpg",
+            "BG_CS_S1Final_23_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1813
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P9_S1_DESC]",
+          "character": [
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_155"
+          ],
+          "background": [
+            "BG_CS_S1Final_54.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_7_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1836
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_7_P10_S1_DESC]",
+          "character": [
+            "Rin",
+            "Arona",
+            "ShirokoTerror",
+            "Phrenapates"
+          ],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

@@ -1,0 +1,576 @@
+{
+  "uuid": "b90ee122-fd4b-490d-a951-9783cf57467c",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_10_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=10",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P1_S1_DESC]",
+          "character": [
+            "Hibiki"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_View_Sky2.jpg",
+            "BG_Wilderness.jpg",
+            "BG_CS_S1Final_22.jpg",
+            "BG_CS_Millenium_02.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P1_S2_DESC]",
+          "character": [
+            "Yuuka",
+            "Ayane",
+            "Ako",
+            "Hanako",
+            "Kayoko",
+            "Himari",
+            "Momoka",
+            "Ayumu",
+            "Rin"
+          ],
+          "track": [
+            "OST_11"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 92
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S2_DESC]",
+          "character": [
+            "Hanako",
+            "Ako",
+            "Ayane",
+            "Yuuka",
+            "Kayoko",
+            "Himari",
+            "Momoka",
+            "Ayumu",
+            "Rin"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S3_DESC]",
+          "character": [
+            "Kotama",
+            "Hare",
+            "Maki",
+            "Chihiro",
+            "Hibiki",
+            "Utaha",
+            "Kotori"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S4_DESC]",
+          "character": [
+            "Hoshino",
+            "Serika",
+            "Nonomi",
+            "Ayane"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S5_DESC]",
+          "character": [
+            "Aris",
+            "Momoi",
+            "Midori",
+            "Yuzu",
+            "Yuuka"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_UndergroundPassage_Night.jpg",
+            "BG_PowerRoom.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P2_S6_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 184
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P3_S1_DESC]",
+          "character": [
+            "Fuuka",
+            "Haruna",
+            "Junko",
+            "Izumi",
+            "Akari"
+          ],
+          "track": [
+            "OST_3"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 265
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P4_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P4_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 310
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P5_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P5_S2_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 333
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P6_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 371
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P7_S1_DESC]",
+          "character": [
+            "Arona"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_AronaRoom.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 381
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P8_S1_DESC]",
+          "character": [
+            "BlackSuit"
+          ],
+          "track": [
+            "OST_41"
+          ],
+          "background": [
+            "BG_GematriaCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 404
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P9_S1_DESC]",
+          "character": [
+            "Rin"
+          ],
+          "track": [],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 435
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P10_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_46"
+          ],
+          "background": [
+            "BG_CS_PV4_075_2.jpg",
+            "BG_CS_PV4_163.jpg",
+            "BG_CS_PV4_017_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P11_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 495
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P11_S1_DESC]",
+          "character": [
+            "Ako",
+            "Ayumu",
+            "Momoka",
+            "Kayoko",
+            "Hanako",
+            "Yuuka",
+            "Rin",
+            "Ayane"
+          ],
+          "track": [
+            "OST_150"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg",
+            "BG_CS_PV4_070_2.jpg",
+            "BG_CS_PV4_070.jpg",
+            "BG_CS_PV4_068_2.jpg",
+            "BG_CS_PV4_068.jpg",
+            "BG_CS_PV4_069_2.jpg",
+            "BG_CS_PV4_069.jpg",
+            "BG_CS_PV4_067_2.jpg",
+            "BG_CS_PV4_067.jpg",
+            "BG_CS_S1Final_22.jpg",
+            "BG_CS_S1Final_22_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P11_S2_DESC]",
+          "character": [
+            "Ayane",
+            "Yuuka",
+            "Himari",
+            "Hanako"
+          ],
+          "track": [
+            "OST_150"
+          ],
+          "background": [
+            "BG_Wilderness.jpg",
+            "BG_CS_PV4_063.jpg",
+            "BG_CS_PV4_064.jpg",
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P12_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 579
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P12_S1_DESC]",
+          "character": [
+            "Rin",
+            "Ayumu",
+            "Momoka",
+            "Hanako",
+            "Kayoko",
+            "Ako",
+            "Ayane",
+            "Yuuka"
+          ],
+          "track": [
+            "OST_150"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg",
+            "BG_CS_PV4_065.jpg",
+            "BG_CS_PV4_066.jpg",
+            "BG_View_DawnSky.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_10_P13_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 653
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_10_P13_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Himari"
+          ],
+          "track": [
+            "BG_UtnapishtimBridge_V2_2.jpg"
+          ],
+          "background": [
+            "//"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,167 @@
+{
+  "uuid": "94409d92-074e-487a-a1c1-5ca4f81a5f67",
+  "filetype": 14,
+  "name": "[STORY_EVENT_822_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_822_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 822,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=18",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_822_5_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 90
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_5_P1_S1_DESC]",
+          "character": [
+            "Ayumu",
+            "ShirokoTerror",
+            "Hoshino",
+            "Nonomi",
+            "Serika",
+            "Ayane"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_5_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 128
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_5_P2_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Nonomi",
+            "Ayane",
+            "Serika"
+          ],
+          "track": [
+            "OST_76"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_5_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 150
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_5_P3_S1_DESC]",
+          "character": [
+            "Chihiro"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_ComputerCenter.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_EVENT_822_5_P3_S2_DESC]",
+          "character": [
+            "Himari",
+            "Rin"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_822_5_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 183
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_822_5_P4_S1_DESC]",
+          "character": [
+            "Hoshino",
+            "Nonomi",
+            "Ayane"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_ArkCorridor.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

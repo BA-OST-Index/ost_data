@@ -1,0 +1,204 @@
+{
+  "uuid": "aab39893-71ba-4207-8ea0-c4c21f887f04",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=11",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_11_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_11_P1_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_34"
+          ],
+          "background": [
+            "BG_CS_PV4_076.jpg",
+            "BG_CS_PR_07.jpg",
+            "BG_CS_PR_12.jpg",
+            "BG_CS_PR_19.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_11_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 65
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_11_P2_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_34"
+          ],
+          "background": [
+            "BG_CS_PV4_079.jpg",
+            "BG_CS_PV4_078.jpg",
+            "BG_CS_PV4_077.jpg",
+            "BG_CS_PV4_080.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_11_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 127
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_11_P3_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_59"
+          ],
+          "background": [
+            "BG_CS_PV4_081.jpg",
+            "BG_CS_PV4_082.jpg",
+            "BG_CS_PV4_083.jpg",
+            "BG_CS_PV4_084.jpg",
+            "BG_CS_PV4_085.jpg",
+            "BG_CS_PV4_086.jpg",
+            "BG_CS_PV4_087.jpg",
+            "BG_CS_PV4_088.jpg",
+            "BG_CS_PV4_089.jpg",
+            "BG_CS_PV4_090.jpg",
+            "BG_CS_PV4_091.jpg",
+            "BG_CS_PV4_092.jpg",
+            "BG_CS_PV4_093.jpg",
+            "BG_CS_PV4_094.jpg",
+            "BG_CS_PV4_095.jpg",
+            "BG_CS_PV4_096.jpg",
+            "BG_CS_PV4_097.jpg",
+            "BG_CS_PV4_098.jpg",
+            "BG_CS_PV4_099.jpg",
+            "BG_CS_PV4_100.jpg",
+            "BG_CS_PV4_101.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_11_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 154
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_11_P4_S1_DESC]",
+          "character": [
+            "GscPres"
+          ],
+          "track": [
+            "OST_59"
+          ],
+          "background": [
+            "BG_CS_PV4_074.jpg",
+            "BG_CS_PV4_075.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_11_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 184
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_11_P5_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Hanako",
+            "Himari",
+            "Rio"
+          ],
+          "track": [
+            "OST_29"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg",
+            "BG_CS_S1Final_28_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

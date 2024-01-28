@@ -1,0 +1,370 @@
+{
+  "uuid": "1dafb56b-6ff2-4505-aedb-7c1084e7f364",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=12",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P1_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Rio",
+            "Ayane",
+            "Ako"
+          ],
+          "track": [
+            "OST_20"
+          ],
+          "background": [
+            "BG_CS_PV4_106.jpg",
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 30
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P2_S1_DESC]",
+          "character": [
+            "Rio",
+            "Himari",
+            "Yuuka",
+            "Ako"
+          ],
+          "track": [
+            "OST_20"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 50
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P3_S1_DESC]",
+          "character": [
+            "Aris",
+            "Himari",
+            "Rio",
+            "Yuzu",
+            "Momoi",
+            "Midori"
+          ],
+          "track": [
+            "OST_19"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 100
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P4_S1_DESC]",
+          "character": [
+            "Aris"
+          ],
+          "track": [
+            "OST_19"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 120
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P5_S1_DESC]",
+          "character": [
+            "Aris",
+            "ArisKey",
+            "Rio",
+            "Himari"
+          ],
+          "track": [
+            "OST_32"
+          ],
+          "background": [
+            "BG_RuinCenter.jpg",
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 170
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P6_S1_DESC]",
+          "character": [
+            "Aris",
+            "ArisKey"
+          ],
+          "track": [
+            "OST_140"
+          ],
+          "background": [
+            "BG_RuinCenter.jpg",
+            "BG_CS_S1Final_24.jpg",
+            "BG_CS_S1Final_25.jpg",
+            "BG_CS_S1Final_24_2.jpg",
+            "BG_CS_S1Final_24_3.jpg",
+            "BG_CS_S1Final_25_2.jpg",
+            "BG_CS_S1Final_24_4.jpg",
+            "BG_CS_S1Final_25_3.jpg",
+            "BG_CS_S1Final_24_5.jpg",
+            "BG_CS_S1Final_25_4.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 250
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P7_S1_DESC]",
+          "character": [
+            "ArisKey",
+            "Momoi",
+            "Midori",
+            "Himari",
+            "Rio",
+            "Yuzu"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 313
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P8_S1_DESC]",
+          "character": [
+            "Rio",
+            "Aris",
+            "Himari"
+          ],
+          "track": [
+            "OST_135"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg",
+            "BG_CS_S1Final_26.jpg",
+            "BG_CS_S1Final_26_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 381
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P9_S1_DESC]",
+          "character": [
+            "Aris",
+            "Momoi",
+            "Midori",
+            "Yuzu"
+          ],
+          "track": [
+            "OST_101"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P9_S2_DESC]",
+          "character": [
+            "Aris",
+            "ArisKey"
+          ],
+          "track": [
+            "OST_101"
+          ],
+          "background": [
+            "BG_VehiclePowerRoom.jpg",
+            "BG_UndergroundPassage_Night.jpg",
+            "BG_CS_PV4_036_3.jpg",
+            "BG_CS_S1Final_27.jpg",
+            "BG_CS_S1Final_27_2.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_12_P10_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 438
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_12_P10_S1_DESC]",
+          "character": [
+            "ArisKey"
+          ],
+          "track": [
+            "OST_59"
+          ],
+          "background": [
+            "BG_CS_S1Final_27_3.jpg",
+            "BG_CS_Millenium_02.jpg",
+            "BG_CS_PV4_106.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

@@ -1,0 +1,101 @@
+{
+  "uuid": "e814fe47-b5c0-4705-8d4f-b6f463550a9a",
+  "filetype": 14,
+  "name": "[STORY_EVENT_991_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_991_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 991,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=7",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_EVENT_991_6_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1332
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_6_P1_S1_DESC]",
+          "character": [
+            "Rin",
+            "Ayane"
+          ],
+          "track": [
+            "OST_156"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V5.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_EVENT_991_6_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 1350
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_EVENT_991_6_P2_S1_DESC]",
+          "character": [
+            "Rin",
+            "Hoshino",
+            "Junko",
+            "Akari",
+            "Midori",
+            "Momoi",
+            "Serika",
+            "Shiroko",
+            "Yuzu",
+            "Nonomi",
+            "Izumi",
+            "Aris",
+            "Haruna",
+            "Arona",
+            "Plana"
+          ],
+          "track": [
+            "OST_156"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

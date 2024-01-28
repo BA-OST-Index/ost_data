@@ -1,0 +1,240 @@
+{
+  "uuid": "a5ce0370-6893-4d26-843b-5270bb8cf92e",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_8_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/?p=8",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P1_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Ayane",
+            "Yuuka",
+            "Ako",
+            "Kayoko",
+            "Himari",
+            "Rio",
+            "Momoka",
+            "Ayumu",
+            "Rin"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 42
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P2_S1_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Himari",
+            "Kayoko",
+            "Ako",
+            "Rio"
+          ],
+          "track": [
+            "OST_65"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg",
+            "BG_CS_PV4_106_2.jpg",
+            "BG_CS_PV4_115.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 120
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P3_S1_DESC]",
+          "character": [
+            "Yuuka",
+            "Rio",
+            "Himari"
+          ],
+          "track": [
+            "OST_3"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 163
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P4_S1_DESC]",
+          "character": [
+            "Rin",
+            "Ayumu",
+            "Momoka",
+            "Himari",
+            "Hanako",
+            "Yuuka",
+            "Ayane",
+            "Kayoko",
+            "Ako"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg",
+            "BG_CS_S1Final_05.jpg",
+            "BG_CS_S1Final_14.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 325
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P5_S1_DESC]",
+          "character": [
+            "Hanako",
+            "Ayane",
+            "Yuuka",
+            "Hibiki",
+            "Utaha",
+            "Kotori",
+            "Himari",
+            "Ayumu",
+            "Ako",
+            "Kayoko"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_8_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 381
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_8_P6_S1_DESC]",
+          "character": [
+            "Momoka",
+            "Ayumu",
+            "Rin"
+          ],
+          "track": [
+            "OST_129"
+          ],
+          "background": [
+            "BG_UtnapishtimBridge_V1.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

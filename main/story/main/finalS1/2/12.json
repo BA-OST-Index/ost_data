@@ -1,0 +1,165 @@
+{
+  "uuid": "2e519a89-b701-470a-a076-2808d186dad0",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_2_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_2_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 2,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1Th4y157Ba/?p=12",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_2_12_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_12_P1_S1_DESC]",
+          "character": [
+            "Hina",
+            "Aris",
+            "Midori",
+            "Saki",
+            "Miyako",
+            "Yuzu"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_CS_PV4_048.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_2_12_P1_S2_DESC]",
+          "character": [
+            "Saki",
+            "Aris",
+            "Hina",
+            "Kotori",
+            "Yuzu",
+            "Utaha"
+          ],
+          "track": [
+            "OST_74"
+          ],
+          "background": [
+            "BG_Amusement_Erode.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_12_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 90
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_12_P2_S1_DESC]",
+          "character": [],
+          "track": [
+            "OST_148"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_12_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 120
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_12_P3_S1_DESC]",
+          "character": [
+            "Miyako",
+            "Momoi",
+            "Midori",
+            "Miyu",
+            "Saki",
+            "Moe"
+          ],
+          "track": [
+            "OST_69"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_2_12_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 272
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_2_12_P4_S1_DESC]",
+          "character": [
+            "Aris",
+            "Hina"
+          ],
+          "track": [
+            "OST_56"
+          ],
+          "background": []
+        }
+      ],
+      "is_battle": true
+    }
+  ],
+  "is_battle": true
+}

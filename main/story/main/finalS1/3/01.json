@@ -1,0 +1,324 @@
+{
+  "uuid": "8bd3f771-2bfc-4695-b16a-48e3136ffd50",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_3_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_3_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 3,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1N14y1y7Qs/",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P1_S1_DESC]",
+          "character": [
+            "Michiru",
+            "Izuna",
+            "Tsukuyo"
+          ],
+          "track": [
+            "OST_16"
+          ],
+          "background": [
+            "BG_WinterRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 20
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P2_S1_DESC]",
+          "character": [
+            "Izuna",
+            "Tsukuyo",
+            "Michiru"
+          ],
+          "track": [
+            "OST_28"
+          ],
+          "background": [
+            "BG_CS_S1Final_14.jpg",
+            "BG_WinterRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 55
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P3_S1_DESC]",
+          "character": [
+            "Michiru",
+            "Tsukuyo",
+            "Izuna",
+            "Nagusa"
+          ],
+          "track": [
+            "OST_3",
+            "OST_130"
+          ],
+          "background": [
+            "BG_WinterRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P4_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 180
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P4_S1_DESC]",
+          "character": [
+            "Nagusa",
+            "Michiru",
+            "Izuna",
+            "Tsukuyo"
+          ],
+          "track": [
+            "OST_6"
+          ],
+          "background": [
+            "BG_WinterRoad.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P5_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 203
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P5_S1_DESC]",
+          "character": [
+            "Tsukuyo",
+            "Nagusa",
+            "Michiru",
+            "Izuna"
+          ],
+          "track": [
+            "OST_6"
+          ],
+          "background": [
+            "BG_Wilderness"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P6_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 246
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P6_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_MainOffice.jpg",
+            "BG_CS_S1Final_17.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P7_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 289
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P7_S1_DESC]",
+          "character": [
+            "ShirokoTerror"
+          ],
+          "track": [
+            "OST_73"
+          ],
+          "background": [
+            "BG_MainOffice.jpg",
+            "BG_CS_Abydos_02.jpg",
+            "BG_CS_S1Final_04.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P8_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 319
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P8_S1_DESC]",
+          "character": [
+            "Rin",
+            "ShirokoTerror",
+            "Momoka",
+            "Ayumu",
+            "Ayane"
+          ],
+          "track": [],
+          "background": [
+            "BG_MainOffice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_3_1_P9_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 353
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P9_S1_DESC]",
+          "character": [
+            "ShirokoTerror",
+            "Phrenapates"
+          ],
+          "track": [
+            "OST_48"
+          ],
+          "background": [
+            "BG_MainOffice.jpg",
+            "BG_CS_S1Final_20.jpg",
+            "BG_CS_S1Final_28_2.jpg",
+            "BG_CS_S1Final_21.jpg",
+            "BG_View_Atrahasis_erode.jpg",
+            "BG_CS_PV4_144_2.jpg"
+          ]
+        },
+        {
+          "desc": "[STORY_MAIN_finalS1_3_1_P9_S2_DESC]",
+          "character": [
+            "Rin",
+            "Momoka",
+            "Ayane",
+            "Ayumu"
+          ],
+          "track": [],
+          "background": [
+            "BG_MainOffice.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}

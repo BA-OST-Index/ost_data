@@ -1,0 +1,109 @@
+{
+  "uuid": "a05c2a0d-45c3-4732-92e5-3d0cfe53c01d",
+  "filetype": 11,
+  "name": "[STORY_MAIN_finalS1_4_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_finalS1_4_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": "finalS1",
+    "chapter": 4,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "source": {
+    "en": [],
+    "zh_tw": [
+      {
+        "platform": 2,
+        "value": "https://www.bilibili.com/video/BV1B94y1x75F/?p=14",
+        "short_desc": "[STORY_SOURCE_ZH_TW_MODEJUN]"
+      }
+    ],
+    "zh_cn_cn": [],
+    "zh_cn_jp": []
+  },
+  "part": [
+    {
+      "name": "[STORY_MAIN_finalS1_4_12_P1_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 0
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_12_P1_S1_DESC]",
+          "character": [
+            "Golconde"
+          ],
+          "track": [
+            "OST_92"
+          ],
+          "background": [
+            "BG_RuinCity.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_12_P2_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 48
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_12_P2_S1_DESC]",
+          "character": [
+            "Plana"
+          ],
+          "track": [],
+          "background": [
+            "BG_AronaRoom_Night.jpg"
+          ]
+        }
+      ],
+      "is_battle": false
+    },
+    {
+      "name": "[STORY_MAIN_finalS1_4_12_P3_NAME]",
+      "source": {
+        "en": [],
+        "zh_tw": [
+          {
+            "timestamp": 95
+          }
+        ],
+        "zh_cn_cn": [],
+        "zh_cn_jp": []
+      },
+      "data": [
+        {
+          "desc": "[STORY_MAIN_finalS1_4_12_P3_S1_DESC]",
+          "character": [],
+          "track": [],
+          "background": []
+        }
+      ],
+      "is_battle": false
+    }
+  ],
+  "is_battle": false
+}
