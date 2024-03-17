@@ -6,7 +6,8 @@
   "desc": "[STORY_BOND_YUUKA_1_DESC]",
   "pos": {
     "student": "Yuuka",
-    "segment": 1
+    "segment": 1,
+    "favor_rank": 1
   },
   "image": {
     "platform": -1,
