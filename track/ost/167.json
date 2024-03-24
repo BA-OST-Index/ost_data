@@ -44,12 +44,13 @@
     }
   ],
 
-  "special_case": {
-    "is_ost": true,
-    "is_bond_memory": false,
-    "is_story": false,
-    "is_battle": false,
-    "is_event": false
+  "stats": {
+    "is_ba": true,
+    "is_jp": true,
+    "is_global": true,
+    "is_cn": true,
+    "is_segment": false,
+    "is_sub": false
   },
 
   "reference": [],
