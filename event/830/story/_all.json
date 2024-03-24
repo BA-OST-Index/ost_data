@@ -1,0 +1,23 @@
+{
+  "uuid": "e6f08b75-b1ac-44b6-a593-b4846bcd4708",
+  "filetype": -42,
+  "name": "[EVENT_830_NAME]",
+  "namespace": "830",
+  "desc": "[EVENT_830_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "ab58a039-0792-444f-8bbf-cd60d2975990",
+  "filetype": -42,
+  "name": "[EVENT_701_NAME]",
+  "namespace": "701",
+  "desc": "[EVENT_701_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "0852ce13-87e9-4c27-bebb-227ba99f2a26",
+    "filetype": 71,
+    "filename": "BG_OldHouseOutside_Night.jpg",
+    "name": "[BG_OldHouseOutside_Night.jpg_NAME]",
+    "desc": "[BG_OldHouseOutside_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_OldHouseOutside_Night.jpg",
+        "short_desc": ""
+    }
+}

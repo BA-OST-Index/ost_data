@@ -1,0 +1,13 @@
+{
+    "uuid": "4b7bff33-81ed-43f2-b042-51d3908a72d5",
+    "filetype": 71,
+    "filename": "BG_ShanVipStreet.jpg",
+    "name": "[BG_ShanVipStreet.jpg_NAME]",
+    "desc": "[BG_ShanVipStreet.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ShanVipStreet.jpg",
+        "short_desc": ""
+    }
+}

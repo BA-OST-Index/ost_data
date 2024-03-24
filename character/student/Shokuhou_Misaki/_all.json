@@ -1,0 +1,10 @@
+{
+  "uuid": "bdffe740-f662-4e8c-ab7d-20c85a70e980",
+  "filetype": -53,
+  "namespace": "shokuhou_misaki",
+  "name": "Shokuhou_Misaki",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

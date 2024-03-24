@@ -1,0 +1,23 @@
+{
+  "uuid": "9c123198-18c6-4982-86ec-f7e806a73828",
+  "filetype": -42,
+  "name": "[EVENT_807_NAME]",
+  "namespace": "807",
+  "desc": "[EVENT_807_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

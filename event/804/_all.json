@@ -1,0 +1,23 @@
+{
+  "uuid": "d3794fcf-24f8-4770-b83a-c29ea7ef0e65",
+  "filetype": -42,
+  "name": "[EVENT_804_NAME]",
+  "namespace": "804",
+  "desc": "[EVENT_804_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

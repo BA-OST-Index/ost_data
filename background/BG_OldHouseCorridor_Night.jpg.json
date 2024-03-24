@@ -1,0 +1,13 @@
+{
+    "uuid": "a5fdbd81-1c84-4f82-b048-98b3b4e8aa45",
+    "filetype": 71,
+    "filename": "BG_OldHouseCorridor_Night.jpg",
+    "name": "[BG_OldHouseCorridor_Night.jpg_NAME]",
+    "desc": "[BG_OldHouseCorridor_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_OldHouseCorridor_Night.jpg",
+        "short_desc": ""
+    }
+}

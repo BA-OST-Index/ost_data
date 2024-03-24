@@ -1,0 +1,10 @@
+{
+  "uuid": "fb81799b-872d-4b5d-aa2f-5d54625962c7",
+  "filetype": -53,
+  "namespace": "makoto",
+  "name": "Makoto",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

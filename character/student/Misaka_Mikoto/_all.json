@@ -1,0 +1,10 @@
+{
+  "uuid": "d9f4f6ee-a230-44dc-9040-fdb99ec834f3",
+  "filetype": -53,
+  "namespace": "misaka_mikoto",
+  "name": "Misaka_Mikoto",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

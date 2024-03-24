@@ -1,0 +1,23 @@
+{
+  "uuid": "54c8a0ab-8f56-47ff-988d-573cb4ce1fb7",
+  "filetype": -42,
+  "name": "[EVENT_819_NAME]",
+  "namespace": "819",
+  "desc": "[EVENT_819_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

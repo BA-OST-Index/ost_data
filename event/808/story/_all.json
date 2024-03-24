@@ -1,0 +1,23 @@
+{
+  "uuid": "45b16689-b205-4921-8b0a-fd644ca37342",
+  "filetype": -42,
+  "name": "[EVENT_808_NAME]",
+  "namespace": "808",
+  "desc": "[EVENT_808_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

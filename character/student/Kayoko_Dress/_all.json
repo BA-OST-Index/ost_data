@@ -1,0 +1,10 @@
+{
+  "uuid": "b3aabdf3-9d9b-4600-a12e-997d46b13732",
+  "filetype": -53,
+  "namespace": "kayoko_dress",
+  "name": "Kayoko_Dress",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

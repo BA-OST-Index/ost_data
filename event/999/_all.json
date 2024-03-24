@@ -1,0 +1,23 @@
+{
+  "uuid": "caf1ae52-4f0c-43d3-8d1c-3e91771afa7e",
+  "filetype": -42,
+  "name": "[EVENT_999_NAME]",
+  "namespace": "999",
+  "desc": "[EVENT_999_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

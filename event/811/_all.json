@@ -1,0 +1,23 @@
+{
+  "uuid": "2e7781db-05e5-4cf6-93fe-0b1dd0bab2e6",
+  "filetype": -42,
+  "name": "[EVENT_811_NAME]",
+  "namespace": "811",
+  "desc": "[EVENT_811_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

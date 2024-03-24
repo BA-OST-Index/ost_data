@@ -1,0 +1,13 @@
+{
+    "uuid": "7bab9af9-90c2-4cf1-9c92-2bbe210d9ec3",
+    "filetype": 71,
+    "filename": "BG_UnderGroundAuction.jpg",
+    "name": "[BG_UnderGroundAuction.jpg_NAME]",
+    "desc": "[BG_UnderGroundAuction.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_UnderGroundAuction.jpg",
+        "short_desc": ""
+    }
+}

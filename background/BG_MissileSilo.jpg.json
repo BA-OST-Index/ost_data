@@ -1,0 +1,13 @@
+{
+    "uuid": "9f479d5f-f59b-4dfb-bf79-52038c0ea3d8",
+    "filetype": 71,
+    "filename": "BG_MissileSilo.jpg",
+    "name": "[BG_MissileSilo.jpg_NAME]",
+    "desc": "[BG_MissileSilo.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_MissileSilo.jpg",
+        "short_desc": ""
+    }
+}

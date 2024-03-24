@@ -1,0 +1,13 @@
+{
+    "uuid": "dd3f2c84-0f9f-47eb-a5ef-b634c2bb8228",
+    "filetype": 71,
+    "filename": "BG_ExhibitionHall2_Night.jpg",
+    "name": "[BG_ExhibitionHall2_Night.jpg_NAME]",
+    "desc": "[BG_ExhibitionHall2_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ExhibitionHall2_Night.jpg",
+        "short_desc": ""
+    }
+}

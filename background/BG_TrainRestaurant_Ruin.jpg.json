@@ -1,0 +1,13 @@
+{
+    "uuid": "5d47b64e-0bee-4b1c-b787-7834b137cb65",
+    "filetype": 71,
+    "filename": "BG_TrainRestaurant_Ruin.jpg",
+    "name": "[BG_TrainRestaurant_Ruin.jpg_NAME]",
+    "desc": "[BG_TrainRestaurant_Ruin.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_TrainRestaurant_Ruin.jpg",
+        "short_desc": ""
+    }
+}

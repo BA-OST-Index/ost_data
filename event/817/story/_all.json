@@ -1,0 +1,23 @@
+{
+  "uuid": "490e2012-bf8d-4c22-be58-5a1206039fa3",
+  "filetype": -42,
+  "name": "[EVENT_817_NAME]",
+  "namespace": "817",
+  "desc": "[EVENT_817_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

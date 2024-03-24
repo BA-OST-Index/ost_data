@@ -1,0 +1,13 @@
+{
+    "uuid": "737ee5fc-7cf9-4d3f-bb49-b8e9bf4b6762",
+    "filetype": 71,
+    "filename": "BG_AbandonedWarehouse.jpg",
+    "name": "[BG_AbandonedWarehouse.jpg_NAME]",
+    "desc": "[BG_AbandonedWarehouse.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_AbandonedWarehouse.jpg",
+        "short_desc": ""
+    }
+}

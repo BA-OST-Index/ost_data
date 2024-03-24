@@ -1,0 +1,13 @@
+{
+    "uuid": "a908797f-e2cb-4406-930b-b8cbe2f0e2d9",
+    "filetype": 71,
+    "filename": "BG_TrainRestaurant.jpg",
+    "name": "[BG_TrainRestaurant.jpg_NAME]",
+    "desc": "[BG_TrainRestaurant.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_TrainRestaurant.jpg",
+        "short_desc": ""
+    }
+}

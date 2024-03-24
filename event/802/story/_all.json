@@ -1,0 +1,23 @@
+{
+  "uuid": "7a1e385f-e798-4843-b9f0-94d8d30d6ecd",
+  "filetype": -42,
+  "name": "[EVENT_802_NAME]",
+  "namespace": "802",
+  "desc": "[EVENT_802_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

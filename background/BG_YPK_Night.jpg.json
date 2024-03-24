@@ -1,0 +1,13 @@
+{
+    "uuid": "314b8b71-f178-4fcd-a16c-02cf51665a77",
+    "filetype": 71,
+    "filename": "BG_YPK_Night.jpg",
+    "name": "[BG_YPK_Night.jpg_NAME]",
+    "desc": "[BG_YPK_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_YPK_Night.jpg",
+        "short_desc": ""
+    }
+}

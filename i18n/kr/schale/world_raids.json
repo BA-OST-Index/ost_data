@@ -1,0 +1,38 @@
+{
+  "WakamoSwimsuit": {
+    "PathName": "WakamoSwimsuit",
+    "Name": "와카모 (수영복)"
+  },
+  "HoverCraft": {
+    "PathName": "HoverCraft",
+    "Name": "와카모 (호버크래프트)"
+  },
+  "Binah_Colour": {
+    "PathName": "Binah_Colour",
+    "Name": "비나 (색채)"
+  },
+  "Chesed_Colour": {
+    "PathName": "Chesed_Colour",
+    "Name": "헤세드 (색채)"
+  },
+  "ShiroKuro_Colour": {
+    "PathName": "ShiroKuro_Colour",
+    "Name": "시로&쿠로 (색채)"
+  },
+  "Hieronymus_Colour": {
+    "PathName": "Hieronymus_Colour",
+    "Name": "예로니무스 (색채)"
+  },
+  "HOD_Colour": {
+    "PathName": "HOD_Colour",
+    "Name": "호드 (색채)"
+  },
+  "Perorozilla_Colour": {
+    "PathName": "Perorozilla_Colour",
+    "Name": "페로로지라 (색채)"
+  },
+  "EN0002": {
+    "PathName": "EN0002",
+    "Name": "시로코 테러"
+  }
+}

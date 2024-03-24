@@ -1,0 +1,23 @@
+{
+  "uuid": "0348c57c-b9f7-40c0-8472-dd66ab86f1a5",
+  "filetype": -42,
+  "name": "[EVENT_806_NAME]",
+  "namespace": "806",
+  "desc": "[EVENT_806_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

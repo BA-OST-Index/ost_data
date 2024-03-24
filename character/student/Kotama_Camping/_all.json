@@ -1,0 +1,10 @@
+{
+  "uuid": "cd4e9b71-9aab-4e33-8fd4-0cd55a0f29d9",
+  "filetype": -53,
+  "namespace": "kotama_camping",
+  "name": "Kotama_Camping",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

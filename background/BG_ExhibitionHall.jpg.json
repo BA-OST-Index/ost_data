@@ -1,0 +1,13 @@
+{
+    "uuid": "1f85dfb4-ca99-4466-9a28-c82b84bde5fe",
+    "filetype": 71,
+    "filename": "BG_ExhibitionHall.jpg",
+    "name": "[BG_ExhibitionHall.jpg_NAME]",
+    "desc": "[BG_ExhibitionHall.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ExhibitionHall.jpg",
+        "short_desc": ""
+    }
+}

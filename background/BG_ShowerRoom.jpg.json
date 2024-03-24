@@ -1,0 +1,13 @@
+{
+    "uuid": "b9983f83-9cc1-404a-9421-f8c0bd1f82fe",
+    "filetype": 71,
+    "filename": "BG_ShowerRoom.jpg",
+    "name": "[BG_ShowerRoom.jpg_NAME]",
+    "desc": "[BG_ShowerRoom.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ShowerRoom.jpg",
+        "short_desc": ""
+    }
+}

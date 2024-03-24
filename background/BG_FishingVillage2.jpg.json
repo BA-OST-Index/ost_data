@@ -1,0 +1,13 @@
+{
+    "uuid": "711d9d23-bef8-4b9f-8531-29ad7a3ba2a3",
+    "filetype": 71,
+    "filename": "BG_FishingVillage2.jpg",
+    "name": "[BG_FishingVillage2.jpg_NAME]",
+    "desc": "[BG_FishingVillage2.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_FishingVillage2.jpg",
+        "short_desc": ""
+    }
+}

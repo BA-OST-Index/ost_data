@@ -1,0 +1,13 @@
+{
+    "uuid": "4f4e0d6a-fadc-4209-915a-8715d020d4d7",
+    "filetype": 71,
+    "filename": "BG_YPK.jpg",
+    "name": "[BG_YPK.jpg_NAME]",
+    "desc": "[BG_YPK.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_YPK.jpg",
+        "short_desc": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "f1864892-4b3a-4aad-a38b-ab370ed24d0a",
+    "filetype": 71,
+    "filename": "BG_StoneRuin.jpg",
+    "name": "[BG_StoneRuin.jpg_NAME]",
+    "desc": "[BG_StoneRuin.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_StoneRuin.jpg",
+        "short_desc": ""
+    }
+}

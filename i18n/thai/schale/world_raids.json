@@ -1,0 +1,38 @@
+{
+  "WakamoSwimsuit": {
+    "PathName": "WakamoSwimsuit",
+    "Name": "วาคาโมะ (ชุดว่ายน้ำ)"
+  },
+  "HoverCraft": {
+    "PathName": "HoverCraft",
+    "Name": "วาคาโมะ (เรือโฮเวอร์คราฟต์)"
+  },
+  "Binah_Colour": {
+    "PathName": "Binah_Colour",
+    "Name": "บีนาห์ (สีสัน)"
+  },
+  "Chesed_Colour": {
+    "PathName": "Chesed_Colour",
+    "Name": "เชเซ็ด (สีสัน)"
+  },
+  "ShiroKuro_Colour": {
+    "PathName": "ShiroKuro_Colour",
+    "Name": "ชิโระ&คุโระ (สีสัน)"
+  },
+  "Hieronymus_Colour": {
+    "PathName": "Hieronymus_Colour",
+    "Name": "ไฮโรนีมัส (สีสัน)"
+  },
+  "HOD_Colour": {
+    "PathName": "HOD_Colour",
+    "Name": "HOD (สีสัน)"
+  },
+  "Perorozilla_Colour": {
+    "PathName": "Perorozilla_Colour",
+    "Name": "เพโรโร่ซิลล่า (สีสัน)"
+  },
+  "EN0002": {
+    "PathName": "EN0002",
+    "Name": "ชิโรโกะ (เทอเรอร์)"
+  }
+}

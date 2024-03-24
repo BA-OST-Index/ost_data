@@ -1,0 +1,13 @@
+{
+    "uuid": "95b98292-a88a-4019-b30e-a7b569ac0e43",
+    "filetype": 71,
+    "filename": "BG_TrainCabin.jpg",
+    "name": "[BG_TrainCabin.jpg_NAME]",
+    "desc": "[BG_TrainCabin.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_TrainCabin.jpg",
+        "short_desc": ""
+    }
+}

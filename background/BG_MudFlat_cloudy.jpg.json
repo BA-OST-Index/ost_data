@@ -1,0 +1,13 @@
+{
+    "uuid": "b702626f-3390-47cb-bfb6-83e3267bef2d",
+    "filetype": 71,
+    "filename": "BG_MudFlat_cloudy.jpg",
+    "name": "[BG_MudFlat_cloudy.jpg_NAME]",
+    "desc": "[BG_MudFlat_cloudy.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_MudFlat_cloudy.jpg",
+        "short_desc": ""
+    }
+}

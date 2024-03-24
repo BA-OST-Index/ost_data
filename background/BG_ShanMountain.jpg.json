@@ -1,0 +1,13 @@
+{
+    "uuid": "82ad9b87-d23d-4207-9832-7d4ba579846d",
+    "filetype": 71,
+    "filename": "BG_ShanMountain.jpg",
+    "name": "[BG_ShanMountain.jpg_NAME]",
+    "desc": "[BG_ShanMountain.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ShanMountain.jpg",
+        "short_desc": ""
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "9903531e-7e47-40f1-9545-34c61e7c7568",
+    "filetype": 71,
+    "filename": "BG_LightHousePier.jpg",
+    "name": "[BG_LightHousePier.jpg_NAME]",
+    "desc": "[BG_LightHousePier.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_LightHousePier.jpg",
+        "short_desc": ""
+    }
+}

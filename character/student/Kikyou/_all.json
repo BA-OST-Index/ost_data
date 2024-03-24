@@ -1,0 +1,10 @@
+{
+  "uuid": "4c29f6a7-d5f5-46a0-8ccf-675c604b1f70",
+  "filetype": -53,
+  "namespace": "kikyou",
+  "name": "Kikyou",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "WakamoSwimsuit": {
+    "PathName": "WakamoSwimsuit",
+    "Name": "ワカモ（水着）"
+  },
+  "HoverCraft": {
+    "PathName": "HoverCraft",
+    "Name": "ワカモ（ホバークラフト）"
+  },
+  "Binah_Colour": {
+    "PathName": "Binah_Colour",
+    "Name": "ビナー（色彩）"
+  },
+  "Chesed_Colour": {
+    "PathName": "Chesed_Colour",
+    "Name": "ケセド（色彩）"
+  },
+  "ShiroKuro_Colour": {
+    "PathName": "ShiroKuro_Colour",
+    "Name": "シロ&クロ（色彩）"
+  },
+  "Hieronymus_Colour": {
+    "PathName": "Hieronymus_Colour",
+    "Name": "ヒエロニムス（色彩）"
+  },
+  "HOD_Colour": {
+    "PathName": "HOD_Colour",
+    "Name": "ホド（色彩）"
+  },
+  "Perorozilla_Colour": {
+    "PathName": "Perorozilla_Colour",
+    "Name": "ペロロジラ（色彩）"
+  },
+  "EN0002": {
+    "PathName": "EN0002",
+    "Name": "シロコ＊テラー"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "26c44b47-5088-40f3-9dcd-d138d214735c",
+    "filetype": 71,
+    "filename": "BG_Printinghouse.jpg",
+    "name": "[BG_Printinghouse.jpg_NAME]",
+    "desc": "[BG_Printinghouse.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_Printinghouse.jpg",
+        "short_desc": ""
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "uuid": "f6292651-30dd-4769-8c65-78b62402d528",
+  "filetype": -53,
+  "namespace": "ibuki",
+  "name": "Ibuki",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

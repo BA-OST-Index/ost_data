@@ -1,0 +1,23 @@
+{
+  "uuid": "b2768a88-13ca-4b4e-a5b6-c19897d13865",
+  "filetype": -42,
+  "name": "[EVENT_803_NAME]",
+  "namespace": "803",
+  "desc": "[EVENT_803_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

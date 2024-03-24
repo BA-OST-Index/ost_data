@@ -1,0 +1,13 @@
+{
+    "uuid": "bed53abe-ceb7-4530-9224-761ce7f22ced",
+    "filetype": 71,
+    "filename": "BG_MarketInside.jpg",
+    "name": "[BG_MarketInside.jpg_NAME]",
+    "desc": "[BG_MarketInside.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_MarketInside.jpg",
+        "short_desc": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "d32ae96e-7fbe-4d28-bb48-8ee606bc0e9b",
+  "filetype": -42,
+  "name": "[EVENT_814_NAME]",
+  "namespace": "814",
+  "desc": "[EVENT_814_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

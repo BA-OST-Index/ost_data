@@ -1,0 +1,38 @@
+{
+  "WakamoSwimsuit": {
+    "PathName": "WakamoSwimsuit",
+    "Name": "Wakamo (Swimsuit)"
+  },
+  "HoverCraft": {
+    "PathName": "HoverCraft",
+    "Name": "Wakamo (Hovercraft)"
+  },
+  "Binah_Colour": {
+    "PathName": "Binah_Colour",
+    "Name": "Binah (Chroma)"
+  },
+  "Chesed_Colour": {
+    "PathName": "Chesed_Colour",
+    "Name": "Chesed (Chroma)"
+  },
+  "ShiroKuro_Colour": {
+    "PathName": "ShiroKuro_Colour",
+    "Name": "Shiro & Kuro (Chroma)"
+  },
+  "Hieronymus_Colour": {
+    "PathName": "Hieronymus_Colour",
+    "Name": "Hieronymus (Chroma)"
+  },
+  "HOD_Colour": {
+    "PathName": "HOD_Colour",
+    "Name": "Hod (Chroma)"
+  },
+  "Perorozilla_Colour": {
+    "PathName": "Perorozilla_Colour",
+    "Name": "Perorodzilla (Chroma)"
+  },
+  "EN0002": {
+    "PathName": "EN0002",
+    "Name": "Shiroko Terror"
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "uuid": "f7e98308-a9a4-484f-9e6d-32f16b1d4b08",
+    "filetype": 71,
+    "filename": "BG_HQ3_Off.jpg",
+    "name": "[BG_HQ3_Off.jpg_NAME]",
+    "desc": "[BG_HQ3_Off.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_HQ3_Off.jpg",
+        "short_desc": ""
+    }
+}

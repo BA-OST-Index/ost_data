@@ -1,0 +1,13 @@
+{
+    "uuid": "a4791a13-ae66-44d9-816f-ee8e2539f100",
+    "filetype": 71,
+    "filename": "BG_WaterFall_Night.jpg",
+    "name": "[BG_WaterFall_Night.jpg_NAME]",
+    "desc": "[BG_WaterFall_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_WaterFall_Night.jpg",
+        "short_desc": ""
+    }
+}

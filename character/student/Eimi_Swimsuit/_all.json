@@ -1,0 +1,10 @@
+{
+  "uuid": "455e1e76-a5c6-4b05-b99c-a0053a90da93",
+  "filetype": -53,
+  "namespace": "eimi_swimsuit",
+  "name": "Eimi_Swimsuit",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

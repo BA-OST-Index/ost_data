@@ -1,0 +1,13 @@
+{
+    "uuid": "924e97a9-fd43-4c1a-a03c-ebf0eb90def7",
+    "filetype": 71,
+    "filename": "BG_ShanMountain_Night.jpg",
+    "name": "[BG_ShanMountain_Night.jpg_NAME]",
+    "desc": "[BG_ShanMountain_Night.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ShanMountain_Night.jpg",
+        "short_desc": ""
+    }
+}

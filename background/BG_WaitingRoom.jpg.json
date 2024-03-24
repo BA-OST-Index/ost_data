@@ -1,0 +1,13 @@
+{
+    "uuid": "d94d2003-1b1e-4686-98e9-8f75c1356901",
+    "filetype": 71,
+    "filename": "BG_WaitingRoom.jpg",
+    "name": "[BG_WaitingRoom.jpg_NAME]",
+    "desc": "[BG_WaitingRoom.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_WaitingRoom.jpg",
+        "short_desc": ""
+    }
+}

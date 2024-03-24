@@ -1,0 +1,10 @@
+{
+  "uuid": "fabe8aab-3115-44ee-905e-1d4ba9311c75",
+  "filetype": -53,
+  "namespace": "yukari",
+  "name": "Yukari",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

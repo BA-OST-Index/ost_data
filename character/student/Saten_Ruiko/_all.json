@@ -1,0 +1,10 @@
+{
+  "uuid": "963bd33e-cb82-423c-a63e-3824fe840d2a",
+  "filetype": -53,
+  "namespace": "saten_ruiko",
+  "name": "Saten_Ruiko",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

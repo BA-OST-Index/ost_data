@@ -1,0 +1,23 @@
+{
+  "uuid": "e69b1083-4bd5-4172-b2c8-59ce4051d310",
+  "filetype": -42,
+  "name": "[EVENT_829_NAME]",
+  "namespace": "829",
+  "desc": "[EVENT_829_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

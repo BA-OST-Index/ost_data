@@ -1,0 +1,13 @@
+{
+    "uuid": "a18dd8d1-c28b-471b-b29f-621a5e165d68",
+    "filetype": 71,
+    "filename": "BG_UndergroundRuin.jpg",
+    "name": "[BG_UndergroundRuin.jpg_NAME]",
+    "desc": "[BG_UndergroundRuin.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_UndergroundRuin.jpg",
+        "short_desc": ""
+    }
+}

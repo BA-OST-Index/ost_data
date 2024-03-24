@@ -14,6 +14,8 @@
   "[BATTLE_SPECIAL_DESC]": "本页列出所有的蔚蓝档案特殊任务关卡",
   "[BATTLE_TOTAL_NAME]": "全部总力战BOSS",
   "[BATTLE_TOTAL_DESC]": "本页列出所有的蔚蓝档案中出现的总力战BOSS。请注意，日服由于版本领先，部分BOSS可能未在其他服务器中出现过。",
+  "[BATTLE_WORLDRAID_NAME]": "全部大决战BOSS",
+  "[BATTLE_WORLDRAID_DESC]": "本页列出所有蔚蓝档案中出现的不同大决战BOSS。",
 
   "[TRACK_ALL_NAME]": "全部曲子",
   "[TRACK_ALL_DESC]": "本页列出所有的蔚蓝档案曲子的类别。",

@@ -1,0 +1,13 @@
+{
+    "uuid": "4f0a10bd-b96c-4173-878a-5998ffb9256a",
+    "filetype": 71,
+    "filename": "BG_OldHouseOutside.jpg",
+    "name": "[BG_OldHouseOutside.jpg_NAME]",
+    "desc": "[BG_OldHouseOutside.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_OldHouseOutside.jpg",
+        "short_desc": ""
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "uuid": "3f0725b5-49e3-4883-9777-cb589919e7df",
+  "filetype": -42,
+  "name": "[EVENT_826_NAME]",
+  "namespace": "826",
+  "desc": "[EVENT_826_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

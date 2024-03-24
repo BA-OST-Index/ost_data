@@ -1,0 +1,13 @@
+{
+    "uuid": "a8b41f3b-428e-403f-8519-ea40ab09aef4",
+    "filetype": 71,
+    "filename": "BG_ShanPresident.jpg",
+    "name": "[BG_ShanPresident.jpg_NAME]",
+    "desc": "[BG_ShanPresident.jpg_DESC]",
+    "tag": [],
+    "image": {
+        "platform": -1,
+        "value": "/static/images/background/BG_ShanPresident.jpg",
+        "short_desc": ""
+    }
+}
