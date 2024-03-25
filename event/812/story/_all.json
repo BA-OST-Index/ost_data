@@ -1,20 +1,17 @@
 {
   "uuid": "b1c03060-091b-4075-9761-0c8f15cfa0ff",
-  "filetype": -42,
-  "name": "[EVENT_812_NAME]",
-  "namespace": "812",
-  "desc": "[EVENT_812_DESC]",
-
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_812_STORY_DESC]",
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",

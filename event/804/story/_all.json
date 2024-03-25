@@ -1,20 +1,17 @@
 {
   "uuid": "31cf8139-e4da-4e04-be30-4fa6a1454400",
-  "filetype": -42,
-  "name": "[EVENT_804_NAME]",
-  "namespace": "804",
-  "desc": "[EVENT_804_DESC]",
-
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_804_STORY_DESC]",
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",

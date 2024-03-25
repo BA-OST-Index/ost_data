@@ -4,17 +4,14 @@
   "name": "[EVENT_STORY_NAME]",
   "namespace": "story",
   "desc": "[EVENT_991_STORY_DESC]",
-
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
     "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",

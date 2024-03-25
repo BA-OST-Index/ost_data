@@ -1,20 +1,17 @@
 {
   "uuid": "78e829c8-5eaa-4fa1-aa95-6d301ef5a028",
-  "filetype": -42,
-  "name": "[EVENT_828_NAME]",
-  "namespace": "828",
-  "desc": "[EVENT_828_DESC]",
-
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_828_STORY_DESC]",
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",

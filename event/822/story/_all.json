@@ -1,20 +1,17 @@
 {
   "uuid": "67a008c2-3cfa-4cf3-867a-39150231bfeb",
-  "filetype": -42,
-  "name": "[EVENT_822_NAME]",
-  "namespace": "822",
-  "desc": "[EVENT_822_DESC]",
-
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_822_STORY_DESC]",
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",

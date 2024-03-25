@@ -1,20 +1,17 @@
 {
   "uuid": "012d50fa-dce8-44fc-96a0-0f5f54dedeeb",
-  "filetype": -42,
-  "name": "[EVENT_825_NAME]",
-  "namespace": "825",
-  "desc": "[EVENT_825_DESC]",
-
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
+  "desc": "[EVENT_825_STORY_DESC]",
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
-
   "image": {
     "value": "",
     "short_desc": "",
