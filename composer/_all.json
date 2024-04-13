@@ -1,0 +1,11 @@
+{
+  "uuid": "d8d841c6-60b2-4610-b850-a813be5d83ab",
+  "filetype": -14,
+  "name": "[COMPOSER_ALL_NAME]",
+  "namespace": "composer",
+  "desc": "[COMPOSER_ALL_DES]",
+
+  "include": [
+    "[AUTO]"
+  ]
+}

@@ -45,5 +45,8 @@
   "[CHAR_NPC_NAME]": "全部NPC",
   "[CHAR_NPC_DESC]": "本页列出所有蔚蓝档案的NPC（不可游玩角色）。",
   "[CHAR_STU_NAME]": "全部学生",
-  "[CHAR_STU_DESC]": "本页列出所有蔚蓝档案的学生。学生的相关信息基于<a href=\"https://schale.gg/\">Schale DB</a>的数据自动生成，因而可能会出现数据滞后（如刚出的新角色没有数据）、超前（国际服晚半年），以至于是不准确的情况，敬请注意。"
+  "[CHAR_STU_DESC]": "本页列出所有蔚蓝档案的学生。学生的相关信息基于<a href=\"https://schale.gg/\">Schale DB</a>的数据自动生成，因而可能会出现数据滞后（如刚出的新角色没有数据）、超前（国际服晚半年），以至于是不准确的情况，敬请注意。",
+
+  "[COMPOSER_ALL_NAME]": "全部作曲人",
+  "[COMPOSER_ALL_DESC]": "本页列出所有为蔚蓝档案制作过歌曲的作曲人。"
 }

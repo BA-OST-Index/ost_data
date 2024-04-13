@@ -43,5 +43,8 @@
   "[CHAR_NPC_NAME]": "All NPCs",
   "[CHAR_NPC_DESC]": "This page lists all the NPCs (non-playable characters) of Blue Archive.",
   "[CHAR_STU_NAME]": "All students",
-  "[CHAR_STU_DESC]": "This page lists all the students of Blue Archive. The related information is auto generated based on <a href=\"https://schale.gg/\">Schale DB</a> and therefore there might be some data lag (i.e. no data for newly-released characters), advanced data (i.e. characters can not be found in international server due to the half year gap), or even data errors. You're advised to proceed with caution."
+  "[CHAR_STU_DESC]": "This page lists all the students of Blue Archive. The related information is auto generated based on <a href=\"https://schale.gg/\">Schale DB</a> and therefore there might be some data lag (i.e. no data for newly-released characters), advanced data (i.e. characters can not be found in international server due to the half year gap), or even data errors. You're advised to proceed with caution.",
+
+  "[COMPOSER_ALL_NAME]": "All composers",
+  "[COMPOSER_ALL_DESC]": "This page lists all the composers for Blue Archive's music."
 }
