@@ -1,0 +1,10 @@
+{
+  "uuid": "23559bca-b2f9-4bda-96c8-384aa92ce640",
+  "filetype": -53,
+  "namespace": "renge",
+  "name": "Renge",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

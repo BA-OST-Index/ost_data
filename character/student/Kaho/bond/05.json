@@ -1,0 +1,56 @@
+{
+  "uuid": "a35bc247-ef41-483c-830b-9f21517f9583",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAHO_5_NAME]",
+  "desc": [
+    "[STORY_BOND_KAHO_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAHO",
+    "segment": 5,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_TatamiRoom.jpg"
+      ],
+      "character": [
+        "Kaho"
+      ],
+      "track": [
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_44": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_TatamiRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Kaho"
+      ]
+    },
+    "char_to_bg": {
+      "Kaho": [
+        "BG_TatamiRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

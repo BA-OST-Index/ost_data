@@ -1,1 +1,57 @@
-{"uuid": "31d3b786-b4e8-49d6-9d63-e526ef3104ec", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NATSU_1_NAME]", "desc": ["[STORY_BOND_NATSU_1_DESC_1]"], "pos": {"student": "NATSU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityClassRoom.jpg"], "character": ["Natsu"], "track": ["OST_4"]}, "track_to_bg": {"OST_0": ["BG_TrinityClassRoom.jpg"], "OST_4": ["BG_TrinityClassRoom.jpg"]}, "track_to_char": {"OST_4": ["Natsu"]}, "char_to_bg": {"Natsu": ["BG_TrinityClassRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "0aad2ced-0dda-47f9-8af8-a8505ed80308",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NATSU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_NATSU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "NATSU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "character": [
+        "Natsu"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "OST_4": [
+        "BG_TrinityClassRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Natsu"
+      ]
+    },
+    "char_to_bg": {
+      "Natsu": [
+        "BG_TrinityClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

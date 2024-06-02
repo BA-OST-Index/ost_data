@@ -1,1 +1,121 @@
-{"uuid": "a965cb68-6ccc-416b-bd43-3897448054da", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_828_11_NAME]", "desc": ["[STORY_EVENT_828_11_DESC_1]"], "pos": {"event_id": 828, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide.jpg", "BG_StoneRuin.jpg", "BG_UndergroundRuin.jpg", "BG_LemonForest.jpg"], "character": ["Ui_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit", "Hanako_Swimsuit"], "track": ["OST_129", "OST_69", "OST_168"]}, "track_to_bg": {"OST_129": ["BG_BeachFrontSide.jpg", "BG_StoneRuin.jpg", "BG_UndergroundRuin.jpg"], "OST_0": ["BG_BeachFrontSide.jpg"], "OST_69": ["BG_BeachFrontSide.jpg", "BG_LemonForest.jpg"], "OST_168": ["BG_BeachFrontSide.jpg"]}, "track_to_char": {"OST_129": ["Ui_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit", "Hanako_Swimsuit"], "OST_69": ["Ui_Swimsuit", "Hinata_Swimsuit", "Hanako_Swimsuit", "Koharu_Swimsuit"], "OST_168": ["Ui_Swimsuit", "Hinata_Swimsuit", "Hanako_Swimsuit", "Koharu_Swimsuit"]}, "char_to_bg": {"Ui_Swimsuit": ["BG_BeachFrontSide.jpg", "BG_StoneRuin.jpg", "BG_UndergroundRuin.jpg", "BG_LemonForest.jpg"], "Hinata_Swimsuit": ["BG_BeachFrontSide.jpg"], "Koharu_Swimsuit": ["BG_BeachFrontSide.jpg"], "Hanako_Swimsuit": ["BG_BeachFrontSide.jpg"]}, "char_to_char": {"Hinata_Swimsuit": ["Ui_Swimsuit", "Koharu_Swimsuit", "Hanako_Swimsuit"], "Koharu_Swimsuit": ["Ui_Swimsuit", "Hinata_Swimsuit", "Hanako_Swimsuit"], "Hanako_Swimsuit": ["Ui_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit"], "Ui_Swimsuit": ["Hinata_Swimsuit", "Koharu_Swimsuit", "Hanako_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "aaa10684-fc0a-4a99-b1c0-e74cd475cce4",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_828_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_828_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 828,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide.jpg",
+        "BG_StoneRuin.jpg",
+        "BG_UndergroundRuin.jpg",
+        "BG_LemonForest.jpg"
+      ],
+      "character": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit"
+      ],
+      "track": [
+        "OST_129",
+        "OST_69",
+        "OST_168"
+      ]
+    },
+    "track_to_bg": {
+      "OST_129": [
+        "BG_BeachFrontSide.jpg",
+        "BG_StoneRuin.jpg",
+        "BG_UndergroundRuin.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_69": [
+        "BG_BeachFrontSide.jpg",
+        "BG_LemonForest.jpg"
+      ],
+      "OST_168": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_129": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit"
+      ],
+      "OST_69": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Hanako_Swimsuit",
+        "Koharu_Swimsuit"
+      ],
+      "OST_168": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Hanako_Swimsuit",
+        "Koharu_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ui_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_StoneRuin.jpg",
+        "BG_UndergroundRuin.jpg",
+        "BG_LemonForest.jpg"
+      ],
+      "Hinata_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Koharu_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Hanako_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hinata_Swimsuit": [
+        "Ui_Swimsuit",
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit"
+      ],
+      "Koharu_Swimsuit": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Hanako_Swimsuit"
+      ],
+      "Hanako_Swimsuit": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit"
+      ],
+      "Ui_Swimsuit": [
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

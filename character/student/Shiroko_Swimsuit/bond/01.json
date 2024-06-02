@@ -1,1 +1,62 @@
-{"uuid": "b0fb4d6e-1d12-412a-ac24-dee12d1bc8cc", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_SHIROKO_SWIMSUIT_1_DESC_1]"], "pos": {"student": "SHIROKO_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SeashoreRocks.jpg", "BG_View_Sky.jpg"], "character": ["Shiroko_Swimsuit"], "track": ["OST_22", "OST_120"]}, "track_to_bg": {"OST_0": ["BG_SeashoreRocks.jpg"], "OST_22": ["BG_SeashoreRocks.jpg", "BG_View_Sky.jpg"]}, "track_to_char": {"OST_22": ["Shiroko_Swimsuit"], "OST_120": ["Shiroko_Swimsuit"]}, "char_to_bg": {"Shiroko_Swimsuit": ["BG_SeashoreRocks.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_120"}}, "is_memory": true}
+{
+  "uuid": "66ff281d-f7c1-40f1-a4c7-2e0bde426c15",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SeashoreRocks.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "character": [
+        "Shiroko_Swimsuit"
+      ],
+      "track": [
+        "OST_22",
+        "OST_120"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "OST_22": [
+        "BG_SeashoreRocks.jpg",
+        "BG_View_Sky.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Shiroko_Swimsuit"
+      ],
+      "OST_120": [
+        "Shiroko_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko_Swimsuit": [
+        "BG_SeashoreRocks.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_120"
+    }
+  },
+  "is_memory": true
+}

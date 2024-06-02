@@ -1,1 +1,64 @@
-{"uuid": "3b8e35c0-4c8b-4440-be6f-f349471902f9", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MUTSUKI_2_NAME]", "desc": ["[STORY_BOND_MUTSUKI_2_DESC_1]"], "pos": {"student": "MUTSUKI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KohshinjoRoom.jpg"], "character": ["Mutsuki"], "track": ["OST_10", "OST_16"]}, "track_to_bg": {"OST_10": ["BG_KohshinjoRoom.jpg"], "OST_0": ["BG_KohshinjoRoom.jpg"], "OST_16": ["BG_KohshinjoRoom.jpg"]}, "track_to_char": {"OST_10": ["Mutsuki"], "OST_16": ["Mutsuki"]}, "char_to_bg": {"Mutsuki": ["BG_KohshinjoRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "9e5e8ded-89c2-4a59-b429-a58071597326",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MUTSUKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MUTSUKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MUTSUKI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Mutsuki"
+      ],
+      "track": [
+        "OST_10",
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_16": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Mutsuki"
+      ],
+      "OST_16": [
+        "Mutsuki"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

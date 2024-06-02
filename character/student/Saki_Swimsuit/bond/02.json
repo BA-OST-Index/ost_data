@@ -1,1 +1,64 @@
-{"uuid": "2f7dc9af-1983-4e4f-9cdf-42db6a3b5922", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SAKI_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_SAKI_SWIMSUIT_2_DESC_1]"], "pos": {"student": "SAKI_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LightHousePier2.jpg"], "character": ["Saki_Swimsuit"], "track": ["OST_4", "OST_104"]}, "track_to_bg": {"OST_4": ["BG_LightHousePier2.jpg"], "OST_0": ["BG_LightHousePier2.jpg"], "OST_104": ["BG_LightHousePier2.jpg"]}, "track_to_char": {"OST_4": ["Saki_Swimsuit"], "OST_104": ["Saki_Swimsuit"]}, "char_to_bg": {"Saki_Swimsuit": ["BG_LightHousePier2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "3bfb9403-b975-4eb6-83f7-cc011e366c24",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SAKI_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SAKI_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SAKI_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "character": [
+        "Saki_Swimsuit"
+      ],
+      "track": [
+        "OST_4",
+        "OST_104"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "OST_0": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "OST_104": [
+        "BG_LightHousePier2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Saki_Swimsuit"
+      ],
+      "OST_104": [
+        "Saki_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Saki_Swimsuit": [
+        "BG_LightHousePier2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

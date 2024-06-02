@@ -1,1 +1,75 @@
-{"uuid": "0558802d-3a1c-4781-8c49-ec043dc85ba8", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHISE_2_NAME]", "desc": ["[STORY_BOND_CHISE_2_DESC_1]"], "pos": {"student": "CHISE", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg", "BG_Residence.jpg"], "character": ["Chise"], "track": ["OST_3", "OST_16", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown.jpg", "BG_Residence.jpg"], "OST_3": ["BG_CityDowntown.jpg", "BG_Residence.jpg"], "OST_16": ["BG_Residence.jpg"], "OST_7": ["BG_Residence.jpg"]}, "track_to_char": {"OST_3": ["Chise"], "OST_16": ["Chise"], "OST_7": ["Chise"]}, "char_to_bg": {"Chise": ["BG_CityDowntown.jpg", "BG_Residence.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "921a1303-9985-4d23-80ad-227c31aabd3a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHISE_2_NAME]",
+  "desc": [
+    "[STORY_BOND_CHISE_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHISE",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ],
+      "character": [
+        "Chise"
+      ],
+      "track": [
+        "OST_3",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ],
+      "OST_3": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ],
+      "OST_16": [
+        "BG_Residence.jpg"
+      ],
+      "OST_7": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Chise"
+      ],
+      "OST_16": [
+        "Chise"
+      ],
+      "OST_7": [
+        "Chise"
+      ]
+    },
+    "char_to_bg": {
+      "Chise": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

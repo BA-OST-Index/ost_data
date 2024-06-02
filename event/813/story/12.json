@@ -1,1 +1,76 @@
-{"uuid": "bf9927c6-8851-4136-b135-15b193b14b94", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_12_NAME]", "desc": ["[STORY_EVENT_813_12_DESC_1]"], "pos": {"event_id": 813, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoMovieStreet.jpg"], "character": ["Mimori", "Izuna", "Tsukuyo", "Michiru", "Iroha"], "track": ["OST_13"]}, "track_to_bg": {"OST_0": ["BG_HyakkiyakoMovieStreet.jpg"], "OST_13": ["BG_HyakkiyakoMovieStreet.jpg"]}, "track_to_char": {"OST_13": ["Mimori", "Izuna", "Tsukuyo", "Michiru", "Iroha"]}, "char_to_bg": {"Mimori": ["BG_HyakkiyakoMovieStreet.jpg"], "Izuna": ["BG_HyakkiyakoMovieStreet.jpg"], "Tsukuyo": ["BG_HyakkiyakoMovieStreet.jpg"], "Michiru": ["BG_HyakkiyakoMovieStreet.jpg"], "Iroha": ["BG_HyakkiyakoMovieStreet.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9296d381-02a5-4daa-adec-8062cb92b6b0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "character": [
+        "Mimori",
+        "Izuna",
+        "Tsukuyo",
+        "Michiru",
+        "Iroha"
+      ],
+      "track": [
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "OST_13": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Mimori",
+        "Izuna",
+        "Tsukuyo",
+        "Michiru",
+        "Iroha"
+      ]
+    },
+    "char_to_bg": {
+      "Mimori": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Iroha": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

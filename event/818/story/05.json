@@ -1,1 +1,174 @@
-{"uuid": "39b7fd0b-301d-4f4b-9e8b-d1167c5495d3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_5_NAME]", "desc": ["[STORY_EVENT_818_5_DESC_1]"], "pos": {"event_id": 818, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Grandstand.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "character": ["Noa", "Shinon", "Yuuka_Track", "Saki", "Ako", "Moe", "Miyu", "Miyako"], "track": ["OST_28", "OST_132"]}, "track_to_bg": {"OST_28": ["BG_Grandstand.jpg", "BG_KivotosStadium.jpg"], "OST_0": ["BG_KivotosStadium.jpg"], "OST_132": ["BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"]}, "track_to_char": {"OST_28": ["Noa", "Shinon", "Yuuka_Track", "Saki", "Ako"], "OST_132": ["Shinon", "Saki", "Noa", "Moe", "Miyu", "Miyako", "Yuuka_Track"]}, "char_to_bg": {"Noa": ["BG_Grandstand.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "Shinon": ["BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "Yuuka_Track": ["BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "Saki": ["BG_KivotosStadium.jpg"], "Ako": ["BG_KivotosStadium.jpg"], "Moe": ["BG_KivotosStadium.jpg"], "Miyu": ["BG_KivotosStadium.jpg"], "Miyako": ["BG_KivotosStadium.jpg"]}, "char_to_char": {"Yuuka_Track": ["Shinon", "Saki", "Ako", "Noa", "Moe", "Miyu", "Miyako"], "Saki": ["Shinon", "Yuuka_Track", "Ako", "Noa", "Moe", "Miyu", "Miyako"], "Ako": ["Shinon", "Yuuka_Track", "Saki"], "Shinon": ["Yuuka_Track", "Saki", "Ako", "Noa", "Moe", "Miyu", "Miyako"], "Noa": ["Shinon", "Saki", "Moe", "Miyu", "Miyako", "Yuuka_Track"], "Moe": ["Shinon", "Saki", "Noa", "Miyu", "Miyako", "Yuuka_Track"], "Miyu": ["Shinon", "Saki", "Noa", "Moe", "Miyako", "Yuuka_Track"], "Miyako": ["Shinon", "Saki", "Noa", "Moe", "Miyu", "Yuuka_Track"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "caf8fc9f-b138-443d-a66e-3b0da6940891",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Grandstand.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "character": [
+        "Noa",
+        "Shinon",
+        "Yuuka_Track",
+        "Saki",
+        "Ako",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "track": [
+        "OST_28",
+        "OST_132"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Grandstand.jpg",
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_0": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_132": [
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Noa",
+        "Shinon",
+        "Yuuka_Track",
+        "Saki",
+        "Ako"
+      ],
+      "OST_132": [
+        "Shinon",
+        "Saki",
+        "Noa",
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Yuuka_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Noa": [
+        "BG_Grandstand.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "Shinon": [
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "Yuuka_Track": [
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "Saki": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Ako": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Moe": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Miyu": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Miyako": [
+        "BG_KivotosStadium.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yuuka_Track": [
+        "Shinon",
+        "Saki",
+        "Ako",
+        "Noa",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Saki": [
+        "Shinon",
+        "Yuuka_Track",
+        "Ako",
+        "Noa",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Ako": [
+        "Shinon",
+        "Yuuka_Track",
+        "Saki"
+      ],
+      "Shinon": [
+        "Yuuka_Track",
+        "Saki",
+        "Ako",
+        "Noa",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Noa": [
+        "Shinon",
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Yuuka_Track"
+      ],
+      "Moe": [
+        "Shinon",
+        "Saki",
+        "Noa",
+        "Miyu",
+        "Miyako",
+        "Yuuka_Track"
+      ],
+      "Miyu": [
+        "Shinon",
+        "Saki",
+        "Noa",
+        "Moe",
+        "Miyako",
+        "Yuuka_Track"
+      ],
+      "Miyako": [
+        "Shinon",
+        "Saki",
+        "Noa",
+        "Moe",
+        "Miyu",
+        "Yuuka_Track"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

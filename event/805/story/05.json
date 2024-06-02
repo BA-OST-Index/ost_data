@@ -1,1 +1,91 @@
-{"uuid": "c49b54a7-94c9-42d4-881e-f67c5abb7f6f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_805_5_NAME]", "desc": ["[STORY_EVENT_805_5_DESC_1]"], "pos": {"event_id": 805, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanTeaHouse.jpg"], "character": ["Shun_Small", "Kirino"], "track": ["OST_6", "OST_3", "OST_16", "OST_7"]}, "track_to_bg": {"OST_6": ["BG_ShanTeaHouse.jpg"], "OST_0": ["BG_ShanTeaHouse.jpg"], "OST_3": ["BG_ShanTeaHouse.jpg"], "OST_16": ["BG_ShanTeaHouse.jpg"], "OST_7": ["BG_ShanTeaHouse.jpg"]}, "track_to_char": {"OST_6": ["Shun_Small", "Kirino"], "OST_3": ["Kirino", "Shun_Small"], "OST_16": ["Kirino", "Shun_Small"], "OST_7": ["Kirino"]}, "char_to_bg": {"Shun_Small": ["BG_ShanTeaHouse.jpg"], "Kirino": ["BG_ShanTeaHouse.jpg"]}, "char_to_char": {"Kirino": ["Shun_Small"], "Shun_Small": ["Kirino"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "f1a28711-15ab-4f25-92f7-04c798e93140",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_805_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_805_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 805,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Shun_Small",
+        "Kirino"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_0": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_3": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_16": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_7": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Shun_Small",
+        "Kirino"
+      ],
+      "OST_3": [
+        "Kirino",
+        "Shun_Small"
+      ],
+      "OST_16": [
+        "Kirino",
+        "Shun_Small"
+      ],
+      "OST_7": [
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Shun_Small": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "Kirino": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kirino": [
+        "Shun_Small"
+      ],
+      "Shun_Small": [
+        "Kirino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

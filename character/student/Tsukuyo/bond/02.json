@@ -1,1 +1,81 @@
-{"uuid": "7ca53f75-ddd6-46fc-83fa-4e1c64986044", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TSUKUYO_2_NAME]", "desc": ["[STORY_BOND_TSUKUYO_2_DESC_1]"], "pos": {"student": "TSUKUYO", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg"], "character": ["Tsukuyo"], "track": ["OST_3", "OST_22", "OST_50", "OST_5"]}, "track_to_bg": {"OST_0": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg"], "OST_3": ["BG_CityOffice.jpg"], "OST_22": ["BG_CityDowntown.jpg"], "OST_50": ["BG_CityDowntown.jpg"], "OST_5": ["BG_CityDowntown.jpg"]}, "track_to_char": {"OST_3": ["Tsukuyo"], "OST_22": ["Tsukuyo"], "OST_50": ["Tsukuyo"], "OST_5": ["Tsukuyo"]}, "char_to_bg": {"Tsukuyo": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "b7a4d29d-8c38-4ad7-b5a5-332892893644",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSUKUYO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_TSUKUYO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSUKUYO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Tsukuyo"
+      ],
+      "track": [
+        "OST_3",
+        "OST_22",
+        "OST_50",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_3": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_22": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_50": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_5": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Tsukuyo"
+      ],
+      "OST_22": [
+        "Tsukuyo"
+      ],
+      "OST_50": [
+        "Tsukuyo"
+      ],
+      "OST_5": [
+        "Tsukuyo"
+      ]
+    },
+    "char_to_bg": {
+      "Tsukuyo": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

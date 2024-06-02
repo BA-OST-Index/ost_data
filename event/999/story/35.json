@@ -1,1 +1,63 @@
-{"uuid": "f6690665-a028-4d80-a86d-404e366e446a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_35_NAME]", "desc": ["[STORY_EVENT_999_35_DESC_1]"], "pos": {"event_id": 999, "segment": 35}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GehennaClubRoom.jpg"], "character": ["Ako"], "track": ["OST_8", "OST_22"]}, "track_to_bg": {"OST_8": ["BG_GehennaClubRoom.jpg"], "OST_0": ["BG_GehennaClubRoom.jpg"], "OST_22": ["BG_GehennaClubRoom.jpg"]}, "track_to_char": {"OST_8": ["Ako"], "OST_22": ["Ako"]}, "char_to_bg": {"Ako": ["BG_GehennaClubRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "aad33e94-3313-47fc-abff-c13b66257be0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_35_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_35_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 35
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "character": [
+        "Ako"
+      ],
+      "track": [
+        "OST_8",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_8": [
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "OST_22": [
+        "BG_GehennaClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Ako"
+      ],
+      "OST_22": [
+        "Ako"
+      ]
+    },
+    "char_to_bg": {
+      "Ako": [
+        "BG_GehennaClubRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

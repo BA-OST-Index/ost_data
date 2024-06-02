@@ -1,1 +1,89 @@
-{"uuid": "5ab57a4b-669a-43a6-8f43-a7ce4a1bfb28", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_3_NAME]", "desc": ["[STORY_EVENT_813_3_DESC_1]"], "pos": {"event_id": 813, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HotelLobby.jpg", "BG_HyakkiyakoCastleSquare.jpg"], "character": ["Izuna", "Tsukuyo", "Michiru"], "track": ["OST_33", "OST_29"]}, "track_to_bg": {"OST_0": ["BG_HotelLobby.jpg", "BG_HyakkiyakoCastleSquare.jpg"], "OST_33": ["BG_HotelLobby.jpg"], "OST_29": ["BG_HyakkiyakoCastleSquare.jpg"]}, "track_to_char": {"OST_33": ["Izuna", "Tsukuyo", "Michiru"], "OST_29": ["Tsukuyo"]}, "char_to_bg": {"Izuna": ["BG_HotelLobby.jpg"], "Tsukuyo": ["BG_HotelLobby.jpg", "BG_HyakkiyakoCastleSquare.jpg"], "Michiru": ["BG_HotelLobby.jpg"]}, "char_to_char": {"Tsukuyo": ["Izuna", "Michiru"], "Michiru": ["Izuna", "Tsukuyo"], "Izuna": ["Tsukuyo", "Michiru"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b582ad2c-a0ff-40b5-972f-b7cd9ed8d009",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "track": [
+        "OST_33",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg"
+      ],
+      "OST_33": [
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_29": [
+        "BG_HyakkiyakoCastleSquare.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Izuna",
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "OST_29": [
+        "Tsukuyo"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna": [
+        "BG_HotelLobby.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg"
+      ],
+      "Michiru": [
+        "BG_HotelLobby.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Izuna",
+        "Michiru"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Michiru"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

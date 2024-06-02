@@ -1,1 +1,62 @@
-{"uuid": "24e824c7-c608-4b31-b8e6-22ffdb9cdca8", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINA_5_NAME]", "desc": ["[STORY_BOND_HINA_5_DESC_1]"], "pos": {"student": "HINA", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Campus_Night.jpg", "BG_ClassStairs_Night.jpg", "BG_GehennaCouncilHall_Night.jpg"], "character": ["Hina"], "track": ["OST_22", "OST_21"]}, "track_to_bg": {"OST_0": ["BG_Campus_Night.jpg", "BG_ClassStairs_Night.jpg", "BG_GehennaCouncilHall_Night.jpg"], "OST_22": ["BG_GehennaCouncilHall_Night.jpg"]}, "track_to_char": {"OST_22": ["Hina"]}, "char_to_bg": {"Hina": ["BG_ClassStairs_Night.jpg", "BG_GehennaCouncilHall_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_21"}}, "is_memory": true}
+{
+  "uuid": "6993547f-960a-4ff0-8733-0e0e8b866fc2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINA_5_NAME]",
+  "desc": [
+    "[STORY_BOND_HINA_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINA",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Campus_Night.jpg",
+        "BG_ClassStairs_Night.jpg",
+        "BG_GehennaCouncilHall_Night.jpg"
+      ],
+      "character": [
+        "Hina"
+      ],
+      "track": [
+        "OST_22",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Campus_Night.jpg",
+        "BG_ClassStairs_Night.jpg",
+        "BG_GehennaCouncilHall_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_GehennaCouncilHall_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Hina"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_ClassStairs_Night.jpg",
+        "BG_GehennaCouncilHall_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

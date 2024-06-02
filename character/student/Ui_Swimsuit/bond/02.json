@@ -1,1 +1,56 @@
-{"uuid": "2a07cb45-b0e7-4998-a766-7c31361ac49d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_UI_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_UI_SWIMSUIT_2_DESC_1]"], "pos": {"student": "UI_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TropicalForest.jpg"], "character": ["Ui_Swimsuit"], "track": ["OST_173"]}, "track_to_bg": {"OST_0": ["BG_TropicalForest.jpg"], "OST_173": ["BG_TropicalForest.jpg"]}, "track_to_char": {"OST_173": ["Ui_Swimsuit"]}, "char_to_bg": {"Ui_Swimsuit": ["BG_TropicalForest.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_173"}}, "is_memory": true}
+{
+  "uuid": "acbd0433-c559-4903-83ce-fd99dff0a706",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UI_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_UI_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "UI_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TropicalForest.jpg"
+      ],
+      "character": [
+        "Ui_Swimsuit"
+      ],
+      "track": [
+        "OST_173"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TropicalForest.jpg"
+      ],
+      "OST_173": [
+        "BG_TropicalForest.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_173": [
+        "Ui_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ui_Swimsuit": [
+        "BG_TropicalForest.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_173"
+    }
+  },
+  "is_memory": true
+}

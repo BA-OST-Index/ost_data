@@ -1,1 +1,58 @@
-{"uuid": "b4ce78fa-7010-4c98-ad6c-a5089c3694b0", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_64_NAME]", "desc": ["[STORY_EVENT_999_64_DESC_1]"], "pos": {"event_id": 999, "segment": 64}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Auditorium2.jpg", "BG_ShoesCabinet.jpg"], "character": ["Asuna"], "track": ["OST_40"]}, "track_to_bg": {"OST_0": ["BG_Auditorium2.jpg"], "OST_40": ["BG_Auditorium2.jpg", "BG_ShoesCabinet.jpg"]}, "track_to_char": {"OST_40": ["Asuna"]}, "char_to_bg": {"Asuna": ["BG_Auditorium2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "0c8907b7-84ab-42bf-859a-5b8dd9a5457f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_64_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_64_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 64
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Auditorium2.jpg",
+        "BG_ShoesCabinet.jpg"
+      ],
+      "character": [
+        "Asuna"
+      ],
+      "track": [
+        "OST_40"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Auditorium2.jpg"
+      ],
+      "OST_40": [
+        "BG_Auditorium2.jpg",
+        "BG_ShoesCabinet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_40": [
+        "Asuna"
+      ]
+    },
+    "char_to_bg": {
+      "Asuna": [
+        "BG_Auditorium2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

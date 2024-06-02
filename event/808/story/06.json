@@ -1,1 +1,84 @@
-{"uuid": "f62731e9-7734-4018-90e6-e522e8834716", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_808_6_NAME]", "desc": ["[STORY_EVENT_808_6_DESC_1]"], "pos": {"event_id": 808, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RyokanRestLounge.jpg", "BG_RyoKanFront2.jpg"], "character": ["Nodoka_HotSpring", "Minori", "Part-Timer", "Shigure_HotSpring"], "track": ["OST_99", "OST_8", "OST_3"]}, "track_to_bg": {"OST_99": ["BG_RyokanRestLounge.jpg"], "OST_0": ["BG_RyokanRestLounge.jpg", "BG_RyoKanFront2.jpg"], "OST_8": ["BG_RyoKanFront2.jpg"], "OST_3": ["BG_RyoKanFront2.jpg"]}, "track_to_char": {"OST_99": ["Nodoka_HotSpring"], "OST_8": ["Minori", "Part-Timer", "Shigure_HotSpring", "Nodoka_HotSpring"], "OST_3": ["Minori", "Part-Timer", "Nodoka_HotSpring"]}, "char_to_bg": {"Nodoka_HotSpring": ["BG_RyokanRestLounge.jpg", "BG_RyoKanFront2.jpg"], "Minori": ["BG_RyoKanFront2.jpg"], "Part-Timer": ["BG_RyoKanFront2.jpg"], "Shigure_HotSpring": ["BG_RyoKanFront2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9fe6fdb4-cda9-4738-a91a-ae6ac79a6652",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_808_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_808_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 808,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RyokanRestLounge.jpg",
+        "BG_RyoKanFront2.jpg"
+      ],
+      "character": [
+        "Nodoka_HotSpring",
+        "Minori",
+        "Shigure_HotSpring"
+      ],
+      "track": [
+        "OST_99",
+        "OST_8",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_99": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "OST_0": [
+        "BG_RyokanRestLounge.jpg",
+        "BG_RyoKanFront2.jpg"
+      ],
+      "OST_8": [
+        "BG_RyoKanFront2.jpg"
+      ],
+      "OST_3": [
+        "BG_RyoKanFront2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_99": [
+        "Nodoka_HotSpring"
+      ],
+      "OST_8": [
+        "Minori",
+        "Shigure_HotSpring",
+        "Nodoka_HotSpring"
+      ],
+      "OST_3": [
+        "Minori",
+        "Nodoka_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Nodoka_HotSpring": [
+        "BG_RyokanRestLounge.jpg",
+        "BG_RyoKanFront2.jpg"
+      ],
+      "Minori": [
+        "BG_RyoKanFront2.jpg"
+      ],
+      "Shigure_HotSpring": [
+        "BG_RyoKanFront2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

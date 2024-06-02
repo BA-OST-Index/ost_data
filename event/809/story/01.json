@@ -1,1 +1,102 @@
-{"uuid": "fa703274-7781-49de-83ba-680b458e63c1", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_809_1_NAME]", "desc": ["[STORY_EVENT_809_1_DESC_1]"], "pos": {"event_id": 809, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KohshinjoRoom.jpg"], "character": ["Aru_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"], "track": ["OST_10", "OST_3"]}, "track_to_bg": {"OST_10": ["BG_KohshinjoRoom.jpg"], "OST_0": ["BG_KohshinjoRoom.jpg"], "OST_3": ["BG_KohshinjoRoom.jpg"]}, "track_to_char": {"OST_10": ["Aru_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"], "OST_3": ["Aru_NewYear", "Haruka_NewYear", "Kayoko_NewYear", "Mutsuki_NewYear"]}, "char_to_bg": {"Aru_NewYear": ["BG_KohshinjoRoom.jpg"], "Haruka_NewYear": ["BG_KohshinjoRoom.jpg"], "Mutsuki_NewYear": ["BG_KohshinjoRoom.jpg"], "Kayoko_NewYear": ["BG_KohshinjoRoom.jpg"]}, "char_to_char": {"Haruka_NewYear": ["Aru_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"], "Mutsuki_NewYear": ["Aru_NewYear", "Haruka_NewYear", "Kayoko_NewYear"], "Kayoko_NewYear": ["Aru_NewYear", "Haruka_NewYear", "Mutsuki_NewYear"], "Aru_NewYear": ["Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "3e25f9e3-caa7-4554-97b3-b27ed870528d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_809_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_809_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 809,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ],
+      "OST_3": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Aru_NewYear": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Haruka_NewYear": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Mutsuki_NewYear": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Kayoko_NewYear": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Haruka_NewYear": [
+        "Aru_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ],
+      "Mutsuki_NewYear": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Kayoko_NewYear"
+      ],
+      "Kayoko_NewYear": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ],
+      "Aru_NewYear": [
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

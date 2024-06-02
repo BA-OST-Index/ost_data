@@ -1,1 +1,62 @@
-{"uuid": "df021359-297d-4430-8185-19ee2980f6a6", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IBUKI_4_NAME]", "desc": ["[STORY_BOND_IBUKI_4_DESC_1]"], "pos": {"student": "IBUKI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GehennaCampus.jpg", "BG_GehennaClubRoom.jpg"], "character": ["Ibuki"], "track": ["OST_4", "OST_50"]}, "track_to_bg": {"OST_4": ["BG_GehennaCampus.jpg", "BG_GehennaClubRoom.jpg"], "OST_50": ["BG_GehennaClubRoom.jpg"]}, "track_to_char": {"OST_4": ["Ibuki"], "OST_50": ["Ibuki"]}, "char_to_bg": {"Ibuki": ["BG_GehennaClubRoom.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_50"}}, "is_memory": true}
+{
+  "uuid": "f1f47263-6a8c-4997-b19c-84593658e348",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IBUKI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_IBUKI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "IBUKI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaCampus.jpg",
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "character": [
+        "Ibuki"
+      ],
+      "track": [
+        "OST_4",
+        "OST_50"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_GehennaCampus.jpg",
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "OST_50": [
+        "BG_GehennaClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Ibuki"
+      ],
+      "OST_50": [
+        "Ibuki"
+      ]
+    },
+    "char_to_bg": {
+      "Ibuki": [
+        "BG_GehennaClubRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_50"
+    }
+  },
+  "is_memory": true
+}

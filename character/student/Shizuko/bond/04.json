@@ -1,1 +1,58 @@
-{"uuid": "220465e6-348e-4c93-96dd-692da2e71501", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIZUKO_4_NAME]", "desc": ["[STORY_BOND_SHIZUKO_4_DESC_1]"], "pos": {"student": "SHIZUKO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg"], "character": ["Shizuko"], "track": ["OST_9"]}, "track_to_bg": {"OST_0": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg"], "OST_9": ["BG_FamilyRestaurant.jpg"]}, "track_to_char": {"OST_9": ["Shizuko"]}, "char_to_bg": {"Shizuko": ["BG_FamilyRestaurant.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "969c4cc8-afc0-4270-bceb-05d7a4f13e17",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIZUKO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIZUKO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIZUKO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "character": [
+        "Shizuko"
+      ],
+      "track": [
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_9": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Shizuko"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

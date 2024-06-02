@@ -1,0 +1,73 @@
+{
+  "uuid": "7f56c4aa-6206-4206-9388-7ed61d5ddf6d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARE_CAMP_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HARE_CAMP_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARE_CAMP",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg",
+        "BG_View_Sky2.jpg"
+      ],
+      "character": [
+        "Hare_Camp"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_3": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_103": [
+        "BG_ComputerCenter.jpg",
+        "BG_View_Sky2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Hare_Camp"
+      ],
+      "OST_3": [
+        "Hare_Camp"
+      ],
+      "OST_103": [
+        "Hare_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Hare_Camp": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

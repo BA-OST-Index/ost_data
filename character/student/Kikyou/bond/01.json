@@ -1,1 +1,89 @@
-{"uuid": "6953198d-9b7a-4746-9293-5c721dadaacd", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KIKYOU_1_NAME]", "desc": ["[STORY_BOND_KIKYOU_1_DESC_1]"], "pos": {"student": "KIKYOU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkayouranTatamiRoom.jpg", "BG_HyakkayouranTatamiRoom_Sunset.jpg"], "character": [], "track": ["OST_10", "OST_130", "OST_6", "OST_15", "OST_44"]}, "track_to_bg": {"OST_10": ["BG_HyakkayouranTatamiRoom.jpg"], "OST_0": ["BG_HyakkayouranTatamiRoom.jpg", "BG_HyakkayouranTatamiRoom_Sunset.jpg"], "OST_130": ["BG_HyakkayouranTatamiRoom.jpg"], "OST_6": ["BG_HyakkayouranTatamiRoom.jpg", "BG_HyakkayouranTatamiRoom_Sunset.jpg"], "OST_15": ["BG_HyakkayouranTatamiRoom_Sunset.jpg"], "OST_44": ["BG_HyakkayouranTatamiRoom_Sunset.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "69474886-21bb-4a4e-91a2-0d15b3d9e8b3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KIKYOU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KIKYOU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KIKYOU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "character": [
+        "Kikyou"
+      ],
+      "track": [
+        "OST_10",
+        "OST_130",
+        "OST_6",
+        "OST_15",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_15": [
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_44": [
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Kikyou"
+      ],
+      "OST_130": [
+        "Kikyou"
+      ],
+      "OST_6": [
+        "Kikyou"
+      ],
+      "OST_15": [
+        "Kikyou"
+      ],
+      "OST_44": [
+        "Kikyou"
+      ]
+    },
+    "char_to_bg": {
+      "Kikyou": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

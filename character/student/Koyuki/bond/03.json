@@ -1,1 +1,93 @@
-{"uuid": "43282a67-88d0-46ae-ab8c-69693b220107", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOYUKI_3_NAME]", "desc": ["[STORY_BOND_KOYUKI_3_DESC_1]"], "pos": {"student": "KOYUKI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice_Night2.jpg", "BG_MainOffice_Night.jpg", "BG_RestingLounge.jpg"], "character": ["Koyuki"], "track": ["OST_3", "OST_130", "OST_15", "OST_30", "OST_5"]}, "track_to_bg": {"OST_0": ["BG_MainOffice_Night2.jpg", "BG_MainOffice_Night.jpg", "BG_RestingLounge.jpg"], "OST_3": ["BG_MainOffice_Night2.jpg", "BG_RestingLounge.jpg"], "OST_130": ["BG_MainOffice_Night.jpg"], "OST_15": ["BG_MainOffice_Night.jpg"], "OST_30": ["BG_MainOffice_Night.jpg", "BG_RestingLounge.jpg"], "OST_5": ["BG_RestingLounge.jpg"]}, "track_to_char": {"OST_3": ["Koyuki"], "OST_130": ["Koyuki"], "OST_15": ["Koyuki"], "OST_30": ["Koyuki"], "OST_5": ["Koyuki"]}, "char_to_bg": {"Koyuki": ["BG_MainOffice_Night2.jpg", "BG_MainOffice_Night.jpg", "BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d008b101-c9af-46c0-a054-270758e09216",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOYUKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KOYUKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOYUKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice_Night2.jpg",
+        "BG_MainOffice_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Koyuki"
+      ],
+      "track": [
+        "OST_3",
+        "OST_130",
+        "OST_15",
+        "OST_30",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice_Night2.jpg",
+        "BG_MainOffice_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_MainOffice_Night2.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_130": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "OST_30": [
+        "BG_MainOffice_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_5": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Koyuki"
+      ],
+      "OST_130": [
+        "Koyuki"
+      ],
+      "OST_15": [
+        "Koyuki"
+      ],
+      "OST_30": [
+        "Koyuki"
+      ],
+      "OST_5": [
+        "Koyuki"
+      ]
+    },
+    "char_to_bg": {
+      "Koyuki": [
+        "BG_MainOffice_Night2.jpg",
+        "BG_MainOffice_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,63 @@
-{"uuid": "18c8d8ac-e678-4e30-868a-87de778f3c20", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_11_NAME]", "desc": ["[STORY_EVENT_999_11_DESC_1]"], "pos": {"event_id": 999, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg"], "character": ["Kayoko"], "track": ["OST_16", "OST_8"]}, "track_to_bg": {"OST_16": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg"], "OST_8": ["BG_ShoppingMall.jpg"]}, "track_to_char": {"OST_16": ["Kayoko"], "OST_8": ["Kayoko"]}, "char_to_bg": {"Kayoko": ["BG_ShoppingMall.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b6f6de57-cae1-4bb2-9f7c-73b6d188a872",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "character": [
+        "Kayoko"
+      ],
+      "track": [
+        "OST_16",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_8": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kayoko"
+      ],
+      "OST_8": [
+        "Kayoko"
+      ]
+    },
+    "char_to_bg": {
+      "Kayoko": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

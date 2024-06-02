@@ -1,0 +1,142 @@
+{
+  "uuid": "e163e60b-7ed5-4075-9c2a-a1c69180237c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_26_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_26_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 26
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FrozenSea.jpg"
+      ],
+      "character": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "Himari",
+        "???",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ],
+      "track": [
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_FrozenSea.jpg"
+      ],
+      "OST_73": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "???",
+        "Himari",
+        "Toki",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ]
+    },
+    "char_to_bg": {
+      "Toki": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Eimi_Swimsuit": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Himari": [
+        "BG_FrozenSea.jpg"
+      ],
+      "???": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Ein": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Sof": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Ohr": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Eimi_Swimsuit": [
+        "Toki",
+        "Himari",
+        "???",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ],
+      "Himari": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "???",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ],
+      "???": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "Himari",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ],
+      "Ein": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "Himari",
+        "???",
+        "Sof",
+        "Ohr"
+      ],
+      "Sof": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "Himari",
+        "???",
+        "Ein",
+        "Ohr"
+      ],
+      "Ohr": [
+        "Toki",
+        "Eimi_Swimsuit",
+        "Himari",
+        "???",
+        "Ein",
+        "Sof"
+      ],
+      "Toki": [
+        "Eimi_Swimsuit",
+        "Himari",
+        "???",
+        "Ein",
+        "Sof",
+        "Ohr"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

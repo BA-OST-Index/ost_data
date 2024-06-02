@@ -1,1 +1,150 @@
-{"uuid": "6d642af2-3a04-4afa-a3fb-969507dd279b", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_21_NAME]", "desc": ["[STORY_EVENT_701_21_DESC_1]"], "pos": {"event_id": 701, "segment": 21}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_DecagrammatonFront.jpg", "BG_DecagrammatonLabortory.jpg", "BG_RuinSchoolCorridor.jpg", "BG_Kitchen_Night.jpg", "BG_LockerRoom_Night.jpg", "BG_PartyRoom_Night.jpg", "BG_RuinUndergroundPassage.jpg", "BG_DecagrammatonLabortory_Night.jpg", "BG_CS_Decagrammaton_01.jpg", "BG_CS_PV2_66.jpg", "BG_DecagrammatonFront_Night.jpg"], "character": ["Himari", "Eimi"], "track": ["OST_27", "OST_92", "OST_33", "OST_73", "OST_48"]}, "track_to_bg": {"OST_27": ["BG_DecagrammatonFront.jpg"], "OST_0": ["BG_DecagrammatonFront.jpg", "BG_DecagrammatonLabortory.jpg", "BG_RuinSchoolCorridor.jpg", "BG_CS_Decagrammaton_01.jpg"], "OST_92": ["BG_DecagrammatonFront.jpg"], "OST_33": ["BG_DecagrammatonFront.jpg"], "OST_73": ["BG_DecagrammatonLabortory.jpg", "BG_Kitchen_Night.jpg", "BG_LockerRoom_Night.jpg", "BG_PartyRoom_Night.jpg", "BG_RuinUndergroundPassage.jpg", "BG_DecagrammatonLabortory_Night.jpg", "BG_CS_Decagrammaton_01.jpg"], "OST_48": ["BG_CS_Decagrammaton_01.jpg", "BG_DecagrammatonLabortory_Night.jpg", "BG_CS_PV2_66.jpg", "BG_DecagrammatonFront_Night.jpg"]}, "track_to_char": {"OST_27": ["Himari", "Eimi"], "OST_92": ["Himari", "Eimi"], "OST_33": ["Eimi", "Himari"], "OST_73": ["Himari", "Eimi"], "OST_48": ["Himari", "Eimi"]}, "char_to_bg": {"Himari": ["BG_DecagrammatonFront.jpg", "BG_DecagrammatonLabortory.jpg", "BG_RuinSchoolCorridor.jpg", "BG_Kitchen_Night.jpg", "BG_LockerRoom_Night.jpg", "BG_PartyRoom_Night.jpg", "BG_RuinUndergroundPassage.jpg", "BG_DecagrammatonLabortory_Night.jpg", "BG_CS_Decagrammaton_01.jpg"], "Eimi": ["BG_DecagrammatonFront.jpg", "BG_DecagrammatonLabortory.jpg", "BG_RuinSchoolCorridor.jpg", "BG_Kitchen_Night.jpg", "BG_LockerRoom_Night.jpg", "BG_PartyRoom_Night.jpg", "BG_RuinUndergroundPassage.jpg", "BG_DecagrammatonLabortory_Night.jpg", "BG_CS_Decagrammaton_01.jpg"]}, "char_to_char": {"Eimi": ["Himari"], "Himari": ["Eimi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "24b7c32f-ddf4-4aee-a7b1-7f72a064609d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_21_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_21_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DecagrammatonFront.jpg",
+        "BG_DecagrammatonLabortory.jpg",
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_Kitchen_Night.jpg",
+        "BG_LockerRoom_Night.jpg",
+        "BG_PartyRoom_Night.jpg",
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg",
+        "BG_CS_Decagrammaton_01.jpg",
+        "BG_CS_PV2_66.jpg",
+        "BG_DecagrammatonFront_Night.jpg"
+      ],
+      "character": [
+        "Himari",
+        "Eimi",
+        "Decagramaton"
+      ],
+      "track": [
+        "OST_27",
+        "OST_92",
+        "OST_33",
+        "OST_73",
+        "OST_48"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_DecagrammatonFront.jpg"
+      ],
+      "OST_0": [
+        "BG_DecagrammatonFront.jpg",
+        "BG_DecagrammatonLabortory.jpg",
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_CS_Decagrammaton_01.jpg"
+      ],
+      "OST_92": [
+        "BG_DecagrammatonFront.jpg"
+      ],
+      "OST_33": [
+        "BG_DecagrammatonFront.jpg"
+      ],
+      "OST_73": [
+        "BG_DecagrammatonLabortory.jpg",
+        "BG_Kitchen_Night.jpg",
+        "BG_LockerRoom_Night.jpg",
+        "BG_PartyRoom_Night.jpg",
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg",
+        "BG_CS_Decagrammaton_01.jpg"
+      ],
+      "OST_48": [
+        "BG_CS_Decagrammaton_01.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg",
+        "BG_CS_PV2_66.jpg",
+        "BG_DecagrammatonFront_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Himari",
+        "Eimi"
+      ],
+      "OST_92": [
+        "Himari",
+        "Eimi"
+      ],
+      "OST_33": [
+        "Eimi",
+        "Himari"
+      ],
+      "OST_73": [
+        "Himari",
+        "Eimi"
+      ],
+      "OST_48": [
+        "Himari",
+        "Eimi",
+        "Decagramaton"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_DecagrammatonFront.jpg",
+        "BG_DecagrammatonLabortory.jpg",
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_Kitchen_Night.jpg",
+        "BG_LockerRoom_Night.jpg",
+        "BG_PartyRoom_Night.jpg",
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg",
+        "BG_CS_Decagrammaton_01.jpg"
+      ],
+      "Eimi": [
+        "BG_DecagrammatonFront.jpg",
+        "BG_DecagrammatonLabortory.jpg",
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_Kitchen_Night.jpg",
+        "BG_LockerRoom_Night.jpg",
+        "BG_PartyRoom_Night.jpg",
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg",
+        "BG_CS_Decagrammaton_01.jpg"
+      ],
+      "Decagramaton": [
+        "BG_CS_Decagrammaton_01.jpg",
+        "BG_DecagrammatonLabortory_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Eimi": [
+        "Himari",
+        "Decagramaton"
+      ],
+      "Himari": [
+        "Eimi",
+        "Decagramaton"
+      ],
+      "Decagramaton": [
+        "Himari",
+        "Eimi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

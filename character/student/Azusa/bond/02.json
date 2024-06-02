@@ -1,1 +1,67 @@
-{"uuid": "32f9c640-ca0f-41a4-bf67-239bd9f3f7d4", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AZUSA_2_NAME]", "desc": ["[STORY_BOND_AZUSA_2_DESC_1]"], "pos": {"student": "AZUSA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_RestingLounge.jpg"], "character": ["Azusa"], "track": ["OST_16", "OST_22"]}, "track_to_bg": {"OST_16": ["BG_MainOffice.jpg", "BG_RestingLounge.jpg"], "OST_0": ["BG_RestingLounge.jpg"], "OST_22": ["BG_RestingLounge.jpg"]}, "track_to_char": {"OST_16": ["Azusa"], "OST_22": ["Azusa"]}, "char_to_bg": {"Azusa": ["BG_MainOffice.jpg", "BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "b3aed040-bffc-42b5-ba3b-b38121814423",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AZUSA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_AZUSA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "AZUSA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Azusa"
+      ],
+      "track": [
+        "OST_16",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_0": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_22": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Azusa"
+      ],
+      "OST_22": [
+        "Azusa"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

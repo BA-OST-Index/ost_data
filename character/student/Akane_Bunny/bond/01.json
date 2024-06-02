@@ -1,1 +1,64 @@
-{"uuid": "81db5fc3-fb2f-49d9-9636-a646e1650508", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AKANE_BUNNY_1_NAME]", "desc": ["[STORY_BOND_AKANE_BUNNY_1_DESC_1]"], "pos": {"student": "AKANE_BUNNY", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCorridor.jpg"], "character": ["Akane_Bunny"], "track": ["OST_16", "OST_94"]}, "track_to_bg": {"OST_16": ["BG_MilleniumCorridor.jpg"], "OST_0": ["BG_MilleniumCorridor.jpg"], "OST_94": ["BG_MilleniumCorridor.jpg"]}, "track_to_char": {"OST_16": ["Akane_Bunny"], "OST_94": ["Akane_Bunny"]}, "char_to_bg": {"Akane_Bunny": ["BG_MilleniumCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c47d38fa-14a1-4f34-9e60-295ae2601fca",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKANE_BUNNY_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AKANE_BUNNY_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKANE_BUNNY",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCorridor.jpg"
+      ],
+      "character": [
+        "Akane_Bunny"
+      ],
+      "track": [
+        "OST_16",
+        "OST_94"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MilleniumCorridor.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCorridor.jpg"
+      ],
+      "OST_94": [
+        "BG_MilleniumCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Akane_Bunny"
+      ],
+      "OST_94": [
+        "Akane_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Akane_Bunny": [
+        "BG_MilleniumCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

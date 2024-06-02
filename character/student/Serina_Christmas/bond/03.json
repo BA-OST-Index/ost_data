@@ -1,1 +1,70 @@
-{"uuid": "836c5f9d-f0c8-4449-860b-1021c8d1e180", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SERINA_CHRISTMAS_3_NAME]", "desc": ["[STORY_BOND_SERINA_CHRISTMAS_3_DESC_1]"], "pos": {"student": "SERINA_CHRISTMAS", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BuildingCorridor.jpg", "BG_Ward.jpg", "BG_IndoorPlaza.jpg"], "character": ["Serina_Christmas"], "track": ["OST_10", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_BuildingCorridor.jpg", "BG_Ward.jpg", "BG_IndoorPlaza.jpg"], "OST_10": ["BG_Ward.jpg"], "OST_15": ["BG_IndoorPlaza.jpg"]}, "track_to_char": {"OST_10": ["Serina_Christmas"], "OST_15": ["Serina_Christmas"]}, "char_to_bg": {"Serina_Christmas": ["BG_BuildingCorridor.jpg", "BG_Ward.jpg", "BG_IndoorPlaza.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "fafe3fd7-2ff9-43d6-96f3-8f912f2deff2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SERINA_CHRISTMAS_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SERINA_CHRISTMAS_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SERINA_CHRISTMAS",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingCorridor.jpg",
+        "BG_Ward.jpg",
+        "BG_IndoorPlaza.jpg"
+      ],
+      "character": [
+        "Serina_Christmas"
+      ],
+      "track": [
+        "OST_10",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BuildingCorridor.jpg",
+        "BG_Ward.jpg",
+        "BG_IndoorPlaza.jpg"
+      ],
+      "OST_10": [
+        "BG_Ward.jpg"
+      ],
+      "OST_15": [
+        "BG_IndoorPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Serina_Christmas"
+      ],
+      "OST_15": [
+        "Serina_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Serina_Christmas": [
+        "BG_BuildingCorridor.jpg",
+        "BG_Ward.jpg",
+        "BG_IndoorPlaza.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,0 +1,54 @@
+{
+  "uuid": "804c7ca0-545c-4a60-bd97-886b1d0d5cce",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SATEN_RUIKO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SATEN_RUIKO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SATEN_RUIKO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigPlaza.jpg"
+      ],
+      "character": [
+        "Saten_Ruiko"
+      ],
+      "track": [
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Saten_Ruiko"
+      ]
+    },
+    "char_to_bg": {
+      "Saten_Ruiko": [
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

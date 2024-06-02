@@ -1,0 +1,10 @@
+{
+  "uuid": "54559ac5-00a4-47e6-a408-c27554b59dbe",
+  "filetype": -53,
+  "namespace": "akari_newyear",
+  "name": "Akari_NewYear",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

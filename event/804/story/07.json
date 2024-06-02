@@ -1,1 +1,91 @@
-{"uuid": "028b3d63-aeb1-4c81-9d47-2aa78c11ce79", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_7_NAME]", "desc": ["[STORY_EVENT_804_7_DESC_1]"], "pos": {"event_id": 804, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside_Sunset.jpg"], "character": ["Haruna", "Iori_Swimsuit", "Chinatsu", "Ako"], "track": ["OST_13"]}, "track_to_bg": {"OST_0": ["BG_Beachside_Sunset.jpg"], "OST_13": ["BG_Beachside_Sunset.jpg"]}, "track_to_char": {"OST_13": ["Iori_Swimsuit", "Chinatsu", "Ako"]}, "char_to_bg": {"Haruna": ["BG_Beachside_Sunset.jpg"], "Iori_Swimsuit": ["BG_Beachside_Sunset.jpg"], "Chinatsu": ["BG_Beachside_Sunset.jpg"], "Ako": ["BG_Beachside_Sunset.jpg"]}, "char_to_char": {"Iori_Swimsuit": ["Haruna", "Chinatsu", "Ako"], "Chinatsu": ["Haruna", "Iori_Swimsuit", "Ako"], "Ako": ["Haruna", "Iori_Swimsuit", "Chinatsu"], "Haruna": ["Iori_Swimsuit", "Chinatsu", "Ako"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "f8b0de4c-10ed-4916-bf1b-b0dc36a4cd10",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "character": [
+        "Haruna",
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ],
+      "track": [
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "OST_13": [
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna": [
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "Iori_Swimsuit": [
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "Chinatsu": [
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "Ako": [
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Iori_Swimsuit": [
+        "Haruna",
+        "Chinatsu",
+        "Ako"
+      ],
+      "Chinatsu": [
+        "Haruna",
+        "Iori_Swimsuit",
+        "Ako"
+      ],
+      "Ako": [
+        "Haruna",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ],
+      "Haruna": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

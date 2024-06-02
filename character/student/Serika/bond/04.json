@@ -1,1 +1,57 @@
-{"uuid": "530c621b-0b6a-4b44-b036-2f64acd6c9b0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SERIKA_4_NAME]", "desc": ["[STORY_BOND_SERIKA_4_DESC_1]"], "pos": {"student": "SERIKA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Residence_Night.jpg"], "character": ["Serika"], "track": ["OST_22"]}, "track_to_bg": {"OST_0": ["BG_Residence_Night.jpg"], "OST_22": ["BG_Residence_Night.jpg"]}, "track_to_char": {"OST_22": ["Serika"]}, "char_to_bg": {"Serika": ["BG_Residence_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "cb1f3f82-ed0b-4806-88bc-0775073834a2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SERIKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SERIKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SERIKA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Residence_Night.jpg"
+      ],
+      "character": [
+        "Serika"
+      ],
+      "track": [
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Residence_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_Residence_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Serika"
+      ]
+    },
+    "char_to_bg": {
+      "Serika": [
+        "BG_Residence_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

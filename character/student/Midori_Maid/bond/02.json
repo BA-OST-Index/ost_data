@@ -1,0 +1,80 @@
+{
+  "uuid": "22c15c54-daff-40ff-bc81-313a0c75604e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIDORI_MAID_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MIDORI_MAID_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIDORI_MAID",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ConventionHall3.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "character": [
+        "Midori_Maid"
+      ],
+      "track": [
+        "OST_10",
+        "OST_6",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ConventionHall3.jpg"
+      ],
+      "OST_0": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ],
+      "OST_6": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ],
+      "OST_22": [
+        "BG_ConventionHall3_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Midori_Maid"
+      ],
+      "OST_6": [
+        "Midori_Maid"
+      ],
+      "OST_22": [
+        "Midori_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Midori_Maid": [
+        "BG_ConventionHall3.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

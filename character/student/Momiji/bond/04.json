@@ -1,1 +1,67 @@
-{"uuid": "47580f76-57fe-41d8-ac6a-bc0ab4650348", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MOMIJI_4_NAME]", "desc": ["[STORY_BOND_MOMIJI_4_DESC_1]"], "pos": {"student": "MOMIJI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg", "BG_RecreationRoom.jpg"], "character": ["Momiji"], "track": ["OST_9", "OST_21"]}, "track_to_bg": {"OST_9": ["BG_Library.jpg", "BG_RecreationRoom.jpg"], "OST_0": ["BG_RecreationRoom.jpg"], "OST_21": ["BG_RecreationRoom.jpg"]}, "track_to_char": {"OST_9": ["Momiji"], "OST_21": ["Momiji"]}, "char_to_bg": {"Momiji": ["BG_Library.jpg", "BG_RecreationRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d232b4c2-b6ac-4295-821c-d102063dfeea",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMIJI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMIJI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMIJI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg",
+        "BG_RecreationRoom.jpg"
+      ],
+      "character": [
+        "Momiji"
+      ],
+      "track": [
+        "OST_9",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_9": [
+        "BG_Library.jpg",
+        "BG_RecreationRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_RecreationRoom.jpg"
+      ],
+      "OST_21": [
+        "BG_RecreationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Momiji"
+      ],
+      "OST_21": [
+        "Momiji"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_Library.jpg",
+        "BG_RecreationRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

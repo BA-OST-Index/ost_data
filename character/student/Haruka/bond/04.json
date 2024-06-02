@@ -1,1 +1,66 @@
-{"uuid": "6dcd7cb2-aca1-4810-943e-bb0112c07e6a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUKA_4_NAME]", "desc": ["[STORY_BOND_HARUKA_4_DESC_1]"], "pos": {"student": "HARUKA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ForestRoad.jpg", "BG_ForestRoad_Night.jpg"], "character": ["Haruka"], "track": ["OST_15", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_ForestRoad.jpg", "BG_ForestRoad_Night.jpg"], "OST_15": ["BG_ForestRoad_Night.jpg"], "OST_7": ["BG_ForestRoad_Night.jpg"]}, "track_to_char": {"OST_15": ["Haruka"], "OST_7": ["Haruka"]}, "char_to_bg": {"Haruka": ["BG_ForestRoad_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "caf146c6-83e4-42a4-afe3-96da08743e3b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUKA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ForestRoad.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "character": [
+        "Haruka"
+      ],
+      "track": [
+        "OST_15",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ForestRoad.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_7": [
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Haruka"
+      ],
+      "OST_7": [
+        "Haruka"
+      ]
+    },
+    "char_to_bg": {
+      "Haruka": [
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

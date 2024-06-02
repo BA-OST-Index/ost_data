@@ -1,1 +1,83 @@
-{"uuid": "31292c2e-345f-4abb-812e-99859113f3c8", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_9_NAME]", "desc": ["[STORY_EVENT_701_9_DESC_1]"], "pos": {"event_id": 701, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SpecialOperationRoom.jpg", "BG_RuinCity.jpg", "BG_CS_RAID_03.jpg"], "character": ["Eimi", "Himari"], "track": ["OST_96", "OST_48"]}, "track_to_bg": {"OST_96": ["BG_SpecialOperationRoom.jpg", "BG_RuinCity.jpg"], "OST_0": ["BG_SpecialOperationRoom.jpg", "BG_CS_RAID_03.jpg"], "OST_48": ["BG_CS_RAID_03.jpg", "BG_SpecialOperationRoom.jpg"]}, "track_to_char": {"OST_96": ["Eimi", "Himari"], "OST_48": ["Himari", "Eimi"]}, "char_to_bg": {"Eimi": ["BG_SpecialOperationRoom.jpg"], "Himari": ["BG_SpecialOperationRoom.jpg", "BG_RuinCity.jpg", "BG_CS_RAID_03.jpg"]}, "char_to_char": {"Himari": ["Eimi"], "Eimi": ["Himari"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "41606cfb-5a1e-4848-872a-619625d1af0a",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SpecialOperationRoom.jpg",
+        "BG_RuinCity.jpg",
+        "BG_CS_RAID_03.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Himari"
+      ],
+      "track": [
+        "OST_96",
+        "OST_48"
+      ]
+    },
+    "track_to_bg": {
+      "OST_96": [
+        "BG_SpecialOperationRoom.jpg",
+        "BG_RuinCity.jpg"
+      ],
+      "OST_0": [
+        "BG_SpecialOperationRoom.jpg",
+        "BG_CS_RAID_03.jpg"
+      ],
+      "OST_48": [
+        "BG_CS_RAID_03.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_96": [
+        "Eimi",
+        "Himari"
+      ],
+      "OST_48": [
+        "Himari",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg",
+        "BG_RuinCity.jpg",
+        "BG_CS_RAID_03.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Himari": [
+        "Eimi"
+      ],
+      "Eimi": [
+        "Himari"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,64 @@
+{
+  "uuid": "54bb89a9-b40b-4412-82b3-21705fc20152",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YOSHIMI_5_NAME]",
+  "desc": [
+    "[STORY_BOND_YOSHIMI_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "YOSHIMI",
+    "segment": 5,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "character": [
+        "Yoshimi"
+      ],
+      "track": [
+        "OST_36",
+        "OST_194"
+      ]
+    },
+    "track_to_bg": {
+      "OST_36": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_194": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_36": [
+        "Yoshimi"
+      ],
+      "OST_194": [
+        "Yoshimi"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

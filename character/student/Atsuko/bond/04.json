@@ -1,1 +1,64 @@
-{"uuid": "36599773-ba87-4fd6-aa6e-bda303f60277", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ATSUKO_4_NAME]", "desc": ["[STORY_BOND_ATSUKO_4_DESC_1]"], "pos": {"student": "ATSUKO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityTown.jpg"], "character": ["Atsuko"], "track": ["OST_37", "OST_43"]}, "track_to_bg": {"OST_0": ["BG_CityTown.jpg"], "OST_37": ["BG_CityTown.jpg"], "OST_43": ["BG_CityTown.jpg"]}, "track_to_char": {"OST_37": ["Atsuko"], "OST_43": ["Atsuko"]}, "char_to_bg": {"Atsuko": ["BG_CityTown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5f84766a-3e39-4237-9262-c79a3bc7e1a5",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ATSUKO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ATSUKO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ATSUKO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityTown.jpg"
+      ],
+      "character": [
+        "Atsuko"
+      ],
+      "track": [
+        "OST_37",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityTown.jpg"
+      ],
+      "OST_37": [
+        "BG_CityTown.jpg"
+      ],
+      "OST_43": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_37": [
+        "Atsuko"
+      ],
+      "OST_43": [
+        "Atsuko"
+      ]
+    },
+    "char_to_bg": {
+      "Atsuko": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

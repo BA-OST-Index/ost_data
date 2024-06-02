@@ -1,1 +1,57 @@
-{"uuid": "67bdc1d3-321a-48e3-893e-a8b1253af904", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AZUSA_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_AZUSA_SWIMSUIT_2_DESC_1]"], "pos": {"student": "AZUSA_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg"], "character": ["Azusa_Swimsuit"], "track": ["OST_10"]}, "track_to_bg": {"OST_0": ["BG_BeachsideShop.jpg"], "OST_10": ["BG_BeachsideShop.jpg"]}, "track_to_char": {"OST_10": ["Azusa_Swimsuit"]}, "char_to_bg": {"Azusa_Swimsuit": ["BG_BeachsideShop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "07bfba76-c7c1-4038-973a-c9b56ab3e3d6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AZUSA_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_AZUSA_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "AZUSA_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "character": [
+        "Azusa_Swimsuit"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_10": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Azusa_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa_Swimsuit": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

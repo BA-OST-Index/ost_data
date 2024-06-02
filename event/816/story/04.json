@@ -1,1 +1,69 @@
-{"uuid": "54e54f18-141b-4b96-bd6c-622ed8e4f6ff", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_4_NAME]", "desc": ["[STORY_EVENT_816_4_DESC_1]"], "pos": {"event_id": 816, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityCampus.jpg", "BG_Playground.jpg"], "character": ["Kazusa", "Suzumi"], "track": ["OST_10", "OST_13"]}, "track_to_bg": {"OST_10": ["BG_TrinityCampus.jpg"], "OST_0": ["BG_TrinityCampus.jpg", "BG_Playground.jpg"], "OST_13": ["BG_Playground.jpg"]}, "track_to_char": {"OST_10": ["Kazusa"], "OST_13": ["Suzumi"]}, "char_to_bg": {"Kazusa": ["BG_TrinityCampus.jpg"], "Suzumi": ["BG_Playground.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "dfa3222d-cf7f-48aa-9d60-fabe82109f88",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampus.jpg",
+        "BG_Playground.jpg"
+      ],
+      "character": [
+        "Kazusa",
+        "Suzumi"
+      ],
+      "track": [
+        "OST_10",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityCampus.jpg",
+        "BG_Playground.jpg"
+      ],
+      "OST_13": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Kazusa"
+      ],
+      "OST_13": [
+        "Suzumi"
+      ]
+    },
+    "char_to_bg": {
+      "Kazusa": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Suzumi": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

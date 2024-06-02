@@ -1,1 +1,54 @@
-{"uuid": "68ffa0fb-ed1e-4a7c-9d9c-a4a436c943d3", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHINATSU_HOTSPRING_3_NAME]", "desc": ["[STORY_BOND_CHINATSU_HOTSPRING_3_DESC_1]"], "pos": {"student": "CHINATSU_HOTSPRING", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RyokanRestLounge.jpg"], "character": ["Chinatsu_HotSpring"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_RyokanRestLounge.jpg"]}, "track_to_char": {"OST_4": ["Chinatsu_HotSpring"]}, "char_to_bg": {"Chinatsu_HotSpring": ["BG_RyokanRestLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d0d43ff1-2c12-4107-b772-25af96b469e9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHINATSU_HOTSPRING_3_NAME]",
+  "desc": [
+    "[STORY_BOND_CHINATSU_HOTSPRING_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHINATSU_HOTSPRING",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "character": [
+        "Chinatsu_HotSpring"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Chinatsu_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Chinatsu_HotSpring": [
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

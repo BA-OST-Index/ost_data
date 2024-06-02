@@ -1,1 +1,54 @@
-{"uuid": "0af0c73f-6a03-41c7-8d55-92448b542ad6", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIFUMI_1_NAME]", "desc": ["[STORY_BOND_HIFUMI_1_DESC_1]"], "pos": {"student": "HIFUMI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassRoom2.jpg"], "character": ["Hifumi"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_ClassRoom2.jpg"]}, "track_to_char": {"OST_4": ["Hifumi"]}, "char_to_bg": {"Hifumi": ["BG_ClassRoom2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "e6fc1e5b-8b3a-4f39-a452-0c88481f19f2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIFUMI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HIFUMI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIFUMI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "character": [
+        "Hifumi"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

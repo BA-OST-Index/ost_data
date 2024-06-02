@@ -1,1 +1,82 @@
-{"uuid": "063738df-a0c5-40e5-abe4-1563e0123628", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_805_4_NAME]", "desc": ["[STORY_EVENT_805_4_DESC_1]"], "pos": {"event_id": 805, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground.jpg"], "character": ["Shun_Small", "Kokona"], "track": ["OST_4", "OST_3", "OST_38"]}, "track_to_bg": {"OST_4": ["BG_Playground.jpg"], "OST_0": ["BG_Playground.jpg"], "OST_3": ["BG_Playground.jpg"], "OST_38": ["BG_Playground.jpg"]}, "track_to_char": {"OST_4": ["Shun_Small"], "OST_3": ["Kokona", "Shun_Small"], "OST_38": ["Shun_Small"]}, "char_to_bg": {"Shun_Small": ["BG_Playground.jpg"], "Kokona": ["BG_Playground.jpg"]}, "char_to_char": {"Kokona": ["Shun_Small"], "Shun_Small": ["Kokona"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "d7f34d8f-efa7-44eb-a247-28390d75e8a0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_805_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_805_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 805,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground.jpg"
+      ],
+      "character": [
+        "Shun_Small",
+        "Kokona"
+      ],
+      "track": [
+        "OST_4",
+        "OST_3",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_Playground.jpg"
+      ],
+      "OST_0": [
+        "BG_Playground.jpg"
+      ],
+      "OST_3": [
+        "BG_Playground.jpg"
+      ],
+      "OST_38": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Shun_Small"
+      ],
+      "OST_3": [
+        "Kokona",
+        "Shun_Small"
+      ],
+      "OST_38": [
+        "Shun_Small"
+      ]
+    },
+    "char_to_bg": {
+      "Shun_Small": [
+        "BG_Playground.jpg"
+      ],
+      "Kokona": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kokona": [
+        "Shun_Small"
+      ],
+      "Shun_Small": [
+        "Kokona"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

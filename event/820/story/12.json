@@ -1,1 +1,155 @@
-{"uuid": "bb9b1ea4-fd4e-4f37-b99d-f0b019984f41", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_12_NAME]", "desc": ["[STORY_EVENT_820_12_DESC_1]"], "pos": {"event_id": 820, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HomeFoodPlace.jpg", "BG_Yatai.jpg"], "character": ["Fuuka_NewYear", "Haruna_NewYear", "Akari_NewYear", "Junko_NewYear", "Juri", "Izumi"], "track": ["OST_130", "OST_105", "OST_28", "OST_10", "OST_27", "OST_13"]}, "track_to_bg": {"OST_0": ["BG_HomeFoodPlace.jpg", "BG_Yatai.jpg"], "OST_130": ["BG_HomeFoodPlace.jpg"], "OST_105": ["BG_HomeFoodPlace.jpg"], "OST_28": ["BG_HomeFoodPlace.jpg"], "OST_10": ["BG_Yatai.jpg"], "OST_27": ["BG_Yatai.jpg"], "OST_13": ["BG_HomeFoodPlace.jpg"]}, "track_to_char": {"OST_130": ["Fuuka_NewYear", "Haruna_NewYear", "Akari_NewYear"], "OST_105": ["Haruna_NewYear", "Fuuka_NewYear"], "OST_28": ["Haruna_NewYear", "Fuuka_NewYear", "Junko_NewYear", "Akari_NewYear"], "OST_10": ["Juri"], "OST_27": ["Juri"], "OST_13": ["Juri", "Izumi", "Akari_NewYear"]}, "char_to_bg": {"Fuuka_NewYear": ["BG_HomeFoodPlace.jpg"], "Haruna_NewYear": ["BG_HomeFoodPlace.jpg"], "Akari_NewYear": ["BG_HomeFoodPlace.jpg"], "Junko_NewYear": ["BG_HomeFoodPlace.jpg"], "Juri": ["BG_Yatai.jpg", "BG_HomeFoodPlace.jpg"], "Izumi": ["BG_HomeFoodPlace.jpg"]}, "char_to_char": {"Haruna_NewYear": ["Fuuka_NewYear", "Akari_NewYear", "Junko_NewYear"], "Akari_NewYear": ["Fuuka_NewYear", "Haruna_NewYear", "Junko_NewYear"], "Junko_NewYear": ["Fuuka_NewYear", "Haruna_NewYear", "Akari_NewYear"], "Fuuka_NewYear": ["Haruna_NewYear", "Akari_NewYear", "Junko_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9085d803-34f3-418d-aee3-f4ed06da8765",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HomeFoodPlace.jpg",
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Fuuka_NewYear",
+        "Haruna_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear",
+        "Juri",
+        "Greengrocer",
+        "Izumi_NewYear"
+      ],
+      "track": [
+        "OST_130",
+        "OST_105",
+        "OST_28",
+        "OST_10",
+        "OST_27",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HomeFoodPlace.jpg",
+        "BG_Yatai.jpg"
+      ],
+      "OST_130": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_105": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_28": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_10": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_27": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_13": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Fuuka_NewYear",
+        "Haruna_NewYear",
+        "Akari_NewYear"
+      ],
+      "OST_105": [
+        "Haruna_NewYear",
+        "Fuuka_NewYear"
+      ],
+      "OST_28": [
+        "Haruna_NewYear",
+        "Fuuka_NewYear",
+        "Junko_NewYear",
+        "Akari_NewYear"
+      ],
+      "OST_10": [
+        "Juri",
+        "Greengrocer"
+      ],
+      "OST_27": [
+        "Greengrocer",
+        "Juri"
+      ],
+      "OST_13": [
+        "Juri",
+        "Izumi_NewYear",
+        "Akari_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Fuuka_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Haruna_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Akari_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Junko_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Juri": [
+        "BG_Yatai.jpg",
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Greengrocer": [
+        "BG_Yatai.jpg"
+      ],
+      "Izumi_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Haruna_NewYear": [
+        "Fuuka_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ],
+      "Akari_NewYear": [
+        "Fuuka_NewYear",
+        "Haruna_NewYear",
+        "Junko_NewYear"
+      ],
+      "Junko_NewYear": [
+        "Fuuka_NewYear",
+        "Haruna_NewYear",
+        "Akari_NewYear"
+      ],
+      "Fuuka_NewYear": [
+        "Haruna_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ],
+      "Greengrocer": [
+        "Juri"
+      ],
+      "Juri": [
+        "Greengrocer"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

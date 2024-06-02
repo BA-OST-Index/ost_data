@@ -1,1 +1,57 @@
-{"uuid": "d4805e34-a125-4bd5-a127-c3d59f3016dc", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HANAKO_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_HANAKO_SWIMSUIT_3_DESC_1]"], "pos": {"student": "HANAKO_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SeashoreRocks_Sunset.jpg"], "character": ["Hanako_Swimsuit"], "track": ["OST_37"]}, "track_to_bg": {"OST_0": ["BG_SeashoreRocks_Sunset.jpg"], "OST_37": ["BG_SeashoreRocks_Sunset.jpg"]}, "track_to_char": {"OST_37": ["Hanako_Swimsuit"]}, "char_to_bg": {"Hanako_Swimsuit": ["BG_SeashoreRocks_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "22d1825e-2e2e-4079-8a21-0d4df6b8f5cb",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HANAKO_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HANAKO_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HANAKO_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SeashoreRocks_Sunset.jpg"
+      ],
+      "character": [
+        "Hanako_Swimsuit"
+      ],
+      "track": [
+        "OST_37"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SeashoreRocks_Sunset.jpg"
+      ],
+      "OST_37": [
+        "BG_SeashoreRocks_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_37": [
+        "Hanako_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hanako_Swimsuit": [
+        "BG_SeashoreRocks_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

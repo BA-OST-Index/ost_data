@@ -1,1 +1,78 @@
-{"uuid": "3f2c02f1-ab07-4a73-b9b7-c7e855ff8d15", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUKA_3_NAME]", "desc": ["[STORY_BOND_HARUKA_3_DESC_1]"], "pos": {"student": "HARUKA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BigPlaza_Sunset.jpg", "BG_CityOffice_Night.jpg"], "character": ["Haruka"], "track": ["OST_6", "OST_30", "OST_3", "OST_44"]}, "track_to_bg": {"OST_6": ["BG_BigPlaza_Sunset.jpg"], "OST_0": ["BG_BigPlaza_Sunset.jpg", "BG_CityOffice_Night.jpg"], "OST_30": ["BG_BigPlaza_Sunset.jpg"], "OST_3": ["BG_BigPlaza_Sunset.jpg"], "OST_44": ["BG_CityOffice_Night.jpg"]}, "track_to_char": {"OST_6": ["Haruka"], "OST_3": ["Haruka"], "OST_44": ["Haruka"]}, "char_to_bg": {"Haruka": ["BG_BigPlaza_Sunset.jpg", "BG_CityOffice_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "34c01dee-6ecd-40b9-92c5-4312ee09bc8d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUKA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUKA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUKA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigPlaza_Sunset.jpg",
+        "BG_CityOffice_Night.jpg"
+      ],
+      "character": [
+        "Haruka"
+      ],
+      "track": [
+        "OST_6",
+        "OST_30",
+        "OST_3",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_BigPlaza_Sunset.jpg",
+        "BG_CityOffice_Night.jpg"
+      ],
+      "OST_30": [
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_3": [
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_44": [
+        "BG_CityOffice_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Haruka"
+      ],
+      "OST_3": [
+        "Haruka"
+      ],
+      "OST_44": [
+        "Haruka"
+      ]
+    },
+    "char_to_bg": {
+      "Haruka": [
+        "BG_BigPlaza_Sunset.jpg",
+        "BG_CityOffice_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

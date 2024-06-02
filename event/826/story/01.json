@@ -1,1 +1,66 @@
-{"uuid": "268dc341-1ef1-4337-a0b4-111c3206b612", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_826_1_NAME]", "desc": ["[STORY_EVENT_826_1_DESC_1]"], "pos": {"event_id": 826, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_ShanTeaHouse.jpg"], "character": ["Rumi"], "track": ["OST_6", "OST_66"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber.jpg", "BG_ShanTeaHouse.jpg"], "OST_6": ["BG_CraftChamber.jpg"], "OST_66": ["BG_ShanTeaHouse.jpg"]}, "track_to_char": {"OST_6": ["Rumi"], "OST_66": ["Rumi"]}, "char_to_bg": {"Rumi": ["BG_CraftChamber.jpg", "BG_ShanTeaHouse.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "8d017ff9-a4f4-4a86-aaa9-3aab92996e17",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_826_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_826_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 826,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Rumi"
+      ],
+      "track": [
+        "OST_6",
+        "OST_66"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_6": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_66": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Rumi"
+      ],
+      "OST_66": [
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_CraftChamber.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

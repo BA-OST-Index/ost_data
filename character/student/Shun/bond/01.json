@@ -1,1 +1,57 @@
-{"uuid": "1dcec9af-479a-4f63-ae6d-2a59f455dc16", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHUN_1_NAME]", "desc": ["[STORY_BOND_SHUN_1_DESC_1]"], "pos": {"student": "SHUN", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Meihuayuan.jpg", "BG_SchoolCafeteria.jpg"], "character": ["Shun"], "track": ["OST_36"]}, "track_to_bg": {"OST_36": ["BG_Meihuayuan.jpg", "BG_SchoolCafeteria.jpg"]}, "track_to_char": {"OST_36": ["Shun"]}, "char_to_bg": {"Shun": ["BG_Meihuayuan.jpg", "BG_SchoolCafeteria.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d45dd186-18ae-4ae8-aa70-d56496ba9b9f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHUN_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SHUN_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHUN",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Meihuayuan.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "character": [
+        "Shun"
+      ],
+      "track": [
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_36": [
+        "BG_Meihuayuan.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_36": [
+        "Shun"
+      ]
+    },
+    "char_to_bg": {
+      "Shun": [
+        "BG_Meihuayuan.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

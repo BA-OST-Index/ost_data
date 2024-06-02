@@ -1,1 +1,67 @@
-{"uuid": "22b91c6a-8956-4791-847f-a1fda4d7c9d1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARI_TRACK_2_NAME]", "desc": ["[STORY_BOND_MARI_TRACK_2_DESC_1]"], "pos": {"student": "MARI_TRACK", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_View_KivotosStadium.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "character": ["Mari_Track"], "track": ["OST_38", "OST_109"]}, "track_to_bg": {"OST_38": ["BG_View_KivotosStadium.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg"], "OST_0": ["BG_KivotosStadium2.jpg"], "OST_109": ["BG_KivotosStadium2.jpg"]}, "track_to_char": {"OST_38": ["Mari_Track"], "OST_109": ["Mari_Track"]}, "char_to_bg": {"Mari_Track": ["BG_KivotosStadium2.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_109"}}, "is_memory": true}
+{
+  "uuid": "7be4cb53-fde1-412a-b531-8610a0b3ca54",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARI_TRACK_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MARI_TRACK_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARI_TRACK",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_View_KivotosStadium.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "character": [
+        "Mari_Track"
+      ],
+      "track": [
+        "OST_38",
+        "OST_109"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_View_KivotosStadium.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg"
+      ],
+      "OST_0": [
+        "BG_KivotosStadium2.jpg"
+      ],
+      "OST_109": [
+        "BG_KivotosStadium2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Mari_Track"
+      ],
+      "OST_109": [
+        "Mari_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Mari_Track": [
+        "BG_KivotosStadium2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_109"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,202 @@
-{"uuid": "6e65fc1e-9b29-4556-a9f2-a652cb896e95", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_803_1_NAME]", "desc": ["[STORY_EVENT_803_1_DESC_1]"], "pos": {"event_id": 803, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_TrinityClubRoom.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_CityDowntown.jpg"], "character": ["Hifumi", "Azusa_Swimsuit", "Tsurugi", "Mashiro_Swimsuit", "Azusa", "Mashiro", "Hasumi"], "track": ["OST_79", "OST_3", "OST_10", "OST_7", "OST_13"]}, "track_to_bg": {"OST_0": ["BG_Beachside.jpg", "BG_TrinityClubRoom.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_CityDowntown.jpg"], "OST_79": ["BG_Beachside.jpg", "BG_TrinityClubRoom.jpg"], "OST_3": ["BG_TrinityClubRoom.jpg", "BG_IndoorPlaza_Night3.jpg"], "OST_10": ["BG_TrinityClubRoom.jpg"], "OST_7": ["BG_TrinityClubRoom.jpg", "BG_Beachside.jpg"], "OST_13": ["BG_TrinityClubRoom.jpg", "BG_CityDowntown.jpg"]}, "track_to_char": {"OST_79": ["Hifumi", "Azusa_Swimsuit", "Tsurugi", "Mashiro_Swimsuit", "Mashiro", "Hasumi"], "OST_3": ["Mashiro", "Hifumi", "Azusa", "Hasumi"], "OST_10": ["Hasumi", "Hifumi", "Mashiro", "Azusa"], "OST_7": ["Tsurugi", "Hifumi", "Hasumi", "Mashiro"], "OST_13": ["Hifumi", "Azusa", "Mashiro", "Hasumi", "Tsurugi"]}, "char_to_bg": {"Hifumi": ["BG_Beachside.jpg", "BG_TrinityClubRoom.jpg", "BG_IndoorPlaza_Night3.jpg"], "Azusa_Swimsuit": ["BG_Beachside.jpg"], "Tsurugi": ["BG_Beachside.jpg", "BG_TrinityClubRoom.jpg", "BG_CityDowntown.jpg"], "Mashiro_Swimsuit": ["BG_Beachside.jpg"], "Azusa": ["BG_TrinityClubRoom.jpg", "BG_IndoorPlaza_Night3.jpg"], "Mashiro": ["BG_TrinityClubRoom.jpg", "BG_CityDowntown.jpg"], "Hasumi": ["BG_TrinityClubRoom.jpg", "BG_CityDowntown.jpg"]}, "char_to_char": {"Azusa_Swimsuit": ["Hifumi", "Tsurugi", "Mashiro_Swimsuit"], "Tsurugi": ["Hifumi", "Azusa_Swimsuit", "Mashiro_Swimsuit", "Hasumi", "Mashiro", "Azusa"], "Mashiro_Swimsuit": ["Hifumi", "Azusa_Swimsuit", "Tsurugi"], "Hifumi": ["Azusa_Swimsuit", "Tsurugi", "Mashiro_Swimsuit", "Azusa", "Mashiro", "Hasumi"], "Mashiro": ["Azusa", "Hifumi", "Hasumi", "Tsurugi"], "Hasumi": ["Azusa", "Hifumi", "Mashiro", "Tsurugi"], "Azusa": ["Hifumi", "Mashiro", "Hasumi", "Tsurugi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2ee0e829-9229-4468-bd85-b8f0e6c18001",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_803_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_803_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 803,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Tsurugi_Swimsuit",
+        "Mashiro_Swimsuit",
+        "Azusa",
+        "Hifumi",
+        "Mashiro",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "track": [
+        "OST_79",
+        "OST_3",
+        "OST_10",
+        "OST_7",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_79": [
+        "BG_Beachside.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_10": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_7": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_13": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_79": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Tsurugi_Swimsuit",
+        "Mashiro_Swimsuit",
+        "Mashiro",
+        "Hasumi"
+      ],
+      "OST_3": [
+        "Mashiro",
+        "Hifumi",
+        "Azusa",
+        "Hasumi"
+      ],
+      "OST_10": [
+        "Hasumi",
+        "Hifumi",
+        "Mashiro",
+        "Azusa"
+      ],
+      "OST_7": [
+        "Tsurugi",
+        "Hifumi",
+        "Hasumi",
+        "Mashiro",
+        "Tsurugi_Swimsuit",
+        "Hifumi_Swimsuit"
+      ],
+      "OST_13": [
+        "Hifumi",
+        "Azusa",
+        "Mashiro",
+        "Hasumi",
+        "Tsurugi"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Azusa_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Tsurugi_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Mashiro_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Mashiro": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Tsurugi": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa_Swimsuit": [
+        "Hifumi_Swimsuit",
+        "Tsurugi_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "Tsurugi_Swimsuit": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "Mashiro_Swimsuit": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Tsurugi_Swimsuit"
+      ],
+      "Hifumi_Swimsuit": [
+        "Azusa_Swimsuit",
+        "Tsurugi_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Mashiro",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Mashiro": [
+        "Azusa",
+        "Hifumi",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Hasumi": [
+        "Azusa",
+        "Hifumi",
+        "Mashiro",
+        "Tsurugi"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Mashiro",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Tsurugi": [
+        "Hasumi",
+        "Hifumi",
+        "Mashiro",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

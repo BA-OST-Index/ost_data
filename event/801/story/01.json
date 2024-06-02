@@ -1,1 +1,104 @@
-{"uuid": "887b9dbc-0a43-4b81-ba06-76ab34bddbe9", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_801_1_NAME]", "desc": ["[STORY_EVENT_801_1_DESC_1]"], "pos": {"event_id": 801, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_FamilyRestaurant.jpg", "BG_HyakkiyakoFestivalRoad.jpg", "BG_CS_Hyakkiyako_01.jpg", "BG_HyakkiyakoObservatory.jpg"], "character": ["Shizuko", "Pina", "Izuna"], "track": ["OST_25", "OST_8", "OST_13", "OST_57"]}, "track_to_bg": {"OST_0": ["BG_MainOffice.jpg", "BG_HyakkiyakoFestivalRoad.jpg"], "OST_25": ["BG_MainOffice.jpg", "BG_FamilyRestaurant.jpg"], "OST_8": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_13": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_57": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_CS_Hyakkiyako_01.jpg", "BG_HyakkiyakoObservatory.jpg"]}, "track_to_char": {"OST_25": ["Shizuko", "Pina"], "OST_8": ["Izuna"], "OST_13": ["Izuna"], "OST_57": ["Izuna"]}, "char_to_bg": {"Shizuko": ["BG_MainOffice.jpg", "BG_FamilyRestaurant.jpg"], "Pina": ["BG_MainOffice.jpg", "BG_FamilyRestaurant.jpg"], "Izuna": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_HyakkiyakoObservatory.jpg"]}, "char_to_char": {"Pina": ["Shizuko"], "Shizuko": ["Pina"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9e1b6baa-e5a9-463a-b263-3165b3af5825",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_801_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_801_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 801,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_Hyakkiyako_01.jpg",
+        "BG_HyakkiyakoObservatory.jpg"
+      ],
+      "character": [
+        "Shizuko",
+        "Pina",
+        "Izuna"
+      ],
+      "track": [
+        "OST_25",
+        "OST_8",
+        "OST_13",
+        "OST_57"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_25": [
+        "BG_MainOffice.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_8": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_13": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_57": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_Hyakkiyako_01.jpg",
+        "BG_HyakkiyakoObservatory.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_25": [
+        "Shizuko",
+        "Pina"
+      ],
+      "OST_8": [
+        "Izuna"
+      ],
+      "OST_13": [
+        "Izuna"
+      ],
+      "OST_57": [
+        "Izuna"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_MainOffice.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Pina": [
+        "BG_MainOffice.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Pina": [
+        "Shizuko"
+      ],
+      "Shizuko": [
+        "Pina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

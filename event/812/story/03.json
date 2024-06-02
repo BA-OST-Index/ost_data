@@ -1,1 +1,117 @@
-{"uuid": "1004bdf7-1b1b-4064-bec9-0d295eef18bc", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_812_3_NAME]", "desc": ["[STORY_EVENT_812_3_DESC_1]"], "pos": {"event_id": 812, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityOldLibrary_Night.jpg", "BG_TrinityOldLibrary.jpg", "BG_Cathedral.jpg", "BG_CathedralRuins.jpg"], "character": ["Hinata", "Ui"], "track": ["OST_33", "OST_38", "OST_7", "OST_21", "OST_92", "OST_45"]}, "track_to_bg": {"OST_0": ["BG_TrinityOldLibrary_Night.jpg", "BG_TrinityOldLibrary.jpg"], "OST_33": ["BG_TrinityOldLibrary_Night.jpg"], "OST_38": ["BG_TrinityOldLibrary.jpg"], "OST_7": ["BG_TrinityOldLibrary.jpg"], "OST_21": ["BG_TrinityOldLibrary.jpg", "BG_Cathedral.jpg"], "OST_92": ["BG_TrinityOldLibrary.jpg", "BG_CathedralRuins.jpg"], "OST_45": ["BG_TrinityOldLibrary.jpg"]}, "track_to_char": {"OST_33": ["Hinata"], "OST_38": ["Ui", "Hinata"], "OST_7": ["Hinata", "Ui"], "OST_21": ["Ui", "Hinata"], "OST_92": ["Ui", "Hinata"], "OST_45": ["Ui", "Hinata"]}, "char_to_bg": {"Hinata": ["BG_TrinityOldLibrary_Night.jpg", "BG_TrinityOldLibrary.jpg"], "Ui": ["BG_TrinityOldLibrary_Night.jpg", "BG_TrinityOldLibrary.jpg", "BG_Cathedral.jpg", "BG_CathedralRuins.jpg"]}, "char_to_char": {"Ui": ["Hinata"], "Hinata": ["Ui"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "21c56a3f-31e6-4a1c-8949-96ab102b8602",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_812_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_812_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 812,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Cathedral.jpg",
+        "BG_CathedralRuins.jpg"
+      ],
+      "character": [
+        "Hinata",
+        "Ui"
+      ],
+      "track": [
+        "OST_33",
+        "OST_38",
+        "OST_7",
+        "OST_21",
+        "OST_92",
+        "OST_45"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_33": [
+        "BG_TrinityOldLibrary_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_7": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Cathedral.jpg"
+      ],
+      "OST_92": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_CathedralRuins.jpg"
+      ],
+      "OST_45": [
+        "BG_TrinityOldLibrary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Hinata"
+      ],
+      "OST_38": [
+        "Ui",
+        "Hinata"
+      ],
+      "OST_7": [
+        "Hinata",
+        "Ui"
+      ],
+      "OST_21": [
+        "Ui",
+        "Hinata"
+      ],
+      "OST_92": [
+        "Ui",
+        "Hinata"
+      ],
+      "OST_45": [
+        "Ui",
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Ui": [
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Cathedral.jpg",
+        "BG_CathedralRuins.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ui": [
+        "Hinata"
+      ],
+      "Hinata": [
+        "Ui"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

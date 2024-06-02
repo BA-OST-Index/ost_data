@@ -1,1 +1,53 @@
-{"uuid": "fb5c301a-a2fb-47fe-bfb2-2c053e9d2097", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_30_NAME]", "desc": ["[STORY_EVENT_999_30_DESC_1]"], "pos": {"event_id": 999, "segment": 30}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ValkyrieOffice.jpg"], "character": ["Kirino"], "track": ["OST_13"]}, "track_to_bg": {"OST_13": ["BG_ValkyrieOffice.jpg"]}, "track_to_char": {"OST_13": ["Kirino"]}, "char_to_bg": {"Kirino": ["BG_ValkyrieOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "5c1865af-9b72-4d9e-8656-688ef1e54308",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_30_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_30_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 30
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "character": [
+        "Kirino"
+      ],
+      "track": [
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Kirino": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

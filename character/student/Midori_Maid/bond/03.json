@@ -1,0 +1,88 @@
+{
+  "uuid": "63909f43-ba7a-4de5-a377-169f4ea226cc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIDORI_MAID_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MIDORI_MAID_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIDORI_MAID",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_MainOffice.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "character": [
+        "Midori_Maid"
+      ],
+      "track": [
+        "OST_6",
+        "OST_201",
+        "OST_13",
+        "OST_220"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_GameDevRoom.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg",
+        "BG_MainOffice.jpg"
+      ],
+      "OST_201": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_13": [
+        "BG_MainOffice.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "OST_220": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Midori_Maid"
+      ],
+      "OST_201": [
+        "Midori_Maid"
+      ],
+      "OST_13": [
+        "Midori_Maid"
+      ],
+      "OST_220": [
+        "Midori_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Midori_Maid": [
+        "BG_GameDevRoom.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_220"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,76 @@
-{"uuid": "4adc5b27-8bde-43bf-837d-36687bc8cb3d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_18_NAME]", "desc": ["[STORY_EVENT_818_18_DESC_1]"], "pos": {"event_id": 818, "segment": 18}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CampInside_Night.jpg"], "character": ["Serina", "Sena"], "track": ["OST_25", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_CampInside_Night.jpg"], "OST_25": ["BG_CampInside_Night.jpg"], "OST_38": ["BG_CampInside_Night.jpg"]}, "track_to_char": {"OST_25": ["Serina", "Sena"], "OST_38": ["Sena", "Serina"]}, "char_to_bg": {"Serina": ["BG_CampInside_Night.jpg"], "Sena": ["BG_CampInside_Night.jpg"]}, "char_to_char": {"Sena": ["Serina"], "Serina": ["Sena"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "e9f81036-a9c3-4510-b052-141a0ec2794d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_18_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_18_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampInside_Night.jpg"
+      ],
+      "character": [
+        "Serina",
+        "Sena"
+      ],
+      "track": [
+        "OST_25",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CampInside_Night.jpg"
+      ],
+      "OST_25": [
+        "BG_CampInside_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_CampInside_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_25": [
+        "Serina",
+        "Sena"
+      ],
+      "OST_38": [
+        "Sena",
+        "Serina"
+      ]
+    },
+    "char_to_bg": {
+      "Serina": [
+        "BG_CampInside_Night.jpg"
+      ],
+      "Sena": [
+        "BG_CampInside_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sena": [
+        "Serina"
+      ],
+      "Serina": [
+        "Sena"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

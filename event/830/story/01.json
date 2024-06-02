@@ -1,1 +1,56 @@
-{"uuid": "a3d98bf6-25b7-4f6e-9521-a77f327b1f09", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_830_1_NAME]", "desc": ["[STORY_EVENT_830_1_DESC_1]"], "pos": {"event_id": 830, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_InSideTank.jpg"], "character": ["Kasumi"], "track": ["OST_191"]}, "track_to_bg": {"OST_0": ["BG_InSideTank.jpg"], "OST_191": ["BG_InSideTank.jpg"]}, "track_to_char": {"OST_191": ["Kasumi"]}, "char_to_bg": {"Kasumi": ["BG_InSideTank.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "afef4471-e3dc-44b2-b251-8edfd3b6440b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_830_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_830_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 830,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_InSideTank.jpg"
+      ],
+      "character": [
+        "Kasumi"
+      ],
+      "track": [
+        "OST_191"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_InSideTank.jpg"
+      ],
+      "OST_191": [
+        "BG_InSideTank.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_191": [
+        "Kasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Kasumi": [
+        "BG_InSideTank.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

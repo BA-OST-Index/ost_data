@@ -1,1 +1,53 @@
-{"uuid": "b735cb44-e7fd-41d7-aad1-0a6ce6acf89e", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_21_NAME]", "desc": ["[STORY_EVENT_999_21_DESC_1]"], "pos": {"event_id": 999, "segment": 21}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ComputerCenter.jpg"], "character": ["Hare"], "track": ["OST_16"]}, "track_to_bg": {"OST_16": ["BG_ComputerCenter.jpg"]}, "track_to_char": {"OST_16": ["Hare"]}, "char_to_bg": {"Hare": ["BG_ComputerCenter.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "14e78c92-6a1e-43d4-8d4d-bd1272947d11",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_21_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_21_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Hare"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hare"
+      ]
+    },
+    "char_to_bg": {
+      "Hare": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

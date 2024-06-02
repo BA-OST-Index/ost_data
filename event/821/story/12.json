@@ -1,0 +1,107 @@
+{
+  "uuid": "5ff9be8b-039d-4128-860a-5c1ee5f9e7a6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_821_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_821_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 821,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HQ_Erode.jpg",
+        "BG_CS_S1Final_14.jpg",
+        "BG_CS_S1Final_05.jpg",
+        "BG_Wilderness_Erode.jpg",
+        "BG_RiversideRoad_Erode.jpg",
+        "BG_EriduCityTown_Erode.jpg",
+        "BG_Amusement_Erode.jpg",
+        "BG_RuinCity_Erode.jpg"
+      ],
+      "character": [
+        "Momoka",
+        "Rin",
+        "Ayumu",
+        "Himari"
+      ],
+      "track": [
+        "OST_75",
+        "OST_142"
+      ]
+    },
+    "track_to_bg": {
+      "OST_75": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "OST_0": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "OST_142": [
+        "BG_HQ_Erode.jpg",
+        "BG_CS_S1Final_14.jpg",
+        "BG_CS_S1Final_05.jpg",
+        "BG_Wilderness_Erode.jpg",
+        "BG_RiversideRoad_Erode.jpg",
+        "BG_EriduCityTown_Erode.jpg",
+        "BG_Amusement_Erode.jpg",
+        "BG_RuinCity_Erode.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_75": [
+        "Momoka",
+        "Rin"
+      ],
+      "OST_142": [
+        "Momoka",
+        "Ayumu",
+        "Rin",
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Momoka": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "Rin": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "Ayumu": [
+        "BG_HQ_Erode.jpg",
+        "BG_CS_S1Final_05.jpg"
+      ],
+      "Himari": [
+        "BG_HQ_Erode.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rin": [
+        "Momoka",
+        "Ayumu"
+      ],
+      "Ayumu": [
+        "Momoka",
+        "Rin"
+      ],
+      "Momoka": [
+        "Rin",
+        "Ayumu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,79 @@
-{"uuid": "32ad9afb-3be3-42b2-afea-dec16ae2c7e0", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_5_NAME]", "desc": ["[STORY_EVENT_802_5_DESC_1]"], "pos": {"event_id": 802, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSchoolCorridor.jpg"], "character": ["Nodoka", "Cherino", "Shigure", "Tomoe"], "track": ["OST_28", "OST_84"]}, "track_to_bg": {"OST_28": ["BG_RuinSchoolCorridor.jpg"], "OST_0": ["BG_RuinSchoolCorridor.jpg"], "OST_84": ["BG_RuinSchoolCorridor.jpg"]}, "track_to_char": {"OST_28": ["Nodoka", "Cherino", "Shigure"], "OST_84": ["Cherino", "Tomoe", "Nodoka"]}, "char_to_bg": {"Nodoka": ["BG_RuinSchoolCorridor.jpg"], "Cherino": ["BG_RuinSchoolCorridor.jpg"], "Shigure": ["BG_RuinSchoolCorridor.jpg"], "Tomoe": ["BG_RuinSchoolCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "38c8f935-9f58-4df1-8d79-a307bcf31ab6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "character": [
+        "Nodoka",
+        "Cherino",
+        "Shigure",
+        "Tomoe"
+      ],
+      "track": [
+        "OST_28",
+        "OST_84"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_0": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_84": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Nodoka",
+        "Cherino",
+        "Shigure"
+      ],
+      "OST_84": [
+        "Cherino",
+        "Tomoe",
+        "Nodoka"
+      ]
+    },
+    "char_to_bg": {
+      "Nodoka": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Cherino": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Shigure": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Tomoe": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

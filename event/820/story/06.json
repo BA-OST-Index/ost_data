@@ -1,1 +1,117 @@
-{"uuid": "386cdd0e-5a5c-4dec-920e-8b735fbd845f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_6_NAME]", "desc": ["[STORY_EVENT_820_6_DESC_1]"], "pos": {"event_id": 820, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_PowerRoom.jpg", "BG_HomeFoodPlace.jpg", "BG_SchoolCafeteria.jpg"], "character": ["Haruna_NewYear", "Fuuka_NewYear", "Juri", "Junko_NewYear"], "track": ["OST_33", "OST_13", "OST_15", "OST_21"]}, "track_to_bg": {"OST_33": ["BG_PowerRoom.jpg"], "OST_0": ["BG_PowerRoom.jpg", "BG_HomeFoodPlace.jpg"], "OST_13": ["BG_HomeFoodPlace.jpg"], "OST_15": ["BG_HomeFoodPlace.jpg", "BG_SchoolCafeteria.jpg"], "OST_21": ["BG_HomeFoodPlace.jpg"]}, "track_to_char": {"OST_13": ["Haruna_NewYear", "Fuuka_NewYear"], "OST_15": ["Juri", "Junko_NewYear"], "OST_21": ["Haruna_NewYear", "Fuuka_NewYear", "Junko_NewYear", "Juri"]}, "char_to_bg": {"Haruna_NewYear": ["BG_HomeFoodPlace.jpg"], "Fuuka_NewYear": ["BG_HomeFoodPlace.jpg"], "Juri": ["BG_HomeFoodPlace.jpg", "BG_SchoolCafeteria.jpg"], "Junko_NewYear": ["BG_HomeFoodPlace.jpg"]}, "char_to_char": {"Fuuka_NewYear": ["Haruna_NewYear", "Junko_NewYear", "Juri"], "Haruna_NewYear": ["Fuuka_NewYear", "Junko_NewYear", "Juri"], "Junko_NewYear": ["Juri", "Haruna_NewYear", "Fuuka_NewYear"], "Juri": ["Junko_NewYear", "Haruna_NewYear", "Fuuka_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2bf26fe1-381b-4557-8695-203e0ebb7d13",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PowerRoom.jpg",
+        "BG_HomeFoodPlace.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "character": [
+        "Haruna_NewYear",
+        "Fuuka_NewYear",
+        "Juri",
+        "Junko_NewYear"
+      ],
+      "track": [
+        "OST_33",
+        "OST_13",
+        "OST_15",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_PowerRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_PowerRoom.jpg",
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_13": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_15": [
+        "BG_HomeFoodPlace.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "OST_21": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Haruna_NewYear",
+        "Fuuka_NewYear"
+      ],
+      "OST_15": [
+        "Juri",
+        "Junko_NewYear"
+      ],
+      "OST_21": [
+        "Haruna_NewYear",
+        "Fuuka_NewYear",
+        "Junko_NewYear",
+        "Juri"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Fuuka_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Juri": [
+        "BG_HomeFoodPlace.jpg",
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "Junko_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Fuuka_NewYear": [
+        "Haruna_NewYear",
+        "Junko_NewYear",
+        "Juri"
+      ],
+      "Haruna_NewYear": [
+        "Fuuka_NewYear",
+        "Junko_NewYear",
+        "Juri"
+      ],
+      "Junko_NewYear": [
+        "Juri",
+        "Haruna_NewYear",
+        "Fuuka_NewYear"
+      ],
+      "Juri": [
+        "Junko_NewYear",
+        "Haruna_NewYear",
+        "Fuuka_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

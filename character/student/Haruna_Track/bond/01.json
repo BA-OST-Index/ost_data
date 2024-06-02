@@ -1,1 +1,74 @@
-{"uuid": "70683323-363a-43a9-8c61-8342ed7cfd06", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUNA_TRACK_1_NAME]", "desc": ["[STORY_BOND_HARUNA_TRACK_1_DESC_1]"], "pos": {"student": "HARUNA_TRACK", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CampInside.jpg", "BG_Empty_KivotosStadium_Sunset.jpg"], "character": ["Haruna_Track"], "track": ["OST_10", "OST_17", "OST_22"]}, "track_to_bg": {"OST_10": ["BG_CampInside.jpg"], "OST_0": ["BG_CampInside.jpg", "BG_Empty_KivotosStadium_Sunset.jpg"], "OST_17": ["BG_CampInside.jpg"], "OST_22": ["BG_Empty_KivotosStadium_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Haruna_Track"], "OST_17": ["Haruna_Track"], "OST_22": ["Haruna_Track"]}, "char_to_bg": {"Haruna_Track": ["BG_CampInside.jpg", "BG_Empty_KivotosStadium_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "81f79990-9bb5-4450-8511-6d28e80e2261",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUNA_TRACK_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUNA_TRACK_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUNA_TRACK",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampInside.jpg",
+        "BG_Empty_KivotosStadium_Sunset.jpg"
+      ],
+      "character": [
+        "Haruna_Track"
+      ],
+      "track": [
+        "OST_10",
+        "OST_17",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CampInside.jpg"
+      ],
+      "OST_0": [
+        "BG_CampInside.jpg",
+        "BG_Empty_KivotosStadium_Sunset.jpg"
+      ],
+      "OST_17": [
+        "BG_CampInside.jpg"
+      ],
+      "OST_22": [
+        "BG_Empty_KivotosStadium_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Haruna_Track"
+      ],
+      "OST_17": [
+        "Haruna_Track"
+      ],
+      "OST_22": [
+        "Haruna_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_Track": [
+        "BG_CampInside.jpg",
+        "BG_Empty_KivotosStadium_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

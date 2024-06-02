@@ -1,0 +1,75 @@
+{
+  "uuid": "f5d6afa2-f02d-433f-892b-9c83095af1ab",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UMIKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_UMIKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "UMIKA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FamilyRestaurant_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg"
+      ],
+      "character": [
+        "Umika"
+      ],
+      "track": [
+        "OST_10",
+        "OST_216",
+        "OST_192"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_FamilyRestaurant_Night.jpg"
+      ],
+      "OST_216": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_192": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Umika"
+      ],
+      "OST_216": [
+        "Umika"
+      ],
+      "OST_192": [
+        "Umika"
+      ]
+    },
+    "char_to_bg": {
+      "Umika": [
+        "BG_FamilyRestaurant_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_216"
+    }
+  },
+  "is_memory": true
+}

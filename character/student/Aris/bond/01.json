@@ -1,1 +1,54 @@
-{"uuid": "15fcc2f2-7fde-4dd9-94f9-d45ede68557c", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARIS_1_NAME]", "desc": ["[STORY_BOND_ARIS_1_DESC_1]"], "pos": {"student": "ARIS", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityTown.jpg"], "character": ["Aris"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_CityTown.jpg"]}, "track_to_char": {"OST_4": ["Aris"]}, "char_to_bg": {"Aris": ["BG_CityTown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "09c1d3e5-66e3-4522-a539-ded952661bb3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARIS_1_NAME]",
+  "desc": [
+    "[STORY_BOND_ARIS_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARIS",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityTown.jpg"
+      ],
+      "character": [
+        "Aris"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Aris"
+      ]
+    },
+    "char_to_bg": {
+      "Aris": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

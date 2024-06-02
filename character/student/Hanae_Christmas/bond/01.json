@@ -1,1 +1,64 @@
-{"uuid": "98686904-6a16-4ef7-ae96-2fea8491841f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HANAE_CHRISTMAS_1_NAME]", "desc": ["[STORY_BOND_HANAE_CHRISTMAS_1_DESC_1]"], "pos": {"student": "HANAE_CHRISTMAS", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg"], "character": ["Hanae_Christmas"], "track": ["OST_16", "OST_38"]}, "track_to_bg": {"OST_16": ["BG_MainOffice.jpg"], "OST_0": ["BG_MainOffice.jpg"], "OST_38": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_16": ["Hanae_Christmas"], "OST_38": ["Hanae_Christmas"]}, "char_to_bg": {"Hanae_Christmas": ["BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "48937b93-7f1d-4325-b424-f2db1d4cdb55",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HANAE_CHRISTMAS_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HANAE_CHRISTMAS_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HANAE_CHRISTMAS",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Hanae_Christmas"
+      ],
+      "track": [
+        "OST_16",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_38": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hanae_Christmas"
+      ],
+      "OST_38": [
+        "Hanae_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Hanae_Christmas": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

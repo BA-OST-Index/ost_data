@@ -1,1 +1,67 @@
-{"uuid": "095e177c-70f7-471b-a751-4e397cc19c28", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_UI_1_NAME]", "desc": ["[STORY_BOND_UI_1_DESC_1]"], "pos": {"student": "UI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityStreet.jpg", "BG_TrinityOldLibrary.jpg"], "character": ["Ui"], "track": ["OST_10", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_TrinityStreet.jpg", "BG_TrinityOldLibrary.jpg"], "OST_10": ["BG_TrinityStreet.jpg"], "OST_15": ["BG_TrinityOldLibrary.jpg"]}, "track_to_char": {"OST_10": ["Ui"], "OST_15": ["Ui"]}, "char_to_bg": {"Ui": ["BG_TrinityStreet.jpg", "BG_TrinityOldLibrary.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "2b9c5a1c-52ba-4b3f-96cf-6f9480a4d9b9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_UI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "UI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityStreet.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "character": [
+        "Ui"
+      ],
+      "track": [
+        "OST_10",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityStreet.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_10": [
+        "BG_TrinityStreet.jpg"
+      ],
+      "OST_15": [
+        "BG_TrinityOldLibrary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Ui"
+      ],
+      "OST_15": [
+        "Ui"
+      ]
+    },
+    "char_to_bg": {
+      "Ui": [
+        "BG_TrinityStreet.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

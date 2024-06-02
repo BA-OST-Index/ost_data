@@ -1,0 +1,77 @@
+{
+  "uuid": "3ab6a04b-4aab-4706-9020-133823eb64f7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTAMA_CAMP_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTAMA_CAMP_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTAMA_CAMP",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "character": [
+        "Kotama_Camp"
+      ],
+      "track": [
+        "OST_6",
+        "OST_16",
+        "OST_186"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_ForestRoad.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_186": [
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Kotama_Camp"
+      ],
+      "OST_16": [
+        "Kotama_Camp"
+      ],
+      "OST_186": [
+        "Kotama_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Kotama_Camp": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

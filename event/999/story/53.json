@@ -1,1 +1,56 @@
-{"uuid": "affa3ed5-3c60-48be-b93f-c20495193caf", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_53_NAME]", "desc": ["[STORY_EVENT_999_53_DESC_1]"], "pos": {"event_id": 999, "segment": 53}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityCampus.jpg"], "character": ["Koharu"], "track": ["OST_82"]}, "track_to_bg": {"OST_0": ["BG_TrinityCampus.jpg"], "OST_82": ["BG_TrinityCampus.jpg"]}, "track_to_char": {"OST_82": ["Koharu"]}, "char_to_bg": {"Koharu": ["BG_TrinityCampus.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "e84ba2c2-a0d8-4806-822b-7b51508bd195",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_53_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_53_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 53
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "character": [
+        "Koharu"
+      ],
+      "track": [
+        "OST_82"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_82": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_82": [
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

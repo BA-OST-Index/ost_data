@@ -1,1 +1,63 @@
-{"uuid": "c8c83ec4-00e9-4ebc-8acd-c560c7fd064f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_10_NAME]", "desc": ["[STORY_EVENT_802_10_DESC_1]"], "pos": {"event_id": 802, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CherinoOffice2.jpg"], "character": ["Marina", "State Guard"], "track": ["OST_3", "OST_7"]}, "track_to_bg": {"OST_3": ["BG_CherinoOffice2.jpg"], "OST_0": ["BG_CherinoOffice2.jpg"], "OST_7": ["BG_CherinoOffice2.jpg"]}, "track_to_char": {"OST_3": ["Marina"], "OST_7": ["Marina", "State Guard"]}, "char_to_bg": {"Marina": ["BG_CherinoOffice2.jpg"], "State Guard": ["BG_CherinoOffice2.jpg"]}, "char_to_char": {"State Guard": ["Marina"], "Marina": ["State Guard"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "1053dd84-f21c-4255-80eb-d80b021b5eb6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CherinoOffice2.jpg"
+      ],
+      "character": [
+        "Marina"
+      ],
+      "track": [
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_CherinoOffice2.jpg"
+      ],
+      "OST_0": [
+        "BG_CherinoOffice2.jpg"
+      ],
+      "OST_7": [
+        "BG_CherinoOffice2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Marina"
+      ],
+      "OST_7": [
+        "Marina"
+      ]
+    },
+    "char_to_bg": {
+      "Marina": [
+        "BG_CherinoOffice2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

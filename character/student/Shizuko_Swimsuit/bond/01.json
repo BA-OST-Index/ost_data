@@ -1,1 +1,66 @@
-{"uuid": "d89a5c27-dc4e-4a2d-9205-8e933ece1e20", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIZUKO_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_SHIZUKO_SWIMSUIT_1_DESC_1]"], "pos": {"student": "SHIZUKO_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg", "BG_Beachside.jpg", "BG_FamilyRestaurant.jpg", "BG_BeachShopInSide.jpg"], "character": ["Shizuko_Swimsuit"], "track": ["OST_17"]}, "track_to_bg": {"OST_17": ["BG_BeachsideShop.jpg", "BG_Beachside.jpg", "BG_FamilyRestaurant.jpg", "BG_BeachShopInSide.jpg"], "OST_0": ["BG_BeachsideShop.jpg"]}, "track_to_char": {"OST_17": ["Shizuko_Swimsuit"]}, "char_to_bg": {"Shizuko_Swimsuit": ["BG_BeachsideShop.jpg", "BG_Beachside.jpg", "BG_FamilyRestaurant.jpg", "BG_BeachShopInSide.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a850dfb7-3c19-4530-b2c8-6b6ca3c17dc9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIZUKO_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIZUKO_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIZUKO_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg",
+        "BG_Beachside.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "character": [
+        "Shizuko_Swimsuit"
+      ],
+      "track": [
+        "OST_17"
+      ]
+    },
+    "track_to_bg": {
+      "OST_17": [
+        "BG_BeachsideShop.jpg",
+        "BG_Beachside.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_17": [
+        "Shizuko_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_Beachside.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_BeachShopInSide.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

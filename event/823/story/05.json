@@ -1,0 +1,72 @@
+{
+  "uuid": "b672709c-de1e-43dd-9d29-fda8568c379b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_823_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_823_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 823,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UtnapishtimBridge_V5.jpg",
+        "BG_AronaRoom_Night.jpg"
+      ],
+      "character": [
+        "Ayane",
+        "Rin",
+        "Arona"
+      ],
+      "track": [
+        "OST_156"
+      ]
+    },
+    "track_to_bg": {
+      "OST_156": [
+        "BG_UtnapishtimBridge_V5.jpg",
+        "BG_AronaRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_156": [
+        "Ayane",
+        "Rin",
+        "Arona"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ],
+      "Rin": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ],
+      "Arona": [
+        "BG_AronaRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rin": [
+        "Ayane"
+      ],
+      "Ayane": [
+        "Rin"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

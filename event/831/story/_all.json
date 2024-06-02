@@ -1,0 +1,23 @@
+{
+  "uuid": "58dc50d5-1785-4ffc-9db2-4c3ea883c504",
+  "filetype": -42,
+  "name": "[EVENT_831_NAME]",
+  "namespace": "831",
+  "desc": "[EVENT_831_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

@@ -1,1 +1,54 @@
-{"uuid": "32dee2f4-26c2-4ba2-a977-de3213b8ef93", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AIRI_3_NAME]", "desc": ["[STORY_BOND_AIRI_3_DESC_1]"], "pos": {"student": "AIRI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Campus.jpg"], "character": ["Airi"], "track": ["OST_28"]}, "track_to_bg": {"OST_28": ["BG_Campus.jpg"]}, "track_to_char": {"OST_28": ["Airi"]}, "char_to_bg": {"Airi": ["BG_Campus.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "fe549b14-aa66-40c6-a219-b933bc29f3e3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AIRI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_AIRI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "AIRI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Campus.jpg"
+      ],
+      "character": [
+        "Airi"
+      ],
+      "track": [
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Campus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Airi"
+      ]
+    },
+    "char_to_bg": {
+      "Airi": [
+        "BG_Campus.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

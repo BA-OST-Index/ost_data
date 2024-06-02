@@ -1,1 +1,73 @@
-{"uuid": "64e75a58-da39-4960-b0eb-fbea545b1c40", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SERINA_CHRISTMAS_1_NAME]", "desc": ["[STORY_BOND_SERINA_CHRISTMAS_1_DESC_1]"], "pos": {"student": "SERINA_CHRISTMAS", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown2_Night.jpg", "BG_View_Sky_Night.jpg"], "character": ["Serina_Christmas"], "track": ["OST_62", "OST_15", "OST_139"]}, "track_to_bg": {"OST_62": ["BG_CityDowntown2_Night.jpg"], "OST_0": ["BG_CityDowntown2_Night.jpg", "BG_View_Sky_Night.jpg"], "OST_15": ["BG_CityDowntown2_Night.jpg"], "OST_139": ["BG_CityDowntown2_Night.jpg"]}, "track_to_char": {"OST_62": ["Serina_Christmas"], "OST_15": ["Serina_Christmas"], "OST_139": ["Serina_Christmas"]}, "char_to_bg": {"Serina_Christmas": ["BG_CityDowntown2_Night.jpg", "BG_View_Sky_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_139"}}, "is_memory": true}
+{
+  "uuid": "fd4be5fe-0ca5-49c6-b9fe-5cd70b637d3e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SERINA_CHRISTMAS_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SERINA_CHRISTMAS_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SERINA_CHRISTMAS",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown2_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ],
+      "character": [
+        "Serina_Christmas"
+      ],
+      "track": [
+        "OST_62",
+        "OST_15",
+        "OST_139"
+      ]
+    },
+    "track_to_bg": {
+      "OST_62": [
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown2_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "OST_139": [
+        "BG_CityDowntown2_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_62": [
+        "Serina_Christmas"
+      ],
+      "OST_15": [
+        "Serina_Christmas"
+      ],
+      "OST_139": [
+        "Serina_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Serina_Christmas": [
+        "BG_CityDowntown2_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_139"
+    }
+  },
+  "is_memory": true
+}

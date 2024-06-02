@@ -1,1 +1,117 @@
-{"uuid": "241a68be-7502-4da2-a4c8-323c7a47c9d1", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_814_16_NAME]", "desc": ["[STORY_EVENT_814_16_DESC_1]"], "pos": {"event_id": 814, "segment": 16}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide_Sunset.jpg"], "character": ["Nonomi_Swimsuit", "Serika", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit"], "track": ["OST_63", "OST_121"]}, "track_to_bg": {"OST_63": ["BG_BeachFrontSide_Sunset.jpg"], "OST_0": ["BG_BeachFrontSide_Sunset.jpg"], "OST_121": ["BG_BeachFrontSide_Sunset.jpg"]}, "track_to_char": {"OST_63": ["Nonomi_Swimsuit", "Serika", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit"], "OST_121": ["Nonomi_Swimsuit", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Serika"]}, "char_to_bg": {"Nonomi_Swimsuit": ["BG_BeachFrontSide_Sunset.jpg"], "Serika": ["BG_BeachFrontSide_Sunset.jpg"], "Shiroko_Swimsuit": ["BG_BeachFrontSide_Sunset.jpg"], "Hoshino_Swimsuit": ["BG_BeachFrontSide_Sunset.jpg"], "Ayane_Swimsuit": ["BG_BeachFrontSide_Sunset.jpg"]}, "char_to_char": {"Serika": ["Nonomi_Swimsuit", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit"], "Shiroko_Swimsuit": ["Nonomi_Swimsuit", "Serika", "Hoshino_Swimsuit", "Ayane_Swimsuit"], "Hoshino_Swimsuit": ["Nonomi_Swimsuit", "Serika", "Shiroko_Swimsuit", "Ayane_Swimsuit"], "Ayane_Swimsuit": ["Nonomi_Swimsuit", "Serika", "Shiroko_Swimsuit", "Hoshino_Swimsuit"], "Nonomi_Swimsuit": ["Serika", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "05e312b1-40bc-410a-bcb3-823260941556",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_814_16_NAME]",
+  "desc": [
+    "[STORY_EVENT_814_16_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 814,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "character": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "track": [
+        "OST_63",
+        "OST_121"
+      ]
+    },
+    "track_to_bg": {
+      "OST_63": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "OST_121": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_63": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "OST_121": [
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Serika_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Nonomi_Swimsuit": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "Serika_Swimsuit": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "Shiroko_Swimsuit": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "Hoshino_Swimsuit": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "Ayane_Swimsuit": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Serika_Swimsuit": [
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "Shiroko_Swimsuit": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "Hoshino_Swimsuit": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "Ayane_Swimsuit": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit"
+      ],
+      "Nonomi_Swimsuit": [
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

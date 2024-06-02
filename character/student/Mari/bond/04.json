@@ -1,1 +1,57 @@
-{"uuid": "e6f00d27-1349-45a5-84e7-0354d0586ffd", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARI_4_NAME]", "desc": ["[STORY_BOND_MARI_4_DESC_1]"], "pos": {"student": "MARI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShootingRange.jpg"], "character": ["Mari"], "track": ["OST_10"]}, "track_to_bg": {"OST_0": ["BG_ShootingRange.jpg"], "OST_10": ["BG_ShootingRange.jpg"]}, "track_to_char": {"OST_10": ["Mari"]}, "char_to_bg": {"Mari": ["BG_ShootingRange.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "85e04754-e7b0-4bac-b6ee-e61557316b2e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MARI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShootingRange.jpg"
+      ],
+      "character": [
+        "Mari"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShootingRange.jpg"
+      ],
+      "OST_10": [
+        "BG_ShootingRange.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Mari"
+      ]
+    },
+    "char_to_bg": {
+      "Mari": [
+        "BG_ShootingRange.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

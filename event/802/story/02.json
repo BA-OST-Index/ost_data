@@ -1,1 +1,103 @@
-{"uuid": "3b860aff-8feb-4bcd-bf8a-f3acba0d4d0f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_2_NAME]", "desc": ["[STORY_EVENT_802_2_DESC_1]"], "pos": {"event_id": 802, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolCafeteria.jpg", "BG_IndoorPlaza.jpg", "BG_ClassCorridor2.jpg"], "character": ["Cherino", "Marina", "Tomoe", "Security Council"], "track": ["OST_83", "OST_16", "OST_7"]}, "track_to_bg": {"OST_83": ["BG_SchoolCafeteria.jpg", "BG_IndoorPlaza.jpg"], "OST_0": ["BG_IndoorPlaza.jpg", "BG_ClassCorridor2.jpg"], "OST_16": ["BG_IndoorPlaza.jpg", "BG_ClassCorridor2.jpg"], "OST_7": ["BG_ClassCorridor2.jpg"]}, "track_to_char": {"OST_83": ["Cherino", "Marina"], "OST_16": ["Cherino", "Tomoe", "Marina", "Security Council"], "OST_7": ["Marina", "Cherino", "Security Council"]}, "char_to_bg": {"Cherino": ["BG_SchoolCafeteria.jpg", "BG_IndoorPlaza.jpg"], "Marina": ["BG_SchoolCafeteria.jpg", "BG_IndoorPlaza.jpg", "BG_ClassCorridor2.jpg"], "Tomoe": ["BG_IndoorPlaza.jpg"], "Security Council": ["BG_ClassCorridor2.jpg"]}, "char_to_char": {"Marina": ["Cherino", "Tomoe", "Security Council"], "Cherino": ["Marina", "Tomoe"], "Tomoe": ["Cherino", "Marina"], "Security Council": ["Marina"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "0d9d8532-13a9-43a0-a42e-6373839c7e12",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_IndoorPlaza.jpg",
+        "BG_ClassCorridor2.jpg"
+      ],
+      "character": [
+        "Cherino",
+        "Marina",
+        "Tomoe"
+      ],
+      "track": [
+        "OST_83",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_IndoorPlaza.jpg"
+      ],
+      "OST_0": [
+        "BG_IndoorPlaza.jpg",
+        "BG_ClassCorridor2.jpg"
+      ],
+      "OST_16": [
+        "BG_IndoorPlaza.jpg",
+        "BG_ClassCorridor2.jpg"
+      ],
+      "OST_7": [
+        "BG_ClassCorridor2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Cherino",
+        "Marina"
+      ],
+      "OST_16": [
+        "Cherino",
+        "Tomoe",
+        "Marina"
+      ],
+      "OST_7": [
+        "Marina",
+        "Cherino"
+      ]
+    },
+    "char_to_bg": {
+      "Cherino": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_IndoorPlaza.jpg"
+      ],
+      "Marina": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_IndoorPlaza.jpg",
+        "BG_ClassCorridor2.jpg"
+      ],
+      "Tomoe": [
+        "BG_IndoorPlaza.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Marina": [
+        "Cherino",
+        "Tomoe"
+      ],
+      "Cherino": [
+        "Marina",
+        "Tomoe"
+      ],
+      "Tomoe": [
+        "Cherino",
+        "Marina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

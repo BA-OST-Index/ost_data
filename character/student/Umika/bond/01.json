@@ -1,0 +1,64 @@
+{
+  "uuid": "476b220f-2726-46f7-a7f7-895861dd64a9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UMIKA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_UMIKA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "UMIKA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "character": [
+        "Umika"
+      ],
+      "track": [
+        "OST_6",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Umika"
+      ],
+      "OST_43": [
+        "Umika"
+      ]
+    },
+    "char_to_bg": {
+      "Umika": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

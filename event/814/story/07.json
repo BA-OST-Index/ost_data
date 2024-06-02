@@ -1,1 +1,141 @@
-{"uuid": "5ca580b9-0774-4134-ac7d-415b096e7412", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_814_7_NAME]", "desc": ["[STORY_EVENT_814_7_DESC_1]"], "pos": {"event_id": 814, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SeashoreRocks.jpg", "BG_ResortLobby.jpg"], "character": ["Wakamo", "Ayane_Swimsuit", "Shiroko_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Serika"], "track": ["OST_28", "OST_15", "OST_17"]}, "track_to_bg": {"OST_28": ["BG_SeashoreRocks.jpg"], "OST_0": ["BG_SeashoreRocks.jpg", "BG_ResortLobby.jpg"], "OST_15": ["BG_SeashoreRocks.jpg"], "OST_17": ["BG_ResortLobby.jpg"]}, "track_to_char": {"OST_28": ["Wakamo"], "OST_15": ["Shiroko_Swimsuit", "Ayane_Swimsuit"], "OST_17": ["Shiroko_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Serika"]}, "char_to_bg": {"Wakamo": ["BG_SeashoreRocks.jpg"], "Ayane_Swimsuit": ["BG_SeashoreRocks.jpg"], "Shiroko_Swimsuit": ["BG_SeashoreRocks.jpg", "BG_ResortLobby.jpg"], "Hoshino_Swimsuit": ["BG_ResortLobby.jpg"], "Nonomi_Swimsuit": ["BG_ResortLobby.jpg"], "Serika": ["BG_ResortLobby.jpg"]}, "char_to_char": {"Ayane_Swimsuit": ["Wakamo", "Shiroko_Swimsuit"], "Shiroko_Swimsuit": ["Wakamo", "Ayane_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Serika"], "Wakamo": ["Ayane_Swimsuit", "Shiroko_Swimsuit"], "Hoshino_Swimsuit": ["Shiroko_Swimsuit", "Nonomi_Swimsuit", "Serika"], "Nonomi_Swimsuit": ["Shiroko_Swimsuit", "Hoshino_Swimsuit", "Serika"], "Serika": ["Shiroko_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "cdd048b5-b59c-467b-9f37-3345c646374c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_814_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_814_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 814,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SeashoreRocks.jpg",
+        "BG_ResortLobby.jpg"
+      ],
+      "character": [
+        "Rabu",
+        "Wakamo",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "track": [
+        "OST_28",
+        "OST_15",
+        "OST_17"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "OST_0": [
+        "BG_SeashoreRocks.jpg",
+        "BG_ResortLobby.jpg"
+      ],
+      "OST_15": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "OST_17": [
+        "BG_ResortLobby.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Rabu",
+        "Wakamo"
+      ],
+      "OST_15": [
+        "Shiroko_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "OST_17": [
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Wakamo": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "Rabu": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "Ayane_Swimsuit": [
+        "BG_SeashoreRocks.jpg"
+      ],
+      "Shiroko_Swimsuit": [
+        "BG_SeashoreRocks.jpg",
+        "BG_ResortLobby.jpg"
+      ],
+      "Hoshino_Swimsuit": [
+        "BG_ResortLobby.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_ResortLobby.jpg"
+      ],
+      "Serika_Swimsuit": [
+        "BG_ResortLobby.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rabu": [
+        "Wakamo",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Ayane_Swimsuit": [
+        "Wakamo",
+        "Rabu",
+        "Shiroko_Swimsuit"
+      ],
+      "Shiroko_Swimsuit": [
+        "Wakamo",
+        "Rabu",
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Wakamo": [
+        "Rabu",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Hoshino_Swimsuit": [
+        "Shiroko_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Nonomi_Swimsuit": [
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Serika_Swimsuit": [
+        "Shiroko_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

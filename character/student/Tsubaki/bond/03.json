@@ -1,1 +1,64 @@
-{"uuid": "e4a93834-e0e8-4dcb-ae0d-a0f66d99740f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TSUBAKI_3_NAME]", "desc": ["[STORY_BOND_TSUBAKI_3_DESC_1]"], "pos": {"student": "TSUBAKI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg"], "character": ["Tsubaki"], "track": ["OST_16", "OST_38"]}, "track_to_bg": {"OST_16": ["BG_CraftChamber.jpg"], "OST_0": ["BG_CraftChamber.jpg"], "OST_38": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_16": ["Tsubaki"], "OST_38": ["Tsubaki"]}, "char_to_bg": {"Tsubaki": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "e180ac6d-cc07-46fa-a37e-f52c858435ed",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSUBAKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_TSUBAKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSUBAKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Tsubaki"
+      ],
+      "track": [
+        "OST_16",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_38": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Tsubaki"
+      ],
+      "OST_38": [
+        "Tsubaki"
+      ]
+    },
+    "char_to_bg": {
+      "Tsubaki": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

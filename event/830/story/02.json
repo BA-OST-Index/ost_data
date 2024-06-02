@@ -1,1 +1,96 @@
-{"uuid": "723a5eb2-00ee-4079-a50d-2222d64912a3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_830_2_NAME]", "desc": ["[STORY_EVENT_830_2_DESC_1]"], "pos": {"event_id": 830, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityClubRoom.jpg", "BG_CampInside.jpg"], "character": ["Hasumi", "Ichika", "Nagisa"], "track": ["OST_4", "OST_10", "OST_174"]}, "track_to_bg": {"OST_0": ["BG_TrinityClubRoom.jpg", "BG_CampInside.jpg"], "OST_4": ["BG_TrinityClubRoom.jpg"], "OST_10": ["BG_CampInside.jpg"], "OST_174": ["BG_CampInside.jpg"]}, "track_to_char": {"OST_4": ["Hasumi", "Ichika", "Nagisa"], "OST_10": ["Ichika"], "OST_174": ["Ichika"]}, "char_to_bg": {"Hasumi": ["BG_TrinityClubRoom.jpg"], "Ichika": ["BG_TrinityClubRoom.jpg", "BG_CampInside.jpg"], "Nagisa": ["BG_TrinityClubRoom.jpg"]}, "char_to_char": {"Ichika": ["Hasumi", "Nagisa"], "Hasumi": ["Ichika", "Nagisa"], "Nagisa": ["Ichika", "Hasumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "323e126b-68b3-45c6-848f-530c617d93fa",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_830_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_830_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 830,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "character": [
+        "Hasumi",
+        "Ichika",
+        "Nagisa"
+      ],
+      "track": [
+        "OST_4",
+        "OST_10",
+        "OST_174"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "OST_4": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_10": [
+        "BG_CampInside.jpg"
+      ],
+      "OST_174": [
+        "BG_CampInside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Hasumi",
+        "Ichika",
+        "Nagisa"
+      ],
+      "OST_10": [
+        "Ichika"
+      ],
+      "OST_174": [
+        "Ichika"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Ichika": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ichika": [
+        "Hasumi",
+        "Nagisa"
+      ],
+      "Hasumi": [
+        "Ichika",
+        "Nagisa"
+      ],
+      "Nagisa": [
+        "Ichika",
+        "Hasumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

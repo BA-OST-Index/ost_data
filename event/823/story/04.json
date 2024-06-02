@@ -1,0 +1,58 @@
+{
+  "uuid": "a34a7420-d1e1-46ce-8048-66fc5ef4fb49",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_823_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_823_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 823,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ],
+      "character": [
+        "Rin",
+        "Ayane"
+      ],
+      "track": [
+        "OST_156"
+      ]
+    },
+    "track_to_bg": {
+      "OST_156": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_156": [
+        "Rin",
+        "Ayane"
+      ]
+    },
+    "char_to_bg": {
+      "Rin": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ],
+      "Ayane": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,125 @@
-{"uuid": "fdbdf75a-b5e1-4218-8cc9-291f0651fc77", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_2_NAME]", "desc": ["[STORY_EVENT_818_2_DESC_1]"], "pos": {"event_id": 818, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ValkyrieOffice2.jpg"], "character": ["Ako", "Hasumi_Track", "Mari_Track", "Yuuka_Track", "Makoto", "Nagisa"], "track": ["OST_130", "OST_28", "OST_8", "OST_3"]}, "track_to_bg": {"OST_130": ["BG_ValkyrieOffice2.jpg"], "OST_0": ["BG_ValkyrieOffice2.jpg"], "OST_28": ["BG_ValkyrieOffice2.jpg"], "OST_8": ["BG_ValkyrieOffice2.jpg"], "OST_3": ["BG_ValkyrieOffice2.jpg"]}, "track_to_char": {"OST_130": ["Ako", "Hasumi_Track", "Mari_Track", "Yuuka_Track"], "OST_28": ["Yuuka_Track", "Ako", "Hasumi_Track"], "OST_8": ["Makoto", "Ako", "Hasumi_Track", "Yuuka_Track", "Nagisa", "Mari_Track"], "OST_3": ["Yuuka_Track", "Ako", "Hasumi_Track", "Mari_Track"]}, "char_to_bg": {"Ako": ["BG_ValkyrieOffice2.jpg"], "Hasumi_Track": ["BG_ValkyrieOffice2.jpg"], "Mari_Track": ["BG_ValkyrieOffice2.jpg"], "Yuuka_Track": ["BG_ValkyrieOffice2.jpg"]}, "char_to_char": {"Hasumi_Track": ["Ako", "Mari_Track", "Yuuka_Track"], "Mari_Track": ["Ako", "Hasumi_Track", "Yuuka_Track"], "Yuuka_Track": ["Ako", "Hasumi_Track", "Mari_Track"], "Ako": ["Hasumi_Track", "Mari_Track", "Yuuka_Track"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "1622bf78-200d-4eac-91cd-4fc8d1828776",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "character": [
+        "Ako",
+        "Hasumi_Track",
+        "Mari_Track",
+        "Yuuka_Track",
+        "Makoto",
+        "Nagisa"
+      ],
+      "track": [
+        "OST_130",
+        "OST_28",
+        "OST_8",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_130": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_0": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_28": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_8": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_3": [
+        "BG_ValkyrieOffice2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Ako",
+        "Hasumi_Track",
+        "Mari_Track",
+        "Yuuka_Track"
+      ],
+      "OST_28": [
+        "Yuuka_Track",
+        "Ako",
+        "Hasumi_Track"
+      ],
+      "OST_8": [
+        "Makoto",
+        "Ako",
+        "Hasumi_Track",
+        "Yuuka_Track",
+        "Nagisa",
+        "Mari_Track"
+      ],
+      "OST_3": [
+        "Yuuka_Track",
+        "Ako",
+        "Hasumi_Track",
+        "Mari_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Ako": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Hasumi_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Mari_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Yuuka_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi_Track": [
+        "Ako",
+        "Mari_Track",
+        "Yuuka_Track"
+      ],
+      "Mari_Track": [
+        "Ako",
+        "Hasumi_Track",
+        "Yuuka_Track"
+      ],
+      "Yuuka_Track": [
+        "Ako",
+        "Hasumi_Track",
+        "Mari_Track"
+      ],
+      "Ako": [
+        "Hasumi_Track",
+        "Mari_Track",
+        "Yuuka_Track"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

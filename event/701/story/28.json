@@ -1,0 +1,80 @@
+{
+  "uuid": "d8f25f91-842e-4818-89bd-a39dd7ccdb4e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_28_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_28_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 28
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV4_5_40.jpg",
+        "BG_CS_PV4_5_41.jpg"
+      ],
+      "character": [
+        "Ein",
+        "Sof",
+        "Ohr"
+      ],
+      "track": [
+        "OST_191"
+      ]
+    },
+    "track_to_bg": {
+      "OST_191": [
+        "BG_CS_PV4_5_40.jpg"
+      ],
+      "OST_0": [
+        "BG_CS_PV4_5_41.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_191": [
+        "Ein",
+        "Sof",
+        "Ohr"
+      ]
+    },
+    "char_to_bg": {
+      "Ein": [
+        "BG_CS_PV4_5_40.jpg"
+      ],
+      "Sof": [
+        "BG_CS_PV4_5_40.jpg"
+      ],
+      "Ohr": [
+        "BG_CS_PV4_5_40.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sof": [
+        "Ein",
+        "Ohr"
+      ],
+      "Ohr": [
+        "Ein",
+        "Sof"
+      ],
+      "Ein": [
+        "Sof",
+        "Ohr"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

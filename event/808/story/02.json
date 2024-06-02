@@ -1,1 +1,68 @@
-{"uuid": "7af891fc-9d75-47d9-8347-25d9e572a9b4", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_808_2_NAME]", "desc": ["[STORY_EVENT_808_2_DESC_1]"], "pos": {"event_id": 808, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CherinoOffice.jpg"], "character": ["Cherino", "Tomoe"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_CherinoOffice.jpg"], "OST_0": ["BG_CherinoOffice.jpg"]}, "track_to_char": {"OST_10": ["Cherino", "Tomoe"]}, "char_to_bg": {"Cherino": ["BG_CherinoOffice.jpg"], "Tomoe": ["BG_CherinoOffice.jpg"]}, "char_to_char": {"Tomoe": ["Cherino"], "Cherino": ["Tomoe"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "7093e646-decf-4fa9-8940-399fa9b3de79",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_808_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_808_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 808,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "character": [
+        "Cherino",
+        "Tomoe"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Cherino",
+        "Tomoe"
+      ]
+    },
+    "char_to_bg": {
+      "Cherino": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "Tomoe": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tomoe": [
+        "Cherino"
+      ],
+      "Cherino": [
+        "Tomoe"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

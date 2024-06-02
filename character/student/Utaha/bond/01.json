@@ -1,1 +1,64 @@
-{"uuid": "8c77cd79-51d5-44fc-877a-e1a09eb6c9fa", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_UTAHA_1_NAME]", "desc": ["[STORY_BOND_UTAHA_1_DESC_1]"], "pos": {"student": "UTAHA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Hangar2.jpg"], "character": ["Utaha"], "track": ["OST_17", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_Hangar2.jpg"], "OST_17": ["BG_Hangar2.jpg"], "OST_3": ["BG_Hangar2.jpg"]}, "track_to_char": {"OST_17": ["Utaha"], "OST_3": ["Utaha"]}, "char_to_bg": {"Utaha": ["BG_Hangar2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "087f556e-2af0-49cd-998d-ce28cd060fe0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UTAHA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_UTAHA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "UTAHA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Hangar2.jpg"
+      ],
+      "character": [
+        "Utaha"
+      ],
+      "track": [
+        "OST_17",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Hangar2.jpg"
+      ],
+      "OST_17": [
+        "BG_Hangar2.jpg"
+      ],
+      "OST_3": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_17": [
+        "Utaha"
+      ],
+      "OST_3": [
+        "Utaha"
+      ]
+    },
+    "char_to_bg": {
+      "Utaha": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

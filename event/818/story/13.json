@@ -1,1 +1,108 @@
-{"uuid": "ba639a0e-6a6f-42b6-acb0-2d188491e2fa", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_13_NAME]", "desc": ["[STORY_EVENT_818_13_DESC_1]"], "pos": {"event_id": 818, "segment": 13}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KivotosStadium_Sunset.jpg", "BG_KivotosStadium2_Sunset.jpg", "BG_ValkyrieOffice2.jpg"], "character": ["Noa", "Hasumi_Track", "Ako", "Mari_Track", "Yuuka_Track"], "track": ["OST_11", "OST_133"]}, "track_to_bg": {"OST_11": ["BG_KivotosStadium_Sunset.jpg", "BG_KivotosStadium2_Sunset.jpg", "BG_ValkyrieOffice2.jpg"], "OST_0": ["BG_ValkyrieOffice2.jpg"], "OST_133": ["BG_ValkyrieOffice2.jpg"]}, "track_to_char": {"OST_11": ["Noa", "Hasumi_Track"], "OST_133": ["Ako", "Yuuka_Track", "Mari_Track", "Hasumi_Track"]}, "char_to_bg": {"Noa": ["BG_KivotosStadium_Sunset.jpg"], "Hasumi_Track": ["BG_ValkyrieOffice2.jpg"], "Ako": ["BG_ValkyrieOffice2.jpg"], "Mari_Track": ["BG_ValkyrieOffice2.jpg"], "Yuuka_Track": ["BG_ValkyrieOffice2.jpg"]}, "char_to_char": {"Ako": ["Hasumi_Track", "Mari_Track", "Yuuka_Track"], "Mari_Track": ["Hasumi_Track", "Ako", "Yuuka_Track"], "Yuuka_Track": ["Hasumi_Track", "Ako", "Mari_Track"], "Hasumi_Track": ["Ako", "Mari_Track", "Yuuka_Track"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "d1bd4374-7e3c-4d8f-8433-988460f9b932",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_13_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_13_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KivotosStadium_Sunset.jpg",
+        "BG_KivotosStadium2_Sunset.jpg",
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "character": [
+        "Noa",
+        "Hasumi_Track",
+        "Ako",
+        "Mari_Track",
+        "Yuuka_Track"
+      ],
+      "track": [
+        "OST_11",
+        "OST_133"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_KivotosStadium_Sunset.jpg",
+        "BG_KivotosStadium2_Sunset.jpg",
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_0": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "OST_133": [
+        "BG_ValkyrieOffice2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Noa",
+        "Hasumi_Track"
+      ],
+      "OST_133": [
+        "Ako",
+        "Yuuka_Track",
+        "Mari_Track",
+        "Hasumi_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Noa": [
+        "BG_KivotosStadium_Sunset.jpg"
+      ],
+      "Hasumi_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Ako": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Mari_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ],
+      "Yuuka_Track": [
+        "BG_ValkyrieOffice2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ako": [
+        "Hasumi_Track",
+        "Mari_Track",
+        "Yuuka_Track"
+      ],
+      "Mari_Track": [
+        "Hasumi_Track",
+        "Ako",
+        "Yuuka_Track"
+      ],
+      "Yuuka_Track": [
+        "Hasumi_Track",
+        "Ako",
+        "Mari_Track"
+      ],
+      "Hasumi_Track": [
+        "Ako",
+        "Mari_Track",
+        "Yuuka_Track"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

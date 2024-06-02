@@ -1,1 +1,81 @@
-{"uuid": "7acb9774-0353-46de-a864-bab7737f1c35", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIDORI_1_NAME]", "desc": ["[STORY_BOND_MIDORI_1_DESC_1]"], "pos": {"student": "MIDORI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"], "character": ["Midori"], "track": ["OST_10", "OST_16", "OST_18", "OST_64"]}, "track_to_bg": {"OST_10": ["BG_GameDevRoom.jpg"], "OST_0": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"], "OST_16": ["BG_GameDevRoom.jpg"], "OST_18": ["BG_GameDevRoom.jpg"], "OST_64": ["BG_GameDevRoom_Night.jpg"]}, "track_to_char": {"OST_10": ["Midori"], "OST_16": ["Midori"], "OST_18": ["Midori"], "OST_64": ["Midori"]}, "char_to_bg": {"Midori": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a63daaf4-f393-4e4a-afef-a876c1f4959e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIDORI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MIDORI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIDORI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "character": [
+        "Midori"
+      ],
+      "track": [
+        "OST_10",
+        "OST_16",
+        "OST_18",
+        "OST_64"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_18": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_64": [
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Midori"
+      ],
+      "OST_16": [
+        "Midori"
+      ],
+      "OST_18": [
+        "Midori"
+      ],
+      "OST_64": [
+        "Midori"
+      ]
+    },
+    "char_to_bg": {
+      "Midori": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

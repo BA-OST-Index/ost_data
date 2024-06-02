@@ -1,1 +1,61 @@
-{"uuid": "3912961b-5028-498b-b30c-19844479ea02", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_18_NAME]", "desc": ["[STORY_EVENT_701_18_DESC_1]"], "pos": {"event_id": 701, "segment": 18}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SpecialOperationRoom.jpg"], "character": ["Himari", "Eimi"], "track": ["OST_96"]}, "track_to_bg": {"OST_0": ["BG_SpecialOperationRoom.jpg"], "OST_96": ["BG_SpecialOperationRoom.jpg"]}, "track_to_char": {"OST_96": ["Himari", "Eimi"]}, "char_to_bg": {"Himari": ["BG_SpecialOperationRoom.jpg"], "Eimi": ["BG_SpecialOperationRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "c32f7d47-11f8-4813-8d65-4fb3be78105c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_18_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_18_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Himari",
+        "Eimi"
+      ],
+      "track": [
+        "OST_96"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_96": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_96": [
+        "Himari",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Eimi": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

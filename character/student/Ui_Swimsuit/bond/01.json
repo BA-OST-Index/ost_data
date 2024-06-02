@@ -1,1 +1,62 @@
-{"uuid": "d672adf6-6217-4bf2-bf5d-452138ec152e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_UI_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_UI_SWIMSUIT_1_DESC_1]"], "pos": {"student": "UI_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_IslandBeach.jpg", "BG_SeashoreRocks.jpg", "BG_View_Sky2.jpg"], "character": ["Ui_Swimsuit"], "track": ["OST_44"]}, "track_to_bg": {"OST_0": ["BG_IslandBeach.jpg", "BG_SeashoreRocks.jpg"], "OST_44": ["BG_SeashoreRocks.jpg", "BG_View_Sky2.jpg"]}, "track_to_char": {"OST_44": ["Ui_Swimsuit"]}, "char_to_bg": {"Ui_Swimsuit": ["BG_SeashoreRocks.jpg", "BG_View_Sky2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a4ed7ea2-935a-4b82-a654-2e1abc7ffec6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UI_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_UI_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "UI_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IslandBeach.jpg",
+        "BG_SeashoreRocks.jpg",
+        "BG_View_Sky2.jpg"
+      ],
+      "character": [
+        "Ui_Swimsuit"
+      ],
+      "track": [
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IslandBeach.jpg",
+        "BG_SeashoreRocks.jpg"
+      ],
+      "OST_44": [
+        "BG_SeashoreRocks.jpg",
+        "BG_View_Sky2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Ui_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ui_Swimsuit": [
+        "BG_SeashoreRocks.jpg",
+        "BG_View_Sky2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,83 @@
-{"uuid": "7e622371-ad1e-4cd7-b92d-0b00fad6e246", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_FUBUKI_1_NAME]", "desc": ["[STORY_BOND_FUBUKI_1_DESC_1]"], "pos": {"student": "FUBUKI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ValkyrieOffice.jpg"], "character": ["Fubuki"], "track": ["OST_3", "OST_8", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_ValkyrieOffice.jpg"], "OST_3": ["BG_ValkyrieOffice.jpg"], "OST_8": ["BG_ValkyrieOffice.jpg"], "OST_7": ["BG_ValkyrieOffice.jpg"]}, "track_to_char": {"OST_3": ["Fubuki"], "OST_7": ["Fubuki"]}, "char_to_bg": {"Fubuki": ["BG_ValkyrieOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5db97eca-22a6-4a6f-aebc-897d4016f0e1",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_FUBUKI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_FUBUKI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "FUBUKI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "character": [
+        "Fubuki",
+        "Security Bureau Officer"
+      ],
+      "track": [
+        "OST_3",
+        "OST_8",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_3": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_8": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_7": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Fubuki"
+      ],
+      "OST_8": [
+        "Security Bureau Officer"
+      ],
+      "OST_7": [
+        "Security Bureau Officer",
+        "Fubuki"
+      ]
+    },
+    "char_to_bg": {
+      "Fubuki": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "Security Bureau Officer": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Security Bureau Officer": [
+        "Fubuki"
+      ],
+      "Fubuki": [
+        "Security Bureau Officer"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,99 @@
-{"uuid": "359306e8-a5b2-432f-80f5-b933e0605ef7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_7_NAME]", "desc": ["[STORY_EVENT_810_7_DESC_1]"], "pos": {"event_id": 810, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_VillaComplex.jpg", "BG_Prison.jpg"], "character": ["Mine", "Serina", "Hanae", "Wakamo"], "track": ["OST_18", "OST_3", "OST_77"]}, "track_to_bg": {"OST_0": ["BG_VillaComplex.jpg", "BG_Prison.jpg"], "OST_18": ["BG_VillaComplex.jpg"], "OST_3": ["BG_VillaComplex.jpg"], "OST_77": ["BG_Prison.jpg"]}, "track_to_char": {"OST_18": ["Mine"], "OST_3": ["Serina", "Hanae", "Mine"], "OST_77": ["Wakamo"]}, "char_to_bg": {"Mine": ["BG_VillaComplex.jpg"], "Serina": ["BG_VillaComplex.jpg"], "Hanae": ["BG_VillaComplex.jpg"], "Wakamo": ["BG_Prison.jpg"]}, "char_to_char": {"Serina": ["Mine", "Hanae"], "Hanae": ["Mine", "Serina"], "Mine": ["Serina", "Hanae"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "4e3748fb-4185-413d-8ce1-706207c9197b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_VillaComplex.jpg",
+        "BG_Prison.jpg"
+      ],
+      "character": [
+        "Mine",
+        "Serina",
+        "Hanae",
+        "Wakamo"
+      ],
+      "track": [
+        "OST_18",
+        "OST_3",
+        "OST_77"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_VillaComplex.jpg",
+        "BG_Prison.jpg"
+      ],
+      "OST_18": [
+        "BG_VillaComplex.jpg"
+      ],
+      "OST_3": [
+        "BG_VillaComplex.jpg"
+      ],
+      "OST_77": [
+        "BG_Prison.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Mine"
+      ],
+      "OST_3": [
+        "Serina",
+        "Hanae",
+        "Mine"
+      ],
+      "OST_77": [
+        "Wakamo"
+      ]
+    },
+    "char_to_bg": {
+      "Mine": [
+        "BG_VillaComplex.jpg"
+      ],
+      "Serina": [
+        "BG_VillaComplex.jpg"
+      ],
+      "Hanae": [
+        "BG_VillaComplex.jpg"
+      ],
+      "Wakamo": [
+        "BG_Prison.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Serina": [
+        "Mine",
+        "Hanae"
+      ],
+      "Hanae": [
+        "Mine",
+        "Serina"
+      ],
+      "Mine": [
+        "Serina",
+        "Hanae"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

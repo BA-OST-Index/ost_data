@@ -1,1 +1,71 @@
-{"uuid": "3d298563-d36f-4f51-a45d-bfcc9db45a0d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_5_NAME]", "desc": ["[STORY_BOND_SHIROKO_5_DESC_1]"], "pos": {"student": "SHIROKO", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg", "BG_CityOffice.jpg", "BG_SchoolRooftop.jpg"], "character": ["Shiroko"], "track": ["OST_3", "OST_44"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown.jpg", "BG_SchoolRooftop.jpg"], "OST_3": ["BG_CityDowntown.jpg", "BG_CityOffice.jpg", "BG_SchoolRooftop.jpg"], "OST_44": ["BG_SchoolRooftop.jpg"]}, "track_to_char": {"OST_3": ["Shiroko"], "OST_44": ["Shiroko"]}, "char_to_bg": {"Shiroko": ["BG_CityDowntown.jpg", "BG_CityOffice.jpg", "BG_SchoolRooftop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "223b5b8d-091e-41cb-9feb-38b3275111ff",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_5_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_SchoolRooftop.jpg"
+      ],
+      "character": [
+        "Shiroko"
+      ],
+      "track": [
+        "OST_3",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_SchoolRooftop.jpg"
+      ],
+      "OST_3": [
+        "BG_CityDowntown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_SchoolRooftop.jpg"
+      ],
+      "OST_44": [
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Shiroko"
+      ],
+      "OST_44": [
+        "Shiroko"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko": [
+        "BG_CityDowntown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

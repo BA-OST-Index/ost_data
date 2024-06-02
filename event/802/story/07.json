@@ -1,1 +1,74 @@
-{"uuid": "0f1ba08b-214c-4e42-a804-ae7144d1a08a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_7_NAME]", "desc": ["[STORY_EVENT_802_7_DESC_1]"], "pos": {"event_id": 802, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg"], "character": ["Momiji", "Cherino", "Tomoe"], "track": ["OST_6", "OST_84"]}, "track_to_bg": {"OST_6": ["BG_Library.jpg"], "OST_0": ["BG_Library.jpg"], "OST_84": ["BG_Library.jpg"]}, "track_to_char": {"OST_6": ["Momiji", "Cherino"], "OST_84": ["Cherino", "Momiji", "Tomoe"]}, "char_to_bg": {"Momiji": ["BG_Library.jpg"], "Cherino": ["BG_Library.jpg"], "Tomoe": ["BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "11fec5a7-dcd0-4afa-8e28-501a357c0304",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Momiji",
+        "Cherino",
+        "Tomoe"
+      ],
+      "track": [
+        "OST_6",
+        "OST_84"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_Library.jpg"
+      ],
+      "OST_0": [
+        "BG_Library.jpg"
+      ],
+      "OST_84": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Momiji",
+        "Cherino"
+      ],
+      "OST_84": [
+        "Cherino",
+        "Momiji",
+        "Tomoe"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_Library.jpg"
+      ],
+      "Cherino": [
+        "BG_Library.jpg"
+      ],
+      "Tomoe": [
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

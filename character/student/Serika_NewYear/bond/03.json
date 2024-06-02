@@ -1,1 +1,60 @@
-{"uuid": "76d2e084-d252-4529-aa2b-b22cf0f16ae5", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SERIKA_NEWYEAR_3_NAME]", "desc": ["[STORY_BOND_SERIKA_NEWYEAR_3_DESC_1]"], "pos": {"student": "SERIKA_NEWYEAR", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_NewYearFestival.jpg", "BG_Market.jpg", "BG_Yatai.jpg", "BG_NewYearFestivalRoad.jpg"], "character": ["Serika_NewYear"], "track": ["OST_18", "OST_9"]}, "track_to_bg": {"OST_0": ["BG_NewYearFestival.jpg", "BG_Market.jpg", "BG_NewYearFestivalRoad.jpg"], "OST_18": ["BG_Market.jpg", "BG_Yatai.jpg", "BG_NewYearFestivalRoad.jpg"]}, "track_to_char": {}, "char_to_bg": {"Serika_NewYear": ["BG_NewYearFestivalRoad.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "02bd1811-a8a4-44c3-9843-05fd2af63403",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SERIKA_NEWYEAR_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SERIKA_NEWYEAR_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SERIKA_NEWYEAR",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_NewYearFestival.jpg",
+        "BG_Market.jpg",
+        "BG_Yatai.jpg",
+        "BG_NewYearFestivalRoad.jpg"
+      ],
+      "character": [
+        "Serika_NewYear"
+      ],
+      "track": [
+        "OST_18",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_NewYearFestival.jpg",
+        "BG_Market.jpg",
+        "BG_NewYearFestivalRoad.jpg"
+      ],
+      "OST_18": [
+        "BG_Market.jpg",
+        "BG_Yatai.jpg",
+        "BG_NewYearFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {
+      "Serika_NewYear": [
+        "BG_NewYearFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

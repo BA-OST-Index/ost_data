@@ -1,17 +1,20 @@
 {
-  "uuid": "e6f08b75-b1ac-44b6-a593-b4846bcd4708",
-  "filetype": -43,
-  "name": "[EVENT_STORY_NAME]",
-  "namespace": "story",
-  "desc": "[EVENT_830_STORY_DESC]",
+  "uuid": "e4918dfd-246e-4e57-a7ee-15696f7bc62d",
+  "filetype": -42,
+  "name": "[EVENT_830_NAME]",
+  "namespace": "830",
+  "desc": "[EVENT_830_DESC]",
+
   "include": [
     "[AUTO]"
   ],
+
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": true
+    "enable_export": false
   },
+
   "image": {
     "value": "",
     "short_desc": "",

@@ -1,1 +1,83 @@
-{"uuid": "b8ef479e-25c9-4e55-9258-54fb7393c8f3", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TOKI_1_NAME]", "desc": ["[STORY_BOND_TOKI_1_DESC_1]"], "pos": {"student": "TOKI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_CityTown.jpg", "BG_MilleniumCenter.jpg", "BG_View_Sky_Sunset.jpg", "BG_View_Sky_Night.jpg", "BG_BuildingFront2_Night.jpg", "BG_View_Schale.jpg", "BG_BuildingFront2.jpg"], "character": ["Toki"], "track": ["OST_3", "OST_137"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber.jpg", "BG_CityTown.jpg"], "OST_3": ["BG_CraftChamber.jpg", "BG_CityTown.jpg", "BG_MilleniumCenter.jpg", "BG_View_Sky_Sunset.jpg", "BG_View_Sky_Night.jpg", "BG_BuildingFront2_Night.jpg", "BG_View_Schale.jpg", "BG_BuildingFront2.jpg"], "OST_137": ["BG_CityTown.jpg"]}, "track_to_char": {"OST_3": ["Toki"], "OST_137": ["Toki"]}, "char_to_bg": {"Toki": ["BG_CraftChamber.jpg", "BG_CityTown.jpg", "BG_MilleniumCenter.jpg", "BG_BuildingFront2_Night.jpg", "BG_BuildingFront2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "0d499a04-c448-437d-a8f0-770b6e738b79",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TOKI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_TOKI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "TOKI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_CityTown.jpg",
+        "BG_MilleniumCenter.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_BuildingFront2_Night.jpg",
+        "BG_View_Schale.jpg",
+        "BG_BuildingFront2.jpg"
+      ],
+      "character": [
+        "Toki"
+      ],
+      "track": [
+        "OST_3",
+        "OST_137"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_CityTown.jpg"
+      ],
+      "OST_3": [
+        "BG_CraftChamber.jpg",
+        "BG_CityTown.jpg",
+        "BG_MilleniumCenter.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_BuildingFront2_Night.jpg",
+        "BG_View_Schale.jpg",
+        "BG_BuildingFront2.jpg"
+      ],
+      "OST_137": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Toki"
+      ],
+      "OST_137": [
+        "Toki"
+      ]
+    },
+    "char_to_bg": {
+      "Toki": [
+        "BG_CraftChamber.jpg",
+        "BG_CityTown.jpg",
+        "BG_MilleniumCenter.jpg",
+        "BG_BuildingFront2_Night.jpg",
+        "BG_BuildingFront2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

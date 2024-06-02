@@ -1,0 +1,112 @@
+{
+  "uuid": "587df9ad-873a-4413-a73e-84a2da2555ac",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_RENGE_2_NAME]",
+  "desc": [
+    "[STORY_BOND_RENGE_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "RENGE",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_View_Sky2.jpg",
+        "BG_HyakkiyakoCampus.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_Market_Night.jpg"
+      ],
+      "character": [
+        "Renge"
+      ],
+      "track": [
+        "OST_3",
+        "OST_16",
+        "OST_40",
+        "OST_130",
+        "OST_22",
+        "OST_192"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_View_Sky2.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_Market_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_40": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoCampus.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_ClassCorridor.jpg"
+      ],
+      "OST_22": [
+        "BG_Market_Night.jpg"
+      ],
+      "OST_192": [
+        "BG_Market_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Renge"
+      ],
+      "OST_16": [
+        "Renge"
+      ],
+      "OST_40": [
+        "Renge"
+      ],
+      "OST_130": [
+        "Renge"
+      ],
+      "OST_22": [
+        "Renge"
+      ],
+      "OST_192": [
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_View_Sky2.jpg",
+        "BG_HyakkiyakoCampus.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_Market_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

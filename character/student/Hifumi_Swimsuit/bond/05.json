@@ -1,1 +1,64 @@
-{"uuid": "01c2713a-d29f-45b0-a726-02a07c0646bb", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIFUMI_SWIMSUIT_5_NAME]", "desc": ["[STORY_BOND_HIFUMI_SWIMSUIT_5_DESC_1]"], "pos": {"student": "HIFUMI_SWIMSUIT", "segment": 5, "favor_rank": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg", "BG_Beachside.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_View_Sky_Sunset.jpg", "BG_View_Sky_Night.jpg", "BG_Beachside_Night.jpg"], "character": [], "track": ["OST_16"]}, "track_to_bg": {"OST_16": ["BG_BeachsideShop.jpg", "BG_Beachside.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_View_Sky_Sunset.jpg", "BG_View_Sky_Night.jpg", "BG_Beachside_Night.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "1378b82d-a53f-4ee2-a7c4-607168b5afb0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIFUMI_SWIMSUIT_5_NAME]",
+  "desc": [
+    "[STORY_BOND_HIFUMI_SWIMSUIT_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIFUMI_SWIMSUIT",
+    "segment": 5,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg",
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_Beachside_Night.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_BeachsideShop.jpg",
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_Beachside_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hifumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_Beachside_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

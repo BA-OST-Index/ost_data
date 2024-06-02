@@ -1,1 +1,74 @@
-{"uuid": "40f0c433-0648-4d76-a45e-102153983427", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIYU_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_MIYU_SWIMSUIT_1_DESC_1]"], "pos": {"student": "MIYU_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LightHousePier2.jpg"], "character": ["Miyu_Swimsuit", "Miyu"], "track": ["OST_104", "OST_60"]}, "track_to_bg": {"OST_0": ["BG_LightHousePier2.jpg"], "OST_104": ["BG_LightHousePier2.jpg"], "OST_60": ["BG_LightHousePier2.jpg"]}, "track_to_char": {"OST_104": ["Miyu_Swimsuit"], "OST_60": ["Miyu_Swimsuit"]}, "char_to_bg": {"Miyu_Swimsuit": ["BG_LightHousePier2.jpg"], "Miyu": ["BG_LightHousePier2.jpg"]}, "char_to_char": {"Miyu": ["Miyu_Swimsuit"], "Miyu_Swimsuit": ["Miyu"]}, "special": {"flag": true, "track": "OST_104"}}, "is_memory": true}
+{
+  "uuid": "4fa12093-3733-4f75-96d2-c2f71f82dfc0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIYU_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MIYU_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIYU_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "character": [
+        "Miyu_Swimsuit",
+        "Miyu"
+      ],
+      "track": [
+        "OST_104",
+        "OST_60"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "OST_104": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "OST_60": [
+        "BG_LightHousePier2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_104": [
+        "Miyu_Swimsuit"
+      ],
+      "OST_60": [
+        "Miyu_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Miyu_Swimsuit": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "Miyu": [
+        "BG_LightHousePier2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Miyu_Swimsuit"
+      ],
+      "Miyu_Swimsuit": [
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_104"
+    }
+  },
+  "is_memory": true
+}

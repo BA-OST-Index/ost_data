@@ -1,1 +1,105 @@
-{"uuid": "4ae045c6-8343-491e-9ed1-5df5510e70be", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AYANE_3_NAME]", "desc": ["[STORY_BOND_AYANE_3_DESC_1]"], "pos": {"student": "AYANE", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolFrontGate.jpg", "BG_SchoolGround.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_Storage.jpg", "BG_SchoolGround_Sunset.jpg"], "character": ["Ayane"], "track": ["OST_4", "OST_3", "OST_16", "OST_7", "OST_38", "OST_22", "OST_39"]}, "track_to_bg": {"OST_4": ["BG_SchoolFrontGate.jpg", "BG_SchoolGround.jpg"], "OST_0": ["BG_SchoolGround.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_Storage.jpg", "BG_SchoolGround_Sunset.jpg"], "OST_3": ["BG_SchoolGround.jpg"], "OST_16": ["BG_IndoorPlaza_Night3.jpg", "BG_Storage.jpg"], "OST_7": ["BG_Storage.jpg"], "OST_38": ["BG_Storage.jpg"], "OST_22": ["BG_SchoolGround_Sunset.jpg"]}, "track_to_char": {"OST_4": ["Ayane"], "OST_3": ["Ayane"], "OST_16": ["Ayane"], "OST_7": ["Ayane"], "OST_38": ["Ayane"], "OST_22": ["Ayane"]}, "char_to_bg": {"Ayane": ["BG_SchoolFrontGate.jpg", "BG_SchoolGround.jpg", "BG_IndoorPlaza_Night3.jpg", "BG_Storage.jpg", "BG_SchoolGround_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_39"}}, "is_memory": true}
+{
+  "uuid": "2ff63eee-3511-4f3e-be56-4f652b49fb22",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AYANE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_AYANE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "AYANE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_SchoolGround.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Storage.jpg",
+        "BG_SchoolGround_Sunset.jpg"
+      ],
+      "character": [
+        "Ayane"
+      ],
+      "track": [
+        "OST_4",
+        "OST_3",
+        "OST_16",
+        "OST_7",
+        "OST_38",
+        "OST_22",
+        "OST_39"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_SchoolGround.jpg"
+      ],
+      "OST_0": [
+        "BG_SchoolGround.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Storage.jpg",
+        "BG_SchoolGround_Sunset.jpg"
+      ],
+      "OST_3": [
+        "BG_SchoolGround.jpg"
+      ],
+      "OST_16": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_7": [
+        "BG_Storage.jpg"
+      ],
+      "OST_38": [
+        "BG_Storage.jpg"
+      ],
+      "OST_22": [
+        "BG_SchoolGround_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Ayane"
+      ],
+      "OST_3": [
+        "Ayane"
+      ],
+      "OST_16": [
+        "Ayane"
+      ],
+      "OST_7": [
+        "Ayane"
+      ],
+      "OST_38": [
+        "Ayane"
+      ],
+      "OST_22": [
+        "Ayane"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_SchoolGround.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Storage.jpg",
+        "BG_SchoolGround_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_39"
+    }
+  },
+  "is_memory": true
+}

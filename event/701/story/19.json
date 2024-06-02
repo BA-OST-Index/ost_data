@@ -1,1 +1,61 @@
-{"uuid": "2c5f7e30-924b-4b7f-98d7-3258e8f266af", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_19_NAME]", "desc": ["[STORY_EVENT_701_19_DESC_1]"], "pos": {"event_id": 701, "segment": 19}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSubmergedDistrict.jpg"], "character": ["Himari", "Eimi"], "track": ["OST_65"]}, "track_to_bg": {"OST_65": ["BG_RuinSubmergedDistrict.jpg"], "OST_0": ["BG_RuinSubmergedDistrict.jpg"]}, "track_to_char": {"OST_65": ["Himari", "Eimi"]}, "char_to_bg": {"Himari": ["BG_RuinSubmergedDistrict.jpg"], "Eimi": ["BG_RuinSubmergedDistrict.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ded7d65a-f359-44a0-9b2e-e193cedf4342",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_19_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_19_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSubmergedDistrict.jpg"
+      ],
+      "character": [
+        "Himari",
+        "Eimi"
+      ],
+      "track": [
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_65": [
+        "BG_RuinSubmergedDistrict.jpg"
+      ],
+      "OST_0": [
+        "BG_RuinSubmergedDistrict.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_65": [
+        "Himari",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_RuinSubmergedDistrict.jpg"
+      ],
+      "Eimi": [
+        "BG_RuinSubmergedDistrict.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

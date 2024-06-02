@@ -1,1 +1,71 @@
-{"uuid": "c83f08a0-4050-4b24-a87b-db8f8bfae76e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AKANE_1_NAME]", "desc": ["[STORY_BOND_AKANE_1_DESC_1]"], "pos": {"student": "AKANE", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BlackMarket_Night.jpg", "BG_MainOffice.jpg"], "character": ["Akane"], "track": ["OST_29", "OST_18", "OST_5"]}, "track_to_bg": {"OST_0": ["BG_BlackMarket_Night.jpg", "BG_MainOffice.jpg"], "OST_29": ["BG_BlackMarket_Night.jpg"], "OST_18": ["BG_BlackMarket_Night.jpg"], "OST_5": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_18": ["Akane"], "OST_5": ["Akane"]}, "char_to_bg": {"Akane": ["BG_BlackMarket_Night.jpg", "BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "1f5ed296-c3c8-4294-891d-d5b12a306cb7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKANE_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AKANE_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKANE",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Akane"
+      ],
+      "track": [
+        "OST_29",
+        "OST_18",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_MainOffice.jpg"
+      ],
+      "OST_29": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_5": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Akane"
+      ],
+      "OST_5": [
+        "Akane"
+      ]
+    },
+    "char_to_bg": {
+      "Akane": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

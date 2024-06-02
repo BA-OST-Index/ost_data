@@ -1,1 +1,54 @@
-{"uuid": "4abae6ba-79cb-439f-becd-74b3def36636", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_YOSHIMI_1_NAME]", "desc": ["[STORY_BOND_YOSHIMI_1_DESC_1]"], "pos": {"student": "YOSHIMI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_DessertCafe.jpg"], "character": ["Yoshimi"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_DessertCafe.jpg"]}, "track_to_char": {"OST_10": ["Yoshimi"]}, "char_to_bg": {"Yoshimi": ["BG_DessertCafe.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "49a077e7-7d19-48b7-935e-5717510edfd8",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YOSHIMI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_YOSHIMI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "YOSHIMI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DessertCafe.jpg"
+      ],
+      "character": [
+        "Yoshimi"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Yoshimi"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

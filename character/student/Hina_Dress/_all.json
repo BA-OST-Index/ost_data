@@ -1,0 +1,10 @@
+{
+  "uuid": "1ebcc3c8-b265-45b9-8774-ce8b6c348870",
+  "filetype": -53,
+  "namespace": "hina_dress",
+  "name": "Hina_Dress",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

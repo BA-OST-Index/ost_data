@@ -1,0 +1,102 @@
+{
+  "uuid": "5e3a68fc-d081-4f34-9337-4d1550e118c9",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinCity.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Himari",
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori"
+      ],
+      "track": [
+        "OST_19",
+        "OST_130"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinCity.jpg"
+      ],
+      "OST_19": [
+        "BG_RuinCity.jpg"
+      ],
+      "OST_130": [
+        "BG_RuinCity.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_19": [
+        "Himari",
+        "Eimi",
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha"
+      ],
+      "OST_130": [
+        "Utaha",
+        "Shokuhou_Misaki",
+        "Hibiki",
+        "Kotori",
+        "Saten_Ruiko",
+        "Misaka_Mikoto",
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_RuinCity.jpg"
+      ],
+      "Himari": [
+        "BG_RuinCity.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_RuinCity.jpg"
+      ],
+      "Saten_Ruiko": [
+        "BG_RuinCity.jpg"
+      ],
+      "Shokuhou_Misaki": [
+        "BG_RuinCity.jpg"
+      ],
+      "Utaha": [
+        "BG_RuinCity.jpg"
+      ],
+      "Hibiki": [
+        "BG_RuinCity.jpg"
+      ],
+      "Kotori": [
+        "BG_RuinCity.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

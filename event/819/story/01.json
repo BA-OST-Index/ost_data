@@ -1,1 +1,85 @@
-{"uuid": "cd74c7f4-3282-45b6-b7cb-548ece36f01a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_1_NAME]", "desc": ["[STORY_EVENT_819_1_DESC_1]"], "pos": {"event_id": 819, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_View_Sky_Night.jpg", "BG_View_Sky.jpg", "BG_TrinityHospital.jpg", "BG_Infirmary.jpg"], "character": ["Serina_Christmas", "Hanae_Christmas", "Mine"], "track": ["OST_62"]}, "track_to_bg": {"OST_0": ["BG_View_Sky_Night.jpg"], "OST_62": ["BG_View_Sky_Night.jpg", "BG_View_Sky.jpg", "BG_TrinityHospital.jpg", "BG_Infirmary.jpg"]}, "track_to_char": {"OST_62": ["Serina_Christmas", "Hanae_Christmas", "Mine"]}, "char_to_bg": {"Serina_Christmas": ["BG_Infirmary.jpg"], "Hanae_Christmas": ["BG_Infirmary.jpg"], "Mine": ["BG_Infirmary.jpg"]}, "char_to_char": {"Hanae_Christmas": ["Serina_Christmas", "Mine"], "Serina_Christmas": ["Hanae_Christmas", "Mine"], "Mine": ["Serina_Christmas", "Hanae_Christmas"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "e7aa8cf9-cc1b-4439-8452-c2221e82e698",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_View_Sky_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_TrinityHospital.jpg",
+        "BG_Infirmary.jpg"
+      ],
+      "character": [
+        "Serina_Christmas",
+        "Hanae_Christmas",
+        "Mine"
+      ],
+      "track": [
+        "OST_62"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_View_Sky_Night.jpg"
+      ],
+      "OST_62": [
+        "BG_View_Sky_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_TrinityHospital.jpg",
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_62": [
+        "Serina_Christmas",
+        "Hanae_Christmas",
+        "Mine"
+      ]
+    },
+    "char_to_bg": {
+      "Serina_Christmas": [
+        "BG_Infirmary.jpg"
+      ],
+      "Hanae_Christmas": [
+        "BG_Infirmary.jpg"
+      ],
+      "Mine": [
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanae_Christmas": [
+        "Serina_Christmas",
+        "Mine"
+      ],
+      "Serina_Christmas": [
+        "Hanae_Christmas",
+        "Mine"
+      ],
+      "Mine": [
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

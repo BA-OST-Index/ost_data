@@ -1,0 +1,88 @@
+{
+  "uuid": "eedb6457-b5ac-4793-9ca6-a9e1f1cf78c9",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_23_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_23_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Toki",
+        "Himari"
+      ],
+      "track": [
+        "OST_20",
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_20": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_33": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_20": [
+        "Eimi",
+        "Toki",
+        "Himari"
+      ],
+      "OST_33": [
+        "Toki",
+        "Eimi",
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Toki": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Toki": [
+        "Eimi",
+        "Himari"
+      ],
+      "Himari": [
+        "Eimi",
+        "Toki"
+      ],
+      "Eimi": [
+        "Toki",
+        "Himari"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

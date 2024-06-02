@@ -1,1 +1,63 @@
-{"uuid": "b5dd230f-3acc-4ba1-8630-d8210bfa3f54", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_CHEERLEADER_1_NAME]", "desc": ["[STORY_BOND_KOTORI_CHEERLEADER_1_DESC_1]"], "pos": {"student": "KOTORI_CHEERLEADER", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Empty_KivotosStadium2.jpg"], "character": ["Kotori_Cheerleader"], "track": ["OST_4", "OST_103"]}, "track_to_bg": {"OST_0": ["BG_Empty_KivotosStadium2.jpg"], "OST_4": ["BG_Empty_KivotosStadium2.jpg"], "OST_103": ["BG_Empty_KivotosStadium2.jpg"]}, "track_to_char": {"OST_4": ["Kotori_Cheerleader"], "OST_103": ["Kotori_Cheerleader"]}, "char_to_bg": {"Kotori_Cheerleader": ["BG_Empty_KivotosStadium2.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_103"}}, "is_memory": true}
+{
+  "uuid": "e552be08-610b-4fc4-bab5-28107e9435ba",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_CHEERLEADER_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_CHEERLEADER_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI_CHEERLEADER",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Empty_KivotosStadium2.jpg"
+      ],
+      "character": [
+        "Kotori_Cheerleader"
+      ],
+      "track": [
+        "OST_4",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Empty_KivotosStadium2.jpg"
+      ],
+      "OST_4": [
+        "BG_Empty_KivotosStadium2.jpg"
+      ],
+      "OST_103": [
+        "BG_Empty_KivotosStadium2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Kotori_Cheerleader"
+      ],
+      "OST_103": [
+        "Kotori_Cheerleader"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori_Cheerleader": [
+        "BG_Empty_KivotosStadium2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_103"
+    }
+  },
+  "is_memory": true
+}

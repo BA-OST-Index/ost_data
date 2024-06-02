@@ -1,1 +1,57 @@
-{"uuid": "219692f2-5e7b-4b6c-a9f6-d2371a582a97", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NONOMI_1_NAME]", "desc": ["[STORY_BOND_NONOMI_1_DESC_1]"], "pos": {"student": "NONOMI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg"], "character": ["Nonomi"], "track": ["OST_4"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown.jpg"], "OST_4": ["BG_CityDowntown.jpg"]}, "track_to_char": {"OST_4": ["Nonomi"]}, "char_to_bg": {"Nonomi": ["BG_CityDowntown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "4bf9f377-c62a-4453-a962-07ce6e68b345",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NONOMI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_NONOMI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "NONOMI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Nonomi"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_4": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Nonomi"
+      ]
+    },
+    "char_to_bg": {
+      "Nonomi": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

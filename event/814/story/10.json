@@ -1,1 +1,158 @@
-{"uuid": "92e2e64c-41da-450f-8454-11ec0f73d29d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_814_10_NAME]", "desc": ["[STORY_EVENT_814_10_DESC_1]"], "pos": {"event_id": 814, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg", "BG_CS_Millenium_02.jpg"], "character": ["Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit", "Ayane_Swimsuit", "Serika"], "track": ["OST_28", "OST_16", "OST_3", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg", "BG_CS_Millenium_02.jpg"], "OST_28": ["BG_RuinUndergroundPassage.jpg"], "OST_16": ["BG_ComputerCenter_Off.jpg"], "OST_3": ["BG_ComputerCenter.jpg"], "OST_7": ["BG_ComputerCenter.jpg"]}, "track_to_char": {"OST_28": ["Serika", "Hoshino_Swimsuit", "Ayane_Swimsuit", "Shiroko_Swimsuit", "Nonomi_Swimsuit"], "OST_16": ["Nonomi_Swimsuit", "Serika", "Hoshino_Swimsuit", "Ayane_Swimsuit", "Shiroko_Swimsuit"], "OST_3": ["Ayane_Swimsuit", "Serika", "Hoshino_Swimsuit", "Nonomi_Swimsuit"], "OST_7": ["Ayane_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Serika", "Shiroko_Swimsuit"]}, "char_to_bg": {"Serika": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg"], "Hoshino_Swimsuit": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg", "BG_CS_Millenium_02.jpg"], "Ayane_Swimsuit": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg", "BG_CS_Millenium_02.jpg"], "Shiroko_Swimsuit": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg"], "Nonomi_Swimsuit": ["BG_RuinUndergroundPassage.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg", "BG_CS_Millenium_02.jpg"]}, "char_to_char": {"Nonomi_Swimsuit": ["Hoshino_Swimsuit", "Shiroko_Swimsuit", "Ayane_Swimsuit", "Serika"], "Shiroko_Swimsuit": ["Hoshino_Swimsuit", "Nonomi_Swimsuit", "Ayane_Swimsuit", "Serika"], "Ayane_Swimsuit": ["Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit", "Serika"], "Hoshino_Swimsuit": ["Nonomi_Swimsuit", "Shiroko_Swimsuit", "Ayane_Swimsuit", "Serika"], "Serika": ["Hoshino_Swimsuit", "Ayane_Swimsuit", "Shiroko_Swimsuit", "Nonomi_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "47225d49-eea4-47ba-a79e-73f9349c94c6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_814_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_814_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 814,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "character": [
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "track": [
+        "OST_28",
+        "OST_16",
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "OST_28": [
+        "BG_RuinUndergroundPassage.jpg"
+      ],
+      "OST_16": [
+        "BG_ComputerCenter_Off.jpg"
+      ],
+      "OST_3": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_7": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Nonomi_Swimsuit"
+      ],
+      "OST_16": [
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "OST_3": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit"
+      ],
+      "OST_7": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shiroko_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Serika_Swimsuit": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "Hoshino_Swimsuit": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "Ayane_Swimsuit": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "Shiroko_Swimsuit": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_RuinUndergroundPassage.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nonomi_Swimsuit": [
+        "Hoshino_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Shiroko_Swimsuit": [
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Ayane_Swimsuit": [
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Hoshino_Swimsuit": [
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit"
+      ],
+      "Serika_Swimsuit": [
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Nonomi_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,54 @@
-{"uuid": "357237c1-3c08-4218-9924-9881c2add399", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TSURUGI_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_TSURUGI_SWIMSUIT_2_DESC_1]"], "pos": {"student": "TSURUGI_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide.jpg"], "character": [], "track": ["OST_79", "OST_80"]}, "track_to_bg": {"OST_79": ["BG_BeachFrontSide.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": true, "track": "OST_80"}}, "is_memory": true}
+{
+  "uuid": "ee64a529-0a56-405c-b7e0-f3645c591ba6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSURUGI_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_TSURUGI_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSURUGI_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "character": [
+        "Tsurugi_Swimsuit"
+      ],
+      "track": [
+        "OST_79",
+        "OST_80"
+      ]
+    },
+    "track_to_bg": {
+      "OST_79": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_79": [
+        "Tsurugi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Tsurugi_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_80"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,182 @@
-{"uuid": "f7dd1b31-4fd5-4b4a-bee3-ef8950b8d6a4", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_5_NAME]", "desc": ["[STORY_EVENT_813_5_DESC_1]"], "pos": {"event_id": 813, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HotelLobby.jpg", "BG_HyakkiyakoLookOut.jpg", "BG_HyakkiyakoMeetingroom2.jpg", "BG_HotelLobby_Night.jpg"], "character": ["Izuna", "Tsukuyo", "Michiru", "Chise", "Ibuki", "Makoto"], "track": ["OST_33", "OST_57", "OST_16", "OST_3", "OST_17", "OST_38", "OST_27"]}, "track_to_bg": {"OST_0": ["BG_HotelLobby.jpg", "BG_HotelLobby_Night.jpg"], "OST_33": ["BG_HotelLobby.jpg"], "OST_57": ["BG_HyakkiyakoLookOut.jpg"], "OST_16": ["BG_HotelLobby.jpg"], "OST_3": ["BG_HotelLobby.jpg", "BG_HyakkiyakoMeetingroom2.jpg"], "OST_17": ["BG_HotelLobby_Night.jpg"], "OST_38": ["BG_HotelLobby_Night.jpg", "BG_HotelLobby.jpg"], "OST_27": ["BG_HotelLobby.jpg"]}, "track_to_char": {"OST_33": ["Izuna", "Tsukuyo", "Michiru"], "OST_57": ["Chise", "Michiru", "Tsukuyo", "Izuna"], "OST_16": ["Michiru", "Tsukuyo", "Izuna"], "OST_3": ["Michiru", "Tsukuyo", "Makoto", "Ibuki"], "OST_17": ["Ibuki", "Michiru", "Tsukuyo"], "OST_38": ["Ibuki", "Michiru", "Izuna", "Tsukuyo"], "OST_27": ["Tsukuyo", "Izuna", "Michiru"]}, "char_to_bg": {"Izuna": ["BG_HotelLobby.jpg", "BG_HotelLobby_Night.jpg"], "Tsukuyo": ["BG_HotelLobby.jpg", "BG_HotelLobby_Night.jpg"], "Michiru": ["BG_HotelLobby.jpg", "BG_HyakkiyakoLookOut.jpg", "BG_HotelLobby_Night.jpg"], "Chise": ["BG_HyakkiyakoLookOut.jpg"], "Ibuki": ["BG_HotelLobby.jpg", "BG_HotelLobby_Night.jpg"], "Makoto": ["BG_HyakkiyakoMeetingroom2.jpg"]}, "char_to_char": {"Tsukuyo": ["Izuna", "Michiru", "Ibuki"], "Michiru": ["Izuna", "Tsukuyo", "Chise", "Ibuki"], "Izuna": ["Tsukuyo", "Michiru", "Ibuki"], "Chise": ["Michiru"], "Ibuki": ["Michiru", "Tsukuyo", "Izuna"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "8e245569-c45b-4dbd-b90f-189beb0d10a1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoLookOut.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Tsukuyo",
+        "Michiru",
+        "Chise",
+        "Ibuki",
+        "Niya",
+        "Makoto"
+      ],
+      "track": [
+        "OST_33",
+        "OST_57",
+        "OST_16",
+        "OST_3",
+        "OST_17",
+        "OST_38",
+        "OST_27"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HotelLobby.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "OST_33": [
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_57": [
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "OST_16": [
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_3": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_17": [
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_HotelLobby_Night.jpg",
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_27": [
+        "BG_HotelLobby.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Izuna",
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "OST_57": [
+        "Chise",
+        "Michiru",
+        "Tsukuyo",
+        "Izuna"
+      ],
+      "OST_16": [
+        "Michiru",
+        "Tsukuyo",
+        "Izuna"
+      ],
+      "OST_3": [
+        "Michiru",
+        "Tsukuyo",
+        "Niya",
+        "Makoto",
+        "Ibuki"
+      ],
+      "OST_17": [
+        "Ibuki",
+        "Michiru",
+        "Tsukuyo"
+      ],
+      "OST_38": [
+        "Ibuki",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "OST_27": [
+        "Tsukuyo",
+        "Izuna",
+        "Michiru"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna": [
+        "BG_HotelLobby.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HotelLobby.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "Michiru": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoLookOut.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "Ibuki": [
+        "BG_HotelLobby.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Makoto": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Izuna",
+        "Michiru",
+        "Ibuki"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Tsukuyo",
+        "Chise",
+        "Ibuki"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Michiru",
+        "Ibuki"
+      ],
+      "Chise": [
+        "Michiru"
+      ],
+      "Ibuki": [
+        "Michiru",
+        "Tsukuyo",
+        "Izuna"
+      ],
+      "Makoto": [
+        "Niya"
+      ],
+      "Niya": [
+        "Makoto"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

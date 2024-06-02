@@ -1,17 +1,20 @@
 {
-  "uuid": "c4f53fc3-f7df-4e8f-a17c-e9f1ac0f48d9",
-  "filetype": -43,
-  "name": "[EVENT_STORY_NAME]",
-  "namespace": "story",
-  "desc": "[EVENT_807_STORY_DESC]",
+  "uuid": "259af66e-14d9-4037-84ef-e13866fe1d96",
+  "filetype": -42,
+  "name": "[EVENT_807_NAME]",
+  "namespace": "807",
+  "desc": "[EVENT_807_DESC]",
+
   "include": [
     "[AUTO]"
   ],
+
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": true
+    "enable_export": false
   },
+
   "image": {
     "value": "",
     "short_desc": "",

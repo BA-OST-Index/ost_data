@@ -1,1 +1,62 @@
-{"uuid": "3f82bb8c-9e32-47c5-bad5-0a4dfabdb386", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_803_21_NAME]", "desc": ["[STORY_EVENT_803_21_DESC_1]"], "pos": {"event_id": 803, "segment": 21}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop_Night.jpg", "BG_BeachFrontSide_Night.jpg"], "character": ["Azusa_Swimsuit"], "track": ["OST_79", "OST_3"]}, "track_to_bg": {"OST_79": ["BG_BeachsideShop_Night.jpg"], "OST_0": ["BG_BeachsideShop_Night.jpg", "BG_BeachFrontSide_Night.jpg"], "OST_3": ["BG_BeachsideShop_Night.jpg"]}, "track_to_char": {"OST_3": ["Azusa_Swimsuit"]}, "char_to_bg": {"Azusa_Swimsuit": ["BG_BeachsideShop_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "849360f4-eeac-4db6-80d9-0dd07808d296",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_803_21_NAME]",
+  "desc": [
+    "[STORY_EVENT_803_21_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 803,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ],
+      "character": [
+        "Azusa_Swimsuit"
+      ],
+      "track": [
+        "OST_79",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_79": [
+        "BG_BeachsideShop_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachsideShop_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_BeachsideShop_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Azusa_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa_Swimsuit": [
+        "BG_BeachsideShop_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

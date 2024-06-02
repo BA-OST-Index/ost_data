@@ -1,1 +1,80 @@
-{"uuid": "f775f309-65f7-4ce6-80b4-01f19eb5271e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KANNA_3_NAME]", "desc": ["[STORY_BOND_KANNA_3_DESC_1]"], "pos": {"student": "KANNA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Wharf.jpg", "BG_RailWayCrossing_Night.jpg", "BG_FoodCartRamen2_Night.jpg"], "character": ["Kanna"], "track": ["OST_21", "OST_44"]}, "track_to_bg": {"OST_0": ["BG_Wharf.jpg", "BG_FoodCartRamen2_Night.jpg"], "OST_21": ["BG_Wharf.jpg", "BG_RailWayCrossing_Night.jpg", "BG_FoodCartRamen2_Night.jpg"], "OST_44": ["BG_FoodCartRamen2_Night.jpg"]}, "track_to_char": {"OST_21": ["Kanna"], "OST_44": ["Kanna"]}, "char_to_bg": {"Kanna": ["BG_Wharf.jpg", "BG_FoodCartRamen2_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_44"}}, "is_memory": true}
+{
+  "uuid": "fa6ae581-d8da-4828-ba74-dc333ac120a1",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KANNA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KANNA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KANNA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Wharf.jpg",
+        "BG_RailWayCrossing_Night.jpg",
+        "BG_FoodCartRamen2_Night.jpg"
+      ],
+      "character": [
+        "Kanna",
+        "Public Peace Bureau Student"
+      ],
+      "track": [
+        "OST_21",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Wharf.jpg",
+        "BG_FoodCartRamen2_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_Wharf.jpg",
+        "BG_RailWayCrossing_Night.jpg",
+        "BG_FoodCartRamen2_Night.jpg"
+      ],
+      "OST_44": [
+        "BG_FoodCartRamen2_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Kanna"
+      ],
+      "OST_44": [
+        "Kanna"
+      ]
+    },
+    "char_to_bg": {
+      "Kanna": [
+        "BG_Wharf.jpg",
+        "BG_FoodCartRamen2_Night.jpg"
+      ],
+      "Public Peace Bureau Student": [
+        "BG_Wharf.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Public Peace Bureau Student": [
+        "Kanna"
+      ],
+      "Kanna": [
+        "Public Peace Bureau Student"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_44"
+    }
+  },
+  "is_memory": true
+}

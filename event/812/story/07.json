@@ -1,1 +1,104 @@
-{"uuid": "7f75ea89-2b56-448a-87cc-fc9f2c29e0a0", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_812_7_NAME]", "desc": ["[STORY_EVENT_812_7_DESC_1]"], "pos": {"event_id": 812, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground.jpg", "BG_Cathedral.jpg", "BG_Dormitory.jpg"], "character": ["Hinata", "Suzumi"], "track": ["OST_3", "OST_7", "OST_46", "OST_54", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_Playground.jpg"], "OST_3": ["BG_Playground.jpg"], "OST_7": ["BG_Playground.jpg"], "OST_46": ["BG_Playground.jpg"], "OST_54": ["BG_Playground.jpg", "BG_Cathedral.jpg", "BG_Dormitory.jpg"], "OST_22": ["BG_Playground.jpg"]}, "track_to_char": {"OST_3": ["Hinata", "Suzumi"], "OST_7": ["Suzumi"], "OST_46": ["Suzumi"], "OST_54": ["Hinata", "Suzumi"], "OST_22": ["Suzumi", "Hinata"]}, "char_to_bg": {"Hinata": ["BG_Playground.jpg", "BG_Cathedral.jpg", "BG_Dormitory.jpg"], "Suzumi": ["BG_Playground.jpg"]}, "char_to_char": {"Suzumi": ["Hinata"], "Hinata": ["Suzumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "37860019-88fe-475b-88af-2bb3d6201f5d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_812_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_812_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 812,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground.jpg",
+        "BG_Cathedral.jpg",
+        "BG_Dormitory.jpg"
+      ],
+      "character": [
+        "Hinata",
+        "Suzumi"
+      ],
+      "track": [
+        "OST_3",
+        "OST_7",
+        "OST_46",
+        "OST_54",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Playground.jpg"
+      ],
+      "OST_3": [
+        "BG_Playground.jpg"
+      ],
+      "OST_7": [
+        "BG_Playground.jpg"
+      ],
+      "OST_46": [
+        "BG_Playground.jpg"
+      ],
+      "OST_54": [
+        "BG_Playground.jpg",
+        "BG_Cathedral.jpg",
+        "BG_Dormitory.jpg"
+      ],
+      "OST_22": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Hinata",
+        "Suzumi"
+      ],
+      "OST_7": [
+        "Suzumi"
+      ],
+      "OST_46": [
+        "Suzumi"
+      ],
+      "OST_54": [
+        "Hinata",
+        "Suzumi"
+      ],
+      "OST_22": [
+        "Suzumi",
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_Playground.jpg",
+        "BG_Cathedral.jpg",
+        "BG_Dormitory.jpg"
+      ],
+      "Suzumi": [
+        "BG_Playground.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Suzumi": [
+        "Hinata"
+      ],
+      "Hinata": [
+        "Suzumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

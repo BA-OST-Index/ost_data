@@ -1,1 +1,57 @@
-{"uuid": "4dbdfc4f-698b-4e69-9943-b2d0a340896a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_EIMI_6_NAME]", "desc": ["[STORY_BOND_EIMI_6_DESC_1]"], "pos": {"student": "EIMI", "segment": 6, "favor_rank": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Wilderness.jpg"], "character": ["Eimi"], "track": ["OST_130"]}, "track_to_bg": {"OST_0": ["BG_Wilderness.jpg"], "OST_130": ["BG_Wilderness.jpg"]}, "track_to_char": {"OST_130": ["Eimi"]}, "char_to_bg": {"Eimi": ["BG_Wilderness.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "94975370-32ce-454f-aeab-89cc822799e3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_6_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_6_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI",
+    "segment": 6,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Wilderness.jpg"
+      ],
+      "character": [
+        "Eimi"
+      ],
+      "track": [
+        "OST_130"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Wilderness.jpg"
+      ],
+      "OST_130": [
+        "BG_Wilderness.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_Wilderness.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

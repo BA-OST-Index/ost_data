@@ -1,1 +1,87 @@
-{"uuid": "580302d6-ed93-4f4c-b37e-337245d486e7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_829_7_NAME]", "desc": ["[STORY_EVENT_829_7_DESC_1]"], "pos": {"event_id": 829, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ExhibitionHall.jpg", "BG_Library.jpg"], "character": ["Meru"], "track": ["OST_33", "OST_16", "OST_130"]}, "track_to_bg": {"OST_0": ["BG_ExhibitionHall.jpg", "BG_Library.jpg"], "OST_33": ["BG_ExhibitionHall.jpg"], "OST_16": ["BG_Library.jpg"], "OST_130": ["BG_Library.jpg"]}, "track_to_char": {"OST_33": ["Meru"], "OST_16": ["Meru"], "OST_130": ["Meru"]}, "char_to_bg": {"Meru": ["BG_ExhibitionHall.jpg", "BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "846d6b9f-e22e-4cbe-b370-bbb2e7b5a6ca",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_829_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_829_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 829,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ExhibitionHall.jpg",
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Takane",
+        "Meru"
+      ],
+      "track": [
+        "OST_33",
+        "OST_16",
+        "OST_130"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ExhibitionHall.jpg",
+        "BG_Library.jpg"
+      ],
+      "OST_33": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "OST_16": [
+        "BG_Library.jpg"
+      ],
+      "OST_130": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Takane",
+        "Meru"
+      ],
+      "OST_16": [
+        "Meru",
+        "Takane"
+      ],
+      "OST_130": [
+        "Meru"
+      ]
+    },
+    "char_to_bg": {
+      "Takane": [
+        "BG_ExhibitionHall.jpg",
+        "BG_Library.jpg"
+      ],
+      "Meru": [
+        "BG_ExhibitionHall.jpg",
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Meru": [
+        "Takane"
+      ],
+      "Takane": [
+        "Meru"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

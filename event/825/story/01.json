@@ -1,1 +1,56 @@
-{"uuid": "9aaf8403-d252-4fca-9766-a70d4a5a7056", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_825_1_NAME]", "desc": ["[STORY_EVENT_825_1_DESC_1]"], "pos": {"event_id": 825, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UpperOffice.jpg"], "character": ["Toki"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_UpperOffice.jpg"], "OST_0": ["BG_UpperOffice.jpg"]}, "track_to_char": {"OST_4": ["Toki"]}, "char_to_bg": {"Toki": ["BG_UpperOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "cad73fa9-aab1-46a0-b679-00a600b65e86",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_825_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_825_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 825,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UpperOffice.jpg"
+      ],
+      "character": [
+        "Toki"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_UpperOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_UpperOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Toki"
+      ]
+    },
+    "char_to_bg": {
+      "Toki": [
+        "BG_UpperOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

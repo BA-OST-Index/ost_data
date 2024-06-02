@@ -1,0 +1,104 @@
+{
+  "uuid": "a5b058f6-ff6f-4816-80d2-513739248ea6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCorridor.jpg",
+        "BG_Ward.jpg",
+        "BG_CityTown.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Misaka_Mikoto",
+        "Himari"
+      ],
+      "track": [
+        "OST_16",
+        "OST_29",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MilleniumCorridor.jpg",
+        "BG_Ward.jpg"
+      ],
+      "OST_0": [
+        "BG_Ward.jpg",
+        "BG_CityTown.jpg"
+      ],
+      "OST_29": [
+        "BG_CityTown.jpg"
+      ],
+      "OST_3": [
+        "BG_CityTown.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Eimi"
+      ],
+      "OST_29": [
+        "Eimi",
+        "Misaka_Mikoto"
+      ],
+      "OST_3": [
+        "Misaka_Mikoto",
+        "Eimi",
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_MilleniumCorridor.jpg",
+        "BG_Ward.jpg",
+        "BG_CityTown.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_CityTown.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Misaka_Mikoto": [
+        "Eimi",
+        "Himari"
+      ],
+      "Eimi": [
+        "Misaka_Mikoto",
+        "Himari"
+      ],
+      "Himari": [
+        "Misaka_Mikoto",
+        "Eimi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

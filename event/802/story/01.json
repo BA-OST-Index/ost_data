@@ -1,1 +1,71 @@
-{"uuid": "41d1ba8d-f70e-4d58-b9f2-5ba97b6bb9a3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_1_NAME]", "desc": ["[STORY_EVENT_802_1_DESC_1]"], "pos": {"event_id": 802, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg"], "character": ["Tomoe", "Cherino"], "track": ["OST_83"]}, "track_to_bg": {"OST_0": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg"], "OST_83": ["BG_CherinoOffice.jpg"]}, "track_to_char": {"OST_83": ["Cherino", "Tomoe"]}, "char_to_bg": {"Tomoe": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg"], "Cherino": ["BG_CherinoOffice.jpg"]}, "char_to_char": {"Tomoe": ["Cherino"], "Cherino": ["Tomoe"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "85c9bb56-8139-4d01-bb98-f77bf09def38",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg"
+      ],
+      "character": [
+        "Tomoe",
+        "Cherino"
+      ],
+      "track": [
+        "OST_83"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg"
+      ],
+      "OST_83": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Cherino",
+        "Tomoe"
+      ]
+    },
+    "char_to_bg": {
+      "Tomoe": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg"
+      ],
+      "Cherino": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tomoe": [
+        "Cherino"
+      ],
+      "Cherino": [
+        "Tomoe"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

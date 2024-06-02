@@ -1,17 +1,20 @@
 {
-  "uuid": "5774fb17-3692-4ec7-86e2-60b6048e80fb",
-  "filetype": -43,
-  "name": "[EVENT_STORY_NAME]",
-  "namespace": "story",
-  "desc": "[EVENT_701_STORY_DESC]",
+  "uuid": "309f894c-1c3c-43d1-a780-5a301f291080",
+  "filetype": -42,
+  "name": "[EVENT_701_NAME]",
+  "namespace": "701",
+  "desc": "[EVENT_701_DESC]",
+
   "include": [
     "[AUTO]"
   ],
+
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": true
+    "enable_export": false
   },
+
   "image": {
     "value": "",
     "short_desc": "",

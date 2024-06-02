@@ -1,1 +1,60 @@
-{"uuid": "3a2a1a4e-662b-4f6a-bc5e-c84b444189ac", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOHARU_3_NAME]", "desc": ["[STORY_BOND_KOHARU_3_DESC_1]"], "pos": {"student": "KOHARU", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BigPlaza.jpg", "BG_BigPlaza_Sunset.jpg"], "character": ["Koharu"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_BigPlaza.jpg", "BG_BigPlaza_Sunset.jpg"], "OST_0": ["BG_BigPlaza_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Koharu"]}, "char_to_bg": {"Koharu": ["BG_BigPlaza.jpg", "BG_BigPlaza_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "e81bd896-51b3-408e-b8e0-8cfc7dcc3a78",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOHARU_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KOHARU_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOHARU",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigPlaza.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "character": [
+        "Koharu"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_BigPlaza.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_BigPlaza.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

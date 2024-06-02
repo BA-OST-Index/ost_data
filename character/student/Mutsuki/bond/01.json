@@ -1,1 +1,82 @@
-{"uuid": "2e74bb0a-9ebe-4fd0-87d1-017d8886b406", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MUTSUKI_1_NAME]", "desc": ["[STORY_BOND_MUTSUKI_1_DESC_1]"], "pos": {"student": "MUTSUKI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_CraftChamber.jpg"], "character": ["Mutsuki"], "track": ["OST_4", "OST_3", "OST_16", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_MainOffice.jpg", "BG_CraftChamber.jpg"], "OST_4": ["BG_MainOffice.jpg", "BG_CraftChamber.jpg"], "OST_3": ["BG_CraftChamber.jpg"], "OST_16": ["BG_MainOffice.jpg"], "OST_7": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_4": ["Mutsuki"], "OST_3": ["Mutsuki"], "OST_16": ["Mutsuki"], "OST_7": ["Mutsuki"]}, "char_to_bg": {"Mutsuki": ["BG_MainOffice.jpg", "BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "808a7e4a-8acd-4291-86e8-f6ec1102999e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MUTSUKI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MUTSUKI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MUTSUKI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Mutsuki"
+      ],
+      "track": [
+        "OST_4",
+        "OST_3",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_4": [
+        "BG_MainOffice.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_3": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_16": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_7": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Mutsuki"
+      ],
+      "OST_3": [
+        "Mutsuki"
+      ],
+      "OST_16": [
+        "Mutsuki"
+      ],
+      "OST_7": [
+        "Mutsuki"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki": [
+        "BG_MainOffice.jpg",
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

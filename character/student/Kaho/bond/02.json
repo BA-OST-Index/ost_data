@@ -1,1 +1,81 @@
-{"uuid": "6962379f-197a-4d19-b9ab-15ba14d49999", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAHO_2_NAME]", "desc": ["[STORY_BOND_KAHO_2_DESC_1]"], "pos": {"student": "KAHO", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoMeetingroom2.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "character": ["Kaho"], "track": ["OST_57", "OST_130", "OST_15", "OST_43"]}, "track_to_bg": {"OST_57": ["BG_HyakkiyakoMeetingroom2.jpg"], "OST_0": ["BG_HyakkiyakoMeetingroom2.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "OST_130": ["BG_HyakkiyakoMeetingroom2.jpg"], "OST_15": ["BG_HyakkiyakoMeetingroom2.jpg"], "OST_43": ["BG_HyakkiyakoLookOut_Sunset.jpg"]}, "track_to_char": {"OST_57": ["Kaho"], "OST_130": ["Kaho"], "OST_15": ["Kaho"], "OST_43": ["Kaho"]}, "char_to_bg": {"Kaho": ["BG_HyakkiyakoMeetingroom2.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "26c73d8c-b683-49d1-8e2e-7fe974499b1a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAHO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KAHO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAHO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "character": [
+        "Kaho"
+      ],
+      "track": [
+        "OST_57",
+        "OST_130",
+        "OST_15",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_57": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_15": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_43": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_57": [
+        "Kaho"
+      ],
+      "OST_130": [
+        "Kaho"
+      ],
+      "OST_15": [
+        "Kaho"
+      ],
+      "OST_43": [
+        "Kaho"
+      ]
+    },
+    "char_to_bg": {
+      "Kaho": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

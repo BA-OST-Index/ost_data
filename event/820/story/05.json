@@ -1,1 +1,106 @@
-{"uuid": "982fb9a7-d107-4d3d-8230-8f1d4b133d4e", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_5_NAME]", "desc": ["[STORY_EVENT_820_5_DESC_1]"], "pos": {"event_id": 820, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HomeFoodPlace.jpg"], "character": ["Haruna_NewYear", "Izumi", "Akari_NewYear", "Junko_NewYear"], "track": ["OST_28", "OST_3", "OST_5"]}, "track_to_bg": {"OST_28": ["BG_HomeFoodPlace.jpg"], "OST_0": ["BG_HomeFoodPlace.jpg"], "OST_3": ["BG_HomeFoodPlace.jpg"], "OST_5": ["BG_HomeFoodPlace.jpg"]}, "track_to_char": {"OST_28": ["Haruna_NewYear"], "OST_3": ["Haruna_NewYear", "Izumi", "Akari_NewYear", "Junko_NewYear"], "OST_5": ["Haruna_NewYear"]}, "char_to_bg": {"Haruna_NewYear": ["BG_HomeFoodPlace.jpg"], "Izumi": ["BG_HomeFoodPlace.jpg"], "Akari_NewYear": ["BG_HomeFoodPlace.jpg"], "Junko_NewYear": ["BG_HomeFoodPlace.jpg"]}, "char_to_char": {"Izumi": ["Haruna_NewYear", "Akari_NewYear", "Junko_NewYear"], "Akari_NewYear": ["Haruna_NewYear", "Izumi", "Junko_NewYear"], "Junko_NewYear": ["Haruna_NewYear", "Izumi", "Akari_NewYear"], "Haruna_NewYear": ["Izumi", "Akari_NewYear", "Junko_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "64cd1e08-f89b-45fc-9663-61ddff32d8cb",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "character": [
+        "Haruna_NewYear",
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ],
+      "track": [
+        "OST_28",
+        "OST_3",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_0": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_3": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "OST_5": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Haruna_NewYear"
+      ],
+      "OST_3": [
+        "Haruna_NewYear",
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ],
+      "OST_5": [
+        "Haruna_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Izumi_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Akari_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ],
+      "Junko_NewYear": [
+        "BG_HomeFoodPlace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Izumi_NewYear": [
+        "Haruna_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ],
+      "Akari_NewYear": [
+        "Haruna_NewYear",
+        "Izumi_NewYear",
+        "Junko_NewYear"
+      ],
+      "Junko_NewYear": [
+        "Haruna_NewYear",
+        "Izumi_NewYear",
+        "Akari_NewYear"
+      ],
+      "Haruna_NewYear": [
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Junko_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

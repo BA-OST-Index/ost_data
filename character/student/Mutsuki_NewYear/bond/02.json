@@ -1,1 +1,82 @@
-{"uuid": "d76b091a-d4d7-46aa-b6f7-5e1f7fe8dc49", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MUTSUKI_NEWYEAR_2_NAME]", "desc": ["[STORY_BOND_MUTSUKI_NEWYEAR_2_DESC_1]"], "pos": {"student": "MUTSUKI_NEWYEAR", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_NewYearFestivalRoad.jpg", "BG_NewYearFestival.jpg"], "character": ["Mutsuki_NewYear"], "track": ["OST_4", "OST_10", "OST_8", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_NewYearFestivalRoad.jpg", "BG_NewYearFestival.jpg"], "OST_4": ["BG_NewYearFestivalRoad.jpg", "BG_NewYearFestival.jpg"], "OST_10": ["BG_NewYearFestival.jpg"], "OST_8": ["BG_NewYearFestival.jpg"], "OST_38": ["BG_NewYearFestival.jpg"]}, "track_to_char": {"OST_4": ["Mutsuki_NewYear"], "OST_10": ["Mutsuki_NewYear"], "OST_8": ["Mutsuki_NewYear"], "OST_38": ["Mutsuki_NewYear"]}, "char_to_bg": {"Mutsuki_NewYear": ["BG_NewYearFestivalRoad.jpg", "BG_NewYearFestival.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a3637702-f33a-4ee6-8231-d5579dc702c5",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MUTSUKI_NEWYEAR_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MUTSUKI_NEWYEAR_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MUTSUKI_NEWYEAR",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_NewYearFestivalRoad.jpg",
+        "BG_NewYearFestival.jpg"
+      ],
+      "character": [
+        "Mutsuki_NewYear"
+      ],
+      "track": [
+        "OST_4",
+        "OST_10",
+        "OST_8",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_NewYearFestivalRoad.jpg",
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_4": [
+        "BG_NewYearFestivalRoad.jpg",
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_10": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_8": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_38": [
+        "BG_NewYearFestival.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_10": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_8": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_38": [
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki_NewYear": [
+        "BG_NewYearFestivalRoad.jpg",
+        "BG_NewYearFestival.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

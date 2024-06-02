@@ -1,1 +1,54 @@
-{"uuid": "36b605af-d9ec-4b08-8bd4-443011bb156d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NERU_1_NAME]", "desc": ["[STORY_BOND_NERU_1_DESC_1]"], "pos": {"student": "NERU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Residence.jpg"], "character": ["Neru"], "track": ["OST_6"]}, "track_to_bg": {"OST_6": ["BG_Residence.jpg"]}, "track_to_char": {"OST_6": ["Neru"]}, "char_to_bg": {"Neru": ["BG_Residence.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "037a538a-bdad-4331-8b23-d4bc2d0f1407",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NERU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_NERU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "NERU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Residence.jpg"
+      ],
+      "character": [
+        "Neru"
+      ],
+      "track": [
+        "OST_6"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Neru"
+      ]
+    },
+    "char_to_bg": {
+      "Neru": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

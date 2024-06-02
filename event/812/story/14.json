@@ -1,1 +1,177 @@
-{"uuid": "bbdc7e50-ae4f-4488-8058-d69a0e5bd617", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_812_14_NAME]", "desc": ["[STORY_EVENT_812_14_DESC_1]"], "pos": {"event_id": 812, "segment": 14}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ForestRoad_Night.jpg", "BG_CathedralRuins_Night.jpg"], "character": ["Mashiro", "Hinata", "Yoshimi", "Airi", "Kazusa", "Natsu", "Sakurako"], "track": ["OST_18", "OST_31", "OST_2"]}, "track_to_bg": {"OST_18": ["BG_ForestRoad_Night.jpg", "BG_CathedralRuins_Night.jpg"], "OST_0": ["BG_ForestRoad_Night.jpg", "BG_CathedralRuins_Night.jpg"], "OST_31": ["BG_CathedralRuins_Night.jpg"], "OST_2": ["BG_CathedralRuins_Night.jpg"]}, "track_to_char": {"OST_18": ["Mashiro", "Hinata", "Yoshimi", "Airi", "Kazusa", "Natsu", "Sakurako"], "OST_31": ["Hinata"], "OST_2": ["Sakurako", "Hinata"]}, "char_to_bg": {"Mashiro": ["BG_ForestRoad_Night.jpg"], "Hinata": ["BG_CathedralRuins_Night.jpg"], "Yoshimi": ["BG_CathedralRuins_Night.jpg"], "Airi": ["BG_CathedralRuins_Night.jpg"], "Kazusa": ["BG_CathedralRuins_Night.jpg"], "Natsu": ["BG_CathedralRuins_Night.jpg"], "Sakurako": ["BG_CathedralRuins_Night.jpg"]}, "char_to_char": {"Yoshimi": ["Hinata", "Airi", "Kazusa", "Natsu", "Sakurako"], "Airi": ["Hinata", "Yoshimi", "Kazusa", "Natsu", "Sakurako"], "Kazusa": ["Hinata", "Yoshimi", "Airi", "Natsu", "Sakurako"], "Natsu": ["Hinata", "Yoshimi", "Airi", "Kazusa", "Sakurako"], "Sakurako": ["Hinata", "Yoshimi", "Airi", "Kazusa", "Natsu"], "Hinata": ["Yoshimi", "Airi", "Kazusa", "Natsu", "Sakurako"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "a6de0e1f-98f9-4306-924a-70fb0f25d38b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_812_14_NAME]",
+  "desc": [
+    "[STORY_EVENT_812_14_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 812,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "character": [
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ],
+      "track": [
+        "OST_18",
+        "OST_31",
+        "OST_2"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_31": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_2": [
+        "BG_CathedralRuins_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ],
+      "OST_31": [
+        "Hinata"
+      ],
+      "OST_2": [
+        "Sakurako",
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "MemberOfJusticeTaskForce": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Mashiro": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Hinata": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Yoshimi": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Airi": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Kazusa": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Participant A": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Natsu": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Sakurako": [
+        "BG_CathedralRuins_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mashiro": [
+        "MemberOfJusticeTaskForce"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Mashiro"
+      ],
+      "Yoshimi": [
+        "Hinata",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ],
+      "Airi": [
+        "Hinata",
+        "Yoshimi",
+        "Kazusa",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ],
+      "Kazusa": [
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ],
+      "Participant A": [
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Natsu",
+        "Sakurako"
+      ],
+      "Natsu": [
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Sakurako"
+      ],
+      "Sakurako": [
+        "Hinata",
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Natsu"
+      ],
+      "Hinata": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Participant A",
+        "Natsu",
+        "Sakurako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

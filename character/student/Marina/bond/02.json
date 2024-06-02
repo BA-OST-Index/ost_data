@@ -1,1 +1,84 @@
-{"uuid": "98b85d8f-73ba-4f99-9e4d-4cb986b959f8", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARINA_2_NAME]", "desc": ["[STORY_BOND_MARINA_2_DESC_1]"], "pos": {"student": "MARINA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RedWinterCampus.jpg", "BG_WinterRoad.jpg", "BG_Storage.jpg"], "character": ["Marina"], "track": ["OST_83", "OST_16", "OST_3", "OST_7"]}, "track_to_bg": {"OST_83": ["BG_RedWinterCampus.jpg"], "OST_0": ["BG_WinterRoad.jpg", "BG_Storage.jpg"], "OST_16": ["BG_WinterRoad.jpg", "BG_Storage.jpg"], "OST_3": ["BG_Storage.jpg"], "OST_7": ["BG_Storage.jpg"]}, "track_to_char": {"OST_83": ["Marina"], "OST_16": ["Marina"], "OST_3": ["Marina"], "OST_7": ["Marina"]}, "char_to_bg": {"Marina": ["BG_RedWinterCampus.jpg", "BG_WinterRoad.jpg", "BG_Storage.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "2dc63eea-25c7-4d56-83ae-21096c206f1d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARINA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MARINA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARINA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RedWinterCampus.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_Storage.jpg"
+      ],
+      "character": [
+        "Marina"
+      ],
+      "track": [
+        "OST_83",
+        "OST_16",
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_RedWinterCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_WinterRoad.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_16": [
+        "BG_WinterRoad.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_3": [
+        "BG_Storage.jpg"
+      ],
+      "OST_7": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Marina"
+      ],
+      "OST_16": [
+        "Marina"
+      ],
+      "OST_3": [
+        "Marina"
+      ],
+      "OST_7": [
+        "Marina"
+      ]
+    },
+    "char_to_bg": {
+      "Marina": [
+        "BG_RedWinterCampus.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_Storage.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

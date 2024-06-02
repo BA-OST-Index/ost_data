@@ -1,1 +1,103 @@
-{"uuid": "fec7c2c3-dc36-47ae-a9b5-72539b264705", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_14_NAME]", "desc": ["[STORY_EVENT_813_14_DESC_1]"], "pos": {"event_id": 813, "segment": 14}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoCampus.jpg"], "character": ["Izuna", "Tsukuyo", "Kaede", "Michiru", "Kaho"], "track": ["OST_6", "OST_27"]}, "track_to_bg": {"OST_0": ["BG_HyakkiyakoCampus.jpg"], "OST_6": ["BG_HyakkiyakoCampus.jpg"], "OST_27": ["BG_HyakkiyakoCampus.jpg"]}, "track_to_char": {"OST_6": ["Kaede", "Michiru", "Izuna", "Tsukuyo"], "OST_27": ["Kaho"]}, "char_to_bg": {"Kaede": ["BG_HyakkiyakoCampus.jpg"], "Michiru": ["BG_HyakkiyakoCampus.jpg"], "Izuna": ["BG_HyakkiyakoCampus.jpg"], "Tsukuyo": ["BG_HyakkiyakoCampus.jpg"], "Kaho": ["BG_HyakkiyakoCampus.jpg"]}, "char_to_char": {"Tsukuyo": ["Izuna", "Kaede", "Michiru"], "Izuna": ["Tsukuyo", "Kaede", "Michiru"], "Michiru": ["Kaede", "Izuna", "Tsukuyo"], "Kaede": ["Michiru", "Izuna", "Tsukuyo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "6d2341d8-72d4-4f8e-a49b-fe368401d2e9",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_14_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_14_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Michiru",
+        "Kaho"
+      ],
+      "track": [
+        "OST_6",
+        "OST_27"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "OST_27": [
+        "BG_HyakkiyakoCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Kaede",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "OST_27": [
+        "Kaho"
+      ]
+    },
+    "char_to_bg": {
+      "Kaede": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "Kaho": [
+        "BG_HyakkiyakoCampus.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Izuna",
+        "Kaede",
+        "Michiru"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Kaede",
+        "Michiru"
+      ],
+      "Michiru": [
+        "Kaede",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Kaede": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

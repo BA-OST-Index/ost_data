@@ -65,6 +65,7 @@
   "Club_LaborParty": "工務部",
   "Club_KnowledgeLiberationFront": "知識解放戦線",
   "Club_Hyakkayouran": "百花繚乱紛争調停委員会",
+  "Club_ShinySparkleSociety": "キラキラ部",
   "Club_EmptyClub": "無し",
   "BossFaction_Decagrammaton": "デカグラマトン",
   "BossFaction_Slumpia": "スランピア",
@@ -107,6 +108,8 @@
   "EventName_832": "（電脳）新春行進曲",
   "EventName_833": "陽ひらく彼女たちの小夜曲",
   "EventName_834": "0068 オペラより愛をこめて！",
+  "EventName_835": "にぎにぎと ゆきゆきて",
+  "EventName_836": "-ive aLIVE!",
   "StageType_Campaign": "任務",
   "StageType_Bounty": "指名手配",
   "StageType_WeekDungeon": "特別依頼",
@@ -125,6 +128,7 @@
   "StageType_SchoolC": "学園交流会 - ミレニアム",
   "StageType_Conquest": "占領戦",
   "StageType_EliminateRaid": "大決戦",
+  "StageType_MultiFloorRaid": "制約解除決戦",
   "StageType_Normal": "Normal",
   "StageType_Hard": "Hard",
   "StageType_Quest": "Quest",
@@ -152,9 +156,11 @@
   "BulletType_Mystic": "神秘",
   "BulletType_Normal": "ノーマル",
   "BulletType_Sonic": "振動",
+  "BulletType_Mixed": "様々",
   "ArmorType_LightArmor": "軽装備",
   "ArmorType_HeavyArmor": "重装甲",
   "ArmorType_Unarmed": "特殊装甲",
   "ArmorType_ElasticArmor": "弾力装甲",
-  "ArmorType_Normal": "通常装甲"
+  "ArmorType_Normal": "通常装甲",
+  "ArmorType_Mixed": "様々"
 }

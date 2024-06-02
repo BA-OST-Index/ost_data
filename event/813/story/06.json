@@ -1,1 +1,135 @@
-{"uuid": "adf329e2-9814-4c5b-bf50-9ff527b5b539", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_6_NAME]", "desc": ["[STORY_EVENT_813_6_DESC_1]"], "pos": {"event_id": 813, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HotelLobby.jpg", "BG_HyakkiyakoFestivalRoad.jpg", "BG_View_Sky.jpg", "BG_HyakkiyakoMovieStreet.jpg"], "character": ["Michiru", "Tsukuyo", "Izuna", "Iroha"], "track": ["OST_18", "OST_92", "OST_75"]}, "track_to_bg": {"OST_18": ["BG_HotelLobby.jpg", "BG_HyakkiyakoFestivalRoad.jpg"], "OST_0": ["BG_HotelLobby.jpg"], "OST_92": ["BG_HotelLobby.jpg"], "OST_75": ["BG_HotelLobby.jpg", "BG_View_Sky.jpg", "BG_HyakkiyakoMovieStreet.jpg"]}, "track_to_char": {"OST_18": ["Michiru", "Tsukuyo", "Izuna"], "OST_92": ["Iroha", "Izuna", "Tsukuyo", "Michiru"], "OST_75": ["Michiru", "Izuna", "Tsukuyo", "Iroha"]}, "char_to_bg": {"Michiru": ["BG_HotelLobby.jpg", "BG_HyakkiyakoFestivalRoad.jpg"], "Tsukuyo": ["BG_HotelLobby.jpg", "BG_HyakkiyakoFestivalRoad.jpg"], "Izuna": ["BG_HotelLobby.jpg"], "Iroha": ["BG_HotelLobby.jpg"]}, "char_to_char": {"Tsukuyo": ["Michiru", "Izuna", "Iroha"], "Izuna": ["Michiru", "Tsukuyo", "Iroha"], "Michiru": ["Tsukuyo", "Izuna", "Iroha"], "Iroha": ["Michiru", "Izuna", "Tsukuyo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "5e580551-6447-4163-849e-ab4051a1f4a8",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_View_Sky.jpg",
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "character": [
+        "Michiru",
+        "Tsukuyo",
+        "Izuna",
+        "Iroha",
+        "Niya"
+      ],
+      "track": [
+        "OST_18",
+        "OST_92",
+        "OST_75"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_92": [
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_75": [
+        "BG_HotelLobby.jpg",
+        "BG_View_Sky.jpg",
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Michiru",
+        "Tsukuyo",
+        "Izuna"
+      ],
+      "OST_92": [
+        "Iroha",
+        "Izuna",
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "OST_75": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Iroha",
+        "Niya"
+      ]
+    },
+    "char_to_bg": {
+      "Michiru": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HotelLobby.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Izuna": [
+        "BG_HotelLobby.jpg"
+      ],
+      "Iroha": [
+        "BG_HotelLobby.jpg"
+      ],
+      "Niya": [
+        "BG_HotelLobby.jpg",
+        "BG_View_Sky.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Michiru",
+        "Izuna",
+        "Iroha",
+        "Niya"
+      ],
+      "Izuna": [
+        "Michiru",
+        "Tsukuyo",
+        "Iroha",
+        "Niya"
+      ],
+      "Michiru": [
+        "Tsukuyo",
+        "Izuna",
+        "Iroha",
+        "Niya"
+      ],
+      "Iroha": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Niya"
+      ],
+      "Niya": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Iroha"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

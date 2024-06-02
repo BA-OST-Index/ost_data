@@ -1,1 +1,74 @@
-{"uuid": "a5e8539e-0271-4910-b7b8-130e5f062a40", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_5_NAME]", "desc": ["[STORY_EVENT_810_5_DESC_1]"], "pos": {"event_id": 810, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_InterrogationRoom.jpg", "BG_Prison.jpg", "BG_FoodCartRamen2.jpg"], "character": ["Chihiro", "Wakamo"], "track": ["OST_129", "OST_77"]}, "track_to_bg": {"OST_0": ["BG_InterrogationRoom.jpg", "BG_Prison.jpg"], "OST_129": ["BG_InterrogationRoom.jpg", "BG_Prison.jpg"], "OST_77": ["BG_Prison.jpg", "BG_FoodCartRamen2.jpg"]}, "track_to_char": {"OST_129": ["Chihiro", "Wakamo"], "OST_77": ["Wakamo"]}, "char_to_bg": {"Chihiro": ["BG_InterrogationRoom.jpg"], "Wakamo": ["BG_Prison.jpg", "BG_FoodCartRamen2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2c6f43ef-6a3d-4643-baef-245063c580d7",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_InterrogationRoom.jpg",
+        "BG_Prison.jpg",
+        "BG_FoodCartRamen2.jpg"
+      ],
+      "character": [
+        "Chihiro",
+        "Wakamo"
+      ],
+      "track": [
+        "OST_129",
+        "OST_77"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_InterrogationRoom.jpg",
+        "BG_Prison.jpg"
+      ],
+      "OST_129": [
+        "BG_InterrogationRoom.jpg",
+        "BG_Prison.jpg"
+      ],
+      "OST_77": [
+        "BG_Prison.jpg",
+        "BG_FoodCartRamen2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_129": [
+        "Chihiro",
+        "Wakamo"
+      ],
+      "OST_77": [
+        "Wakamo"
+      ]
+    },
+    "char_to_bg": {
+      "Chihiro": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Wakamo": [
+        "BG_Prison.jpg",
+        "BG_FoodCartRamen2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

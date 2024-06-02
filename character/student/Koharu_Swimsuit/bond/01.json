@@ -1,1 +1,63 @@
-{"uuid": "b094d233-5c31-4b23-bf84-e475f5795405", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOHARU_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_KOHARU_SWIMSUIT_1_DESC_1]"], "pos": {"student": "KOHARU_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_WaterFall.jpg"], "character": ["Koharu_Swimsuit"], "track": ["OST_10", "OST_173"]}, "track_to_bg": {"OST_0": ["BG_WaterFall.jpg"], "OST_10": ["BG_WaterFall.jpg"], "OST_173": ["BG_WaterFall.jpg"]}, "track_to_char": {"OST_10": ["Koharu_Swimsuit"], "OST_173": ["Koharu_Swimsuit"]}, "char_to_bg": {"Koharu_Swimsuit": ["BG_WaterFall.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_173"}}, "is_memory": true}
+{
+  "uuid": "8278a58e-30be-48ed-8a5a-8826835105d5",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOHARU_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KOHARU_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOHARU_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_WaterFall.jpg"
+      ],
+      "character": [
+        "Koharu_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_173"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_WaterFall.jpg"
+      ],
+      "OST_10": [
+        "BG_WaterFall.jpg"
+      ],
+      "OST_173": [
+        "BG_WaterFall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Koharu_Swimsuit"
+      ],
+      "OST_173": [
+        "Koharu_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu_Swimsuit": [
+        "BG_WaterFall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_173"
+    }
+  },
+  "is_memory": true
+}

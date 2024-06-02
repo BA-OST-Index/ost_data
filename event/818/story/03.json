@@ -1,1 +1,161 @@
-{"uuid": "1330c830-ed60-466a-8cc1-57bc7093e3d7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_3_NAME]", "desc": ["[STORY_EVENT_818_3_DESC_1]"], "pos": {"event_id": 818, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Rumi", "Shizuko", "Hasumi_Track", "Izumi", "Akari", "Haruna_Track", "Junko"], "track": ["OST_11", "OST_3", "OST_7"]}, "track_to_bg": {"OST_11": ["BG_Yatai.jpg"], "OST_0": ["BG_Yatai.jpg"], "OST_3": ["BG_Yatai.jpg"], "OST_7": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_11": ["Rumi", "Shizuko", "Hasumi_Track"], "OST_3": ["Izumi", "Akari", "Haruna_Track", "Junko", "Hasumi_Track"], "OST_7": ["Hasumi_Track", "Izumi", "Akari", "Haruna_Track", "Junko"]}, "char_to_bg": {"Rumi": ["BG_Yatai.jpg"], "Shizuko": ["BG_Yatai.jpg"], "Hasumi_Track": ["BG_Yatai.jpg"], "Izumi": ["BG_Yatai.jpg"], "Akari": ["BG_Yatai.jpg"], "Haruna_Track": ["BG_Yatai.jpg"], "Junko": ["BG_Yatai.jpg"]}, "char_to_char": {"Shizuko": ["Rumi", "Hasumi_Track", "Izumi", "Akari", "Haruna_Track", "Junko"], "Hasumi_Track": ["Rumi", "Shizuko", "Izumi", "Akari", "Haruna_Track", "Junko"], "Izumi": ["Rumi", "Shizuko", "Hasumi_Track", "Akari", "Haruna_Track", "Junko"], "Akari": ["Rumi", "Shizuko", "Hasumi_Track", "Izumi", "Haruna_Track", "Junko"], "Haruna_Track": ["Rumi", "Shizuko", "Hasumi_Track", "Izumi", "Akari", "Junko"], "Junko": ["Rumi", "Shizuko", "Hasumi_Track", "Izumi", "Akari", "Haruna_Track"], "Rumi": ["Shizuko", "Hasumi_Track", "Izumi", "Akari", "Haruna_Track", "Junko"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "da9cbb65-ed6d-4111-bd74-95a1cf31e006",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ],
+      "track": [
+        "OST_11",
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_3": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_7": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track"
+      ],
+      "OST_3": [
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko",
+        "Hasumi_Track"
+      ],
+      "OST_7": [
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_Yatai.jpg"
+      ],
+      "Shizuko": [
+        "BG_Yatai.jpg"
+      ],
+      "Hasumi_Track": [
+        "BG_Yatai.jpg"
+      ],
+      "Izumi": [
+        "BG_Yatai.jpg"
+      ],
+      "Akari": [
+        "BG_Yatai.jpg"
+      ],
+      "Haruna_Track": [
+        "BG_Yatai.jpg"
+      ],
+      "Junko": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Shizuko": [
+        "Rumi",
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ],
+      "Hasumi_Track": [
+        "Rumi",
+        "Shizuko",
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ],
+      "Izumi": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ],
+      "Akari": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track",
+        "Izumi",
+        "Haruna_Track",
+        "Junko"
+      ],
+      "Haruna_Track": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Junko"
+      ],
+      "Junko": [
+        "Rumi",
+        "Shizuko",
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Haruna_Track"
+      ],
+      "Rumi": [
+        "Shizuko",
+        "Hasumi_Track",
+        "Izumi",
+        "Akari",
+        "Haruna_Track",
+        "Junko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

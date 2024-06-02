@@ -1,1 +1,64 @@
-{"uuid": "8cb9ddfa-1ecc-425d-aca0-f1192ef302a9", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HANAE_2_NAME]", "desc": ["[STORY_BOND_HANAE_2_DESC_1]"], "pos": {"student": "HANAE", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Infirmary.jpg"], "character": ["Hanae"], "track": ["OST_6", "OST_3"]}, "track_to_bg": {"OST_6": ["BG_Infirmary.jpg"], "OST_0": ["BG_Infirmary.jpg"], "OST_3": ["BG_Infirmary.jpg"]}, "track_to_char": {"OST_6": ["Hanae"], "OST_3": ["Hanae"]}, "char_to_bg": {"Hanae": ["BG_Infirmary.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "dbc1114d-03c9-4d16-8c64-8f0f69f0e914",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HANAE_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HANAE_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HANAE",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Infirmary.jpg"
+      ],
+      "character": [
+        "Hanae"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_Infirmary.jpg"
+      ],
+      "OST_0": [
+        "BG_Infirmary.jpg"
+      ],
+      "OST_3": [
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Hanae"
+      ],
+      "OST_3": [
+        "Hanae"
+      ]
+    },
+    "char_to_bg": {
+      "Hanae": [
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

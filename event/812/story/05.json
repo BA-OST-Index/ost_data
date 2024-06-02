@@ -1,1 +1,141 @@
-{"uuid": "8c6fc481-a26a-44f4-8998-75c9025ab61a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_812_5_NAME]", "desc": ["[STORY_EVENT_812_5_DESC_1]"], "pos": {"event_id": 812, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront.jpg"], "character": ["Yoshimi", "Airi", "Kazusa", "Natsu", "Hinata"], "track": ["OST_29", "OST_6", "OST_3", "OST_22", "OST_45"]}, "track_to_bg": {"OST_29": ["BG_SlumFront.jpg"], "OST_0": ["BG_SlumFront.jpg"], "OST_6": ["BG_SlumFront.jpg"], "OST_3": ["BG_SlumFront.jpg"], "OST_22": ["BG_SlumFront.jpg"], "OST_45": ["BG_SlumFront.jpg"]}, "track_to_char": {"OST_6": ["Yoshimi", "Airi", "Kazusa", "Natsu"], "OST_3": ["Natsu", "Hinata", "Yoshimi", "Kazusa"], "OST_22": ["Hinata", "Natsu", "Kazusa", "Yoshimi", "Airi"], "OST_45": ["Yoshimi", "Airi", "Kazusa", "Natsu"]}, "char_to_bg": {"Yoshimi": ["BG_SlumFront.jpg"], "Airi": ["BG_SlumFront.jpg"], "Kazusa": ["BG_SlumFront.jpg"], "Natsu": ["BG_SlumFront.jpg"], "Hinata": ["BG_SlumFront.jpg"]}, "char_to_char": {"Airi": ["Yoshimi", "Kazusa", "Natsu", "Hinata"], "Kazusa": ["Yoshimi", "Airi", "Natsu", "Hinata"], "Natsu": ["Yoshimi", "Airi", "Kazusa", "Hinata"], "Hinata": ["Yoshimi", "Airi", "Kazusa", "Natsu"], "Yoshimi": ["Airi", "Kazusa", "Natsu", "Hinata"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ab606c78-9fcd-412d-9ebd-18345052b12f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_812_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_812_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 812,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront.jpg"
+      ],
+      "character": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Natsu",
+        "Hinata"
+      ],
+      "track": [
+        "OST_29",
+        "OST_6",
+        "OST_3",
+        "OST_22",
+        "OST_45"
+      ]
+    },
+    "track_to_bg": {
+      "OST_29": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_0": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_6": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_3": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_22": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_45": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Natsu"
+      ],
+      "OST_3": [
+        "Natsu",
+        "Hinata",
+        "Yoshimi",
+        "Kazusa"
+      ],
+      "OST_22": [
+        "Hinata",
+        "Natsu",
+        "Kazusa",
+        "Yoshimi",
+        "Airi"
+      ],
+      "OST_45": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Natsu"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_SlumFront.jpg"
+      ],
+      "Airi": [
+        "BG_SlumFront.jpg"
+      ],
+      "Kazusa": [
+        "BG_SlumFront.jpg"
+      ],
+      "Natsu": [
+        "BG_SlumFront.jpg"
+      ],
+      "Hinata": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Airi": [
+        "Yoshimi",
+        "Kazusa",
+        "Natsu",
+        "Hinata"
+      ],
+      "Kazusa": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Hinata"
+      ],
+      "Natsu": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Hinata"
+      ],
+      "Hinata": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Natsu"
+      ],
+      "Yoshimi": [
+        "Airi",
+        "Kazusa",
+        "Natsu",
+        "Hinata"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

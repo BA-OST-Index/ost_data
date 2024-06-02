@@ -1,1 +1,63 @@
-{"uuid": "6feefb2d-c63d-4378-8528-e78623cdd9dc", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_83_NAME]", "desc": ["[STORY_EVENT_999_83_DESC_1]"], "pos": {"event_id": 999, "segment": 83}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg"], "character": ["Iroha"], "track": ["OST_38", "OST_44"]}, "track_to_bg": {"OST_38": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg"], "OST_44": ["BG_ShoppingMall.jpg"]}, "track_to_char": {"OST_38": ["Iroha"], "OST_44": ["Iroha"]}, "char_to_bg": {"Iroha": ["BG_ShoppingMall.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9cec0dc0-6133-4d34-908d-7f20b6ab6bd0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_83_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_83_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 83
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "character": [
+        "Iroha"
+      ],
+      "track": [
+        "OST_38",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_44": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Iroha"
+      ],
+      "OST_44": [
+        "Iroha"
+      ]
+    },
+    "char_to_bg": {
+      "Iroha": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

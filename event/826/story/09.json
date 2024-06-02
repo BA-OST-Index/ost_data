@@ -1,1 +1,104 @@
-{"uuid": "bca4ac89-5d20-4ff3-984d-3e10c87d25d0", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_826_9_NAME]", "desc": ["[STORY_EVENT_826_9_DESC_1]"], "pos": {"event_id": 826, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanCampus_Night.jpg", "BG_ShanTeaHouse.jpg"], "character": ["Rumi", "Reijo"], "track": ["OST_22", "OST_88", "OST_92", "OST_105"]}, "track_to_bg": {"OST_0": ["BG_ShanCampus_Night.jpg", "BG_ShanTeaHouse.jpg"], "OST_22": ["BG_ShanCampus_Night.jpg"], "OST_88": ["BG_ShanCampus_Night.jpg"], "OST_92": ["BG_ShanTeaHouse.jpg"], "OST_105": ["BG_ShanCampus_Night.jpg"]}, "track_to_char": {"OST_22": ["Rumi"], "OST_92": ["Rumi", "Reijo"]}, "char_to_bg": {"Rumi": ["BG_ShanCampus_Night.jpg", "BG_ShanTeaHouse.jpg"], "Reijo": ["BG_ShanTeaHouse.jpg"]}, "char_to_char": {"Reijo": ["Rumi"], "Rumi": ["Reijo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "da65d146-d2c1-4449-addc-167b7028441d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_826_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_826_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 826,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanCampus_Night.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Rumi",
+        "Kisaki",
+        "Reijo"
+      ],
+      "track": [
+        "OST_22",
+        "OST_88",
+        "OST_92",
+        "OST_105"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShanCampus_Night.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_22": [
+        "BG_ShanCampus_Night.jpg"
+      ],
+      "OST_88": [
+        "BG_ShanCampus_Night.jpg"
+      ],
+      "OST_92": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_105": [
+        "BG_ShanCampus_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Rumi"
+      ],
+      "OST_88": [
+        "Kisaki"
+      ],
+      "OST_92": [
+        "Rumi",
+        "Reijo",
+        "Kisaki"
+      ],
+      "OST_105": [
+        "Kisaki"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_ShanCampus_Night.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "Kisaki": [
+        "BG_ShanCampus_Night.jpg",
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "Reijo": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Reijo": [
+        "Rumi",
+        "Kisaki"
+      ],
+      "Kisaki": [
+        "Rumi",
+        "Reijo"
+      ],
+      "Rumi": [
+        "Reijo",
+        "Kisaki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

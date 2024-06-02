@@ -1,0 +1,57 @@
+{
+  "uuid": "1b97de82-6f8b-496f-8164-b815060147cf",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SATEN_RUIKO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SATEN_RUIKO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SATEN_RUIKO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShootingRange.jpg"
+      ],
+      "character": [
+        "Saten_Ruiko"
+      ],
+      "track": [
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShootingRange.jpg"
+      ],
+      "OST_44": [
+        "BG_ShootingRange.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Saten_Ruiko"
+      ]
+    },
+    "char_to_bg": {
+      "Saten_Ruiko": [
+        "BG_ShootingRange.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

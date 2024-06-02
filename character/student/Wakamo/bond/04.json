@@ -1,1 +1,59 @@
-{"uuid": "ad9a6e09-1766-4868-a755-43b61911a299", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_WAKAMO_4_NAME]", "desc": ["[STORY_BOND_WAKAMO_4_DESC_1]"], "pos": {"student": "WAKAMO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ConventionHall_Sunset.jpg", "BG_Campus_Sunset.jpg"], "character": ["Wakamo"], "track": ["OST_15"]}, "track_to_bg": {"OST_0": ["BG_ConventionHall_Sunset.jpg", "BG_Campus_Sunset.jpg"], "OST_15": ["BG_Campus_Sunset.jpg"]}, "track_to_char": {"OST_15": ["Wakamo"]}, "char_to_bg": {"Wakamo": ["BG_Campus_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "36d04e43-5b78-468e-a2a9-530496ebeeb8",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_WAKAMO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_WAKAMO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "WAKAMO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ConventionHall_Sunset.jpg",
+        "BG_Campus_Sunset.jpg"
+      ],
+      "character": [
+        "Wakamo_Kimomo"
+      ],
+      "track": [
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ConventionHall_Sunset.jpg",
+        "BG_Campus_Sunset.jpg"
+      ],
+      "OST_15": [
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Wakamo_Kimomo"
+      ]
+    },
+    "char_to_bg": {
+      "Wakamo_Kimomo": [
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

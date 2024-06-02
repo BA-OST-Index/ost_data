@@ -1,0 +1,10 @@
+{
+  "uuid": "bbdb287b-159c-473c-b75f-ffb4e5313284",
+  "filetype": -53,
+  "namespace": "aru_dress",
+  "name": "Aru_Dress",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

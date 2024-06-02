@@ -1,1 +1,136 @@
-{"uuid": "80628b94-2fbc-4636-aec4-48487d321baa", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_809_10_NAME]", "desc": ["[STORY_EVENT_809_10_DESC_1]"], "pos": {"event_id": 809, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Campus_Night.jpg", "BG_BlackMarket_Night.jpg"], "character": ["Serika_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear", "Aru_NewYear"], "track": ["OST_13", "OST_97", "OST_3", "OST_18"]}, "track_to_bg": {"OST_13": ["BG_Campus_Night.jpg"], "OST_0": ["BG_Campus_Night.jpg", "BG_BlackMarket_Night.jpg"], "OST_97": ["BG_Campus_Night.jpg"], "OST_3": ["BG_BlackMarket_Night.jpg"], "OST_18": ["BG_BlackMarket_Night.jpg"]}, "track_to_char": {"OST_13": ["Serika_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear", "Aru_NewYear"], "OST_97": ["Aru_NewYear", "Kayoko_NewYear", "Mutsuki_NewYear", "Haruka_NewYear", "Serika_NewYear"], "OST_18": ["Aru_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"]}, "char_to_bg": {"Serika_NewYear": ["BG_Campus_Night.jpg"], "Haruka_NewYear": ["BG_Campus_Night.jpg"], "Mutsuki_NewYear": ["BG_Campus_Night.jpg", "BG_BlackMarket_Night.jpg"], "Kayoko_NewYear": ["BG_Campus_Night.jpg", "BG_BlackMarket_Night.jpg"], "Aru_NewYear": ["BG_Campus_Night.jpg", "BG_BlackMarket_Night.jpg"]}, "char_to_char": {"Haruka_NewYear": ["Serika_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear", "Aru_NewYear"], "Mutsuki_NewYear": ["Serika_NewYear", "Haruka_NewYear", "Kayoko_NewYear", "Aru_NewYear"], "Kayoko_NewYear": ["Serika_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Aru_NewYear"], "Aru_NewYear": ["Serika_NewYear", "Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear"], "Serika_NewYear": ["Haruka_NewYear", "Mutsuki_NewYear", "Kayoko_NewYear", "Aru_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "d3ac298f-03ff-4643-a5a9-262593ab0879",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_809_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_809_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 809,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Campus_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "character": [
+        "Serika_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear",
+        "Aru_NewYear"
+      ],
+      "track": [
+        "OST_13",
+        "OST_97",
+        "OST_3",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_Campus_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Campus_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_97": [
+        "BG_Campus_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Serika_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear",
+        "Aru_NewYear"
+      ],
+      "OST_97": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear",
+        "Haruka_NewYear",
+        "Serika_NewYear"
+      ],
+      "OST_18": [
+        "Aru_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Serika_NewYear": [
+        "BG_Campus_Night.jpg"
+      ],
+      "Haruka_NewYear": [
+        "BG_Campus_Night.jpg"
+      ],
+      "Mutsuki_NewYear": [
+        "BG_Campus_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Kayoko_NewYear": [
+        "BG_Campus_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Aru_NewYear": [
+        "BG_Campus_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Haruka_NewYear": [
+        "Serika_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear",
+        "Aru_NewYear"
+      ],
+      "Mutsuki_NewYear": [
+        "Serika_NewYear",
+        "Haruka_NewYear",
+        "Kayoko_NewYear",
+        "Aru_NewYear"
+      ],
+      "Kayoko_NewYear": [
+        "Serika_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Aru_NewYear"
+      ],
+      "Aru_NewYear": [
+        "Serika_NewYear",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear"
+      ],
+      "Serika_NewYear": [
+        "Haruka_NewYear",
+        "Mutsuki_NewYear",
+        "Kayoko_NewYear",
+        "Aru_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

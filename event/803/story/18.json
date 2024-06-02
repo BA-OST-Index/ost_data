@@ -1,1 +1,63 @@
-{"uuid": "7d6a14f3-9c69-4710-865a-f2cea1ea7fc2", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_803_18_NAME]", "desc": ["[STORY_EVENT_803_18_DESC_1]"], "pos": {"event_id": 803, "segment": 18}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg"], "character": ["Izumi_Swimsuit"], "track": ["OST_10", "OST_7"]}, "track_to_bg": {"OST_10": ["BG_BeachsideShop.jpg"], "OST_0": ["BG_BeachsideShop.jpg"], "OST_7": ["BG_BeachsideShop.jpg"]}, "track_to_char": {"OST_10": ["Izumi_Swimsuit"], "OST_7": ["Izumi_Swimsuit"]}, "char_to_bg": {"Izumi_Swimsuit": ["BG_BeachsideShop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "37e3ca08-3402-4687-a757-8b89e0ed4cbc",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_803_18_NAME]",
+  "desc": [
+    "[STORY_EVENT_803_18_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 803,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "character": [
+        "Izumi_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_7": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Izumi_Swimsuit"
+      ],
+      "OST_7": [
+        "Izumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Izumi_Swimsuit": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

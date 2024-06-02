@@ -1,1 +1,75 @@
-{"uuid": "adca8bf9-98c8-45b5-bac6-9ea98b333a01", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHISE_3_NAME]", "desc": ["[STORY_BOND_CHISE_3_DESC_1]"], "pos": {"student": "CHISE", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park.jpg", "BG_RiversideRoad.jpg", "BG_ConvenienceStore.jpg", "BG_Campus_Sunset.jpg", "BG_ClassCorridor_Night.jpg"], "character": ["Chise"], "track": ["OST_10", "OST_43", "OST_63"]}, "track_to_bg": {"OST_10": ["BG_Park.jpg", "BG_RiversideRoad.jpg", "BG_ConvenienceStore.jpg"], "OST_0": ["BG_Campus_Sunset.jpg", "BG_ClassCorridor_Night.jpg"], "OST_43": ["BG_Campus_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Chise"], "OST_43": ["Chise"]}, "char_to_bg": {"Chise": ["BG_Park.jpg", "BG_RiversideRoad.jpg", "BG_ConvenienceStore.jpg", "BG_Campus_Sunset.jpg", "BG_ClassCorridor_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_63"}}, "is_memory": true}
+{
+  "uuid": "5054be85-900b-4101-b707-b04acc0df3e9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHISE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_CHISE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHISE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg",
+        "BG_ConvenienceStore.jpg",
+        "BG_Campus_Sunset.jpg",
+        "BG_ClassCorridor_Night.jpg"
+      ],
+      "character": [
+        "Chise"
+      ],
+      "track": [
+        "OST_10",
+        "OST_43",
+        "OST_63"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "OST_0": [
+        "BG_Campus_Sunset.jpg",
+        "BG_ClassCorridor_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Chise"
+      ],
+      "OST_43": [
+        "Chise"
+      ]
+    },
+    "char_to_bg": {
+      "Chise": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg",
+        "BG_ConvenienceStore.jpg",
+        "BG_Campus_Sunset.jpg",
+        "BG_ClassCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_63"
+    }
+  },
+  "is_memory": true
+}

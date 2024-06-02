@@ -1,1 +1,53 @@
-{"uuid": "02206d5a-1799-4213-84ae-996726f3cacf", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_805_3_NAME]", "desc": ["[STORY_EVENT_805_3_DESC_1]"], "pos": {"event_id": 805, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanCampus.jpg"], "character": ["Shun_Small"], "track": ["OST_88"]}, "track_to_bg": {"OST_88": ["BG_ShanCampus.jpg"]}, "track_to_char": {"OST_88": ["Shun_Small"]}, "char_to_bg": {"Shun_Small": ["BG_ShanCampus.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "3635d712-1664-4907-a245-a5473d4ad2bc",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_805_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_805_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 805,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanCampus.jpg"
+      ],
+      "character": [
+        "Shun_Small"
+      ],
+      "track": [
+        "OST_88"
+      ]
+    },
+    "track_to_bg": {
+      "OST_88": [
+        "BG_ShanCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_88": [
+        "Shun_Small"
+      ]
+    },
+    "char_to_bg": {
+      "Shun_Small": [
+        "BG_ShanCampus.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

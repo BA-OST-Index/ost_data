@@ -1,1 +1,74 @@
-{"uuid": "f50fab6d-57ca-4936-8b6f-cd52db629a8d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MOMIJI_1_NAME]", "desc": ["[STORY_BOND_MOMIJI_1_DESC_1]"], "pos": {"student": "MOMIJI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg", "BG_WinterRoad.jpg", "BG_WinterRoad_Night.jpg", "BG_Storage.jpg"], "character": ["Momiji"], "track": ["OST_3", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_Library.jpg", "BG_WinterRoad.jpg"], "OST_3": ["BG_Library.jpg", "BG_WinterRoad.jpg"], "OST_22": ["BG_WinterRoad.jpg", "BG_WinterRoad_Night.jpg", "BG_Storage.jpg"]}, "track_to_char": {"OST_3": ["Momiji"], "OST_22": ["Momiji"]}, "char_to_bg": {"Momiji": ["BG_Library.jpg", "BG_WinterRoad.jpg", "BG_WinterRoad_Night.jpg", "BG_Storage.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "638a28e7-7562-4705-a345-7e4918329be4",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMIJI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMIJI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMIJI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_WinterRoad_Night.jpg",
+        "BG_Storage.jpg"
+      ],
+      "character": [
+        "Momiji"
+      ],
+      "track": [
+        "OST_3",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Library.jpg",
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_3": [
+        "BG_Library.jpg",
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_22": [
+        "BG_WinterRoad.jpg",
+        "BG_WinterRoad_Night.jpg",
+        "BG_Storage.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Momiji"
+      ],
+      "OST_22": [
+        "Momiji"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_Library.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_WinterRoad_Night.jpg",
+        "BG_Storage.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

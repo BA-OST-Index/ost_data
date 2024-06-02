@@ -1,1 +1,89 @@
-{"uuid": "5aab5505-8680-41ef-9de6-ceb5176750dc", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_827_4_NAME]", "desc": ["[STORY_EVENT_827_4_DESC_1]"], "pos": {"event_id": 827, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MudFlat_cloudy.jpg"], "character": ["Miyako_Swimsuit", "Saki_Swimsuit", "Moe", "Miyu_Swimsuit"], "track": ["OST_134"]}, "track_to_bg": {"OST_134": ["BG_MudFlat_cloudy.jpg"]}, "track_to_char": {"OST_134": ["Miyako_Swimsuit", "Saki_Swimsuit", "Moe", "Miyu_Swimsuit"]}, "char_to_bg": {"Miyako_Swimsuit": ["BG_MudFlat_cloudy.jpg"], "Saki_Swimsuit": ["BG_MudFlat_cloudy.jpg"], "Moe": ["BG_MudFlat_cloudy.jpg"], "Miyu_Swimsuit": ["BG_MudFlat_cloudy.jpg"]}, "char_to_char": {"Saki_Swimsuit": ["Miyako_Swimsuit", "Moe", "Miyu_Swimsuit"], "Moe": ["Miyako_Swimsuit", "Saki_Swimsuit", "Miyu_Swimsuit"], "Miyu_Swimsuit": ["Miyako_Swimsuit", "Saki_Swimsuit", "Moe"], "Miyako_Swimsuit": ["Saki_Swimsuit", "Moe", "Miyu_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "d8ef717a-ed3a-4d04-aa4d-1565fd175919",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_827_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_827_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 827,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MudFlat_cloudy.jpg"
+      ],
+      "character": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyu_Swimsuit"
+      ],
+      "track": [
+        "OST_134"
+      ]
+    },
+    "track_to_bg": {
+      "OST_134": [
+        "BG_MudFlat_cloudy.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_134": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyu_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako_Swimsuit": [
+        "BG_MudFlat_cloudy.jpg"
+      ],
+      "Saki_Swimsuit": [
+        "BG_MudFlat_cloudy.jpg"
+      ],
+      "Moe_Swimsuit": [
+        "BG_MudFlat_cloudy.jpg"
+      ],
+      "Miyu_Swimsuit": [
+        "BG_MudFlat_cloudy.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saki_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyu_Swimsuit"
+      ],
+      "Moe_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Miyu_Swimsuit"
+      ],
+      "Miyu_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Moe_Swimsuit"
+      ],
+      "Miyako_Swimsuit": [
+        "Saki_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyu_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

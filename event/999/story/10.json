@@ -1,1 +1,63 @@
-{"uuid": "dcb405b3-f831-494f-abdb-d4d682375e16", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_10_NAME]", "desc": ["[STORY_EVENT_999_10_DESC_1]"], "pos": {"event_id": 999, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoFestivalRoad.jpg"], "character": ["Junko"], "track": ["OST_57", "OST_7"]}, "track_to_bg": {"OST_57": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_0": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_7": ["BG_HyakkiyakoFestivalRoad.jpg"]}, "track_to_char": {"OST_57": ["Junko"], "OST_7": ["Junko"]}, "char_to_bg": {"Junko": ["BG_HyakkiyakoFestivalRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "67ab5c63-a726-4aca-a909-3284ddc9e348",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "character": [
+        "Junko"
+      ],
+      "track": [
+        "OST_57",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_57": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_7": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_57": [
+        "Junko"
+      ],
+      "OST_7": [
+        "Junko"
+      ]
+    },
+    "char_to_bg": {
+      "Junko": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

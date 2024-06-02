@@ -1,1 +1,127 @@
-{"uuid": "658a197f-7d99-408f-9581-6bdc7c86a99f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_11_NAME]", "desc": ["[STORY_EVENT_804_11_DESC_1]"], "pos": {"event_id": 804, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront.jpg", "BG_BeachFrontSide.jpg", "BG_Beachside.jpg"], "character": ["Megu", "Izumi_Swimsuit", "Akari", "Haruna", "Junko", "Iori_Swimsuit", "Chinatsu", "Hina_Swimsuit", "Ako"], "track": ["OST_18", "OST_28"]}, "track_to_bg": {"OST_18": ["BG_SlumFront.jpg", "BG_BeachFrontSide.jpg"], "OST_0": ["BG_BeachFrontSide.jpg", "BG_Beachside.jpg"], "OST_28": ["BG_Beachside.jpg"]}, "track_to_char": {"OST_18": ["Megu", "Izumi_Swimsuit", "Akari", "Haruna", "Junko"], "OST_28": ["Iori_Swimsuit", "Chinatsu", "Hina_Swimsuit", "Ako"]}, "char_to_bg": {"Megu": ["BG_SlumFront.jpg"], "Izumi_Swimsuit": ["BG_BeachFrontSide.jpg"], "Akari": ["BG_BeachFrontSide.jpg"], "Haruna": ["BG_BeachFrontSide.jpg"], "Junko": ["BG_BeachFrontSide.jpg"], "Iori_Swimsuit": ["BG_Beachside.jpg"], "Chinatsu": ["BG_Beachside.jpg"], "Hina_Swimsuit": ["BG_Beachside.jpg"], "Ako": ["BG_Beachside.jpg"]}, "char_to_char": {"Akari": ["Izumi_Swimsuit", "Haruna", "Junko"], "Haruna": ["Izumi_Swimsuit", "Akari", "Junko"], "Junko": ["Izumi_Swimsuit", "Akari", "Haruna"], "Izumi_Swimsuit": ["Akari", "Haruna", "Junko"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "26f902bc-4de2-44e4-9947-8214d62003eb",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "character": [
+        "Megu",
+        "Izumi_Swimsuit",
+        "Akari",
+        "Haruna",
+        "Junko",
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina_Swimsuit",
+        "Ako"
+      ],
+      "track": [
+        "OST_18",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_SlumFront.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachFrontSide.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_28": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Megu",
+        "Izumi_Swimsuit",
+        "Akari",
+        "Haruna",
+        "Junko"
+      ],
+      "OST_28": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina_Swimsuit",
+        "Ako"
+      ]
+    },
+    "char_to_bg": {
+      "Megu": [
+        "BG_SlumFront.jpg"
+      ],
+      "Izumi_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Akari": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Haruna": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Junko": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Iori_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Chinatsu": [
+        "BG_Beachside.jpg"
+      ],
+      "Hina_Swimsuit": [
+        "BG_Beachside.jpg"
+      ],
+      "Ako": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Akari": [
+        "Izumi_Swimsuit",
+        "Haruna",
+        "Junko"
+      ],
+      "Haruna": [
+        "Izumi_Swimsuit",
+        "Akari",
+        "Junko"
+      ],
+      "Junko": [
+        "Izumi_Swimsuit",
+        "Akari",
+        "Haruna"
+      ],
+      "Izumi_Swimsuit": [
+        "Akari",
+        "Haruna",
+        "Junko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

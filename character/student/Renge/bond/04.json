@@ -1,0 +1,112 @@
+{
+  "uuid": "b54a3277-8a8d-4fd0-9578-97aded5e47ce",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_RENGE_4_NAME]",
+  "desc": [
+    "[STORY_BOND_RENGE_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "RENGE",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_BusStation.jpg",
+        "BG_RailWayCrossing.jpg",
+        "BG_Campus_Sunset.jpg",
+        "BG_RestingLounge.jpg",
+        "BG_View_Sky.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_Park.jpg"
+      ],
+      "character": [
+        "Renge"
+      ],
+      "track": [
+        "OST_4",
+        "OST_15",
+        "OST_3",
+        "OST_22",
+        "OST_10",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_RailWayCrossing.jpg",
+        "BG_Campus_Sunset.jpg",
+        "BG_RestingLounge.jpg",
+        "BG_View_Sky.jpg",
+        "BG_Park.jpg"
+      ],
+      "OST_4": [
+        "BG_CraftChamber.jpg",
+        "BG_BusStation.jpg",
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_15": [
+        "BG_Campus_Sunset.jpg"
+      ],
+      "OST_3": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_22": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_10": [
+        "BG_CraftChamber.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_Park.jpg"
+      ],
+      "OST_36": [
+        "BG_Park.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Renge"
+      ],
+      "OST_15": [
+        "Renge"
+      ],
+      "OST_3": [
+        "Renge"
+      ],
+      "OST_22": [
+        "Renge"
+      ],
+      "OST_10": [
+        "Renge"
+      ],
+      "OST_36": [
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_CraftChamber.jpg",
+        "BG_BusStation.jpg",
+        "BG_RailWayCrossing.jpg",
+        "BG_Campus_Sunset.jpg",
+        "BG_RestingLounge.jpg",
+        "BG_Park.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "f2355682-0774-4ba5-9286-cec7d1606e29",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MISAKA_MIKOTO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MISAKA_MIKOTO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MISAKA_MIKOTO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Arcade.jpg"
+      ],
+      "character": [
+        "Misaka_Mikoto"
+      ],
+      "track": [
+        "OST_9",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_9": [
+        "BG_Arcade.jpg"
+      ],
+      "OST_0": [
+        "BG_Arcade.jpg"
+      ],
+      "OST_38": [
+        "BG_Arcade.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Misaka_Mikoto"
+      ]
+    },
+    "char_to_bg": {
+      "Misaka_Mikoto": [
+        "BG_Arcade.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_38"
+    }
+  },
+  "is_memory": true
+}

@@ -1,17 +1,20 @@
 {
-  "uuid": "1354e14a-f6a1-46c9-a43c-1c8f60aba152",
-  "filetype": -43,
-  "name": "[EVENT_STORY_NAME]",
-  "namespace": "story",
-  "desc": "[EVENT_809_STORY_DESC]",
+  "uuid": "a0f2d3a8-23cd-40bf-93a9-a13e55b303c4",
+  "filetype": -42,
+  "name": "[EVENT_809_NAME]",
+  "namespace": "809",
+  "desc": "[EVENT_809_DESC]",
+
   "include": [
     "[AUTO]"
   ],
+
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": true
+    "enable_export": false
   },
+
   "image": {
     "value": "",
     "short_desc": "",

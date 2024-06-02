@@ -1,0 +1,63 @@
+{
+  "uuid": "e9136ed1-0ff7-49dc-935c-d6abbdcf290b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKARI_NEWYEAR_2_NAME]",
+  "desc": [
+    "[STORY_BOND_AKARI_NEWYEAR_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKARI_NEWYEAR",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "character": [
+        "Akari_NewYear"
+      ],
+      "track": [
+        "OST_10",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_9": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Akari_NewYear"
+      ],
+      "OST_9": [
+        "Akari_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Akari_NewYear": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

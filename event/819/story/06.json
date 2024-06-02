@@ -1,1 +1,124 @@
-{"uuid": "da5af208-a57f-4020-b533-0bd8044f3d04", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_6_NAME]", "desc": ["[STORY_EVENT_819_6_DESC_1]"], "pos": {"event_id": 819, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_PartyRoom.jpg", "BG_TrinityStreet2_Night.jpg"], "character": ["Hasumi", "Tsurugi", "Mashiro", "Mine"], "track": ["OST_47", "OST_3", "OST_18"]}, "track_to_bg": {"OST_47": ["BG_PartyRoom.jpg", "BG_TrinityStreet2_Night.jpg"], "OST_0": ["BG_TrinityStreet2_Night.jpg"], "OST_3": ["BG_TrinityStreet2_Night.jpg"], "OST_18": ["BG_TrinityStreet2_Night.jpg"]}, "track_to_char": {"OST_47": ["Hasumi", "Tsurugi"], "OST_3": ["Mashiro", "Tsurugi", "Mine"], "OST_18": ["Mine", "Mashiro", "Tsurugi"]}, "char_to_bg": {"Hasumi": ["BG_PartyRoom.jpg"], "Tsurugi": ["BG_PartyRoom.jpg", "BG_TrinityStreet2_Night.jpg"], "Mashiro": ["BG_TrinityStreet2_Night.jpg"], "Mine": ["BG_TrinityStreet2_Night.jpg"]}, "char_to_char": {"Tsurugi": ["Hasumi", "Mashiro", "Mine"], "Hasumi": ["Tsurugi"], "Mine": ["Mashiro", "Tsurugi"], "Mashiro": ["Tsurugi", "Mine"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "748a1cc2-1b82-4568-8760-66fc3756f5fb",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PartyRoom.jpg",
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "character": [
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Tsurugi",
+        "Mashiro",
+        "Mine"
+      ],
+      "track": [
+        "OST_47",
+        "OST_3",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_PartyRoom.jpg",
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_TrinityStreet2_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "OST_3": [
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Mine"
+      ],
+      "OST_18": [
+        "Mine",
+        "Mashiro",
+        "Tsurugi"
+      ]
+    },
+    "char_to_bg": {
+      "MemberOfJusticeTaskForce": [
+        "BG_PartyRoom.jpg",
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Hasumi": [
+        "BG_PartyRoom.jpg"
+      ],
+      "Tsurugi": [
+        "BG_PartyRoom.jpg",
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Mashiro": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Mine": [
+        "BG_TrinityStreet2_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi": [
+        "MemberOfJusticeTaskForce",
+        "Tsurugi"
+      ],
+      "Tsurugi": [
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Mashiro",
+        "Mine"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Hasumi",
+        "Tsurugi",
+        "Mashiro",
+        "Mine"
+      ],
+      "Mashiro": [
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Mine"
+      ],
+      "Mine": [
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Tsurugi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

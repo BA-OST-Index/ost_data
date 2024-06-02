@@ -1,1 +1,71 @@
-{"uuid": "53c89120-00ee-4198-94e6-bc817c19fac8", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUNA_NEWYEAR_1_NAME]", "desc": ["[STORY_BOND_HARUNA_NEWYEAR_1_DESC_1]"], "pos": {"student": "HARUNA_NEWYEAR", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Haruna_NewYear"], "track": ["OST_8", "OST_25", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_Yatai.jpg"], "OST_8": ["BG_Yatai.jpg"], "OST_25": ["BG_Yatai.jpg"], "OST_22": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_8": ["Haruna_NewYear"], "OST_25": ["Haruna_NewYear"], "OST_22": ["Haruna_NewYear"]}, "char_to_bg": {"Haruna_NewYear": ["BG_Yatai.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "41c1b207-bfc7-418a-8612-71b4828d0955",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUNA_NEWYEAR_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUNA_NEWYEAR_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUNA_NEWYEAR",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Haruna_NewYear"
+      ],
+      "track": [
+        "OST_8",
+        "OST_25",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_8": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_25": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_22": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Haruna_NewYear"
+      ],
+      "OST_25": [
+        "Haruna_NewYear"
+      ],
+      "OST_22": [
+        "Haruna_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_NewYear": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

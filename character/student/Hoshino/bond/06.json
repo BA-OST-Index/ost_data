@@ -1,1 +1,62 @@
-{"uuid": "20436624-481f-4f70-b88b-3c899d051aad", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HOSHINO_6_NAME]", "desc": ["[STORY_BOND_HOSHINO_6_DESC_1]"], "pos": {"student": "HOSHINO", "segment": 6, "favor_rank": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ConventionHall.jpg", "BG_ConventionHall_Sunset.jpg"], "character": ["Hoshino"], "track": ["OST_4", "OST_12"]}, "track_to_bg": {"OST_4": ["BG_ConventionHall.jpg"], "OST_12": ["BG_ConventionHall_Sunset.jpg"]}, "track_to_char": {"OST_4": ["Hoshino"], "OST_12": ["Hoshino"]}, "char_to_bg": {"Hoshino": ["BG_ConventionHall.jpg", "BG_ConventionHall_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_12"}}, "is_memory": true}
+{
+  "uuid": "a3b54ce6-c7ce-4416-85b6-1678eda86714",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HOSHINO_6_NAME]",
+  "desc": [
+    "[STORY_BOND_HOSHINO_6_DESC_1]"
+  ],
+  "pos": {
+    "student": "HOSHINO",
+    "segment": 6,
+    "favor_rank": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ConventionHall.jpg",
+        "BG_ConventionHall_Sunset.jpg"
+      ],
+      "character": [
+        "Hoshino"
+      ],
+      "track": [
+        "OST_4",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ConventionHall.jpg"
+      ],
+      "OST_12": [
+        "BG_ConventionHall_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Hoshino"
+      ],
+      "OST_12": [
+        "Hoshino"
+      ]
+    },
+    "char_to_bg": {
+      "Hoshino": [
+        "BG_ConventionHall.jpg",
+        "BG_ConventionHall_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_12"
+    }
+  },
+  "is_memory": true
+}

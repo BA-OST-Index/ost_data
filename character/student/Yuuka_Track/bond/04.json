@@ -1,1 +1,64 @@
-{"uuid": "8a77959f-9f9d-4376-8f3c-5273717f584f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_YUUKA_TRACK_4_NAME]", "desc": ["[STORY_BOND_YUUKA_TRACK_4_DESC_1]"], "pos": {"student": "YUUKA_TRACK", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg"], "character": ["Yuuka_Track"], "track": ["OST_22", "OST_38"]}, "track_to_bg": {"OST_22": ["BG_MainOffice.jpg"], "OST_0": ["BG_MainOffice.jpg"], "OST_38": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_22": ["Yuuka_Track"], "OST_38": ["Yuuka_Track"]}, "char_to_bg": {"Yuuka_Track": ["BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "cfd2c3bc-a808-4850-a269-474bd056130c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YUUKA_TRACK_4_NAME]",
+  "desc": [
+    "[STORY_BOND_YUUKA_TRACK_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "YUUKA_TRACK",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Yuuka_Track"
+      ],
+      "track": [
+        "OST_22",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_38": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Yuuka_Track"
+      ],
+      "OST_38": [
+        "Yuuka_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Yuuka_Track": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

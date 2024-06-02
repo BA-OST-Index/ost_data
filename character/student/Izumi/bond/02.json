@@ -1,1 +1,71 @@
-{"uuid": "d54ffd4b-5f19-40c8-a774-d13b3727f412", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IZUMI_2_NAME]", "desc": ["[STORY_BOND_IZUMI_2_DESC_1]"], "pos": {"student": "IZUMI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Izumi"], "track": ["OST_17", "OST_16", "OST_28"]}, "track_to_bg": {"OST_0": ["BG_Yatai.jpg"], "OST_17": ["BG_Yatai.jpg"], "OST_16": ["BG_Yatai.jpg"], "OST_28": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_17": ["Izumi"], "OST_16": ["Izumi"], "OST_28": ["Izumi"]}, "char_to_bg": {"Izumi": ["BG_Yatai.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "ceda8363-3e9a-483b-a5e0-4939d992800a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IZUMI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_IZUMI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "IZUMI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Izumi"
+      ],
+      "track": [
+        "OST_17",
+        "OST_16",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_17": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_16": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_28": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_17": [
+        "Izumi"
+      ],
+      "OST_16": [
+        "Izumi"
+      ],
+      "OST_28": [
+        "Izumi"
+      ]
+    },
+    "char_to_bg": {
+      "Izumi": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

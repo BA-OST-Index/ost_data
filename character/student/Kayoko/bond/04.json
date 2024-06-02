@@ -1,1 +1,66 @@
-{"uuid": "77197d50-addc-495f-88e9-2b080657f821", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAYOKO_4_NAME]", "desc": ["[STORY_BOND_KAYOKO_4_DESC_1]"], "pos": {"student": "KAYOKO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BuildingFrontGate_Night.jpg", "BG_VillaComplex_Night2.jpg"], "character": ["Kayoko"], "track": ["OST_43", "OST_37"]}, "track_to_bg": {"OST_0": ["BG_BuildingFrontGate_Night.jpg", "BG_VillaComplex_Night2.jpg"], "OST_43": ["BG_BuildingFrontGate_Night.jpg"], "OST_37": ["BG_VillaComplex_Night2.jpg"]}, "track_to_char": {"OST_43": ["Kayoko"], "OST_37": ["Kayoko"]}, "char_to_bg": {"Kayoko": ["BG_BuildingFrontGate_Night.jpg", "BG_VillaComplex_Night2.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_37"}}, "is_memory": true}
+{
+  "uuid": "df2a829a-7463-408b-a1c5-c0f43d7b90f2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAYOKO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KAYOKO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAYOKO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_VillaComplex_Night2.jpg"
+      ],
+      "character": [
+        "Kayoko"
+      ],
+      "track": [
+        "OST_43",
+        "OST_37"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_VillaComplex_Night2.jpg"
+      ],
+      "OST_43": [
+        "BG_BuildingFrontGate_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_VillaComplex_Night2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_43": [
+        "Kayoko"
+      ],
+      "OST_37": [
+        "Kayoko"
+      ]
+    },
+    "char_to_bg": {
+      "Kayoko": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_VillaComplex_Night2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_37"
+    }
+  },
+  "is_memory": true
+}

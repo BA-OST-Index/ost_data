@@ -1,1 +1,101 @@
-{"uuid": "d75cc667-2839-4e7f-83c5-f6d226d0d770", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_15_NAME]", "desc": ["[STORY_EVENT_818_15_DESC_1]"], "pos": {"event_id": 818, "segment": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Empty_KivotosStadium_Sunset.jpg", "BG_ConventionHall3_Sunset.jpg", "BG_Grandstand_Sunset.jpg", "BG_Empty_KivotosStadium2_Sunset.jpg"], "character": ["Miyako", "Miyu", "Saki", "Moe"], "track": ["OST_113"]}, "track_to_bg": {"OST_0": ["BG_Empty_KivotosStadium_Sunset.jpg", "BG_ConventionHall3_Sunset.jpg", "BG_Grandstand_Sunset.jpg", "BG_Empty_KivotosStadium2_Sunset.jpg"], "OST_113": ["BG_ConventionHall3_Sunset.jpg"]}, "track_to_char": {"OST_113": ["Miyako", "Moe", "Saki", "Miyu"]}, "char_to_bg": {"Miyako": ["BG_Empty_KivotosStadium_Sunset.jpg", "BG_ConventionHall3_Sunset.jpg"], "Miyu": ["BG_ConventionHall3_Sunset.jpg"], "Saki": ["BG_Grandstand_Sunset.jpg", "BG_ConventionHall3_Sunset.jpg"], "Moe": ["BG_Empty_KivotosStadium2_Sunset.jpg", "BG_ConventionHall3_Sunset.jpg"]}, "char_to_char": {"Moe": ["Miyako", "Saki", "Miyu"], "Saki": ["Miyako", "Moe", "Miyu"], "Miyu": ["Miyako", "Moe", "Saki"], "Miyako": ["Moe", "Saki", "Miyu"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "fabf267c-894f-4a34-8b1a-a8cb2f978ec4",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_15_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_15_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Empty_KivotosStadium_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_Grandstand_Sunset.jpg",
+        "BG_Empty_KivotosStadium2_Sunset.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "track": [
+        "OST_113"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Empty_KivotosStadium_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_Grandstand_Sunset.jpg",
+        "BG_Empty_KivotosStadium2_Sunset.jpg"
+      ],
+      "OST_113": [
+        "BG_ConventionHall3_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_113": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_Empty_KivotosStadium_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "Miyu": [
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "Saki": [
+        "BG_Grandstand_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "Moe": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg",
+        "BG_ConventionHall3_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Moe",
+        "Saki"
+      ],
+      "Miyako": [
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

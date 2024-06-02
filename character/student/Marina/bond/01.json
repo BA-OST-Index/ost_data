@@ -1,1 +1,54 @@
-{"uuid": "b2d2ac1e-8e57-4633-a886-cc1505547035", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARINA_1_NAME]", "desc": ["[STORY_BOND_MARINA_1_DESC_1]"], "pos": {"student": "MARINA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RedWinterCampus.jpg"], "character": ["Marina"], "track": ["OST_83"]}, "track_to_bg": {"OST_83": ["BG_RedWinterCampus.jpg"]}, "track_to_char": {"OST_83": ["Marina"]}, "char_to_bg": {"Marina": ["BG_RedWinterCampus.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "404eaa3b-bc3c-49c1-8bd5-50543b70cc8c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARINA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MARINA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARINA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RedWinterCampus.jpg"
+      ],
+      "character": [
+        "Marina"
+      ],
+      "track": [
+        "OST_83"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_RedWinterCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Marina"
+      ]
+    },
+    "char_to_bg": {
+      "Marina": [
+        "BG_RedWinterCampus.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

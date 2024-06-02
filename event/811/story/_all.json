@@ -1,17 +1,20 @@
 {
-  "uuid": "1b6e3dff-f45a-4ace-85da-874a626f9a42",
-  "filetype": -43,
-  "name": "[EVENT_STORY_NAME]",
-  "namespace": "story",
-  "desc": "[EVENT_811_STORY_DESC]",
+  "uuid": "d3835a6f-afb6-45b8-89e4-8da0889f1ecf",
+  "filetype": -42,
+  "name": "[EVENT_811_NAME]",
+  "namespace": "811",
+  "desc": "[EVENT_811_DESC]",
+
   "include": [
     "[AUTO]"
   ],
+
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": true
+    "enable_export": false
   },
+
   "image": {
     "value": "",
     "short_desc": "",

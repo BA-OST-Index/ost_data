@@ -1,1 +1,73 @@
-{"uuid": "366edef5-33ce-4fa4-ae5c-39cc3eb797c1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HASUMI_5_NAME]", "desc": ["[STORY_BOND_HASUMI_5_DESC_1]"], "pos": {"student": "HASUMI", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Campus_Night.jpg", "BG_BuildingFrontGate_Night.jpg", "BG_Park_Night.jpg"], "character": ["Hasumi"], "track": ["OST_15", "OST_2", "OST_43"]}, "track_to_bg": {"OST_15": ["BG_Campus_Night.jpg"], "OST_0": ["BG_Campus_Night.jpg", "BG_BuildingFrontGate_Night.jpg", "BG_Park_Night.jpg"], "OST_2": ["BG_Park_Night.jpg"], "OST_43": ["BG_Park_Night.jpg"]}, "track_to_char": {"OST_15": ["Hasumi"], "OST_43": ["Hasumi"]}, "char_to_bg": {"Hasumi": ["BG_Campus_Night.jpg", "BG_BuildingFrontGate_Night.jpg", "BG_Park_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_2"}}, "is_memory": true}
+{
+  "uuid": "dd7ca8fd-f588-441e-ba17-550771992e9e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HASUMI_5_NAME]",
+  "desc": [
+    "[STORY_BOND_HASUMI_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "HASUMI",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Campus_Night.jpg",
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_Park_Night.jpg"
+      ],
+      "character": [
+        "Hasumi"
+      ],
+      "track": [
+        "OST_15",
+        "OST_2",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_15": [
+        "BG_Campus_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Campus_Night.jpg",
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_Park_Night.jpg"
+      ],
+      "OST_2": [
+        "BG_Park_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Hasumi"
+      ],
+      "OST_43": [
+        "Hasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_Campus_Night.jpg",
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_2"
+    }
+  },
+  "is_memory": true
+}

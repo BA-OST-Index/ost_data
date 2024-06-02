@@ -1,1 +1,304 @@
-{"uuid": "49865f67-ef3e-4b15-bba2-9f7d1d4f3f26", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_815_2_NAME]", "desc": ["[STORY_EVENT_815_2_DESC_1]"], "pos": {"event_id": 815, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg", "BG_Bank.jpg"], "character": ["Ayane_Swimsuit", "Hoshino", "Nonomi", "Shiroko", "Serika", "Shizuko", "Izuna", "Umika", "Mimori", "Chise", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Shiroko_Swimsuit"], "track": ["OST_3", "OST_13", "OST_92", "OST_27", "OST_12", "OST_124"]}, "track_to_bg": {"OST_0": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg"], "OST_3": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg"], "OST_13": ["BG_BeachShopInSide.jpg"], "OST_92": ["BG_BeachShopInSide.jpg", "BG_Bank.jpg"], "OST_27": ["BG_BeachShopInSide.jpg"], "OST_12": ["BG_BeachShopInSide.jpg"], "OST_124": ["BG_BeachShopInSide.jpg"]}, "track_to_char": {"OST_3": ["Nonomi", "Shiroko", "Serika", "Ayane_Swimsuit", "Shizuko", "Izuna", "Umika", "Mimori"], "OST_13": ["Chise", "Shizuko", "Mimori", "Serika", "Nonomi_Swimsuit"], "OST_92": ["Shizuko"], "OST_27": ["Ayane_Swimsuit", "Shiroko_Swimsuit", "Serika", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Shizuko"], "OST_12": ["Shizuko", "Mimori", "Chise", "Umika", "Izuna"], "OST_124": ["Shizuko", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Serika"]}, "char_to_bg": {"Ayane_Swimsuit": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg"], "Hoshino": ["BG_BeachsideShop.jpg"], "Nonomi": ["BG_BeachsideShop.jpg"], "Shiroko": ["BG_BeachsideShop.jpg"], "Serika": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg"], "Shizuko": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg", "BG_Bank.jpg"], "Izuna": ["BG_BeachsideShop.jpg", "BG_BeachShopInSide.jpg"], "Umika": ["BG_BeachShopInSide.jpg"], "Mimori": ["BG_BeachShopInSide.jpg"], "Chise": ["BG_BeachShopInSide.jpg"], "Nonomi_Swimsuit": ["BG_BeachShopInSide.jpg"], "Hoshino_Swimsuit": ["BG_BeachShopInSide.jpg"], "Shiroko_Swimsuit": ["BG_BeachShopInSide.jpg"]}, "char_to_char": {"Hoshino": ["Ayane_Swimsuit", "Nonomi", "Shiroko", "Serika", "Shizuko", "Izuna"], "Nonomi": ["Ayane_Swimsuit", "Hoshino", "Shiroko", "Serika", "Shizuko", "Izuna"], "Shiroko": ["Ayane_Swimsuit", "Hoshino", "Nonomi", "Serika", "Shizuko", "Izuna"], "Serika": ["Ayane_Swimsuit", "Hoshino", "Nonomi", "Shiroko", "Shizuko", "Izuna", "Umika", "Mimori", "Chise", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Shiroko_Swimsuit"], "Shizuko": ["Ayane_Swimsuit", "Hoshino", "Nonomi", "Shiroko", "Serika", "Izuna", "Umika", "Mimori", "Chise", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Shiroko_Swimsuit"], "Izuna": ["Ayane_Swimsuit", "Hoshino", "Nonomi", "Shiroko", "Serika", "Shizuko", "Umika", "Mimori", "Hoshino_Swimsuit", "Shiroko_Swimsuit", "Nonomi_Swimsuit", "Chise"], "Ayane_Swimsuit": ["Hoshino", "Nonomi", "Shiroko", "Serika", "Shizuko", "Izuna", "Umika", "Mimori", "Hoshino_Swimsuit", "Shiroko_Swimsuit", "Nonomi_Swimsuit", "Chise"], "Umika": ["Shizuko", "Ayane_Swimsuit", "Serika", "Izuna", "Mimori", "Hoshino_Swimsuit", "Shiroko_Swimsuit", "Nonomi_Swimsuit", "Chise"], "Mimori": ["Shizuko", "Umika", "Ayane_Swimsuit", "Serika", "Izuna", "Chise", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Shiroko_Swimsuit"], "Nonomi_Swimsuit": ["Chise", "Shizuko", "Mimori", "Serika", "Hoshino_Swimsuit", "Ayane_Swimsuit", "Shiroko_Swimsuit", "Umika", "Izuna"], "Chise": ["Shizuko", "Mimori", "Serika", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit", "Shiroko_Swimsuit", "Umika", "Izuna"], "Hoshino_Swimsuit": ["Shizuko", "Ayane_Swimsuit", "Serika", "Shiroko_Swimsuit", "Nonomi_Swimsuit", "Umika", "Mimori", "Chise", "Izuna"], "Shiroko_Swimsuit": ["Shizuko", "Hoshino_Swimsuit", "Ayane_Swimsuit", "Serika", "Nonomi_Swimsuit", "Umika", "Mimori", "Chise", "Izuna"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "a7591cff-fefa-4ed2-8725-3c0649b435fa",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_815_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_815_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 815,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg",
+        "BG_Bank.jpg"
+      ],
+      "character": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Umika",
+        "Mimori",
+        "Chise",
+        "Niya"
+      ],
+      "track": [
+        "OST_3",
+        "OST_13",
+        "OST_92",
+        "OST_27",
+        "OST_12",
+        "OST_124"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_3": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_13": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_92": [
+        "BG_BeachShopInSide.jpg",
+        "BG_Bank.jpg"
+      ],
+      "OST_27": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_12": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "OST_124": [
+        "BG_BeachShopInSide.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Umika",
+        "Mimori"
+      ],
+      "OST_13": [
+        "Niya",
+        "Chise",
+        "Shizuko",
+        "Mimori",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit"
+      ],
+      "OST_92": [
+        "Niya",
+        "Shizuko"
+      ],
+      "OST_27": [
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Niya",
+        "Shizuko"
+      ],
+      "OST_12": [
+        "Shizuko",
+        "Niya",
+        "Mimori",
+        "Chise",
+        "Umika",
+        "Izuna"
+      ],
+      "OST_124": [
+        "Shizuko",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Hoshino_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Shiroko_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Serika_Swimsuit": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Shizuko": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg",
+        "BG_Bank.jpg"
+      ],
+      "Izuna": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Umika": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Mimori": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Chise": [
+        "BG_BeachShopInSide.jpg"
+      ],
+      "Niya": [
+        "BG_BeachShopInSide.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hoshino_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Niya",
+        "Umika",
+        "Mimori",
+        "Chise"
+      ],
+      "Nonomi_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Chise",
+        "Niya",
+        "Mimori",
+        "Umika"
+      ],
+      "Shiroko_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Niya",
+        "Umika",
+        "Mimori",
+        "Chise"
+      ],
+      "Serika_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Umika",
+        "Mimori",
+        "Chise",
+        "Niya"
+      ],
+      "Shizuko": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Izuna",
+        "Umika",
+        "Mimori",
+        "Chise",
+        "Niya"
+      ],
+      "Izuna": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Umika",
+        "Mimori",
+        "Niya",
+        "Chise"
+      ],
+      "Ayane_Swimsuit": [
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Shizuko",
+        "Izuna",
+        "Umika",
+        "Mimori",
+        "Niya",
+        "Chise"
+      ],
+      "Umika": [
+        "Shizuko",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Izuna",
+        "Mimori",
+        "Niya",
+        "Hoshino_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Chise"
+      ],
+      "Mimori": [
+        "Shizuko",
+        "Umika",
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Izuna",
+        "Chise",
+        "Niya",
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Niya": [
+        "Chise",
+        "Shizuko",
+        "Mimori",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Umika",
+        "Izuna"
+      ],
+      "Chise": [
+        "Niya",
+        "Shizuko",
+        "Mimori",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit",
+        "Shiroko_Swimsuit",
+        "Umika",
+        "Izuna"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

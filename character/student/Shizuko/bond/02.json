@@ -1,1 +1,80 @@
-{"uuid": "573dd49a-cf1f-49d4-99bc-2618f534b979", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIZUKO_2_NAME]", "desc": ["[STORY_BOND_SHIZUKO_2_DESC_1]"], "pos": {"student": "SHIZUKO", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityOffice.jpg", "BG_ShoppingMall.jpg", "BG_BuildingCorridor.jpg", "BG_ConventionHall_Sunset.jpg"], "character": ["Shizuko"], "track": ["OST_4", "OST_6", "OST_44"]}, "track_to_bg": {"OST_4": ["BG_CityOffice.jpg"], "OST_0": ["BG_CityOffice.jpg", "BG_ShoppingMall.jpg", "BG_ConventionHall_Sunset.jpg"], "OST_6": ["BG_ShoppingMall.jpg", "BG_BuildingCorridor.jpg"], "OST_44": ["BG_ConventionHall_Sunset.jpg"]}, "track_to_char": {"OST_4": ["Shizuko"], "OST_6": ["Shizuko"], "OST_44": ["Shizuko"]}, "char_to_bg": {"Shizuko": ["BG_CityOffice.jpg", "BG_ShoppingMall.jpg", "BG_BuildingCorridor.jpg", "BG_ConventionHall_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "387472e9-8e14-40f6-849a-a66a2eaf4b63",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIZUKO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIZUKO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIZUKO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_ConventionHall_Sunset.jpg"
+      ],
+      "character": [
+        "Shizuko"
+      ],
+      "track": [
+        "OST_4",
+        "OST_6",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_CityOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_ConventionHall_Sunset.jpg"
+      ],
+      "OST_6": [
+        "BG_ShoppingMall.jpg",
+        "BG_BuildingCorridor.jpg"
+      ],
+      "OST_44": [
+        "BG_ConventionHall_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Shizuko"
+      ],
+      "OST_6": [
+        "Shizuko"
+      ],
+      "OST_44": [
+        "Shizuko"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_CityOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_ConventionHall_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

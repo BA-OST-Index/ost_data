@@ -1,1 +1,63 @@
-{"uuid": "6b3830f5-db8a-426b-9f81-4051272e26a7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_801_12_NAME]", "desc": ["[STORY_EVENT_801_12_DESC_1]"], "pos": {"event_id": 801, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoFestivalRoad_Night.jpg"], "character": ["Tsubaki", "Kaede", "Mimori"], "track": ["OST_32"]}, "track_to_bg": {"OST_32": ["BG_HyakkiyakoFestivalRoad_Night.jpg"]}, "track_to_char": {"OST_32": ["Tsubaki", "Kaede", "Mimori"]}, "char_to_bg": {"Tsubaki": ["BG_HyakkiyakoFestivalRoad_Night.jpg"], "Kaede": ["BG_HyakkiyakoFestivalRoad_Night.jpg"], "Mimori": ["BG_HyakkiyakoFestivalRoad_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "55c93ae6-d136-4259-8188-0b47ad77c342",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_801_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_801_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 801,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "character": [
+        "Tsubaki",
+        "Kaede",
+        "Mimori"
+      ],
+      "track": [
+        "OST_32"
+      ]
+    },
+    "track_to_bg": {
+      "OST_32": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_32": [
+        "Tsubaki",
+        "Kaede",
+        "Mimori"
+      ]
+    },
+    "char_to_bg": {
+      "Tsubaki": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

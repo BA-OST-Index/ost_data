@@ -1,1 +1,80 @@
-{"uuid": "7ae3d2ca-eedb-48dc-a738-5a25cd0fdae3", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIBIKI_6_NAME]", "desc": ["[STORY_BOND_HIBIKI_6_DESC_1]"], "pos": {"student": "HIBIKI", "segment": 6, "favor_rank": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCenter.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg"], "character": ["Hibiki"], "track": ["OST_33", "OST_18", "OST_28", "OST_21"]}, "track_to_bg": {"OST_33": ["BG_MilleniumCenter.jpg"], "OST_0": ["BG_MilleniumCenter.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg"], "OST_18": ["BG_ComputerCenter_Off.jpg"], "OST_28": ["BG_ComputerCenter.jpg"]}, "track_to_char": {"OST_33": ["Hibiki"], "OST_18": ["Hibiki"], "OST_28": ["Hibiki"], "OST_21": ["Hibiki"]}, "char_to_bg": {"Hibiki": ["BG_MilleniumCenter.jpg", "BG_ComputerCenter_Off.jpg", "BG_ComputerCenter.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_21"}}, "is_memory": true}
+{
+  "uuid": "9c7abae5-02dd-4da4-a8b9-7518396d43ec",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIBIKI_6_NAME]",
+  "desc": [
+    "[STORY_BOND_HIBIKI_6_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIBIKI",
+    "segment": 6,
+    "favor_rank": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCenter.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Hibiki"
+      ],
+      "track": [
+        "OST_33",
+        "OST_18",
+        "OST_28",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCenter.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_18": [
+        "BG_ComputerCenter_Off.jpg"
+      ],
+      "OST_28": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Hibiki"
+      ],
+      "OST_18": [
+        "Hibiki"
+      ],
+      "OST_28": [
+        "Hibiki"
+      ],
+      "OST_21": [
+        "Hibiki"
+      ]
+    },
+    "char_to_bg": {
+      "Hibiki": [
+        "BG_MilleniumCenter.jpg",
+        "BG_ComputerCenter_Off.jpg",
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

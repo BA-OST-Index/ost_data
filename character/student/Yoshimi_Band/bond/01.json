@@ -1,0 +1,71 @@
+{
+  "uuid": "539ec564-e589-40c5-8fd4-efc0564aadb3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YOSHIMI_BAND_1_NAME]",
+  "desc": [
+    "[STORY_BOND_YOSHIMI_BAND_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "YOSHIMI_BAND",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingMallInside.jpg"
+      ],
+      "character": [
+        "Yoshimi"
+      ],
+      "track": [
+        "OST_6",
+        "OST_16",
+        "OST_192"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingMallInside.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMallInside.jpg"
+      ],
+      "OST_16": [
+        "BG_ShoppingMallInside.jpg"
+      ],
+      "OST_192": [
+        "BG_ShoppingMallInside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Yoshimi"
+      ],
+      "OST_16": [
+        "Yoshimi"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingMallInside.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

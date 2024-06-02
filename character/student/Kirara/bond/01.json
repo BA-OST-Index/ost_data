@@ -1,0 +1,72 @@
+{
+  "uuid": "c8167b74-892d-4467-81da-a1e8d85999b4",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KIRARA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KIRARA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KIRARA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaCampus.jpg",
+        "BG_VillaComplex.jpg",
+        "BG_BusStation.jpg",
+        "BG_GehennaStreet.jpg"
+      ],
+      "character": [
+        "Kirara"
+      ],
+      "track": [
+        "OST_6",
+        "OST_25"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_GehennaCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaCampus.jpg"
+      ],
+      "OST_25": [
+        "BG_VillaComplex.jpg",
+        "BG_BusStation.jpg",
+        "BG_GehennaStreet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Kirara"
+      ],
+      "OST_25": [
+        "Kirara"
+      ]
+    },
+    "char_to_bg": {
+      "Kirara": [
+        "BG_GehennaCampus.jpg",
+        "BG_VillaComplex.jpg",
+        "BG_BusStation.jpg",
+        "BG_GehennaStreet.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

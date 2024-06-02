@@ -1,1 +1,67 @@
-{"uuid": "029e9aaa-7b36-49aa-bee2-b046b942d7f1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINA_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_HINA_SWIMSUIT_1_DESC_1]"], "pos": {"student": "HINA_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_Beachside_Sunset.jpg"], "character": ["Hina_Swimsuit"], "track": ["OST_6", "OST_15"]}, "track_to_bg": {"OST_6": ["BG_Beachside.jpg"], "OST_0": ["BG_Beachside.jpg", "BG_Beachside_Sunset.jpg"], "OST_15": ["BG_Beachside_Sunset.jpg"]}, "track_to_char": {"OST_6": ["Hina_Swimsuit"], "OST_15": ["Hina_Swimsuit"]}, "char_to_bg": {"Hina_Swimsuit": ["BG_Beachside.jpg", "BG_Beachside_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "4c58e04c-c8c3-4862-9d00-5cc60c608e28",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINA_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HINA_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINA_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "character": [
+        "Hina_Swimsuit"
+      ],
+      "track": [
+        "OST_6",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "OST_15": [
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Hina_Swimsuit"
+      ],
+      "OST_15": [
+        "Hina_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hina_Swimsuit": [
+        "BG_Beachside.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

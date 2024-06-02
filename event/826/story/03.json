@@ -1,1 +1,134 @@
-{"uuid": "478f79ab-0554-4aff-9866-ebbe32d572d4", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_826_3_NAME]", "desc": ["[STORY_EVENT_826_3_DESC_1]"], "pos": {"event_id": 826, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanVipStreet.jpg", "BG_ShanPresident2.jpg", "BG_ShanVipStreet_Night.jpg"], "character": ["Reijo", "Rumi", "Mina"], "track": ["OST_66", "OST_8", "OST_88", "OST_92", "OST_89"]}, "track_to_bg": {"OST_0": ["BG_ShanVipStreet.jpg", "BG_ShanPresident2.jpg", "BG_ShanVipStreet_Night.jpg"], "OST_66": ["BG_ShanVipStreet.jpg", "BG_ShanPresident2.jpg"], "OST_8": ["BG_ShanVipStreet.jpg"], "OST_88": ["BG_ShanPresident2.jpg"], "OST_92": ["BG_ShanPresident2.jpg"], "OST_89": ["BG_ShanVipStreet_Night.jpg"]}, "track_to_char": {"OST_66": ["Reijo", "Rumi"], "OST_8": ["Reijo", "Rumi"], "OST_88": ["Mina", "Rumi", "Reijo"], "OST_92": ["Rumi", "Reijo"], "OST_89": ["Reijo", "Rumi"]}, "char_to_bg": {"Reijo": ["BG_ShanVipStreet.jpg", "BG_ShanPresident2.jpg", "BG_ShanVipStreet_Night.jpg"], "Rumi": ["BG_ShanVipStreet.jpg", "BG_ShanPresident2.jpg", "BG_ShanVipStreet_Night.jpg"], "Mina": ["BG_ShanPresident2.jpg"]}, "char_to_char": {"Rumi": ["Reijo", "Mina"], "Reijo": ["Rumi", "Mina"], "Mina": ["Rumi", "Reijo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "fec69992-23d8-4829-a5c3-bb455835e727",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_826_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_826_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 826,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanVipStreet.jpg",
+        "BG_ShanPresident2.jpg",
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "character": [
+        "Reijo",
+        "Rumi",
+        "Kisaki",
+        "Mina"
+      ],
+      "track": [
+        "OST_66",
+        "OST_8",
+        "OST_88",
+        "OST_92",
+        "OST_89"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShanVipStreet.jpg",
+        "BG_ShanPresident2.jpg",
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "OST_66": [
+        "BG_ShanVipStreet.jpg",
+        "BG_ShanPresident2.jpg"
+      ],
+      "OST_8": [
+        "BG_ShanVipStreet.jpg"
+      ],
+      "OST_88": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "OST_92": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "OST_89": [
+        "BG_ShanVipStreet_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_66": [
+        "Reijo",
+        "Rumi"
+      ],
+      "OST_8": [
+        "Reijo",
+        "Rumi"
+      ],
+      "OST_88": [
+        "Kisaki",
+        "Mina",
+        "Rumi",
+        "Reijo"
+      ],
+      "OST_92": [
+        "Rumi",
+        "Kisaki",
+        "Reijo"
+      ],
+      "OST_89": [
+        "Reijo",
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Reijo": [
+        "BG_ShanVipStreet.jpg",
+        "BG_ShanPresident2.jpg",
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "Rumi": [
+        "BG_ShanVipStreet.jpg",
+        "BG_ShanPresident2.jpg",
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "Kisaki": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "Mina": [
+        "BG_ShanPresident2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rumi": [
+        "Reijo",
+        "Kisaki",
+        "Mina"
+      ],
+      "Reijo": [
+        "Rumi",
+        "Kisaki",
+        "Mina"
+      ],
+      "Kisaki": [
+        "Rumi",
+        "Reijo",
+        "Mina"
+      ],
+      "Mina": [
+        "Rumi",
+        "Reijo",
+        "Kisaki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

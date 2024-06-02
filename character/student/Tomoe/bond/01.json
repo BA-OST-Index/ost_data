@@ -1,1 +1,71 @@
-{"uuid": "4440e597-c940-4876-a347-760ef534ad27", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TOMOE_1_NAME]", "desc": ["[STORY_BOND_TOMOE_1_DESC_1]"], "pos": {"student": "TOMOE", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Market.jpg"], "character": ["Tomoe"], "track": ["OST_10", "OST_83", "OST_3"]}, "track_to_bg": {"OST_10": ["BG_Market.jpg"], "OST_0": ["BG_Market.jpg"], "OST_83": ["BG_Market.jpg"], "OST_3": ["BG_Market.jpg"]}, "track_to_char": {"OST_10": ["Tomoe"], "OST_83": ["Tomoe"], "OST_3": ["Tomoe"]}, "char_to_bg": {"Tomoe": ["BG_Market.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "ddb41f33-b27a-4189-8315-62c910edd0f3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TOMOE_1_NAME]",
+  "desc": [
+    "[STORY_BOND_TOMOE_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "TOMOE",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Market.jpg"
+      ],
+      "character": [
+        "Tomoe"
+      ],
+      "track": [
+        "OST_10",
+        "OST_83",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Market.jpg"
+      ],
+      "OST_0": [
+        "BG_Market.jpg"
+      ],
+      "OST_83": [
+        "BG_Market.jpg"
+      ],
+      "OST_3": [
+        "BG_Market.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Tomoe"
+      ],
+      "OST_83": [
+        "Tomoe"
+      ],
+      "OST_3": [
+        "Tomoe"
+      ]
+    },
+    "char_to_bg": {
+      "Tomoe": [
+        "BG_Market.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

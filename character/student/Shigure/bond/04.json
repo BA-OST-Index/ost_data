@@ -1,1 +1,78 @@
-{"uuid": "a59af314-29b5-47cd-acae-e288de0bbdca", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIGURE_4_NAME]", "desc": ["[STORY_BOND_SHIGURE_4_DESC_1]"], "pos": {"student": "SHIGURE", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Kitchen.jpg"], "character": ["Shigure"], "track": ["OST_10", "OST_3", "OST_130", "OST_43"]}, "track_to_bg": {"OST_10": ["BG_Kitchen.jpg"], "OST_0": ["BG_Kitchen.jpg"], "OST_3": ["BG_Kitchen.jpg"], "OST_130": ["BG_Kitchen.jpg"], "OST_43": ["BG_Kitchen.jpg"]}, "track_to_char": {"OST_10": ["Shigure"], "OST_3": ["Shigure"], "OST_130": ["Shigure"], "OST_43": ["Shigure"]}, "char_to_bg": {"Shigure": ["BG_Kitchen.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "6b765102-6162-42e0-aad7-6a2a6b1607bc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIGURE_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIGURE_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIGURE",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Kitchen.jpg"
+      ],
+      "character": [
+        "Shigure"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3",
+        "OST_130",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Kitchen.jpg"
+      ],
+      "OST_0": [
+        "BG_Kitchen.jpg"
+      ],
+      "OST_3": [
+        "BG_Kitchen.jpg"
+      ],
+      "OST_130": [
+        "BG_Kitchen.jpg"
+      ],
+      "OST_43": [
+        "BG_Kitchen.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Shigure"
+      ],
+      "OST_3": [
+        "Shigure"
+      ],
+      "OST_130": [
+        "Shigure"
+      ],
+      "OST_43": [
+        "Shigure"
+      ]
+    },
+    "char_to_bg": {
+      "Shigure": [
+        "BG_Kitchen.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

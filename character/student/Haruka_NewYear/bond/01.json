@@ -1,1 +1,60 @@
-{"uuid": "e1284ed4-f831-462b-9c9c-33fc86af4f16", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUKA_NEWYEAR_1_NAME]", "desc": ["[STORY_BOND_HARUKA_NEWYEAR_1_DESC_1]"], "pos": {"student": "HARUKA_NEWYEAR", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_WinterRoad.jpg"], "character": ["Haruka_NewYear"], "track": ["OST_38", "OST_39"]}, "track_to_bg": {"OST_0": ["BG_WinterRoad.jpg"], "OST_38": ["BG_WinterRoad.jpg"], "OST_39": ["BG_WinterRoad.jpg"]}, "track_to_char": {"OST_38": ["Haruka_NewYear"]}, "char_to_bg": {"Haruka_NewYear": ["BG_WinterRoad.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_39"}}, "is_memory": true}
+{
+  "uuid": "9c1ef34e-cfc8-4791-8bb7-7a734ede440e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUKA_NEWYEAR_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUKA_NEWYEAR_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUKA_NEWYEAR",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_WinterRoad.jpg"
+      ],
+      "character": [
+        "Haruka_NewYear"
+      ],
+      "track": [
+        "OST_38",
+        "OST_39"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_38": [
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_39": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Haruka_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Haruka_NewYear": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_39"
+    }
+  },
+  "is_memory": true
+}

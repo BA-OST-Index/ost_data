@@ -1,1 +1,70 @@
-{"uuid": "16f5ed88-dc86-4f23-82f8-7a20499caf8d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MUTSUKI_NEWYEAR_3_NAME]", "desc": ["[STORY_BOND_MUTSUKI_NEWYEAR_3_DESC_1]"], "pos": {"student": "MUTSUKI_NEWYEAR", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_NewYearFestival.jpg"], "character": ["Mutsuki_NewYear"], "track": ["OST_10", "OST_3", "OST_97"]}, "track_to_bg": {"OST_0": ["BG_NewYearFestival.jpg"], "OST_10": ["BG_NewYearFestival.jpg"], "OST_3": ["BG_NewYearFestival.jpg"], "OST_97": ["BG_NewYearFestival.jpg"]}, "track_to_char": {"OST_10": ["Mutsuki_NewYear"], "OST_3": ["Mutsuki_NewYear"], "OST_97": ["Mutsuki_NewYear"]}, "char_to_bg": {"Mutsuki_NewYear": ["BG_NewYearFestival.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_97"}}, "is_memory": true}
+{
+  "uuid": "ddc5007e-310d-4e38-9b67-febc1485316a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MUTSUKI_NEWYEAR_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MUTSUKI_NEWYEAR_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MUTSUKI_NEWYEAR",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "character": [
+        "Mutsuki_NewYear"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3",
+        "OST_97"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_10": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_3": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_97": [
+        "BG_NewYearFestival.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_3": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_97": [
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki_NewYear": [
+        "BG_NewYearFestival.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_97"
+    }
+  },
+  "is_memory": true
+}

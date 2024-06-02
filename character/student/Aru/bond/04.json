@@ -1,1 +1,63 @@
-{"uuid": "7b7cbfce-1855-48e7-a7bc-e9cb3fad3fa1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARU_4_NAME]", "desc": ["[STORY_BOND_ARU_4_DESC_1]"], "pos": {"student": "ARU", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KohshinjoRoom.jpg"], "character": ["Aru"], "track": ["OST_13", "OST_38"]}, "track_to_bg": {"OST_13": ["BG_KohshinjoRoom.jpg"], "OST_0": ["BG_KohshinjoRoom.jpg"], "OST_38": ["BG_KohshinjoRoom.jpg"]}, "track_to_char": {"OST_13": ["Aru"], "OST_38": ["Aru"]}, "char_to_bg": {"Aru": ["BG_KohshinjoRoom.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_38"}}, "is_memory": true}
+{
+  "uuid": "68d111ba-1f60-46b4-ba64-bf1c127f2695",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARU_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ARU_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARU",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Aru"
+      ],
+      "track": [
+        "OST_13",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_38": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Aru"
+      ],
+      "OST_38": [
+        "Aru"
+      ]
+    },
+    "char_to_bg": {
+      "Aru": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_38"
+    }
+  },
+  "is_memory": true
+}

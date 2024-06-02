@@ -1,1 +1,87 @@
-{"uuid": "287c81fd-2071-4f69-9305-3ca5d91e83ed", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_5_NAME]", "desc": ["[STORY_EVENT_819_5_DESC_1]"], "pos": {"event_id": 819, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown2.jpg", "BG_CityDowntown2_Night.jpg"], "character": ["Mine", "Serina_Christmas", "Hanae_Christmas"], "track": ["OST_47", "OST_21", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown2.jpg", "BG_CityDowntown2_Night.jpg"], "OST_47": ["BG_CityDowntown2.jpg", "BG_CityDowntown2_Night.jpg"], "OST_21": ["BG_CityDowntown2_Night.jpg"], "OST_3": ["BG_CityDowntown2_Night.jpg"]}, "track_to_char": {"OST_47": ["Mine", "Serina_Christmas", "Hanae_Christmas"], "OST_21": ["Mine", "Hanae_Christmas", "Serina_Christmas"], "OST_3": ["Mine", "Hanae_Christmas", "Serina_Christmas"]}, "char_to_bg": {"Mine": ["BG_CityDowntown2_Night.jpg"], "Serina_Christmas": ["BG_CityDowntown2_Night.jpg"], "Hanae_Christmas": ["BG_CityDowntown2_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "6e1cebda-b955-4747-affc-4ec87350b32f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown2.jpg",
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "character": [
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "track": [
+        "OST_47",
+        "OST_21",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown2.jpg",
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "OST_47": [
+        "BG_CityDowntown2.jpg",
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_CityDowntown2_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "OST_21": [
+        "Mine",
+        "Hanae_Christmas",
+        "Serina_Christmas"
+      ],
+      "OST_3": [
+        "Mine",
+        "Hanae_Christmas",
+        "Serina_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Mine": [
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "Serina_Christmas": [
+        "BG_CityDowntown2_Night.jpg"
+      ],
+      "Hanae_Christmas": [
+        "BG_CityDowntown2_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

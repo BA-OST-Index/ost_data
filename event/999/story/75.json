@@ -1,1 +1,53 @@
-{"uuid": "59ec321b-b7ec-4bd4-aef0-bd8d6e8e9f78", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_75_NAME]", "desc": ["[STORY_EVENT_999_75_DESC_1]"], "pos": {"event_id": 999, "segment": 75}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HotelLobby_Night.jpg"], "character": ["Hiyori"], "track": ["OST_22"]}, "track_to_bg": {"OST_22": ["BG_HotelLobby_Night.jpg"]}, "track_to_char": {"OST_22": ["Hiyori"]}, "char_to_bg": {"Hiyori": ["BG_HotelLobby_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "a0c8e0df-65c5-403e-8552-103228629996",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_75_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_75_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 75
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "character": [
+        "Hiyori"
+      ],
+      "track": [
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_HotelLobby_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Hiyori": [
+        "BG_HotelLobby_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

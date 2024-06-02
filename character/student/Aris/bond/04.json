@@ -1,1 +1,54 @@
-{"uuid": "ac6cb5da-de2f-44ee-8098-1b74549c979d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARIS_4_NAME]", "desc": ["[STORY_BOND_ARIS_4_DESC_1]"], "pos": {"student": "ARIS", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Market.jpg"], "character": ["Aris"], "track": ["OST_38"]}, "track_to_bg": {"OST_38": ["BG_Market.jpg"]}, "track_to_char": {"OST_38": ["Aris"]}, "char_to_bg": {"Aris": ["BG_Market.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "64be1da1-0b58-47bd-a671-a1879d6393d6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARIS_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ARIS_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARIS",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Market.jpg"
+      ],
+      "character": [
+        "Aris"
+      ],
+      "track": [
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_Market.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Aris"
+      ]
+    },
+    "char_to_bg": {
+      "Aris": [
+        "BG_Market.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

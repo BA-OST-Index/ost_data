@@ -1,0 +1,83 @@
+{
+  "uuid": "1f8b1e91-0eea-4b0e-9289-3de53b492fe8",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKARI_NEWYEAR_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AKARI_NEWYEAR_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKARI_NEWYEAR",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Akari_NewYear",
+        "MemberOfJusticeTaskForce"
+      ],
+      "track": [
+        "OST_16",
+        "OST_40",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_40": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_8": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Akari_NewYear"
+      ],
+      "OST_40": [
+        "Akari_NewYear",
+        "MemberOfJusticeTaskForce"
+      ],
+      "OST_8": [
+        "Akari_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Akari_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {
+      "MemberOfJusticeTaskForce": [
+        "Akari_NewYear"
+      ],
+      "Akari_NewYear": [
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

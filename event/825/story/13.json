@@ -1,1 +1,143 @@
-{"uuid": "80a045a4-1edd-4e62-b5dd-df8181a028d4", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_825_13_NAME]", "desc": ["[STORY_EVENT_825_13_DESC_1]"], "pos": {"event_id": 825, "segment": 13}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg", "BG_OldHouseCorridor_Night.jpg"], "character": ["Meitaro", "Momoi", "Midori", "Toki_Bunny", "Aris_Maid", "Yuzu", "Yuzu_Maid"], "track": ["OST_159", "OST_64", "OST_160"]}, "track_to_bg": {"OST_159": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg"], "OST_0": ["BG_OldHouseCorridor.jpg"], "OST_64": ["BG_OldHouseCorridor.jpg"], "OST_160": ["BG_OldHouseCorridor_Night.jpg", "BG_OldHouseCorridor.jpg"]}, "track_to_char": {"OST_159": ["Meitaro", "Momoi", "Midori", "Toki_Bunny", "Aris_Maid", "Yuzu", "Yuzu_Maid"], "OST_64": ["Toki_Bunny", "Aris_Maid", "Meitaro", "Momoi"], "OST_160": ["Momoi", "Midori", "Yuzu_Maid"]}, "char_to_bg": {"Meitaro": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg"], "Momoi": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg", "BG_OldHouseCorridor_Night.jpg"], "Midori": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor_Night.jpg", "BG_OldHouseCorridor.jpg"], "Toki_Bunny": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg"], "Aris_Maid": ["BG_UnderGroundAuction.jpg", "BG_OldHouseCorridor.jpg"], "Yuzu": ["BG_OldHouseCorridor.jpg"], "Yuzu_Maid": ["BG_OldHouseCorridor.jpg", "BG_OldHouseCorridor_Night.jpg"]}, "char_to_char": {"Midori": ["Momoi", "Yuzu_Maid"], "Momoi": ["Midori", "Yuzu_Maid", "Toki_Bunny", "Aris_Maid", "Meitaro"], "Aris_Maid": ["Toki_Bunny", "Meitaro", "Yuzu_Maid", "Momoi"], "Meitaro": ["Toki_Bunny", "Aris_Maid", "Yuzu", "Yuzu_Maid", "Momoi"], "Toki_Bunny": ["Aris_Maid", "Meitaro", "Yuzu_Maid", "Momoi"], "Yuzu_Maid": ["Yuzu", "Meitaro", "Toki_Bunny", "Aris_Maid", "Momoi", "Midori"], "Yuzu": ["Meitaro", "Yuzu_Maid"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "c9337965-38b4-4acb-9126-ed3895c5cb2c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_825_13_NAME]",
+  "desc": [
+    "[STORY_EVENT_825_13_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 825,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_OldHouseCorridor_Night.jpg"
+      ],
+      "character": [
+        "Akira",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "track": [
+        "OST_159",
+        "OST_64",
+        "OST_160"
+      ]
+    },
+    "track_to_bg": {
+      "OST_159": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "OST_0": [
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "OST_64": [
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "OST_160": [
+        "BG_OldHouseCorridor_Night.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_159": [
+        "Akira",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "OST_64": [
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Momoi_Maid"
+      ],
+      "OST_160": [
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Yuzu_Maid",
+        "Akira"
+      ]
+    },
+    "char_to_bg": {
+      "Akira": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "Momoi_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg",
+        "BG_OldHouseCorridor_Night.jpg"
+      ],
+      "Midori_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor_Night.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "Toki_Bunny": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "Aris_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "Yuzu_Maid": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_OldHouseCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Midori_Maid": [
+        "Momoi_Maid",
+        "Yuzu_Maid"
+      ],
+      "Momoi_Maid": [
+        "Midori_Maid",
+        "Yuzu_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "Aris_Maid": [
+        "Toki_Bunny",
+        "Yuzu_Maid",
+        "Momoi_Maid"
+      ],
+      "Toki_Bunny": [
+        "Aris_Maid",
+        "Yuzu_Maid",
+        "Momoi_Maid"
+      ],
+      "Akira": [
+        "Yuzu_Maid"
+      ],
+      "Yuzu_Maid": [
+        "Akira",
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Momoi_Maid",
+        "Midori_Maid"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

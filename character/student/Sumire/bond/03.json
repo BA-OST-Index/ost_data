@@ -1,1 +1,72 @@
-{"uuid": "c96d4611-069e-45dc-a946-ac89f0b6c2d4", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SUMIRE_3_NAME]", "desc": ["[STORY_BOND_SUMIRE_3_DESC_1]"], "pos": {"student": "SUMIRE", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HealthClub.jpg", "BG_MilleniumCenter.jpg"], "character": ["Sumire"], "track": ["OST_4", "OST_5", "OST_39"]}, "track_to_bg": {"OST_4": ["BG_HealthClub.jpg"], "OST_0": ["BG_HealthClub.jpg"], "OST_5": ["BG_HealthClub.jpg"], "OST_39": ["BG_MilleniumCenter.jpg"]}, "track_to_char": {"OST_4": ["Sumire"], "OST_5": ["Sumire"], "OST_39": ["Sumire"]}, "char_to_bg": {"Sumire": ["BG_HealthClub.jpg", "BG_MilleniumCenter.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_39"}}, "is_memory": true}
+{
+  "uuid": "8606d540-3592-43ba-8bf2-ded94d1eb69c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SUMIRE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SUMIRE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SUMIRE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HealthClub.jpg",
+        "BG_MilleniumCenter.jpg"
+      ],
+      "character": [
+        "Sumire"
+      ],
+      "track": [
+        "OST_4",
+        "OST_5",
+        "OST_39"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_HealthClub.jpg"
+      ],
+      "OST_0": [
+        "BG_HealthClub.jpg"
+      ],
+      "OST_5": [
+        "BG_HealthClub.jpg"
+      ],
+      "OST_39": [
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Sumire"
+      ],
+      "OST_5": [
+        "Sumire"
+      ],
+      "OST_39": [
+        "Sumire"
+      ]
+    },
+    "char_to_bg": {
+      "Sumire": [
+        "BG_HealthClub.jpg",
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_39"
+    }
+  },
+  "is_memory": true
+}

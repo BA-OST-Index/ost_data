@@ -1,1 +1,72 @@
-{"uuid": "b612b6f6-abd5-4db9-90eb-2b6a20aaafa9", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_4_NAME]", "desc": ["[STORY_EVENT_818_4_DESC_1]"], "pos": {"event_id": 818, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Broadcastingroom.jpg", "BG_View_MainStadium2.jpg"], "character": ["Shinon", "Mai", "Yuuka_Track"], "track": ["OST_107"]}, "track_to_bg": {"OST_107": ["BG_Broadcastingroom.jpg", "BG_View_MainStadium2.jpg"]}, "track_to_char": {"OST_107": ["Shinon", "Mai", "Yuuka_Track"]}, "char_to_bg": {"Shinon": ["BG_Broadcastingroom.jpg"], "Mai": ["BG_Broadcastingroom.jpg"], "Yuuka_Track": ["BG_View_MainStadium2.jpg"]}, "char_to_char": {"Mai": ["Shinon"], "Shinon": ["Mai"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "34c28b77-9408-46e4-806b-7dd729fde449",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Broadcastingroom.jpg",
+        "BG_View_MainStadium2.jpg"
+      ],
+      "character": [
+        "Shinon",
+        "Mai",
+        "Yuuka_Track"
+      ],
+      "track": [
+        "OST_107"
+      ]
+    },
+    "track_to_bg": {
+      "OST_107": [
+        "BG_Broadcastingroom.jpg",
+        "BG_View_MainStadium2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_107": [
+        "Shinon",
+        "Mai",
+        "Yuuka_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Shinon": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "Mai": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "Yuuka_Track": [
+        "BG_View_MainStadium2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mai": [
+        "Shinon"
+      ],
+      "Shinon": [
+        "Mai"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

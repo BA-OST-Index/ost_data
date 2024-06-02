@@ -1,1 +1,114 @@
-{"uuid": "cbc0a24e-a988-4928-93d9-6087beb6114c", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_806_1_NAME]", "desc": ["[STORY_EVENT_806_1_DESC_1]"], "pos": {"event_id": 806, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UndergroundPassage_Night.jpg", "BG_CS_Millenium_12.jpg"], "character": ["Neru", "Karin", "Akane", "Yuuka", "Asuna"], "track": ["OST_16", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_UndergroundPassage_Night.jpg", "BG_CS_Millenium_12.jpg"], "OST_16": ["BG_UndergroundPassage_Night.jpg"], "OST_3": ["BG_CS_Millenium_12.jpg", "BG_UndergroundPassage_Night.jpg"]}, "track_to_char": {"OST_16": ["Neru", "Karin", "Akane"], "OST_3": ["Yuuka", "Akane", "Neru", "Karin", "Asuna"]}, "char_to_bg": {"Neru": ["BG_UndergroundPassage_Night.jpg"], "Karin": ["BG_UndergroundPassage_Night.jpg"], "Akane": ["BG_UndergroundPassage_Night.jpg", "BG_CS_Millenium_12.jpg"], "Yuuka": ["BG_CS_Millenium_12.jpg"], "Asuna": ["BG_UndergroundPassage_Night.jpg"]}, "char_to_char": {"Karin": ["Neru", "Akane", "Asuna"], "Akane": ["Neru", "Karin", "Yuuka", "Asuna"], "Neru": ["Karin", "Akane", "Asuna"], "Yuuka": ["Akane"], "Asuna": ["Neru", "Karin", "Akane"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "963401de-0fbe-4053-8639-f20c4b76d3cb",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_806_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_806_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 806,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Millenium_12.jpg"
+      ],
+      "character": [
+        "Neru",
+        "Karin",
+        "Akane",
+        "Yuuka",
+        "Asuna"
+      ],
+      "track": [
+        "OST_16",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Millenium_12.jpg"
+      ],
+      "OST_16": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_CS_Millenium_12.jpg",
+        "BG_UndergroundPassage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Neru",
+        "Karin",
+        "Akane"
+      ],
+      "OST_3": [
+        "Yuuka",
+        "Akane",
+        "Neru",
+        "Karin",
+        "Asuna"
+      ]
+    },
+    "char_to_bg": {
+      "Neru": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "Karin": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "Akane": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Millenium_12.jpg"
+      ],
+      "Yuuka": [
+        "BG_CS_Millenium_12.jpg"
+      ],
+      "Asuna": [
+        "BG_UndergroundPassage_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Karin": [
+        "Neru",
+        "Akane",
+        "Asuna"
+      ],
+      "Akane": [
+        "Neru",
+        "Karin",
+        "Yuuka",
+        "Asuna"
+      ],
+      "Neru": [
+        "Karin",
+        "Akane",
+        "Asuna"
+      ],
+      "Yuuka": [
+        "Akane"
+      ],
+      "Asuna": [
+        "Neru",
+        "Karin",
+        "Akane"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

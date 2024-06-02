@@ -1,1 +1,57 @@
-{"uuid": "587eed50-6314-4ca9-882c-d594d83dbc31", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARI_TRACK_1_NAME]", "desc": ["[STORY_BOND_MARI_TRACK_1_DESC_1]"], "pos": {"student": "MARI_TRACK", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassCorridor.jpg"], "character": ["Mari_Track"], "track": ["OST_10"]}, "track_to_bg": {"OST_0": ["BG_ClassCorridor.jpg"], "OST_10": ["BG_ClassCorridor.jpg"]}, "track_to_char": {"OST_10": ["Mari_Track"]}, "char_to_bg": {"Mari_Track": ["BG_ClassCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a0312481-8390-4172-a5f5-48caecb67992",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARI_TRACK_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MARI_TRACK_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARI_TRACK",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassCorridor.jpg"
+      ],
+      "character": [
+        "Mari_Track"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ClassCorridor.jpg"
+      ],
+      "OST_10": [
+        "BG_ClassCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Mari_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Mari_Track": [
+        "BG_ClassCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

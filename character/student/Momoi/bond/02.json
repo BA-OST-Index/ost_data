@@ -1,1 +1,57 @@
-{"uuid": "e76fe8cb-2e66-4a13-aae9-09391b556f58", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MOMOI_2_NAME]", "desc": ["[STORY_BOND_MOMOI_2_DESC_1]"], "pos": {"student": "MOMOI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom.jpg"], "character": ["Momoi"], "track": ["OST_36"]}, "track_to_bg": {"OST_0": ["BG_GameDevRoom.jpg"], "OST_36": ["BG_GameDevRoom.jpg"]}, "track_to_char": {"OST_36": ["Momoi"]}, "char_to_bg": {"Momoi": ["BG_GameDevRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "37bd6b9c-c396-4fd0-8b00-d6b92a4e9f6d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMOI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMOI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMOI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "character": [
+        "Momoi"
+      ],
+      "track": [
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_36": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_36": [
+        "Momoi"
+      ]
+    },
+    "char_to_bg": {
+      "Momoi": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

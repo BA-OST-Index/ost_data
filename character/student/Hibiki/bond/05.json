@@ -1,1 +1,54 @@
-{"uuid": "ad3754ba-78b4-429a-9211-2b24eb0e2f1f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIBIKI_5_NAME]", "desc": ["[STORY_BOND_HIBIKI_5_DESC_1]"], "pos": {"student": "HIBIKI", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg"], "character": ["Hibiki"], "track": ["OST_22"]}, "track_to_bg": {"OST_22": ["BG_Library.jpg"]}, "track_to_char": {"OST_22": ["Hibiki"]}, "char_to_bg": {"Hibiki": ["BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "6b5621c7-3d86-46e0-b732-abbfba679340",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIBIKI_5_NAME]",
+  "desc": [
+    "[STORY_BOND_HIBIKI_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIBIKI",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Hibiki"
+      ],
+      "track": [
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Hibiki"
+      ]
+    },
+    "char_to_bg": {
+      "Hibiki": [
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

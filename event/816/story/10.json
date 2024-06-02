@@ -1,1 +1,63 @@
-{"uuid": "179e65e5-b663-4bab-b27c-a6b40b3c6342", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_10_NAME]", "desc": ["[STORY_EVENT_816_10_DESC_1]"], "pos": {"event_id": 816, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground_Night.jpg"], "character": ["Reisa"], "track": ["OST_22", "OST_8"]}, "track_to_bg": {"OST_22": ["BG_Playground_Night.jpg"], "OST_0": ["BG_Playground_Night.jpg"], "OST_8": ["BG_Playground_Night.jpg"]}, "track_to_char": {"OST_22": ["Reisa"], "OST_8": ["Reisa"]}, "char_to_bg": {"Reisa": ["BG_Playground_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "37a9081c-47ae-4874-a0fc-785a6d02b1a3",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground_Night.jpg"
+      ],
+      "character": [
+        "Reisa"
+      ],
+      "track": [
+        "OST_22",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_Playground_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Playground_Night.jpg"
+      ],
+      "OST_8": [
+        "BG_Playground_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Reisa"
+      ],
+      "OST_8": [
+        "Reisa"
+      ]
+    },
+    "char_to_bg": {
+      "Reisa": [
+        "BG_Playground_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

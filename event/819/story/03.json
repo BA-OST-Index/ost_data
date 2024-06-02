@@ -1,1 +1,106 @@
-{"uuid": "7a7ba11f-422a-4705-b6e4-b67179afed1b", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_3_NAME]", "desc": ["[STORY_EVENT_819_3_DESC_1]"], "pos": {"event_id": 819, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront.jpg", "BG_CityDowntown2.jpg"], "character": ["Hasumi", "Mashiro", "Tsurugi", "Hanae_Christmas", "Serina_Christmas"], "track": ["OST_18", "OST_22", "OST_139"]}, "track_to_bg": {"OST_18": ["BG_SlumFront.jpg"], "OST_0": ["BG_SlumFront.jpg", "BG_CityDowntown2.jpg"], "OST_22": ["BG_SlumFront.jpg"], "OST_139": ["BG_CityDowntown2.jpg"]}, "track_to_char": {"OST_18": ["Hasumi", "Mashiro", "Tsurugi"], "OST_22": ["Hasumi", "Mashiro", "Tsurugi"], "OST_139": ["Hanae_Christmas", "Serina_Christmas"]}, "char_to_bg": {"Hasumi": ["BG_SlumFront.jpg"], "Mashiro": ["BG_SlumFront.jpg"], "Tsurugi": ["BG_SlumFront.jpg"], "Hanae_Christmas": ["BG_CityDowntown2.jpg"], "Serina_Christmas": ["BG_CityDowntown2.jpg"]}, "char_to_char": {"Mashiro": ["Hasumi", "Tsurugi"], "Tsurugi": ["Hasumi", "Mashiro"], "Hasumi": ["Mashiro", "Tsurugi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2aaef50f-9ca9-41b7-bec7-4212096f3eaf",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront.jpg",
+        "BG_CityDowntown2.jpg"
+      ],
+      "character": [
+        "Hasumi",
+        "Mashiro",
+        "Tsurugi",
+        "Hanae_Christmas",
+        "Serina_Christmas"
+      ],
+      "track": [
+        "OST_18",
+        "OST_22",
+        "OST_139"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_0": [
+        "BG_SlumFront.jpg",
+        "BG_CityDowntown2.jpg"
+      ],
+      "OST_22": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_139": [
+        "BG_CityDowntown2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Hasumi",
+        "Mashiro",
+        "Tsurugi"
+      ],
+      "OST_22": [
+        "Hasumi",
+        "Mashiro",
+        "Tsurugi"
+      ],
+      "OST_139": [
+        "Hanae_Christmas",
+        "Serina_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_SlumFront.jpg"
+      ],
+      "Mashiro": [
+        "BG_SlumFront.jpg"
+      ],
+      "Tsurugi": [
+        "BG_SlumFront.jpg"
+      ],
+      "Hanae_Christmas": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "Serina_Christmas": [
+        "BG_CityDowntown2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mashiro": [
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Tsurugi": [
+        "Hasumi",
+        "Mashiro"
+      ],
+      "Hasumi": [
+        "Mashiro",
+        "Tsurugi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

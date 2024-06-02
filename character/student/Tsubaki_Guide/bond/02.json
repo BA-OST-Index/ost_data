@@ -1,0 +1,57 @@
+{
+  "uuid": "c7175a34-1b48-44a1-8db1-80cdd5d7883e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSUBAKI_GUIDE_2_NAME]",
+  "desc": [
+    "[STORY_BOND_TSUBAKI_GUIDE_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSUBAKI_GUIDE",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_38",
+        "OST_3",
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_10": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

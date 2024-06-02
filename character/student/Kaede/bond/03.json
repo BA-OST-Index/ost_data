@@ -1,1 +1,81 @@
-{"uuid": "f42576f3-00e1-4973-bbe1-b0f0d8d0c863", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAEDE_3_NAME]", "desc": ["[STORY_BOND_KAEDE_3_DESC_1]"], "pos": {"student": "KAEDE", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_RestingLounge.jpg"], "character": ["Kaede"], "track": ["OST_16", "OST_3", "OST_63", "OST_91"]}, "track_to_bg": {"OST_16": ["BG_CraftChamber.jpg"], "OST_0": ["BG_CraftChamber.jpg", "BG_RestingLounge.jpg"], "OST_3": ["BG_CraftChamber.jpg"], "OST_63": ["BG_RestingLounge.jpg"], "OST_91": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_16": ["Kaede"], "OST_3": ["Kaede"], "OST_63": ["Kaede"], "OST_91": ["Kaede"]}, "char_to_bg": {"Kaede": ["BG_CraftChamber.jpg", "BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "4e8cabc4-651a-42da-a35a-b796fcbe34c5",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAEDE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KAEDE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAEDE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Kaede"
+      ],
+      "track": [
+        "OST_16",
+        "OST_3",
+        "OST_63",
+        "OST_91"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_63": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_91": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kaede"
+      ],
+      "OST_3": [
+        "Kaede"
+      ],
+      "OST_63": [
+        "Kaede"
+      ],
+      "OST_91": [
+        "Kaede"
+      ]
+    },
+    "char_to_bg": {
+      "Kaede": [
+        "BG_CraftChamber.jpg",
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,79 @@
-{"uuid": "c8367bb0-bd2f-4df7-ad58-6dd37130b7e3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_808_4_NAME]", "desc": ["[STORY_EVENT_808_4_DESC_1]"], "pos": {"event_id": 808, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Onsen2.jpg"], "character": ["Meru", "Nodoka_HotSpring"], "track": ["OST_16", "OST_10", "OST_7"]}, "track_to_bg": {"OST_16": ["BG_Onsen2.jpg"], "OST_0": ["BG_Onsen2.jpg"], "OST_10": ["BG_Onsen2.jpg"], "OST_7": ["BG_Onsen2.jpg"]}, "track_to_char": {"OST_10": ["Meru"], "OST_7": ["Nodoka_HotSpring", "Meru"]}, "char_to_bg": {"Meru": ["BG_Onsen2.jpg"], "Nodoka_HotSpring": ["BG_Onsen2.jpg"]}, "char_to_char": {"Nodoka_HotSpring": ["Meru"], "Meru": ["Nodoka_HotSpring"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "fb17f5c0-76e4-47aa-8814-ff13a3ed0e60",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_808_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_808_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 808,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Onsen2.jpg"
+      ],
+      "character": [
+        "Meru",
+        "Nodoka_HotSpring"
+      ],
+      "track": [
+        "OST_16",
+        "OST_10",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Onsen2.jpg"
+      ],
+      "OST_0": [
+        "BG_Onsen2.jpg"
+      ],
+      "OST_10": [
+        "BG_Onsen2.jpg"
+      ],
+      "OST_7": [
+        "BG_Onsen2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Meru"
+      ],
+      "OST_7": [
+        "Nodoka_HotSpring",
+        "Meru"
+      ]
+    },
+    "char_to_bg": {
+      "Meru": [
+        "BG_Onsen2.jpg"
+      ],
+      "Nodoka_HotSpring": [
+        "BG_Onsen2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nodoka_HotSpring": [
+        "Meru"
+      ],
+      "Meru": [
+        "Nodoka_HotSpring"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

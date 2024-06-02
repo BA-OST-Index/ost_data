@@ -1,1 +1,79 @@
-{"uuid": "963a9798-31c8-4843-9019-0c63837e9c98", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_RUMI_3_NAME]", "desc": ["[STORY_BOND_RUMI_3_DESC_1]"], "pos": {"student": "RUMI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanTeaHouse.jpg", "BG_ShanStreet.jpg"], "character": ["Rumi"], "track": ["OST_66", "OST_130", "OST_8", "OST_89"]}, "track_to_bg": {"OST_0": ["BG_ShanTeaHouse.jpg", "BG_ShanStreet.jpg"], "OST_66": ["BG_ShanTeaHouse.jpg", "BG_ShanStreet.jpg"], "OST_130": ["BG_ShanTeaHouse.jpg"], "OST_8": ["BG_ShanStreet.jpg"], "OST_89": ["BG_ShanStreet.jpg"]}, "track_to_char": {"OST_66": ["Rumi"], "OST_130": ["Rumi"], "OST_89": ["Rumi"]}, "char_to_bg": {"Rumi": ["BG_ShanTeaHouse.jpg", "BG_ShanStreet.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "aa041e2b-0955-4889-b059-f30ff87a5de3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_RUMI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_RUMI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "RUMI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanTeaHouse.jpg",
+        "BG_ShanStreet.jpg"
+      ],
+      "character": [
+        "Rumi"
+      ],
+      "track": [
+        "OST_66",
+        "OST_130",
+        "OST_8",
+        "OST_89"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShanTeaHouse.jpg",
+        "BG_ShanStreet.jpg"
+      ],
+      "OST_66": [
+        "BG_ShanTeaHouse.jpg",
+        "BG_ShanStreet.jpg"
+      ],
+      "OST_130": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_8": [
+        "BG_ShanStreet.jpg"
+      ],
+      "OST_89": [
+        "BG_ShanStreet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_66": [
+        "Rumi"
+      ],
+      "OST_130": [
+        "Rumi"
+      ],
+      "OST_89": [
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_ShanTeaHouse.jpg",
+        "BG_ShanStreet.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,69 @@
-{"uuid": "0e93e534-be97-4f94-985a-4d2c288806f0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SUZUMI_4_NAME]", "desc": ["[STORY_BOND_SUZUMI_4_DESC_1]"], "pos": {"student": "SUZUMI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Amusement_Night.jpg", "BG_View_Sky_Night.jpg"], "character": ["Suzumi"], "track": ["OST_22", "OST_37", "OST_21"]}, "track_to_bg": {"OST_22": ["BG_Amusement_Night.jpg"], "OST_0": ["BG_Amusement_Night.jpg"], "OST_37": ["BG_View_Sky_Night.jpg"]}, "track_to_char": {"OST_22": ["Suzumi"], "OST_37": ["Suzumi"], "OST_21": ["Suzumi"]}, "char_to_bg": {"Suzumi": ["BG_Amusement_Night.jpg", "BG_View_Sky_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_21"}}, "is_memory": true}
+{
+  "uuid": "6781212f-8bdc-48b4-b24c-c7dc597403b6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SUZUMI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SUZUMI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SUZUMI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Amusement_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ],
+      "character": [
+        "Suzumi"
+      ],
+      "track": [
+        "OST_22",
+        "OST_37",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_Amusement_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Amusement_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_View_Sky_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Suzumi"
+      ],
+      "OST_37": [
+        "Suzumi"
+      ],
+      "OST_21": [
+        "Suzumi"
+      ]
+    },
+    "char_to_bg": {
+      "Suzumi": [
+        "BG_Amusement_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

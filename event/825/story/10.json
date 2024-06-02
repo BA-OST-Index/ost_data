@@ -1,1 +1,176 @@
-{"uuid": "78537567-53d2-47bb-96d5-5e8c96cabfc2", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_825_10_NAME]", "desc": ["[STORY_EVENT_825_10_DESC_1]"], "pos": {"event_id": 825, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UnderGroundAuction.jpg", "BG_UnderGroundAuction_Night.jpg", "BG_ForestRoad_Night.jpg", "BG_HotelLobby_Night.jpg", "BG_PartyRoom.jpg"], "character": ["Meitaro", "Toki_Bunny", "Momoi", "Yuzu_Maid", "Midori", "Aris_Maid", "Yuzu"], "track": ["OST_101", "OST_75", "OST_13", "OST_73", "OST_28"]}, "track_to_bg": {"OST_0": ["BG_UnderGroundAuction.jpg", "BG_UnderGroundAuction_Night.jpg", "BG_ForestRoad_Night.jpg"], "OST_101": ["BG_UnderGroundAuction.jpg"], "OST_75": ["BG_UnderGroundAuction_Night.jpg"], "OST_13": ["BG_ForestRoad_Night.jpg"], "OST_73": ["BG_ForestRoad_Night.jpg", "BG_HotelLobby_Night.jpg"], "OST_28": ["BG_ForestRoad_Night.jpg", "BG_UnderGroundAuction.jpg", "BG_PartyRoom.jpg"]}, "track_to_char": {"OST_101": ["Meitaro", "Toki_Bunny", "Momoi", "Yuzu_Maid", "Midori"], "OST_75": ["Meitaro"], "OST_13": ["Momoi", "Midori", "Yuzu_Maid", "Toki_Bunny", "Aris_Maid"], "OST_73": ["Midori", "Momoi", "Toki_Bunny", "Aris_Maid", "Yuzu_Maid", "Yuzu"], "OST_28": ["Toki_Bunny", "Momoi", "Aris_Maid", "Yuzu_Maid", "Midori"]}, "char_to_bg": {"Meitaro": ["BG_UnderGroundAuction.jpg", "BG_UnderGroundAuction_Night.jpg"], "Toki_Bunny": ["BG_UnderGroundAuction.jpg", "BG_ForestRoad_Night.jpg"], "Momoi": ["BG_UnderGroundAuction.jpg", "BG_ForestRoad_Night.jpg"], "Yuzu_Maid": ["BG_UnderGroundAuction.jpg", "BG_ForestRoad_Night.jpg"], "Midori": ["BG_UnderGroundAuction.jpg", "BG_ForestRoad_Night.jpg"], "Aris_Maid": ["BG_ForestRoad_Night.jpg"], "Yuzu": ["BG_ForestRoad_Night.jpg"]}, "char_to_char": {"Toki_Bunny": ["Meitaro", "Momoi", "Yuzu_Maid", "Midori", "Aris_Maid", "Yuzu"], "Momoi": ["Meitaro", "Toki_Bunny", "Yuzu_Maid", "Midori", "Aris_Maid", "Yuzu"], "Yuzu_Maid": ["Meitaro", "Toki_Bunny", "Momoi", "Midori", "Aris_Maid", "Yuzu"], "Midori": ["Meitaro", "Toki_Bunny", "Momoi", "Yuzu_Maid", "Aris_Maid", "Yuzu"], "Meitaro": ["Toki_Bunny", "Momoi", "Yuzu_Maid", "Midori"], "Aris_Maid": ["Momoi", "Midori", "Yuzu_Maid", "Toki_Bunny", "Yuzu"], "Yuzu": ["Midori", "Momoi", "Toki_Bunny", "Aris_Maid", "Yuzu_Maid"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ee089bdf-4b47-401c-8edb-e8c6c178bf99",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_825_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_825_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 825,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_UnderGroundAuction_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_HotelLobby_Night.jpg",
+        "BG_PartyRoom.jpg"
+      ],
+      "character": [
+        "Toki_Bunny",
+        "Momoi_Maid",
+        "Yuzu_Maid",
+        "Midori_Maid",
+        "Aris_Maid",
+        "Akira"
+      ],
+      "track": [
+        "OST_101",
+        "OST_75",
+        "OST_13",
+        "OST_73",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_UnderGroundAuction_Night.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_101": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "OST_75": [
+        "BG_UnderGroundAuction_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_HotelLobby_Night.jpg"
+      ],
+      "OST_28": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_UnderGroundAuction.jpg",
+        "BG_PartyRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_101": [
+        "Toki_Bunny",
+        "Momoi_Maid",
+        "Yuzu_Maid",
+        "Midori_Maid"
+      ],
+      "OST_13": [
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Yuzu_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "OST_73": [
+        "Akira",
+        "Midori_Maid",
+        "Momoi_Maid",
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "OST_28": [
+        "Toki_Bunny",
+        "Akira",
+        "Momoi_Maid",
+        "Aris_Maid",
+        "Yuzu_Maid",
+        "Midori_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Toki_Bunny": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Momoi_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Yuzu_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Midori_Maid": [
+        "BG_UnderGroundAuction.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Aris_Maid": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "Akira": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_UnderGroundAuction.jpg",
+        "BG_PartyRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Momoi_Maid": [
+        "Toki_Bunny",
+        "Yuzu_Maid",
+        "Midori_Maid",
+        "Aris_Maid",
+        "Akira"
+      ],
+      "Yuzu_Maid": [
+        "Toki_Bunny",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Aris_Maid",
+        "Akira"
+      ],
+      "Midori_Maid": [
+        "Toki_Bunny",
+        "Momoi_Maid",
+        "Yuzu_Maid",
+        "Aris_Maid",
+        "Akira"
+      ],
+      "Toki_Bunny": [
+        "Momoi_Maid",
+        "Yuzu_Maid",
+        "Midori_Maid",
+        "Aris_Maid",
+        "Akira"
+      ],
+      "Aris_Maid": [
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Yuzu_Maid",
+        "Toki_Bunny",
+        "Akira"
+      ],
+      "Akira": [
+        "Midori_Maid",
+        "Momoi_Maid",
+        "Toki_Bunny",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

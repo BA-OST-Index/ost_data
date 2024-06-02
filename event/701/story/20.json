@@ -1,1 +1,71 @@
-{"uuid": "78d9655e-2820-459a-ba7d-6452a872755e", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_20_NAME]", "desc": ["[STORY_EVENT_701_20_DESC_1]"], "pos": {"event_id": 701, "segment": 20}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSubmergedDistrict.jpg", "BG_View_RuinLabortory.jpg", "BG_RuinCity.jpg"], "character": ["Eimi", "Himari"], "track": ["OST_41"]}, "track_to_bg": {"OST_41": ["BG_RuinSubmergedDistrict.jpg", "BG_View_RuinLabortory.jpg", "BG_RuinCity.jpg"]}, "track_to_char": {"OST_41": ["Eimi", "Himari"]}, "char_to_bg": {"Eimi": ["BG_RuinSubmergedDistrict.jpg", "BG_RuinCity.jpg"], "Himari": ["BG_RuinSubmergedDistrict.jpg", "BG_RuinCity.jpg"]}, "char_to_char": {"Himari": ["Eimi"], "Eimi": ["Himari"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "7c13c23b-9c87-41ed-985e-072cea4fb94e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_20_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_20_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSubmergedDistrict.jpg",
+        "BG_View_RuinLabortory.jpg",
+        "BG_RuinCity.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Himari"
+      ],
+      "track": [
+        "OST_41"
+      ]
+    },
+    "track_to_bg": {
+      "OST_41": [
+        "BG_RuinSubmergedDistrict.jpg",
+        "BG_View_RuinLabortory.jpg",
+        "BG_RuinCity.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_41": [
+        "Eimi",
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_RuinSubmergedDistrict.jpg",
+        "BG_RuinCity.jpg"
+      ],
+      "Himari": [
+        "BG_RuinSubmergedDistrict.jpg",
+        "BG_RuinCity.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Himari": [
+        "Eimi"
+      ],
+      "Eimi": [
+        "Himari"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

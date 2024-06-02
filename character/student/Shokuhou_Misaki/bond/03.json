@@ -1,0 +1,60 @@
+{
+  "uuid": "24cfa45a-aba5-4a65-be87-cd685497b9ed",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHOKUHOU_MISAKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SHOKUHOU_MISAKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHOKUHOU_MISAKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "character": [
+        "Shokuhou_Misaki"
+      ],
+      "track": [
+        "OST_4",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_103": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Shokuhou_Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Shokuhou_Misaki": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_103"
+    }
+  },
+  "is_memory": true
+}

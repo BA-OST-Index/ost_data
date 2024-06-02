@@ -1,1 +1,101 @@
-{"uuid": "c3975544-2498-41e1-a8e5-8228fe7598c1", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_828_7_NAME]", "desc": ["[STORY_EVENT_828_7_DESC_1]"], "pos": {"event_id": 828, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ForestRoad.jpg"], "character": ["Koharu_Swimsuit", "Hanako_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"], "track": ["OST_20", "OST_3"]}, "track_to_bg": {"OST_20": ["BG_ForestRoad.jpg"], "OST_0": ["BG_ForestRoad.jpg"], "OST_3": ["BG_ForestRoad.jpg"]}, "track_to_char": {"OST_20": ["Koharu_Swimsuit", "Hanako_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"], "OST_3": ["Hanako_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"]}, "char_to_bg": {"Koharu_Swimsuit": ["BG_ForestRoad.jpg"], "Hanako_Swimsuit": ["BG_ForestRoad.jpg"], "Ui_Swimsuit": ["BG_ForestRoad.jpg"], "Hinata_Swimsuit": ["BG_ForestRoad.jpg"]}, "char_to_char": {"Hanako_Swimsuit": ["Koharu_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"], "Ui_Swimsuit": ["Koharu_Swimsuit", "Hanako_Swimsuit", "Hinata_Swimsuit"], "Hinata_Swimsuit": ["Koharu_Swimsuit", "Hanako_Swimsuit", "Ui_Swimsuit"], "Koharu_Swimsuit": ["Hanako_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ebd52501-0f15-4db9-913d-153f5174f853",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_828_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_828_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 828,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ForestRoad.jpg"
+      ],
+      "character": [
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ],
+      "track": [
+        "OST_20",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_20": [
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_3": [
+        "BG_ForestRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_20": [
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ],
+      "OST_3": [
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu_Swimsuit": [
+        "BG_ForestRoad.jpg"
+      ],
+      "Hanako_Swimsuit": [
+        "BG_ForestRoad.jpg"
+      ],
+      "Ui_Swimsuit": [
+        "BG_ForestRoad.jpg"
+      ],
+      "Hinata_Swimsuit": [
+        "BG_ForestRoad.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako_Swimsuit": [
+        "Koharu_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ],
+      "Ui_Swimsuit": [
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit",
+        "Hinata_Swimsuit"
+      ],
+      "Hinata_Swimsuit": [
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit"
+      ],
+      "Koharu_Swimsuit": [
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

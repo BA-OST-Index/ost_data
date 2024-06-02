@@ -1,1 +1,54 @@
-{"uuid": "bbb16ff6-2f8c-4d28-9fd8-3efc3e829e51", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MASHIRO_4_NAME]", "desc": ["[STORY_BOND_MASHIRO_4_DESC_1]"], "pos": {"student": "MASHIRO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolRooftop.jpg"], "character": ["Mashiro"], "track": ["OST_11"]}, "track_to_bg": {"OST_11": ["BG_SchoolRooftop.jpg"]}, "track_to_char": {"OST_11": ["Mashiro"]}, "char_to_bg": {"Mashiro": ["BG_SchoolRooftop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d266dc21-a9a4-4a6b-98cb-5cc6a2a749e1",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MASHIRO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MASHIRO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MASHIRO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolRooftop.jpg"
+      ],
+      "character": [
+        "Mashiro"
+      ],
+      "track": [
+        "OST_11"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Mashiro"
+      ]
+    },
+    "char_to_bg": {
+      "Mashiro": [
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

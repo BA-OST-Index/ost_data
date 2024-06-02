@@ -1,0 +1,61 @@
+{
+  "uuid": "a1cdf1b5-ff7a-4d04-b795-1c68a8225c58",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YOSHIMI_BAND_2_NAME]",
+  "desc": [
+    "[STORY_BOND_YOSHIMI_BAND_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "YOSHIMI_BAND",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DessertCafe.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_10",
+        "OST_130",
+        "OST_22",
+        "OST_91"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_0": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_130": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_22": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_91": [
+        "BG_DessertCafe.jpg",
+        "BG_View_Sky.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

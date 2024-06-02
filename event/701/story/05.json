@@ -1,1 +1,81 @@
-{"uuid": "aeec2e04-2fc4-41da-96b2-5a67457b6500", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_701_5_NAME]", "desc": ["[STORY_EVENT_701_5_DESC_1]"], "pos": {"event_id": 701, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCampus.jpg", "BG_SpecialOperationRoom.jpg"], "character": ["Eimi", "Himari"], "track": ["OST_16", "OST_3", "OST_96"]}, "track_to_bg": {"OST_16": ["BG_MilleniumCampus.jpg", "BG_SpecialOperationRoom.jpg"], "OST_0": ["BG_MilleniumCampus.jpg", "BG_SpecialOperationRoom.jpg"], "OST_3": ["BG_SpecialOperationRoom.jpg"], "OST_96": ["BG_SpecialOperationRoom.jpg"]}, "track_to_char": {"OST_16": ["Eimi", "Himari"], "OST_3": ["Eimi", "Himari"], "OST_96": ["Himari", "Eimi"]}, "char_to_bg": {"Eimi": ["BG_MilleniumCampus.jpg", "BG_SpecialOperationRoom.jpg"], "Himari": ["BG_SpecialOperationRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2ab00ce3-50e3-4794-a5ad-ff5d5cd1b620",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCampus.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Himari"
+      ],
+      "track": [
+        "OST_16",
+        "OST_3",
+        "OST_96"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MilleniumCampus.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCampus.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_96": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Eimi",
+        "Himari"
+      ],
+      "OST_3": [
+        "Eimi",
+        "Himari"
+      ],
+      "OST_96": [
+        "Himari",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_MilleniumCampus.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

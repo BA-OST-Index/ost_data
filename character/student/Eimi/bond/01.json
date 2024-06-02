@@ -1,1 +1,57 @@
-{"uuid": "b19028d2-7e08-47b7-8437-2ede5837244d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_EIMI_1_NAME]", "desc": ["[STORY_BOND_EIMI_1_DESC_1]"], "pos": {"student": "EIMI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCenter.jpg"], "character": ["Eimi"], "track": ["OST_3"]}, "track_to_bg": {"OST_0": ["BG_MilleniumCenter.jpg"], "OST_3": ["BG_MilleniumCenter.jpg"]}, "track_to_char": {"OST_3": ["Eimi"]}, "char_to_bg": {"Eimi": ["BG_MilleniumCenter.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5e18fd9b-1f8e-44d4-be29-81b92237437c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "character": [
+        "Eimi"
+      ],
+      "track": [
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_3": [
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

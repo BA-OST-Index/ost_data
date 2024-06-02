@@ -1,1 +1,64 @@
-{"uuid": "01d3bcc6-120f-4529-8795-ed648c2a2e89", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SAYA_CASUAL_4_NAME]", "desc": ["[STORY_BOND_SAYA_CASUAL_4_DESC_1]"], "pos": {"student": "SAYA_CASUAL", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanTeaHouse.jpg"], "character": ["Saya_Casual"], "track": ["OST_6", "OST_3"]}, "track_to_bg": {"OST_6": ["BG_ShanTeaHouse.jpg"], "OST_0": ["BG_ShanTeaHouse.jpg"], "OST_3": ["BG_ShanTeaHouse.jpg"]}, "track_to_char": {"OST_6": ["Saya_Casual"], "OST_3": ["Saya_Casual"]}, "char_to_bg": {"Saya_Casual": ["BG_ShanTeaHouse.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "88f36c8d-f963-4811-a178-185099d49468",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SAYA_CASUAL_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SAYA_CASUAL_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SAYA_CASUAL",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Saya_Casual"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_0": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_3": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Saya_Casual"
+      ],
+      "OST_3": [
+        "Saya_Casual"
+      ]
+    },
+    "char_to_bg": {
+      "Saya_Casual": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

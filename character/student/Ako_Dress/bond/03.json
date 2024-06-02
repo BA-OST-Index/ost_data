@@ -1,0 +1,49 @@
+{
+  "uuid": "8742c1a0-ff80-4b5a-aca3-cbf5063552ae",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKO_DRESS_3_NAME]",
+  "desc": [
+    "[STORY_BOND_AKO_DRESS_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKO_DRESS",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PartyRoom.jpg",
+        "BG_HotelLobby.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_47",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_PartyRoom.jpg",
+        "BG_HotelLobby.jpg"
+      ],
+      "OST_0": [
+        "BG_HotelLobby.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_103"
+    }
+  },
+  "is_memory": true
+}

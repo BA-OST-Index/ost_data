@@ -1,1 +1,53 @@
-{"uuid": "e3cf3012-a26b-4030-9654-6b13811ac92a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_68_NAME]", "desc": ["[STORY_EVENT_999_68_DESC_1]"], "pos": {"event_id": 999, "segment": 68}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCorridor.jpg"], "character": ["Kotori"], "track": ["OST_13"]}, "track_to_bg": {"OST_13": ["BG_MilleniumCorridor.jpg"]}, "track_to_char": {"OST_13": ["Kotori"]}, "char_to_bg": {"Kotori": ["BG_MilleniumCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "5e71e075-5a5f-4470-92e6-65eb06ed834c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_68_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_68_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 68
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCorridor.jpg"
+      ],
+      "character": [
+        "Kotori"
+      ],
+      "track": [
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_MilleniumCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori": [
+        "BG_MilleniumCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

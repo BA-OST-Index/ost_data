@@ -1,1 +1,101 @@
-{"uuid": "d53f0e89-8d18-4a61-9e3f-71374938abde", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_801_3_NAME]", "desc": ["[STORY_EVENT_801_3_DESC_1]"], "pos": {"event_id": 801, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg", "BG_RuinSchoolCorridor.jpg"], "character": ["Izuna", "Shizuko", "Pina"], "track": ["OST_8", "OST_13", "OST_27"]}, "track_to_bg": {"OST_0": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg", "BG_RuinSchoolCorridor.jpg"], "OST_8": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_13": ["BG_FamilyRestaurant.jpg"], "OST_27": ["BG_RuinSchoolCorridor.jpg"]}, "track_to_char": {"OST_8": ["Izuna", "Shizuko", "Pina"], "OST_13": ["Shizuko", "Pina"], "OST_27": ["Izuna"]}, "char_to_bg": {"Izuna": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_RuinSchoolCorridor.jpg"], "Shizuko": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg"], "Pina": ["BG_HyakkiyakoFestivalRoad.jpg", "BG_FamilyRestaurant.jpg"]}, "char_to_char": {"Shizuko": ["Izuna", "Pina"], "Pina": ["Izuna", "Shizuko"], "Izuna": ["Shizuko", "Pina"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b739596b-9d08-49b6-8187-0b8b7ce19930",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_801_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_801_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 801,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Shizuko",
+        "Pina"
+      ],
+      "track": [
+        "OST_8",
+        "OST_13",
+        "OST_27"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_8": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_13": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_27": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Izuna",
+        "Shizuko",
+        "Pina"
+      ],
+      "OST_13": [
+        "Shizuko",
+        "Pina"
+      ],
+      "OST_27": [
+        "Izuna"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Pina": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Shizuko": [
+        "Izuna",
+        "Pina"
+      ],
+      "Pina": [
+        "Izuna",
+        "Shizuko"
+      ],
+      "Izuna": [
+        "Shizuko",
+        "Pina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

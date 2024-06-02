@@ -1,1 +1,99 @@
-{"uuid": "693f4396-714d-445c-baa5-440fe053f2ab", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIMARI_2_NAME]", "desc": ["[STORY_BOND_HIMARI_2_DESC_1]"], "pos": {"student": "HIMARI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCampus.jpg", "BG_BusStation.jpg", "BG_View_Kivotos2.jpg", "BG_Wharf.jpg", "BG_CityTown.jpg", "BG_BigBridge.jpg", "BG_Residence.jpg", "BG_ClassRoom2.jpg"], "character": ["Himari"], "track": ["OST_10", "OST_130", "OST_3", "OST_16", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_MilleniumCampus.jpg", "BG_View_Kivotos2.jpg", "BG_Wharf.jpg", "BG_CityTown.jpg", "BG_ClassRoom2.jpg"], "OST_10": ["BG_MilleniumCampus.jpg", "BG_BusStation.jpg", "BG_View_Kivotos2.jpg"], "OST_130": ["BG_View_Kivotos2.jpg", "BG_Wharf.jpg"], "OST_3": ["BG_CityTown.jpg", "BG_BigBridge.jpg", "BG_Residence.jpg"], "OST_16": ["BG_ClassRoom2.jpg"], "OST_7": ["BG_ClassRoom2.jpg"]}, "track_to_char": {"OST_16": ["Himari"], "OST_7": ["Himari"]}, "char_to_bg": {"Himari": ["BG_ClassRoom2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "735cb11b-9c03-4fa3-9698-c153ea74c54f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIMARI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HIMARI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIMARI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCampus.jpg",
+        "BG_BusStation.jpg",
+        "BG_View_Kivotos2.jpg",
+        "BG_Wharf.jpg",
+        "BG_CityTown.jpg",
+        "BG_BigBridge.jpg",
+        "BG_Residence.jpg",
+        "BG_ClassRoom2.jpg"
+      ],
+      "character": [
+        "Guard Drone",
+        "Himari"
+      ],
+      "track": [
+        "OST_10",
+        "OST_130",
+        "OST_3",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MilleniumCampus.jpg",
+        "BG_View_Kivotos2.jpg",
+        "BG_Wharf.jpg",
+        "BG_CityTown.jpg",
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_10": [
+        "BG_MilleniumCampus.jpg",
+        "BG_BusStation.jpg",
+        "BG_View_Kivotos2.jpg"
+      ],
+      "OST_130": [
+        "BG_View_Kivotos2.jpg",
+        "BG_Wharf.jpg"
+      ],
+      "OST_3": [
+        "BG_CityTown.jpg",
+        "BG_BigBridge.jpg",
+        "BG_Residence.jpg"
+      ],
+      "OST_16": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_7": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Guard Drone"
+      ],
+      "OST_16": [
+        "Himari"
+      ],
+      "OST_7": [
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Guard Drone": [
+        "BG_BigBridge.jpg"
+      ],
+      "Himari": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

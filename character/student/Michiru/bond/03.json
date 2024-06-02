@@ -1,1 +1,78 @@
-{"uuid": "0ce21a82-4c22-4392-b14d-1f6a57722338", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MICHIRU_3_NAME]", "desc": ["[STORY_BOND_MICHIRU_3_DESC_1]"], "pos": {"student": "MICHIRU", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoFestivalRoad.jpg"], "character": ["Michiru"], "track": ["OST_10", "OST_8", "OST_60", "OST_54"]}, "track_to_bg": {"OST_0": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_10": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_8": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_60": ["BG_HyakkiyakoFestivalRoad.jpg"], "OST_54": ["BG_HyakkiyakoFestivalRoad.jpg"]}, "track_to_char": {"OST_10": ["Michiru"], "OST_8": ["Michiru"], "OST_60": ["Michiru"], "OST_54": ["Michiru"]}, "char_to_bg": {"Michiru": ["BG_HyakkiyakoFestivalRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "154e44ce-fa67-4fb4-9ee7-3a935fa20dbf",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MICHIRU_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MICHIRU_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MICHIRU",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "character": [
+        "Michiru"
+      ],
+      "track": [
+        "OST_10",
+        "OST_8",
+        "OST_60",
+        "OST_54"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_10": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_8": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_60": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_54": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Michiru"
+      ],
+      "OST_8": [
+        "Michiru"
+      ],
+      "OST_60": [
+        "Michiru"
+      ],
+      "OST_54": [
+        "Michiru"
+      ]
+    },
+    "char_to_bg": {
+      "Michiru": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

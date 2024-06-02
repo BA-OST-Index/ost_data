@@ -1,0 +1,79 @@
+{
+  "uuid": "f7696e11-a6f6-4297-b6df-c011ae4bccff",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "character": [
+        "Eimi",
+        "Eimi_Swimsuit"
+      ],
+      "track": [
+        "OST_28",
+        "OST_130",
+        "OST_104"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_28": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_130": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_104": [
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Eimi"
+      ],
+      "OST_130": [
+        "Eimi"
+      ],
+      "OST_104": [
+        "Eimi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "Eimi_Swimsuit": [
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

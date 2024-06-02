@@ -1,1 +1,67 @@
-{"uuid": "facedf16-dc9d-4911-8fe3-4d61eb00fd9e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MINA_1_NAME]", "desc": ["[STORY_BOND_MINA_1_DESC_1]"], "pos": {"student": "MINA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_BuildingCorridor.jpg"], "character": ["Mina"], "track": ["OST_130", "OST_16"]}, "track_to_bg": {"OST_0": ["BG_MainOffice.jpg", "BG_BuildingCorridor.jpg"], "OST_130": ["BG_BuildingCorridor.jpg"], "OST_16": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_130": ["Mina"], "OST_16": ["Mina"]}, "char_to_bg": {"Mina": ["BG_BuildingCorridor.jpg", "BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "2fb78268-95bf-43e9-a4f2-ee6cdcbf94df",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MINA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MINA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MINA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_BuildingCorridor.jpg"
+      ],
+      "character": [
+        "Mina"
+      ],
+      "track": [
+        "OST_130",
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_BuildingCorridor.jpg"
+      ],
+      "OST_130": [
+        "BG_BuildingCorridor.jpg"
+      ],
+      "OST_16": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Mina"
+      ],
+      "OST_16": [
+        "Mina"
+      ]
+    },
+    "char_to_bg": {
+      "Mina": [
+        "BG_BuildingCorridor.jpg",
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

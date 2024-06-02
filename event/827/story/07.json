@@ -1,1 +1,82 @@
-{"uuid": "220100cb-d816-4230-b12a-9ebbffe1e4f7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_827_7_NAME]", "desc": ["[STORY_EVENT_827_7_DESC_1]"], "pos": {"event_id": 827, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_FishingVillage2.jpg", "BG_LightHousePier2.jpg", "BG_SeashoreRocks.jpg"], "character": ["Saki_Swimsuit", "Moe", "Miyako_Swimsuit", "Miyu_Swimsuit"], "track": ["OST_6"]}, "track_to_bg": {"OST_0": ["BG_FishingVillage2.jpg"], "OST_6": ["BG_FishingVillage2.jpg", "BG_LightHousePier2.jpg", "BG_SeashoreRocks.jpg"]}, "track_to_char": {"OST_6": ["Saki_Swimsuit", "Moe", "Miyako_Swimsuit", "Miyu_Swimsuit"]}, "char_to_bg": {"Saki_Swimsuit": ["BG_FishingVillage2.jpg"], "Moe": ["BG_FishingVillage2.jpg"], "Miyako_Swimsuit": ["BG_LightHousePier2.jpg"], "Miyu_Swimsuit": ["BG_SeashoreRocks.jpg"]}, "char_to_char": {"Moe": ["Saki_Swimsuit"], "Saki_Swimsuit": ["Moe"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9451b370-47bd-4012-ac4b-8a78e2759c5e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_827_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_827_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 827,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FishingVillage2.jpg",
+        "BG_LightHousePier2.jpg",
+        "BG_SeashoreRocks.jpg"
+      ],
+      "character": [
+        "Saki_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyako_Swimsuit",
+        "Miyu_Swimsuit"
+      ],
+      "track": [
+        "OST_6"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_FishingVillage2.jpg"
+      ],
+      "OST_6": [
+        "BG_FishingVillage2.jpg",
+        "BG_LightHousePier2.jpg",
+        "BG_SeashoreRocks.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Saki_Swimsuit",
+        "Moe_Swimsuit",
+        "Miyako_Swimsuit",
+        "Miyu_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Saki_Swimsuit": [
+        "BG_FishingVillage2.jpg"
+      ],
+      "Moe_Swimsuit": [
+        "BG_FishingVillage2.jpg"
+      ],
+      "Miyako_Swimsuit": [
+        "BG_LightHousePier2.jpg"
+      ],
+      "Miyu_Swimsuit": [
+        "BG_SeashoreRocks.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe_Swimsuit": [
+        "Saki_Swimsuit"
+      ],
+      "Saki_Swimsuit": [
+        "Moe_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

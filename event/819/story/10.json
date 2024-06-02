@@ -1,1 +1,118 @@
-{"uuid": "1a9a2ac7-2eb4-4b7f-85f8-32a086ee1f4d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_10_NAME]", "desc": ["[STORY_EVENT_819_10_DESC_1]"], "pos": {"event_id": 819, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityStreet2_Night.jpg"], "character": ["Tsurugi", "Hasumi", "Mine", "Serina_Christmas", "Hanae_Christmas"], "track": ["OST_31", "OST_21"]}, "track_to_bg": {"OST_31": ["BG_TrinityStreet2_Night.jpg"], "OST_0": ["BG_TrinityStreet2_Night.jpg"], "OST_21": ["BG_TrinityStreet2_Night.jpg"]}, "track_to_char": {"OST_31": ["Tsurugi", "Hasumi", "Mine", "Serina_Christmas", "Hanae_Christmas"], "OST_21": ["Hasumi", "Tsurugi", "Serina_Christmas", "Hanae_Christmas", "Mine"]}, "char_to_bg": {"Tsurugi": ["BG_TrinityStreet2_Night.jpg"], "Hasumi": ["BG_TrinityStreet2_Night.jpg"], "Mine": ["BG_TrinityStreet2_Night.jpg"], "Serina_Christmas": ["BG_TrinityStreet2_Night.jpg"], "Hanae_Christmas": ["BG_TrinityStreet2_Night.jpg"]}, "char_to_char": {"Hasumi": ["Tsurugi", "Mine", "Serina_Christmas", "Hanae_Christmas"], "Mine": ["Tsurugi", "Hasumi", "Serina_Christmas", "Hanae_Christmas"], "Serina_Christmas": ["Tsurugi", "Hasumi", "Mine", "Hanae_Christmas"], "Hanae_Christmas": ["Tsurugi", "Hasumi", "Mine", "Serina_Christmas"], "Tsurugi": ["Hasumi", "Mine", "Serina_Christmas", "Hanae_Christmas"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "47f0ac93-106d-4130-8ab8-16ff2e65ef3e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "character": [
+        "Tsurugi",
+        "Hasumi",
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "track": [
+        "OST_31",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_31": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityStreet2_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_31": [
+        "Tsurugi",
+        "Hasumi",
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "OST_21": [
+        "Hasumi",
+        "Tsurugi",
+        "Serina_Christmas",
+        "Hanae_Christmas",
+        "Mine"
+      ]
+    },
+    "char_to_bg": {
+      "Tsurugi": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Mine": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Serina_Christmas": [
+        "BG_TrinityStreet2_Night.jpg"
+      ],
+      "Hanae_Christmas": [
+        "BG_TrinityStreet2_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi": [
+        "Tsurugi",
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "Mine": [
+        "Tsurugi",
+        "Hasumi",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "Serina_Christmas": [
+        "Tsurugi",
+        "Hasumi",
+        "Mine",
+        "Hanae_Christmas"
+      ],
+      "Hanae_Christmas": [
+        "Tsurugi",
+        "Hasumi",
+        "Mine",
+        "Serina_Christmas"
+      ],
+      "Tsurugi": [
+        "Hasumi",
+        "Mine",
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

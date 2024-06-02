@@ -1,0 +1,127 @@
+{
+  "uuid": "88df7cc9-4fc3-4877-955d-953930f35c53",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Saten_Ruiko",
+        "Himari",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Eimi"
+      ],
+      "track": [
+        "OST_38",
+        "OST_3",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "OST_22": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Saten_Ruiko",
+        "Himari",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki"
+      ],
+      "OST_3": [
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Himari",
+        "Saten_Ruiko"
+      ],
+      "OST_22": [
+        "Himari",
+        "Shokuhou_Misaki",
+        "Saten_Ruiko",
+        "Misaka_Mikoto",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Saten_Ruiko": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Shokuhou_Misaki": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "Eimi": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Himari": [
+        "Saten_Ruiko",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Eimi"
+      ],
+      "Misaka_Mikoto": [
+        "Saten_Ruiko",
+        "Himari",
+        "Shokuhou_Misaki",
+        "Eimi"
+      ],
+      "Shokuhou_Misaki": [
+        "Saten_Ruiko",
+        "Himari",
+        "Misaka_Mikoto",
+        "Eimi"
+      ],
+      "Eimi": [
+        "Saten_Ruiko",
+        "Himari",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki"
+      ],
+      "Saten_Ruiko": [
+        "Himari",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Eimi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

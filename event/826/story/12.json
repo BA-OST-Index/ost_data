@@ -1,1 +1,101 @@
-{"uuid": "e7164f71-a95b-4dd7-8a81-bd2852973b29", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_826_12_NAME]", "desc": ["[STORY_EVENT_826_12_DESC_1]"], "pos": {"event_id": 826, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanPresident2.jpg"], "character": ["Rumi", "Reijo", "Mina"], "track": ["OST_8", "OST_88"]}, "track_to_bg": {"OST_0": ["BG_ShanPresident2.jpg"], "OST_8": ["BG_ShanPresident2.jpg"], "OST_88": ["BG_ShanPresident2.jpg"]}, "track_to_char": {"OST_8": ["Rumi", "Reijo", "Mina"], "OST_88": ["Reijo", "Rumi"]}, "char_to_bg": {"Rumi": ["BG_ShanPresident2.jpg"], "Reijo": ["BG_ShanPresident2.jpg"], "Mina": ["BG_ShanPresident2.jpg"]}, "char_to_char": {"Reijo": ["Rumi", "Mina"], "Mina": ["Rumi", "Reijo"], "Rumi": ["Reijo", "Mina"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "dea72ed7-f0e9-42de-a761-7735fcf6cb7b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_826_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_826_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 826,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "character": [
+        "Rumi",
+        "Reijo",
+        "Kisaki",
+        "Mina"
+      ],
+      "track": [
+        "OST_8",
+        "OST_88"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "OST_8": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "OST_88": [
+        "BG_ShanPresident2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Rumi",
+        "Reijo",
+        "Mina",
+        "Kisaki"
+      ],
+      "OST_88": [
+        "Kisaki",
+        "Reijo",
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "Reijo": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "Kisaki": [
+        "BG_ShanPresident2.jpg"
+      ],
+      "Mina": [
+        "BG_ShanPresident2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Reijo": [
+        "Rumi",
+        "Kisaki",
+        "Mina"
+      ],
+      "Kisaki": [
+        "Rumi",
+        "Reijo",
+        "Mina"
+      ],
+      "Mina": [
+        "Rumi",
+        "Reijo",
+        "Kisaki"
+      ],
+      "Rumi": [
+        "Reijo",
+        "Kisaki",
+        "Mina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

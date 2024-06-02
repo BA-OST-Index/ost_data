@@ -1,1 +1,122 @@
-{"uuid": "8ae02b76-2f6d-40c2-a067-a0de09035788", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_825_9_NAME]", "desc": ["[STORY_EVENT_825_9_DESC_1]"], "pos": {"event_id": 825, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UnderGroundAuction.jpg"], "character": ["Yuzu_Maid", "Momoi", "Midori", "Toki_Bunny", "Aris_Maid", "Meitaro"], "track": ["OST_92", "OST_27", "OST_159"]}, "track_to_bg": {"OST_0": ["BG_UnderGroundAuction.jpg"], "OST_27": ["BG_UnderGroundAuction.jpg"], "OST_159": ["BG_UnderGroundAuction.jpg"]}, "track_to_char": {"OST_92": ["Yuzu_Maid", "Momoi", "Midori", "Toki_Bunny", "Aris_Maid"], "OST_27": ["Midori", "Momoi", "Meitaro", "Yuzu_Maid", "Toki_Bunny", "Aris_Maid"], "OST_159": ["Meitaro", "Toki_Bunny"]}, "char_to_bg": {"Momoi": ["BG_UnderGroundAuction.jpg"], "Midori": ["BG_UnderGroundAuction.jpg"], "Aris_Maid": ["BG_UnderGroundAuction.jpg"], "Toki_Bunny": ["BG_UnderGroundAuction.jpg"], "Meitaro": ["BG_UnderGroundAuction.jpg"], "Yuzu_Maid": ["BG_UnderGroundAuction.jpg"]}, "char_to_char": {"Momoi": ["Yuzu_Maid", "Midori", "Toki_Bunny", "Aris_Maid"], "Midori": ["Yuzu_Maid", "Momoi", "Toki_Bunny", "Aris_Maid"], "Toki_Bunny": ["Yuzu_Maid", "Momoi", "Midori", "Aris_Maid"], "Aris_Maid": ["Yuzu_Maid", "Momoi", "Midori", "Toki_Bunny"], "Yuzu_Maid": ["Momoi", "Midori", "Toki_Bunny", "Aris_Maid"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "5d0b36ea-876b-4e0b-be20-256515dd3c11",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_825_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_825_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 825,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "character": [
+        "Yuzu_Maid",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "track": [
+        "OST_92",
+        "OST_27",
+        "OST_159"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "OST_27": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "OST_159": [
+        "BG_UnderGroundAuction.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_92": [
+        "Yuzu_Maid",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "OST_27": [
+        "Midori_Maid",
+        "Momoi_Maid",
+        "Yuzu_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "OST_159": [
+        "Toki_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Momoi_Maid": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "Midori_Maid": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "Aris_Maid": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "Toki_Bunny": [
+        "BG_UnderGroundAuction.jpg"
+      ],
+      "Yuzu_Maid": [
+        "BG_UnderGroundAuction.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Momoi_Maid": [
+        "Yuzu_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "Midori_Maid": [
+        "Yuzu_Maid",
+        "Momoi_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ],
+      "Toki_Bunny": [
+        "Yuzu_Maid",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Aris_Maid"
+      ],
+      "Aris_Maid": [
+        "Yuzu_Maid",
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny"
+      ],
+      "Yuzu_Maid": [
+        "Momoi_Maid",
+        "Midori_Maid",
+        "Toki_Bunny",
+        "Aris_Maid"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

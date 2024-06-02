@@ -1,1 +1,78 @@
-{"uuid": "f4ffe5ed-8c9b-4a32-ab66-088a9dfb9385", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IZUMI_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_IZUMI_SWIMSUIT_1_DESC_1]"], "pos": {"student": "IZUMI_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg"], "character": ["Izumi_Swimsuit"], "track": ["OST_4", "OST_6", "OST_5", "OST_28"]}, "track_to_bg": {"OST_4": ["BG_BeachsideShop.jpg"], "OST_0": ["BG_BeachsideShop.jpg"], "OST_6": ["BG_BeachsideShop.jpg"], "OST_5": ["BG_BeachsideShop.jpg"], "OST_28": ["BG_BeachsideShop.jpg"]}, "track_to_char": {"OST_4": ["Izumi_Swimsuit"], "OST_6": ["Izumi_Swimsuit"], "OST_5": ["Izumi_Swimsuit"], "OST_28": ["Izumi_Swimsuit"]}, "char_to_bg": {"Izumi_Swimsuit": ["BG_BeachsideShop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "61181bdb-cb6c-403b-b365-d3391372c549",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IZUMI_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_IZUMI_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "IZUMI_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "character": [
+        "Izumi_Swimsuit"
+      ],
+      "track": [
+        "OST_4",
+        "OST_6",
+        "OST_5",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_6": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_5": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_28": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Izumi_Swimsuit"
+      ],
+      "OST_6": [
+        "Izumi_Swimsuit"
+      ],
+      "OST_5": [
+        "Izumi_Swimsuit"
+      ],
+      "OST_28": [
+        "Izumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Izumi_Swimsuit": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

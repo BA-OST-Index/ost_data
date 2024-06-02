@@ -1,1 +1,73 @@
-{"uuid": "5af61828-196b-4f79-8512-63c8465b6ac1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOKONA_4_NAME]", "desc": ["[STORY_BOND_KOKONA_4_DESC_1]"], "pos": {"student": "KOKONA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg", "BG_FamilyRestaurant.jpg"], "character": ["Kokona"], "track": ["OST_13", "OST_47", "OST_36"]}, "track_to_bg": {"OST_13": ["BG_CityDowntown.jpg"], "OST_0": ["BG_CityDowntown.jpg", "BG_FamilyRestaurant.jpg"], "OST_47": ["BG_FamilyRestaurant.jpg"], "OST_36": ["BG_FamilyRestaurant.jpg"]}, "track_to_char": {"OST_13": ["Kokona"], "OST_47": ["Kokona"], "OST_36": ["Kokona"]}, "char_to_bg": {"Kokona": ["BG_CityDowntown.jpg", "BG_FamilyRestaurant.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "32be3daf-89f8-48c7-b3bf-a01cafef5897",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOKONA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KOKONA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOKONA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "character": [
+        "Kokona"
+      ],
+      "track": [
+        "OST_13",
+        "OST_47",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_47": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_36": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Kokona"
+      ],
+      "OST_47": [
+        "Kokona"
+      ],
+      "OST_36": [
+        "Kokona"
+      ]
+    },
+    "char_to_bg": {
+      "Kokona": [
+        "BG_CityDowntown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

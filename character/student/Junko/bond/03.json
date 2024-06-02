@@ -1,1 +1,64 @@
-{"uuid": "5ec7f323-6879-437e-95e4-e337350dd193", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_JUNKO_3_NAME]", "desc": ["[STORY_BOND_JUNKO_3_DESC_1]"], "pos": {"student": "JUNKO", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg"], "character": ["Junko"], "track": ["OST_15", "OST_66"]}, "track_to_bg": {"OST_0": ["BG_MainOffice.jpg"], "OST_15": ["BG_MainOffice.jpg"], "OST_66": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_15": ["Junko"], "OST_66": ["Junko"]}, "char_to_bg": {"Junko": ["BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "52fb7fa6-ef72-4d5e-82f8-eeedf7b2c17b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_JUNKO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_JUNKO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "JUNKO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Junko"
+      ],
+      "track": [
+        "OST_15",
+        "OST_66"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_15": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_66": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Junko"
+      ],
+      "OST_66": [
+        "Junko"
+      ]
+    },
+    "char_to_bg": {
+      "Junko": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

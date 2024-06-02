@@ -1,0 +1,105 @@
+{
+  "uuid": "103266f6-e326-45c7-8ed3-309444c42be4",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_821_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_821_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 821,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_S1Final_14.jpg",
+        "BG_CS_PV4_008_2.jpg",
+        "BG_BigBridge.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_Residence.jpg",
+        "BG_Park_Erode.jpg",
+        "BG_View_Schale_Erode.jpg",
+        "BG_HQ_Erode.jpg",
+        "BG_AronaRoom_Night.jpg",
+        "BG_CS_PV4_044.jpg"
+      ],
+      "character": [
+        "Ayumu",
+        "Rin",
+        "Momoka",
+        "Arona"
+      ],
+      "track": [
+        "OST_41"
+      ]
+    },
+    "track_to_bg": {
+      "OST_41": [
+        "BG_CS_S1Final_14.jpg",
+        "BG_CS_PV4_008_2.jpg",
+        "BG_BigBridge.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_Residence.jpg",
+        "BG_Park_Erode.jpg",
+        "BG_View_Schale_Erode.jpg",
+        "BG_HQ_Erode.jpg",
+        "BG_AronaRoom_Night.jpg",
+        "BG_CS_PV4_044.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_41": [
+        "Ayumu",
+        "Rin",
+        "Momoka",
+        "Arona"
+      ]
+    },
+    "char_to_bg": {
+      "Ayumu": [
+        "BG_HQ_Erode.jpg",
+        "BG_CS_PV4_044.jpg"
+      ],
+      "Rin": [
+        "BG_HQ_Erode.jpg",
+        "BG_AronaRoom_Night.jpg"
+      ],
+      "Momoka": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "Arona": [
+        "BG_AronaRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rin": [
+        "Ayumu",
+        "Momoka",
+        "Arona"
+      ],
+      "Momoka": [
+        "Ayumu",
+        "Rin"
+      ],
+      "Ayumu": [
+        "Rin",
+        "Momoka"
+      ],
+      "Arona": [
+        "Rin"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

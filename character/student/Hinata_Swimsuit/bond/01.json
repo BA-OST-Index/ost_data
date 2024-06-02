@@ -1,1 +1,63 @@
-{"uuid": "2203daaf-ecb0-4ba8-bf10-26a8ff70661d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINATA_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_HINATA_SWIMSUIT_1_DESC_1]"], "pos": {"student": "HINATA_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_IslandBeach.jpg"], "character": ["Hinata_Swimsuit"], "track": ["OST_10", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_IslandBeach.jpg"], "OST_10": ["BG_IslandBeach.jpg"], "OST_38": ["BG_IslandBeach.jpg"]}, "track_to_char": {"OST_10": ["Hinata_Swimsuit"], "OST_38": ["Hinata_Swimsuit"]}, "char_to_bg": {"Hinata_Swimsuit": ["BG_IslandBeach.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_38"}}, "is_memory": true}
+{
+  "uuid": "4fcdf1b9-4d77-4f30-9b51-2b9dde3a0e3b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINATA_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HINATA_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINATA_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IslandBeach.jpg"
+      ],
+      "character": [
+        "Hinata_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_10": [
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_38": [
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hinata_Swimsuit"
+      ],
+      "OST_38": [
+        "Hinata_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata_Swimsuit": [
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_38"
+    }
+  },
+  "is_memory": true
+}

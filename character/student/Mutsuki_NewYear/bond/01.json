@@ -1,1 +1,73 @@
-{"uuid": "e4b3f8a3-224c-4131-ab0e-81a3e936b8b6", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MUTSUKI_NEWYEAR_1_NAME]", "desc": ["[STORY_BOND_MUTSUKI_NEWYEAR_1_DESC_1]"], "pos": {"student": "MUTSUKI_NEWYEAR", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RestingLounge_Night.jpg", "BG_RestingLounge.jpg"], "character": ["Mutsuki_NewYear"], "track": ["OST_6", "OST_3", "OST_4"]}, "track_to_bg": {"OST_0": ["BG_RestingLounge_Night.jpg", "BG_RestingLounge.jpg"], "OST_6": ["BG_RestingLounge.jpg"], "OST_3": ["BG_RestingLounge.jpg"], "OST_4": ["BG_RestingLounge.jpg"]}, "track_to_char": {"OST_6": ["Mutsuki_NewYear"], "OST_3": ["Mutsuki_NewYear"], "OST_4": ["Mutsuki_NewYear"]}, "char_to_bg": {"Mutsuki_NewYear": ["BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "aa33f39c-4d7c-4d40-9f44-05754d26c029",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MUTSUKI_NEWYEAR_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MUTSUKI_NEWYEAR_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MUTSUKI_NEWYEAR",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RestingLounge_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Mutsuki_NewYear"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3",
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RestingLounge_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_6": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_4": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_3": [
+        "Mutsuki_NewYear"
+      ],
+      "OST_4": [
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki_NewYear": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,53 @@
-{"uuid": "b20b12f5-b441-4133-8012-f2fd5f3fa51a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_41_NAME]", "desc": ["[STORY_EVENT_999_41_DESC_1]"], "pos": {"event_id": 999, "segment": 41}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BigPlaza_Sunset.jpg"], "character": ["Serika"], "track": ["OST_15"]}, "track_to_bg": {"OST_15": ["BG_BigPlaza_Sunset.jpg"]}, "track_to_char": {"OST_15": ["Serika"]}, "char_to_bg": {"Serika": ["BG_BigPlaza_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "45b63013-ff81-4ff8-9254-0fcf386f665b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_41_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_41_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 41
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "character": [
+        "Serika"
+      ],
+      "track": [
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_15": [
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Serika"
+      ]
+    },
+    "char_to_bg": {
+      "Serika": [
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

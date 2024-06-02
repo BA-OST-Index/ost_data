@@ -1,1 +1,102 @@
-{"uuid": "9e0302f5-3258-4360-8ddd-864d091cc03b", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_14_NAME]", "desc": ["[STORY_EVENT_818_14_DESC_1]"], "pos": {"event_id": 818, "segment": 14}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai_Night.jpg"], "character": ["Haruna_Track", "Izumi", "Akari", "Junko"], "track": ["OST_6", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_Yatai_Night.jpg"], "OST_6": ["BG_Yatai_Night.jpg"], "OST_22": ["BG_Yatai_Night.jpg"]}, "track_to_char": {"OST_6": ["Haruna_Track", "Izumi", "Akari", "Junko"], "OST_22": ["Junko", "Haruna_Track", "Izumi", "Akari"]}, "char_to_bg": {"Haruna_Track": ["BG_Yatai_Night.jpg"], "Izumi": ["BG_Yatai_Night.jpg"], "Akari": ["BG_Yatai_Night.jpg"], "Junko": ["BG_Yatai_Night.jpg"]}, "char_to_char": {"Izumi": ["Haruna_Track", "Akari", "Junko"], "Akari": ["Haruna_Track", "Izumi", "Junko"], "Junko": ["Haruna_Track", "Izumi", "Akari"], "Haruna_Track": ["Izumi", "Akari", "Junko"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "388fef17-20a5-4802-9e2b-466b6842c954",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_14_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_14_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "character": [
+        "Haruna_Track",
+        "Izumi",
+        "Akari",
+        "Junko"
+      ],
+      "track": [
+        "OST_6",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "OST_6": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_Yatai_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Haruna_Track",
+        "Izumi",
+        "Akari",
+        "Junko"
+      ],
+      "OST_22": [
+        "Junko",
+        "Haruna_Track",
+        "Izumi",
+        "Akari"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_Track": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "Izumi": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "Akari": [
+        "BG_Yatai_Night.jpg"
+      ],
+      "Junko": [
+        "BG_Yatai_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Izumi": [
+        "Haruna_Track",
+        "Akari",
+        "Junko"
+      ],
+      "Akari": [
+        "Haruna_Track",
+        "Izumi",
+        "Junko"
+      ],
+      "Junko": [
+        "Haruna_Track",
+        "Izumi",
+        "Akari"
+      ],
+      "Haruna_Track": [
+        "Izumi",
+        "Akari",
+        "Junko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

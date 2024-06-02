@@ -1,1 +1,66 @@
-{"uuid": "1d3fba7b-8c86-4bba-ac20-713f714be612", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MINORI_3_NAME]", "desc": ["[STORY_BOND_MINORI_3_DESC_1]"], "pos": {"student": "MINORI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RedWinterStreet.jpg", "BG_ConstructionSite.jpg"], "character": ["Labor Party Member A", "Labor Party Member B", "Minori"], "track": ["OST_10", "OST_44"]}, "track_to_bg": {"OST_0": ["BG_RedWinterStreet.jpg", "BG_ConstructionSite.jpg"], "OST_10": ["BG_RedWinterStreet.jpg", "BG_ConstructionSite.jpg"], "OST_44": ["BG_ConstructionSite.jpg"]}, "track_to_char": {"OST_10": ["Labor Party Member A", "Labor Party Member B", "Minori"], "OST_44": ["Minori"]}, "char_to_bg": {"Labor Party Member A": ["BG_RedWinterStreet.jpg"], "Labor Party Member B": ["BG_RedWinterStreet.jpg"], "Minori": ["BG_ConstructionSite.jpg"]}, "char_to_char": {"Labor Party Member B": ["Labor Party Member A"], "Labor Party Member A": ["Labor Party Member B"]}, "special": {"flag": true, "track": "OST_44"}}, "is_memory": true}
+{
+  "uuid": "18b06244-4084-4c2f-8cee-1a30ce04e31c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MINORI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MINORI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MINORI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RedWinterStreet.jpg",
+        "BG_ConstructionSite.jpg"
+      ],
+      "character": [
+        "Minori"
+      ],
+      "track": [
+        "OST_10",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RedWinterStreet.jpg",
+        "BG_ConstructionSite.jpg"
+      ],
+      "OST_10": [
+        "BG_RedWinterStreet.jpg",
+        "BG_ConstructionSite.jpg"
+      ],
+      "OST_44": [
+        "BG_ConstructionSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Minori"
+      ],
+      "OST_44": [
+        "Minori"
+      ]
+    },
+    "char_to_bg": {
+      "Minori": [
+        "BG_ConstructionSite.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_44"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,71 @@
-{"uuid": "0bf7cca9-5898-4935-98c6-876d8d4bbb54", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MINE_2_NAME]", "desc": ["[STORY_BOND_MINE_2_DESC_1]"], "pos": {"student": "MINE", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_StudentRoom.jpg"], "character": ["Mine"], "track": ["OST_4", "OST_3", "OST_91"]}, "track_to_bg": {"OST_4": ["BG_StudentRoom.jpg"], "OST_0": ["BG_StudentRoom.jpg"], "OST_3": ["BG_StudentRoom.jpg"], "OST_91": ["BG_StudentRoom.jpg"]}, "track_to_char": {"OST_4": ["Mine"], "OST_3": ["Mine"], "OST_91": ["Mine"]}, "char_to_bg": {"Mine": ["BG_StudentRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "acd08647-3f45-4eba-89e3-3e795577d2bc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MINE_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MINE_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MINE",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_StudentRoom.jpg"
+      ],
+      "character": [
+        "Mine"
+      ],
+      "track": [
+        "OST_4",
+        "OST_3",
+        "OST_91"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_StudentRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_StudentRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_StudentRoom.jpg"
+      ],
+      "OST_91": [
+        "BG_StudentRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Mine"
+      ],
+      "OST_3": [
+        "Mine"
+      ],
+      "OST_91": [
+        "Mine"
+      ]
+    },
+    "char_to_bg": {
+      "Mine": [
+        "BG_StudentRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

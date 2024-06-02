@@ -1,1 +1,77 @@
-{"uuid": "27e95dc8-39ee-42d9-a7e0-93c9aa68aa1f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ASUNA_4_NAME]", "desc": ["[STORY_BOND_ASUNA_4_DESC_1]"], "pos": {"student": "ASUNA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park.jpg", "BG_RiversideRoad.jpg", "BG_Residence.jpg"], "character": ["Asuna"], "track": ["OST_10", "OST_15", "OST_3", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_Park.jpg", "BG_Residence.jpg"], "OST_10": ["BG_Park.jpg", "BG_RiversideRoad.jpg"], "OST_15": ["BG_Residence.jpg"], "OST_3": ["BG_Residence.jpg"]}, "track_to_char": {"OST_10": ["Asuna"], "OST_15": ["Asuna"], "OST_3": ["Asuna"]}, "char_to_bg": {"Asuna": ["BG_Park.jpg", "BG_RiversideRoad.jpg", "BG_Residence.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_38"}}, "is_memory": true}
+{
+  "uuid": "d18e2812-4b23-4a5c-a08c-ab8e99ca2baf",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ASUNA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ASUNA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ASUNA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg",
+        "BG_Residence.jpg"
+      ],
+      "character": [
+        "Asuna"
+      ],
+      "track": [
+        "OST_10",
+        "OST_15",
+        "OST_3",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Park.jpg",
+        "BG_Residence.jpg"
+      ],
+      "OST_10": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg"
+      ],
+      "OST_15": [
+        "BG_Residence.jpg"
+      ],
+      "OST_3": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Asuna"
+      ],
+      "OST_15": [
+        "Asuna"
+      ],
+      "OST_3": [
+        "Asuna"
+      ]
+    },
+    "char_to_bg": {
+      "Asuna": [
+        "BG_Park.jpg",
+        "BG_RiversideRoad.jpg",
+        "BG_Residence.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_38"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,83 @@
-{"uuid": "d3a60aa1-c5c9-447e-a997-0e7dac9b095f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_7_NAME]", "desc": ["[STORY_BOND_SHIROKO_7_DESC_1]"], "pos": {"student": "SHIROKO", "segment": 7, "favor_rank": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_VillaComplex.jpg", "BG_Residence.jpg", "BG_RailWayCrossing.jpg", "BG_Park.jpg", "BG_Playground.jpg"], "character": ["Shiroko"], "track": ["OST_9", "OST_18", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_VillaComplex.jpg", "BG_RailWayCrossing.jpg"], "OST_9": ["BG_VillaComplex.jpg", "BG_Residence.jpg", "BG_RailWayCrossing.jpg"], "OST_18": ["BG_RailWayCrossing.jpg"], "OST_3": ["BG_RailWayCrossing.jpg", "BG_Park.jpg", "BG_Playground.jpg"]}, "track_to_char": {"OST_9": ["Shiroko"], "OST_18": ["Shiroko"], "OST_3": ["Shiroko"]}, "char_to_bg": {"Shiroko": ["BG_VillaComplex.jpg", "BG_Residence.jpg", "BG_RailWayCrossing.jpg", "BG_Playground.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "1b601c43-7883-4141-a038-6cdeefabf7a4",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_7_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_7_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO",
+    "segment": 7,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_VillaComplex.jpg",
+        "BG_Residence.jpg",
+        "BG_RailWayCrossing.jpg",
+        "BG_Park.jpg",
+        "BG_Playground.jpg"
+      ],
+      "character": [
+        "Shiroko"
+      ],
+      "track": [
+        "OST_9",
+        "OST_18",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_VillaComplex.jpg",
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_9": [
+        "BG_VillaComplex.jpg",
+        "BG_Residence.jpg",
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_18": [
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_3": [
+        "BG_RailWayCrossing.jpg",
+        "BG_Park.jpg",
+        "BG_Playground.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Shiroko"
+      ],
+      "OST_18": [
+        "Shiroko"
+      ],
+      "OST_3": [
+        "Shiroko"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko": [
+        "BG_VillaComplex.jpg",
+        "BG_Residence.jpg",
+        "BG_RailWayCrossing.jpg",
+        "BG_Playground.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

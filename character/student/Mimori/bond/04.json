@@ -1,1 +1,73 @@
-{"uuid": "ac9f11e3-4c50-490b-9c57-12f5a0b75a66", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIMORI_4_NAME]", "desc": ["[STORY_BOND_MIMORI_4_DESC_1]"], "pos": {"student": "MIMORI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg", "BG_BigPlaza_Sunset.jpg"], "character": ["Mimori"], "track": ["OST_4", "OST_22", "OST_9"]}, "track_to_bg": {"OST_4": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg", "BG_BigPlaza_Sunset.jpg"], "OST_22": ["BG_BigPlaza_Sunset.jpg"], "OST_9": ["BG_BigPlaza_Sunset.jpg"]}, "track_to_char": {"OST_4": ["Mimori"], "OST_22": ["Mimori"], "OST_9": ["Mimori"]}, "char_to_bg": {"Mimori": ["BG_ShoppingMall.jpg", "BG_BigPlaza_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "b2140a2d-40a5-4bdb-8f8b-28c1c9520724",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIMORI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MIMORI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIMORI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "character": [
+        "Mimori"
+      ],
+      "track": [
+        "OST_4",
+        "OST_22",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_22": [
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_9": [
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Mimori"
+      ],
+      "OST_22": [
+        "Mimori"
+      ],
+      "OST_9": [
+        "Mimori"
+      ]
+    },
+    "char_to_bg": {
+      "Mimori": [
+        "BG_ShoppingMall.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

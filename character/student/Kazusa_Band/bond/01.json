@@ -1,0 +1,51 @@
+{
+  "uuid": "16f40165-5295-48ff-855e-eddc035af94a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAZUSA_BAND_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KAZUSA_BAND_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAZUSA_BAND",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Karaoke.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_130",
+        "OST_50"
+      ]
+    },
+    "track_to_bg": {
+      "OST_130": [
+        "BG_Karaoke.jpg"
+      ],
+      "OST_0": [
+        "BG_Karaoke.jpg"
+      ],
+      "OST_50": [
+        "BG_Karaoke.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

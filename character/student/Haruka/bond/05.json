@@ -1,1 +1,62 @@
-{"uuid": "0f8ad678-1cf9-45ea-8d86-e6caad75fa37", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUKA_5_NAME]", "desc": ["[STORY_BOND_HARUKA_5_DESC_1]"], "pos": {"student": "HARUKA", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront_Cloud.jpg", "BG_RuinSchoolCorridor.jpg"], "character": ["Haruka"], "track": ["OST_22", "OST_43"]}, "track_to_bg": {"OST_22": ["BG_SlumFront_Cloud.jpg"], "OST_0": ["BG_SlumFront_Cloud.jpg", "BG_RuinSchoolCorridor.jpg"], "OST_43": ["BG_RuinSchoolCorridor.jpg"]}, "track_to_char": {"OST_43": ["Haruka"]}, "char_to_bg": {"Haruka": ["BG_RuinSchoolCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_43"}}, "is_memory": true}
+{
+  "uuid": "9c440022-11e5-438a-a2a1-0326eddff94d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUKA_5_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUKA_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUKA",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront_Cloud.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "character": [
+        "Haruka"
+      ],
+      "track": [
+        "OST_22",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_SlumFront_Cloud.jpg"
+      ],
+      "OST_0": [
+        "BG_SlumFront_Cloud.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_43": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_43": [
+        "Haruka"
+      ]
+    },
+    "char_to_bg": {
+      "Haruka": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_43"
+    }
+  },
+  "is_memory": true
+}

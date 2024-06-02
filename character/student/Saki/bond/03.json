@@ -1,1 +1,70 @@
-{"uuid": "ed5c93a3-e6d4-41cf-8213-215b8f095e82", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SAKI_3_NAME]", "desc": ["[STORY_BOND_SAKI_3_DESC_1]"], "pos": {"student": "SAKI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SRTBase.jpg"], "character": ["Saki"], "track": ["OST_10", "OST_36", "OST_38"]}, "track_to_bg": {"OST_10": ["BG_SRTBase.jpg"], "OST_0": ["BG_SRTBase.jpg"], "OST_36": ["BG_SRTBase.jpg"], "OST_38": ["BG_SRTBase.jpg"]}, "track_to_char": {"OST_10": ["Saki"], "OST_36": ["Saki"], "OST_38": ["Saki"]}, "char_to_bg": {"Saki": ["BG_SRTBase.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "bad434fb-3c00-4a7f-8862-a4d0a6ec3f5d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SAKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SAKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SAKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTBase.jpg"
+      ],
+      "character": [
+        "Saki"
+      ],
+      "track": [
+        "OST_10",
+        "OST_36",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_SRTBase.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTBase.jpg"
+      ],
+      "OST_36": [
+        "BG_SRTBase.jpg"
+      ],
+      "OST_38": [
+        "BG_SRTBase.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Saki"
+      ],
+      "OST_36": [
+        "Saki"
+      ],
+      "OST_38": [
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTBase.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

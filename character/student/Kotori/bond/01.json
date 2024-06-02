@@ -1,1 +1,78 @@
-{"uuid": "0338d481-eeaf-473a-9aa1-ec62a5bff729", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_1_NAME]", "desc": ["[STORY_BOND_KOTORI_1_DESC_1]"], "pos": {"student": "KOTORI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCenter.jpg"], "character": ["Kotori"], "track": ["OST_6", "OST_7", "OST_13", "OST_3"]}, "track_to_bg": {"OST_6": ["BG_MilleniumCenter.jpg"], "OST_0": ["BG_MilleniumCenter.jpg"], "OST_7": ["BG_MilleniumCenter.jpg"], "OST_13": ["BG_MilleniumCenter.jpg"], "OST_3": ["BG_MilleniumCenter.jpg"]}, "track_to_char": {"OST_6": ["Kotori"], "OST_7": ["Kotori"], "OST_13": ["Kotori"], "OST_3": ["Kotori"]}, "char_to_bg": {"Kotori": ["BG_MilleniumCenter.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "25c79a53-25b3-4858-a25f-366b415952c0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "character": [
+        "Kotori"
+      ],
+      "track": [
+        "OST_6",
+        "OST_7",
+        "OST_13",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_7": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_13": [
+        "BG_MilleniumCenter.jpg"
+      ],
+      "OST_3": [
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Kotori"
+      ],
+      "OST_7": [
+        "Kotori"
+      ],
+      "OST_13": [
+        "Kotori"
+      ],
+      "OST_3": [
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori": [
+        "BG_MilleniumCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

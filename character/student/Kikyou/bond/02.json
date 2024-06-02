@@ -1,1 +1,74 @@
-{"uuid": "479d4aa6-eb2d-4745-9656-896ee1c3b2ae", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KIKYOU_2_NAME]", "desc": ["[STORY_BOND_KIKYOU_2_DESC_1]"], "pos": {"student": "KIKYOU", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_HyakkayouranTatamiRoom.jpg"], "character": [], "track": ["OST_33", "OST_22", "OST_21"]}, "track_to_bg": {"OST_33": ["BG_CraftChamber.jpg", "BG_HyakkayouranTatamiRoom.jpg"], "OST_0": ["BG_CraftChamber.jpg"], "OST_22": ["BG_CraftChamber.jpg"], "OST_21": ["BG_CraftChamber.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d37e86d4-5db4-43a5-9daf-fd92f71d7389",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KIKYOU_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KIKYOU_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KIKYOU",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "character": [
+        "Kikyou"
+      ],
+      "track": [
+        "OST_33",
+        "OST_22",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_CraftChamber.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_22": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_21": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Kikyou"
+      ],
+      "OST_22": [
+        "Kikyou"
+      ],
+      "OST_21": [
+        "Kikyou"
+      ]
+    },
+    "char_to_bg": {
+      "Kikyou": [
+        "BG_CraftChamber.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

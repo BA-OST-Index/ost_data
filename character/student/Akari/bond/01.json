@@ -1,1 +1,54 @@
-{"uuid": "52e80a41-cbeb-4e3e-8051-177a5a12b3f2", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AKARI_1_NAME]", "desc": ["[STORY_BOND_AKARI_1_DESC_1]"], "pos": {"student": "AKARI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolCafeteria.jpg"], "character": ["Akari"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_SchoolCafeteria.jpg"]}, "track_to_char": {"OST_4": ["Akari"]}, "char_to_bg": {"Akari": ["BG_SchoolCafeteria.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "b159ab3a-6018-406a-9c73-713259961bc8",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AKARI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AKARI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AKARI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "character": [
+        "Akari"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Akari"
+      ]
+    },
+    "char_to_bg": {
+      "Akari": [
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

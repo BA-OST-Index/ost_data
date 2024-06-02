@@ -1,1 +1,67 @@
-{"uuid": "93d46ec8-a782-47be-a696-65eb293eeda1", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NOA_4_NAME]", "desc": ["[STORY_BOND_NOA_4_DESC_1]"], "pos": {"student": "NOA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCampus_Night.jpg", "BG_Auditorium_Night.jpg", "BG_MilleniumCorridor_Night.jpg"], "character": ["Noa"], "track": ["OST_37", "OST_46"]}, "track_to_bg": {"OST_0": ["BG_MilleniumCampus_Night.jpg", "BG_Auditorium_Night.jpg", "BG_MilleniumCorridor_Night.jpg"], "OST_37": ["BG_MilleniumCorridor_Night.jpg"], "OST_46": ["BG_MilleniumCorridor_Night.jpg"]}, "track_to_char": {"OST_37": ["Noa"], "OST_46": ["Noa"]}, "char_to_bg": {"Noa": ["BG_MilleniumCorridor_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_46"}}, "is_memory": true}
+{
+  "uuid": "cb8813d0-4631-4b1e-b9f7-0b850b0cd4fa",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NOA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_NOA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "NOA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCampus_Night.jpg",
+        "BG_Auditorium_Night.jpg",
+        "BG_MilleniumCorridor_Night.jpg"
+      ],
+      "character": [
+        "Noa"
+      ],
+      "track": [
+        "OST_37",
+        "OST_46"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MilleniumCampus_Night.jpg",
+        "BG_Auditorium_Night.jpg",
+        "BG_MilleniumCorridor_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_MilleniumCorridor_Night.jpg"
+      ],
+      "OST_46": [
+        "BG_MilleniumCorridor_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_37": [
+        "Noa"
+      ],
+      "OST_46": [
+        "Noa"
+      ]
+    },
+    "char_to_bg": {
+      "Noa": [
+        "BG_MilleniumCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_46"
+    }
+  },
+  "is_memory": true
+}

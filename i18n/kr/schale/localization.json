@@ -65,6 +65,7 @@
   "Club_LaborParty": "용역부",
   "Club_KnowledgeLiberationFront": "지식해방전선",
   "Club_Hyakkayouran": "백화요란 분쟁조정위원회",
+  "Club_ShinySparkleSociety": "반짝반짝부",
   "Club_EmptyClub": "없음",
   "BossFaction_Decagrammaton": "데카그라마톤",
   "BossFaction_Slumpia": "슬럼피아",
@@ -107,6 +108,8 @@
   "EventName_832": "전뇌신춘행진곡",
   "EventName_833": "빛으로 나아가는 그녀들의 소야곡",
   "EventName_834": "0068 오페라로부터 사랑을 담아서!",
+  "EventName_835": "와글와글하며 오손도손하게",
+  "EventName_836": "-ive aLIVE!",
   "StageType_Campaign": "임무",
   "StageType_Bounty": "현상수배",
   "StageType_WeekDungeon": "특별의뢰",
@@ -125,6 +128,7 @@
   "StageType_SchoolC": "학원교류회 - 밀레니엄",
   "StageType_Conquest": "점령전",
   "StageType_EliminateRaid": "대결전",
+  "StageType_MultiFloorRaid": "제약해제결전",
   "StageType_Normal": "Normal",
   "StageType_Hard": "Hard",
   "StageType_Quest": "Quest",
@@ -152,9 +156,11 @@
   "BulletType_Mystic": "신비",
   "BulletType_Normal": "일반",
   "BulletType_Sonic": "진동",
+  "BulletType_Mixed": "Varies",
   "ArmorType_LightArmor": "경장갑",
   "ArmorType_HeavyArmor": "중장갑",
   "ArmorType_Unarmed": "특수장갑",
   "ArmorType_ElasticArmor": "탄력장갑",
-  "ArmorType_Normal": "일반장갑"
+  "ArmorType_Normal": "일반장갑",
+  "ArmorType_Mixed": "Varies"
 }

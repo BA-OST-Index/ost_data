@@ -1,1 +1,73 @@
-{"uuid": "ac259dec-08d1-4a0d-8ac3-11230c019048", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_SHIROKO_SWIMSUIT_2_DESC_1]"], "pos": {"student": "SHIROKO_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TropicalForest.jpg", "BG_BeachFrontSide.jpg", "BG_ForestRailRoad.jpg", "BG_SeashoreRocks.jpg", "BG_BeachFrontSide_Sunset.jpg"], "character": ["Shiroko_Swimsuit"], "track": ["OST_16", "OST_21"]}, "track_to_bg": {"OST_0": ["BG_TropicalForest.jpg", "BG_BeachFrontSide_Sunset.jpg"], "OST_16": ["BG_TropicalForest.jpg", "BG_BeachFrontSide.jpg", "BG_ForestRailRoad.jpg", "BG_SeashoreRocks.jpg"], "OST_21": ["BG_BeachFrontSide_Sunset.jpg"]}, "track_to_char": {"OST_16": ["Shiroko_Swimsuit"], "OST_21": ["Shiroko_Swimsuit"]}, "char_to_bg": {"Shiroko_Swimsuit": ["BG_TropicalForest.jpg", "BG_BeachFrontSide_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "77747e4f-9934-47a4-be75-9eb65215d426",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TropicalForest.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_ForestRailRoad.jpg",
+        "BG_SeashoreRocks.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "character": [
+        "Shiroko_Swimsuit"
+      ],
+      "track": [
+        "OST_16",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TropicalForest.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "OST_16": [
+        "BG_TropicalForest.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_ForestRailRoad.jpg",
+        "BG_SeashoreRocks.jpg"
+      ],
+      "OST_21": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Shiroko_Swimsuit"
+      ],
+      "OST_21": [
+        "Shiroko_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko_Swimsuit": [
+        "BG_TropicalForest.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

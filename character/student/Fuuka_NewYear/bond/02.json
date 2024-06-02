@@ -1,1 +1,61 @@
-{"uuid": "c4d98e53-8866-43c5-a95b-a97f19620fc0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_FUUKA_NEWYEAR_2_NAME]", "desc": ["[STORY_BOND_FUUKA_NEWYEAR_2_DESC_1]"], "pos": {"student": "FUUKA_NEWYEAR", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolCafeteria.jpg", "BG_Kitchen.jpg"], "character": ["Fuuka_NewYear", "Fuuka"], "track": ["OST_22"]}, "track_to_bg": {"OST_22": ["BG_SchoolCafeteria.jpg", "BG_Kitchen.jpg"]}, "track_to_char": {"OST_22": ["Fuuka_NewYear", "Fuuka"]}, "char_to_bg": {"Fuuka_NewYear": ["BG_SchoolCafeteria.jpg"], "Fuuka": ["BG_Kitchen.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "acf6d4a1-4ea0-44cf-b5f5-ccaa2a4389a6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_FUUKA_NEWYEAR_2_NAME]",
+  "desc": [
+    "[STORY_BOND_FUUKA_NEWYEAR_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "FUUKA_NEWYEAR",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_Kitchen.jpg"
+      ],
+      "character": [
+        "Fuuka_NewYear",
+        "Fuuka"
+      ],
+      "track": [
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_SchoolCafeteria.jpg",
+        "BG_Kitchen.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Fuuka_NewYear",
+        "Fuuka"
+      ]
+    },
+    "char_to_bg": {
+      "Fuuka_NewYear": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "Fuuka": [
+        "BG_Kitchen.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

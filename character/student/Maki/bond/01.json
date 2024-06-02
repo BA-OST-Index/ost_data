@@ -1,1 +1,67 @@
-{"uuid": "d30c9ce7-6d92-4f16-b8e6-444396eafde6", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MAKI_1_NAME]", "desc": ["[STORY_BOND_MAKI_1_DESC_1]"], "pos": {"student": "MAKI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UpperOffice.jpg", "BG_BuildingFrontGate.jpg"], "character": ["Maki"], "track": ["OST_33", "OST_2"]}, "track_to_bg": {"OST_33": ["BG_UpperOffice.jpg"], "OST_0": ["BG_UpperOffice.jpg", "BG_BuildingFrontGate.jpg"], "OST_2": ["BG_BuildingFrontGate.jpg"]}, "track_to_char": {"OST_33": ["Maki"], "OST_2": ["Maki"]}, "char_to_bg": {"Maki": ["BG_UpperOffice.jpg", "BG_BuildingFrontGate.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "07e341d6-f045-4e1a-a06b-239d68881529",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MAKI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MAKI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MAKI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UpperOffice.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "character": [
+        "Maki"
+      ],
+      "track": [
+        "OST_33",
+        "OST_2"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_UpperOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_UpperOffice.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_2": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Maki"
+      ],
+      "OST_2": [
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_UpperOffice.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

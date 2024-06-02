@@ -1,1 +1,64 @@
-{"uuid": "31ab0de2-a68d-4355-b734-3907aef41146", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_2_NAME]", "desc": ["[STORY_BOND_KOTORI_2_DESC_1]"], "pos": {"student": "KOTORI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park_Night.jpg"], "character": ["Kotori"], "track": ["OST_16", "OST_17"]}, "track_to_bg": {"OST_16": ["BG_Park_Night.jpg"], "OST_0": ["BG_Park_Night.jpg"], "OST_17": ["BG_Park_Night.jpg"]}, "track_to_char": {"OST_16": ["Kotori"], "OST_17": ["Kotori"]}, "char_to_bg": {"Kotori": ["BG_Park_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "574e88c7-1f7c-4a93-a129-a9a833a04d5f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park_Night.jpg"
+      ],
+      "character": [
+        "Kotori"
+      ],
+      "track": [
+        "OST_16",
+        "OST_17"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Park_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Park_Night.jpg"
+      ],
+      "OST_17": [
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kotori"
+      ],
+      "OST_17": [
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori": [
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

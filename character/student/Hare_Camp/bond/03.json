@@ -1,0 +1,94 @@
+{
+  "uuid": "384b2075-d955-4bcf-a49f-5321b42bca73",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARE_CAMP_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HARE_CAMP_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARE_CAMP",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg",
+        "BG_MilleniumCampus.jpg",
+        "BG_LemonForest2.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "character": [
+        "Hare",
+        "Hare_Camp"
+      ],
+      "track": [
+        "OST_16",
+        "OST_13",
+        "OST_33",
+        "OST_22",
+        "OST_193"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_ComputerCenter.jpg",
+        "BG_MilleniumCampus.jpg",
+        "BG_LemonForest2.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "OST_33": [
+        "BG_LemonForest2.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hare"
+      ],
+      "OST_13": [
+        "Hare"
+      ],
+      "OST_33": [
+        "Hare_Camp"
+      ],
+      "OST_22": [
+        "Hare_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Hare": [
+        "BG_ComputerCenter.jpg",
+        "BG_MilleniumCampus.jpg"
+      ],
+      "Hare_Camp": [
+        "BG_LemonForest2.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_193"
+    }
+  },
+  "is_memory": true
+}

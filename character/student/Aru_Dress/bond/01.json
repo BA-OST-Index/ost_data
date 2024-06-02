@@ -1,0 +1,64 @@
+{
+  "uuid": "363e19e4-c2bc-45f8-8587-b354a250015d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARU_DRESS_1_NAME]",
+  "desc": [
+    "[STORY_BOND_ARU_DRESS_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARU_DRESS",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Aru"
+      ],
+      "track": [
+        "OST_13",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_15": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Aru"
+      ],
+      "OST_15": [
+        "Aru"
+      ]
+    },
+    "char_to_bg": {
+      "Aru": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

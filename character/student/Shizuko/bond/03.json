@@ -1,1 +1,70 @@
-{"uuid": "7a6747e0-5e60-4322-9953-837c321218ec", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIZUKO_3_NAME]", "desc": ["[STORY_BOND_SHIZUKO_3_DESC_1]"], "pos": {"student": "SHIZUKO", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_FamilyRestaurant.jpg", "BG_FamilyRestaurant_Night.jpg", "BG_StudentRoom_Night.jpg"], "character": ["Shizuko"], "track": ["OST_44", "OST_35"]}, "track_to_bg": {"OST_44": ["BG_FamilyRestaurant.jpg"], "OST_0": ["BG_FamilyRestaurant.jpg", "BG_FamilyRestaurant_Night.jpg", "BG_StudentRoom_Night.jpg"], "OST_35": ["BG_StudentRoom_Night.jpg"]}, "track_to_char": {"OST_44": ["Shizuko"], "OST_35": ["Shizuko"]}, "char_to_bg": {"Shizuko": ["BG_FamilyRestaurant.jpg", "BG_FamilyRestaurant_Night.jpg", "BG_StudentRoom_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "f5c44054-6807-4262-abd1-310439740b63",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIZUKO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIZUKO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIZUKO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FamilyRestaurant.jpg",
+        "BG_FamilyRestaurant_Night.jpg",
+        "BG_StudentRoom_Night.jpg"
+      ],
+      "character": [
+        "Shizuko"
+      ],
+      "track": [
+        "OST_44",
+        "OST_35"
+      ]
+    },
+    "track_to_bg": {
+      "OST_44": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_0": [
+        "BG_FamilyRestaurant.jpg",
+        "BG_FamilyRestaurant_Night.jpg",
+        "BG_StudentRoom_Night.jpg"
+      ],
+      "OST_35": [
+        "BG_StudentRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Shizuko"
+      ],
+      "OST_35": [
+        "Shizuko"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_FamilyRestaurant.jpg",
+        "BG_FamilyRestaurant_Night.jpg",
+        "BG_StudentRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

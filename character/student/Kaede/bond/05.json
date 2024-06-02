@@ -1,0 +1,57 @@
+{
+  "uuid": "5d162661-c83f-42f5-93fb-8a852af9df82",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAEDE_5_NAME]",
+  "desc": [
+    "[STORY_BOND_KAEDE_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAEDE",
+    "segment": 5,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_WaterFall.jpg"
+      ],
+      "character": [
+        "Kaede"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ShoppingMall.jpg",
+        "BG_WaterFall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Kaede"
+      ]
+    },
+    "char_to_bg": {
+      "Kaede": [
+        "BG_ShoppingMall.jpg",
+        "BG_WaterFall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

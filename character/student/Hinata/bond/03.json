@@ -1,1 +1,73 @@
-{"uuid": "766a0aec-e0ce-47a1-8d3a-097c513c319b", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINATA_3_NAME]", "desc": ["[STORY_BOND_HINATA_3_DESC_1]"], "pos": {"student": "HINATA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Cathedral.jpg", "BG_Park.jpg"], "character": ["Hinata"], "track": ["OST_10", "OST_7", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_Cathedral.jpg", "BG_Park.jpg"], "OST_10": ["BG_Park.jpg"], "OST_7": ["BG_Park.jpg"], "OST_3": ["BG_Park.jpg"]}, "track_to_char": {"OST_10": ["Hinata"], "OST_7": ["Hinata"], "OST_3": ["Hinata"]}, "char_to_bg": {"Hinata": ["BG_Park.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a3039c08-f4f3-429e-b89c-65e83886d464",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINATA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HINATA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINATA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Cathedral.jpg",
+        "BG_Park.jpg"
+      ],
+      "character": [
+        "Hinata"
+      ],
+      "track": [
+        "OST_10",
+        "OST_7",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Cathedral.jpg",
+        "BG_Park.jpg"
+      ],
+      "OST_10": [
+        "BG_Park.jpg"
+      ],
+      "OST_7": [
+        "BG_Park.jpg"
+      ],
+      "OST_3": [
+        "BG_Park.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hinata"
+      ],
+      "OST_7": [
+        "Hinata"
+      ],
+      "OST_3": [
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_Park.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

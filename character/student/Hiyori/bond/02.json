@@ -1,1 +1,67 @@
-{"uuid": "4e0afb1d-56b3-4cdc-bca2-cfa24c072f3f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIYORI_2_NAME]", "desc": ["[STORY_BOND_HIYORI_2_DESC_1]"], "pos": {"student": "HIYORI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSchoolCorridor.jpg", "BG_ConvenienceStore.jpg"], "character": ["Hiyori"], "track": ["OST_16", "OST_103"]}, "track_to_bg": {"OST_0": ["BG_RuinSchoolCorridor.jpg", "BG_ConvenienceStore.jpg"], "OST_16": ["BG_RuinSchoolCorridor.jpg"], "OST_103": ["BG_ConvenienceStore.jpg"]}, "track_to_char": {"OST_16": ["Hiyori"], "OST_103": ["Hiyori"]}, "char_to_bg": {"Hiyori": ["BG_RuinSchoolCorridor.jpg", "BG_ConvenienceStore.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "dbb0a588-7323-46c8-b731-c07e42044aff",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIYORI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HIYORI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIYORI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "character": [
+        "Hiyori"
+      ],
+      "track": [
+        "OST_16",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "OST_16": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_103": [
+        "BG_ConvenienceStore.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hiyori"
+      ],
+      "OST_103": [
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Hiyori": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_ConvenienceStore.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

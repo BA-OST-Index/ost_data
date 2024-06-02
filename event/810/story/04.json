@@ -1,1 +1,88 @@
-{"uuid": "2d3dedb6-cbfd-4d9e-91eb-fd67e4940a63", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_4_NAME]", "desc": ["[STORY_EVENT_810_4_DESC_1]"], "pos": {"event_id": 810, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg"], "character": ["Serina", "Hanae", "Mine"], "track": ["OST_10", "OST_18"]}, "track_to_bg": {"OST_10": ["BG_CityDowntown.jpg"], "OST_0": ["BG_CityDowntown.jpg"], "OST_18": ["BG_CityDowntown.jpg"]}, "track_to_char": {"OST_10": ["Serina", "Hanae", "Mine"], "OST_18": ["Serina", "Hanae", "Mine"]}, "char_to_bg": {"Serina": ["BG_CityDowntown.jpg"], "Hanae": ["BG_CityDowntown.jpg"], "Mine": ["BG_CityDowntown.jpg"]}, "char_to_char": {"Hanae": ["Serina", "Mine"], "Mine": ["Serina", "Hanae"], "Serina": ["Hanae", "Mine"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "978c8edb-cc24-4dc3-ba32-0d71c5518345",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Serina",
+        "Hanae",
+        "Mine"
+      ],
+      "track": [
+        "OST_10",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_18": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Serina",
+        "Hanae",
+        "Mine"
+      ],
+      "OST_18": [
+        "Serina",
+        "Hanae",
+        "Mine"
+      ]
+    },
+    "char_to_bg": {
+      "Serina": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Hanae": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Mine": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanae": [
+        "Serina",
+        "Mine"
+      ],
+      "Mine": [
+        "Serina",
+        "Hanae"
+      ],
+      "Serina": [
+        "Hanae",
+        "Mine"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

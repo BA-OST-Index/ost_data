@@ -1,1 +1,63 @@
-{"uuid": "36dbfb31-275a-42d7-9bd9-71ddf2ca59d0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MASHIRO_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_MASHIRO_SWIMSUIT_3_DESC_1]"], "pos": {"student": "MASHIRO_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg"], "character": ["Mashiro_Swimsuit"], "track": ["OST_6", "OST_80"]}, "track_to_bg": {"OST_6": ["BG_Beachside.jpg"], "OST_0": ["BG_Beachside.jpg"], "OST_80": ["BG_Beachside.jpg"]}, "track_to_char": {"OST_6": ["Mashiro_Swimsuit"], "OST_80": ["Mashiro_Swimsuit"]}, "char_to_bg": {"Mashiro_Swimsuit": ["BG_Beachside.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_80"}}, "is_memory": true}
+{
+  "uuid": "f95d8540-a111-40ef-a78e-b22a5582af27",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MASHIRO_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MASHIRO_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MASHIRO_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg"
+      ],
+      "character": [
+        "Mashiro_Swimsuit"
+      ],
+      "track": [
+        "OST_6",
+        "OST_80"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_80": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Mashiro_Swimsuit"
+      ],
+      "OST_80": [
+        "Mashiro_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Mashiro_Swimsuit": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_80"
+    }
+  },
+  "is_memory": true
+}

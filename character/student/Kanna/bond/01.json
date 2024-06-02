@@ -1,1 +1,54 @@
-{"uuid": "a2b27fc1-6993-432d-98b6-f9f4c4ef6e19", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KANNA_1_NAME]", "desc": ["[STORY_BOND_KANNA_1_DESC_1]"], "pos": {"student": "KANNA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg"], "character": ["Kanna"], "track": ["OST_16"]}, "track_to_bg": {"OST_16": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_16": ["Kanna"]}, "char_to_bg": {"Kanna": ["BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "9d070dfd-544b-4f41-8ca7-0ca751c1bcdf",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KANNA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KANNA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KANNA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Kanna"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kanna"
+      ]
+    },
+    "char_to_bg": {
+      "Kanna": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

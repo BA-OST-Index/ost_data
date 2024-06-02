@@ -1,0 +1,2928 @@
+{
+  "OST_0": [
+    {
+      "id": 999,
+      "type": 0,
+      "path": "Audio/BGM/Mute",
+      "desc": "[NX_TRACK_OST_0_999]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10015,
+      "type": null,
+      "path": "Audio/BGM/EN0005_Skill_01",
+      "desc": "[NX_TRACK_OST_0_10015]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10016,
+      "type": null,
+      "path": "Audio/BGM/EN0005_Skill_02",
+      "desc": "[NX_TRACK_OST_0_10016]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10017,
+      "type": null,
+      "path": "Audio/BGM/EN0005_Skill_03",
+      "desc": "[NX_TRACK_OST_0_10017]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10018,
+      "type": null,
+      "path": "Audio/BGM/EN0005_Skill_04",
+      "desc": "[NX_TRACK_OST_0_10018]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 20000,
+      "type": 0,
+      "path": "Audio/BGM/AMB_Helicopter",
+      "desc": "[NX_TRACK_OST_0_20000]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 20001,
+      "type": 0,
+      "path": "Audio/BGM/AMB_Rain",
+      "desc": "[NX_TRACK_OST_0_20001]",
+      "timestamp": [
+        3.0,
+        7.0
+      ]
+    },
+    {
+      "id": 20003,
+      "type": 0,
+      "path": "Audio/BGM/AMB_Fire",
+      "desc": "[NX_TRACK_OST_0_20003]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_1": [
+    {
+      "id": 1,
+      "type": 0,
+      "path": "Audio/BGM/Theme_01",
+      "desc": "[NX_TRACK_OST_1_1]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_2": [
+    {
+      "id": 2,
+      "type": 0,
+      "path": "Audio/BGM/Theme_02",
+      "desc": "[NX_TRACK_OST_2_2]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_3": [
+    {
+      "id": 3,
+      "type": 0,
+      "path": "Audio/BGM/Theme_03",
+      "desc": "[NX_TRACK_OST_3_3]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_4": [
+    {
+      "id": 4,
+      "type": 0,
+      "path": "Audio/BGM/Theme_04",
+      "desc": "[NX_TRACK_OST_4_4]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_5": [
+    {
+      "id": 5,
+      "type": 0,
+      "path": "Audio/BGM/Theme_05",
+      "desc": "[NX_TRACK_OST_5_5]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_6": [
+    {
+      "id": 6,
+      "type": 0,
+      "path": "Audio/BGM/Theme_06",
+      "desc": "[NX_TRACK_OST_6_6]",
+      "timestamp": [
+        18.639999389648438,
+        130.48500061035156
+      ]
+    }
+  ],
+  "OST_7": [
+    {
+      "id": 7,
+      "type": 0,
+      "path": "Audio/BGM/Theme_07",
+      "desc": "[NX_TRACK_OST_7_7]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_8": [
+    {
+      "id": 8,
+      "type": 0,
+      "path": "Audio/BGM/Theme_08",
+      "desc": "[NX_TRACK_OST_8_8]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_9": [
+    {
+      "id": 9,
+      "type": 0,
+      "path": "Audio/BGM/Theme_09",
+      "desc": "[NX_TRACK_OST_9_9]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_10": [
+    {
+      "id": 10,
+      "type": 0,
+      "path": "Audio/BGM/Theme_10",
+      "desc": "[NX_TRACK_OST_10_10]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_11": [
+    {
+      "id": 11,
+      "type": 0,
+      "path": "Audio/BGM/Theme_11",
+      "desc": "[NX_TRACK_OST_11_11]",
+      "timestamp": [
+        57.74399948120117,
+        115.48799896240234
+      ]
+    }
+  ],
+  "OST_12": [
+    {
+      "id": 12,
+      "type": 0,
+      "path": "Audio/BGM/Theme_12",
+      "desc": "[NX_TRACK_OST_12_12]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_13": [
+    {
+      "id": 13,
+      "type": 0,
+      "path": "Audio/BGM/Theme_13",
+      "desc": "[NX_TRACK_OST_13_13]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_14": [
+    {
+      "id": 14,
+      "type": 0,
+      "path": "Audio/BGM/Theme_14",
+      "desc": "[NX_TRACK_OST_14_14]",
+      "timestamp": [
+        64.0,
+        128.0
+      ]
+    }
+  ],
+  "OST_15": [
+    {
+      "id": 15,
+      "type": 0,
+      "path": "Audio/BGM/Theme_15",
+      "desc": "[NX_TRACK_OST_15_15]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_16": [
+    {
+      "id": 16,
+      "type": 0,
+      "path": "Audio/BGM/Theme_16",
+      "desc": "[NX_TRACK_OST_16_16]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_17": [
+    {
+      "id": 17,
+      "type": 0,
+      "path": "Audio/BGM/Theme_17",
+      "desc": "[NX_TRACK_OST_17_17]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_18": [
+    {
+      "id": 18,
+      "type": 0,
+      "path": "Audio/BGM/Theme_18",
+      "desc": "[NX_TRACK_OST_18_18]",
+      "timestamp": [
+        66.20600128173828,
+        119.1719970703125
+      ]
+    }
+  ],
+  "OST_19": [
+    {
+      "id": 19,
+      "type": 0,
+      "path": "Audio/BGM/Theme_19",
+      "desc": "[NX_TRACK_OST_19_19]",
+      "timestamp": [
+        27.42799949645996,
+        123.4280014038086
+      ]
+    }
+  ],
+  "OST_20": [
+    {
+      "id": 20,
+      "type": 0,
+      "path": "Audio/BGM/Theme_20",
+      "desc": "[NX_TRACK_OST_20_20]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_21": [
+    {
+      "id": 21,
+      "type": 0,
+      "path": "Audio/BGM/Theme_21",
+      "desc": "[NX_TRACK_OST_21_21]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10002,
+      "type": null,
+      "path": "Audio/BGM/Theme_21_Blank",
+      "desc": "[NX_TRACK_OST_21_10002]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_22": [
+    {
+      "id": 22,
+      "type": 0,
+      "path": "Audio/BGM/Theme_22",
+      "desc": "[NX_TRACK_OST_22_22]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_23": [
+    {
+      "id": 23,
+      "type": 0,
+      "path": "Audio/BGM/Theme_23",
+      "desc": "[NX_TRACK_OST_23_23]",
+      "timestamp": [
+        32.60900115966797,
+        76.08699798583984
+      ]
+    }
+  ],
+  "OST_24": [
+    {
+      "id": 24,
+      "type": 0,
+      "path": "Audio/BGM/Theme_24",
+      "desc": "[NX_TRACK_OST_24_24]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 1101,
+      "type": null,
+      "path": "Audio/BGM/Theme_24_Intro",
+      "desc": "[NX_TRACK_OST_24_1101]",
+      "timestamp": [
+        11.85099983215332,
+        23.702999114990234
+      ]
+    },
+    {
+      "id": 1102,
+      "type": null,
+      "path": "Audio/BGM/Theme_24_Verse",
+      "desc": "[NX_TRACK_OST_24_1102]",
+      "timestamp": [
+        23.702999114990234,
+        59.25899887084961
+      ]
+    },
+    {
+      "id": 1103,
+      "type": null,
+      "path": "Audio/BGM/Theme_24_Chorus",
+      "desc": "[NX_TRACK_OST_24_1103]",
+      "timestamp": [
+        23.702999114990234,
+        59.25899887084961
+      ]
+    },
+    {
+      "id": 82501,
+      "type": 3,
+      "path": "Audio/BGM/Theme_24_8bit",
+      "desc": "[NX_TRACK_OST_24_82501]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_25": [
+    {
+      "id": 25,
+      "type": 0,
+      "path": "Audio/BGM/Theme_25",
+      "desc": "[NX_TRACK_OST_25_25]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_26": [
+    {
+      "id": 26,
+      "type": 0,
+      "path": "Audio/BGM/Theme_26",
+      "desc": "[NX_TRACK_OST_26_26]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_27": [
+    {
+      "id": 27,
+      "type": 0,
+      "path": "Audio/BGM/Theme_27",
+      "desc": "[NX_TRACK_OST_27_27]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_28": [
+    {
+      "id": 28,
+      "type": 0,
+      "path": "Audio/BGM/Theme_28",
+      "desc": "[NX_TRACK_OST_28_28]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_29": [
+    {
+      "id": 29,
+      "type": 0,
+      "path": "Audio/BGM/Theme_29",
+      "desc": "[NX_TRACK_OST_29_29]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_30": [
+    {
+      "id": 30,
+      "type": 0,
+      "path": "Audio/BGM/Theme_30",
+      "desc": "[NX_TRACK_OST_30_30]",
+      "timestamp": [
+        12.0,
+        109.5
+      ]
+    }
+  ],
+  "OST_31": [
+    {
+      "id": 31,
+      "type": 0,
+      "path": "Audio/BGM/Theme_31",
+      "desc": "[NX_TRACK_OST_31_31]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_32": [
+    {
+      "id": 32,
+      "type": 0,
+      "path": "Audio/BGM/Theme_32",
+      "desc": "[NX_TRACK_OST_32_32]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_33": [
+    {
+      "id": 33,
+      "type": 0,
+      "path": "Audio/BGM/Theme_33",
+      "desc": "[NX_TRACK_OST_33_33]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_34": [
+    {
+      "id": 34,
+      "type": 0,
+      "path": "Audio/BGM/Theme_34",
+      "desc": "[NX_TRACK_OST_34_34]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10010,
+      "type": null,
+      "path": "Audio/BGM/Theme_34_Short",
+      "desc": "[NX_TRACK_OST_34_10010]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_35": [
+    {
+      "id": 35,
+      "type": 0,
+      "path": "Audio/BGM/Theme_35",
+      "desc": "[NX_TRACK_OST_35_35]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_36": [
+    {
+      "id": 36,
+      "type": 0,
+      "path": "Audio/BGM/Theme_36",
+      "desc": "[NX_TRACK_OST_36_36]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_37": [
+    {
+      "id": 37,
+      "type": 0,
+      "path": "Audio/BGM/Theme_37",
+      "desc": "[NX_TRACK_OST_37_37]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_38": [
+    {
+      "id": 38,
+      "type": 0,
+      "path": "Audio/BGM/Theme_38",
+      "desc": "[NX_TRACK_OST_38_38]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_39": [
+    {
+      "id": 39,
+      "type": 0,
+      "path": "Audio/BGM/Theme_39",
+      "desc": "[NX_TRACK_OST_39_39]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_40": [
+    {
+      "id": 40,
+      "type": 0,
+      "path": "Audio/BGM/Theme_40",
+      "desc": "[NX_TRACK_OST_40_40]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_41": [
+    {
+      "id": 41,
+      "type": 0,
+      "path": "Audio/BGM/Theme_41",
+      "desc": "[NX_TRACK_OST_41_41]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_42": [
+    {
+      "id": 42,
+      "type": 0,
+      "path": "Audio/BGM/Theme_42",
+      "desc": "[NX_TRACK_OST_42_42]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_43": [
+    {
+      "id": 43,
+      "type": 0,
+      "path": "Audio/BGM/Theme_43",
+      "desc": "[NX_TRACK_OST_43_43]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_44": [
+    {
+      "id": 44,
+      "type": 0,
+      "path": "Audio/BGM/Theme_44",
+      "desc": "[NX_TRACK_OST_44_44]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_45": [
+    {
+      "id": 45,
+      "type": 0,
+      "path": "Audio/BGM/Theme_45",
+      "desc": "[NX_TRACK_OST_45_45]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_46": [
+    {
+      "id": 46,
+      "type": 0,
+      "path": "Audio/BGM/Theme_46",
+      "desc": "[NX_TRACK_OST_46_46]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_47": [
+    {
+      "id": 47,
+      "type": 0,
+      "path": "Audio/BGM/Theme_47",
+      "desc": "[NX_TRACK_OST_47_47]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_48": [
+    {
+      "id": 48,
+      "type": 0,
+      "path": "Audio/BGM/Theme_48",
+      "desc": "[NX_TRACK_OST_48_48]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 1201,
+      "type": null,
+      "path": "Audio/BGM/Theme_48_Intro",
+      "desc": "[NX_TRACK_OST_48_1201]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 1202,
+      "type": null,
+      "path": "Audio/BGM/Theme_48_Verse",
+      "desc": "[NX_TRACK_OST_48_1202]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 1203,
+      "type": null,
+      "path": "Audio/BGM/Theme_48_Chorus",
+      "desc": "[NX_TRACK_OST_48_1203]",
+      "timestamp": [
+        10.78600025177002,
+        43.145999908447266
+      ]
+    }
+  ],
+  "OST_49": [
+    {
+      "id": 49,
+      "type": 0,
+      "path": "Audio/BGM/Theme_49",
+      "desc": "[NX_TRACK_OST_49_49]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_50": [
+    {
+      "id": 50,
+      "type": 0,
+      "path": "Audio/BGM/Theme_50",
+      "desc": "[NX_TRACK_OST_50_50]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_51": [
+    {
+      "id": 51,
+      "type": 0,
+      "path": "Audio/BGM/Theme_51",
+      "desc": "[NX_TRACK_OST_51_51]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_52": [
+    {
+      "id": 52,
+      "type": 0,
+      "path": "Audio/BGM/Theme_52",
+      "desc": "[NX_TRACK_OST_52_52]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_53": [
+    {
+      "id": 53,
+      "type": 0,
+      "path": "Audio/BGM/Theme_53",
+      "desc": "[NX_TRACK_OST_53_53]",
+      "timestamp": [
+        12.0,
+        120.0
+      ]
+    }
+  ],
+  "OST_54": [
+    {
+      "id": 54,
+      "type": 0,
+      "path": "Audio/BGM/Theme_54",
+      "desc": "[NX_TRACK_OST_54_54]",
+      "timestamp": [
+        47.40700149536133,
+        118.51799774169922
+      ]
+    }
+  ],
+  "OST_55": [
+    {
+      "id": 55,
+      "type": 0,
+      "path": "Audio/BGM/Theme_55",
+      "desc": "[NX_TRACK_OST_55_55]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_56": [
+    {
+      "id": 56,
+      "type": 0,
+      "path": "Audio/BGM/Theme_56",
+      "desc": "[NX_TRACK_OST_56_56]",
+      "timestamp": [
+        16.743999481201172,
+        117.20899963378906
+      ]
+    }
+  ],
+  "OST_57": [
+    {
+      "id": 57,
+      "type": 0,
+      "path": "Audio/BGM/Theme_57",
+      "desc": "[NX_TRACK_OST_57_57]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_58": [
+    {
+      "id": 58,
+      "type": 0,
+      "path": "Audio/BGM/Theme_58",
+      "desc": "[NX_TRACK_OST_58_58]",
+      "timestamp": [
+        45.0,
+        120.0
+      ]
+    }
+  ],
+  "OST_59": [
+    {
+      "id": 59,
+      "type": 0,
+      "path": "Audio/BGM/Theme_59",
+      "desc": "[NX_TRACK_OST_59_59]",
+      "timestamp": [
+        42.66600036621094,
+        133.33299255371094
+      ]
+    },
+    {
+      "id": 10014,
+      "type": null,
+      "path": "Audio/BGM/Theme_59_Short",
+      "desc": "[NX_TRACK_OST_59_10014]",
+      "timestamp": [
+        53.33300018310547,
+        74.66600036621094
+      ]
+    },
+    {
+      "id": 90000,
+      "type": null,
+      "path": "Audio/BGM/Theme_59_Title",
+      "desc": "[NX_TRACK_OST_59_90000]",
+      "timestamp": [
+        0.0,
+        90.66600036621094
+      ]
+    }
+  ],
+  "OST_60": [
+    {
+      "id": 60,
+      "type": 0,
+      "path": "Audio/BGM/Theme_60",
+      "desc": "[NX_TRACK_OST_60_60]",
+      "timestamp": [
+        30.0,
+        120.0
+      ]
+    }
+  ],
+  "OST_61": [
+    {
+      "id": 61,
+      "type": 0,
+      "path": "Audio/BGM/Theme_61",
+      "desc": "[NX_TRACK_OST_61_61]",
+      "timestamp": [
+        24.0,
+        148.23500061035156
+      ]
+    }
+  ],
+  "OST_62": [
+    {
+      "id": 62,
+      "type": 0,
+      "path": "Audio/BGM/Theme_62",
+      "desc": "[NX_TRACK_OST_62_62]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_63": [
+    {
+      "id": 63,
+      "type": 0,
+      "path": "Audio/BGM/Theme_63",
+      "desc": "[NX_TRACK_OST_63_63]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_64": [
+    {
+      "id": 64,
+      "type": 0,
+      "path": "Audio/BGM/Theme_64",
+      "desc": "[NX_TRACK_OST_64_64]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_65": [
+    {
+      "id": 65,
+      "type": 0,
+      "path": "Audio/BGM/Theme_65",
+      "desc": "[NX_TRACK_OST_65_65]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_66": [
+    {
+      "id": 66,
+      "type": 0,
+      "path": "Audio/BGM/Theme_66",
+      "desc": "[NX_TRACK_OST_66_66]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_67": [
+    {
+      "id": 67,
+      "type": 0,
+      "path": "Audio/BGM/Theme_67",
+      "desc": "[NX_TRACK_OST_67_67]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_68": [
+    {
+      "id": 68,
+      "type": 0,
+      "path": "Audio/BGM/Theme_68",
+      "desc": "[NX_TRACK_OST_68_68]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_69": [
+    {
+      "id": 69,
+      "type": 0,
+      "path": "Audio/BGM/Theme_69",
+      "desc": "[NX_TRACK_OST_69_69]",
+      "timestamp": [
+        11.565999984741211,
+        138.7949981689453
+      ]
+    }
+  ],
+  "OST_70": [
+    {
+      "id": 70,
+      "type": 0,
+      "path": "Audio/BGM/Theme_70",
+      "desc": "[NX_TRACK_OST_70_70]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_71": [
+    {
+      "id": 71,
+      "type": 0,
+      "path": "Audio/BGM/Theme_71",
+      "desc": "[NX_TRACK_OST_71_71]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_72": [
+    {
+      "id": 72,
+      "type": 0,
+      "path": "Audio/BGM/Theme_72",
+      "desc": "[NX_TRACK_OST_72_72]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 82504,
+      "type": 3,
+      "path": "Audio/BGM/Theme_72_8bit",
+      "desc": "[NX_TRACK_OST_72_82504]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_73": [
+    {
+      "id": 73,
+      "type": 0,
+      "path": "Audio/BGM/Theme_73",
+      "desc": "[NX_TRACK_OST_73_73]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_74": [
+    {
+      "id": 74,
+      "type": 0,
+      "path": "Audio/BGM/Theme_74",
+      "desc": "[NX_TRACK_OST_74_74]",
+      "timestamp": [
+        0.0,
+        118.4000015258789
+      ]
+    }
+  ],
+  "OST_75": [
+    {
+      "id": 75,
+      "type": 0,
+      "path": "Audio/BGM/Theme_75",
+      "desc": "[NX_TRACK_OST_75_75]",
+      "timestamp": [
+        0.0,
+        119.1719970703125
+      ]
+    }
+  ],
+  "OST_76": [
+    {
+      "id": 76,
+      "type": 0,
+      "path": "Audio/BGM/Theme_76",
+      "desc": "[NX_TRACK_OST_76_76]",
+      "timestamp": [
+        0.0,
+        134.0679931640625
+      ]
+    }
+  ],
+  "OST_77": [
+    {
+      "id": 77,
+      "type": 0,
+      "path": "Audio/BGM/Theme_77",
+      "desc": "[NX_TRACK_OST_77_77]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_78": [
+    {
+      "id": 78,
+      "type": 0,
+      "path": "Audio/BGM/Theme_78",
+      "desc": "[NX_TRACK_OST_78_78]",
+      "timestamp": [
+        15.428000450134277,
+        113.14199829101562
+      ]
+    }
+  ],
+  "OST_79": [
+    {
+      "id": 79,
+      "type": 0,
+      "path": "Audio/BGM/Theme_79",
+      "desc": "[NX_TRACK_OST_79_79]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_80": [
+    {
+      "id": 80,
+      "type": 0,
+      "path": "Audio/BGM/Theme_80",
+      "desc": "[NX_TRACK_OST_80_80]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_81": [
+    {
+      "id": 81,
+      "type": 0,
+      "path": "Audio/BGM/Theme_81",
+      "desc": "[NX_TRACK_OST_81_81]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_82": [
+    {
+      "id": 82,
+      "type": 0,
+      "path": "Audio/BGM/Theme_82",
+      "desc": "[NX_TRACK_OST_82_82]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_83": [
+    {
+      "id": 83,
+      "type": 0,
+      "path": "Audio/BGM/Theme_83",
+      "desc": "[NX_TRACK_OST_83_83]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 82505,
+      "type": 3,
+      "path": "Audio/BGM/Theme_83_8bit",
+      "desc": "[NX_TRACK_OST_83_82505]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_84": [
+    {
+      "id": 84,
+      "type": 0,
+      "path": "Audio/BGM/Theme_84",
+      "desc": "[NX_TRACK_OST_84_84]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_85": [
+    {
+      "id": 85,
+      "type": 0,
+      "path": "Audio/BGM/Theme_85",
+      "desc": "[NX_TRACK_OST_85_85]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 1301,
+      "type": null,
+      "path": "Audio/BGM/Theme_85_Verse",
+      "desc": "[NX_TRACK_OST_85_1301]",
+      "timestamp": [
+        1.600000023841858,
+        78.4000015258789
+      ]
+    },
+    {
+      "id": 1302,
+      "type": null,
+      "path": "Audio/BGM/Theme_85_Chorus",
+      "desc": "[NX_TRACK_OST_85_1302]",
+      "timestamp": [
+        0.0,
+        51.20000076293945
+      ]
+    },
+    {
+      "id": 82503,
+      "type": 3,
+      "path": "Audio/BGM/Theme_85_8bit",
+      "desc": "[NX_TRACK_OST_85_82503]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_86": [
+    {
+      "id": 86,
+      "type": 0,
+      "path": "Audio/BGM/Theme_86",
+      "desc": "[NX_TRACK_OST_86_86]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_87": [
+    {
+      "id": 87,
+      "type": 0,
+      "path": "Audio/BGM/Theme_87",
+      "desc": "[NX_TRACK_OST_87_87]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_88": [
+    {
+      "id": 88,
+      "type": 0,
+      "path": "Audio/BGM/Theme_88",
+      "desc": "[NX_TRACK_OST_88_88]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_89": [
+    {
+      "id": 89,
+      "type": 0,
+      "path": "Audio/BGM/Theme_89",
+      "desc": "[NX_TRACK_OST_89_89]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_91": [
+    {
+      "id": 91,
+      "type": 0,
+      "path": "Audio/BGM/Theme_91",
+      "desc": "[NX_TRACK_OST_91_91]",
+      "timestamp": [
+        0.3330000042915344,
+        87.0
+      ]
+    }
+  ],
+  "OST_92": [
+    {
+      "id": 92,
+      "type": 0,
+      "path": "Audio/BGM/Theme_92",
+      "desc": "[NX_TRACK_OST_92_92]",
+      "timestamp": [
+        55.28499984741211,
+        110.14199829101562
+      ]
+    }
+  ],
+  "OST_93": [
+    {
+      "id": 93,
+      "type": 0,
+      "path": "Audio/BGM/Theme_93",
+      "desc": "[NX_TRACK_OST_93_93]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_94": [
+    {
+      "id": 94,
+      "type": 0,
+      "path": "Audio/BGM/Theme_94",
+      "desc": "[NX_TRACK_OST_94_94]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_95": [
+    {
+      "id": 95,
+      "type": 0,
+      "path": "Audio/BGM/Theme_95",
+      "desc": "[NX_TRACK_OST_95_95]",
+      "timestamp": [
+        1.7389999628067017,
+        113.04299926757812
+      ]
+    }
+  ],
+  "OST_96": [
+    {
+      "id": 96,
+      "type": 0,
+      "path": "Audio/BGM/Theme_96",
+      "desc": "[NX_TRACK_OST_96_96]",
+      "timestamp": [
+        0.30000001192092896,
+        110.69999694824219
+      ]
+    }
+  ],
+  "OST_97": [
+    {
+      "id": 97,
+      "type": 0,
+      "path": "Audio/BGM/Theme_97",
+      "desc": "[NX_TRACK_OST_97_97]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_98": [
+    {
+      "id": 98,
+      "type": 0,
+      "path": "Audio/BGM/Theme_98",
+      "desc": "[NX_TRACK_OST_98_98]",
+      "timestamp": [
+        1.371000051498413,
+        113.8280029296875
+      ]
+    }
+  ],
+  "OST_99": [
+    {
+      "id": 99,
+      "type": 0,
+      "path": "Audio/BGM/Theme_99",
+      "desc": "[NX_TRACK_OST_99_99]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_100": [
+    {
+      "id": 100,
+      "type": 0,
+      "path": "Audio/BGM/Theme_100",
+      "desc": "[NX_TRACK_OST_100_100]",
+      "timestamp": [
+        13.149999618530273,
+        118.35600280761719
+      ]
+    }
+  ],
+  "OST_101": [
+    {
+      "id": 101,
+      "type": 0,
+      "path": "Audio/BGM/Theme_101",
+      "desc": "[NX_TRACK_OST_101_101]",
+      "timestamp": [
+        26.48200035095215,
+        119.1719970703125
+      ]
+    }
+  ],
+  "OST_102": [
+    {
+      "id": 102,
+      "type": 0,
+      "path": "Audio/BGM/Theme_102",
+      "desc": "[NX_TRACK_OST_102_102]",
+      "timestamp": [
+        16.4060001373291,
+        91.40599822998047
+      ]
+    }
+  ],
+  "OST_103": [
+    {
+      "id": 103,
+      "type": 0,
+      "path": "Audio/BGM/Theme_103",
+      "desc": "[NX_TRACK_OST_103_103]",
+      "timestamp": [
+        15.359000205993652,
+        107.51899719238281
+      ]
+    }
+  ],
+  "OST_104": [
+    {
+      "id": 104,
+      "type": 0,
+      "path": "Audio/BGM/Theme_104",
+      "desc": "[NX_TRACK_OST_104_104]",
+      "timestamp": [
+        0.0,
+        120.0
+      ]
+    }
+  ],
+  "OST_105": [
+    {
+      "id": 105,
+      "type": 0,
+      "path": "Audio/BGM/Theme_105",
+      "desc": "[NX_TRACK_OST_105_105]",
+      "timestamp": [
+        0.0,
+        142.3249969482422
+      ]
+    }
+  ],
+  "OST_106": [
+    {
+      "id": 106,
+      "type": 0,
+      "path": "Audio/BGM/Theme_106",
+      "desc": "[NX_TRACK_OST_106_106]",
+      "timestamp": [
+        32.0,
+        80.0
+      ]
+    }
+  ],
+  "OST_107": [
+    {
+      "id": 107,
+      "type": 0,
+      "path": "Audio/BGM/Theme_107",
+      "desc": "[NX_TRACK_OST_107_107]",
+      "timestamp": [
+        0.460999995470047,
+        118.61499786376953
+      ]
+    }
+  ],
+  "OST_108": [
+    {
+      "id": 108,
+      "type": 0,
+      "path": "Audio/BGM/Theme_108",
+      "desc": "[NX_TRACK_OST_108_108]",
+      "timestamp": [
+        22.325000762939453,
+        111.62699890136719
+      ]
+    }
+  ],
+  "OST_109": [
+    {
+      "id": 109,
+      "type": 0,
+      "path": "Audio/BGM/Theme_109",
+      "desc": "[NX_TRACK_OST_109_109]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_110": [
+    {
+      "id": 110,
+      "type": 0,
+      "path": "Audio/BGM/Theme_110",
+      "desc": "[NX_TRACK_OST_110_110]",
+      "timestamp": [
+        21.29199981689453,
+        113.84100341796875
+      ]
+    }
+  ],
+  "OST_113": [
+    {
+      "id": 113,
+      "type": 0,
+      "path": "Audio/BGM/Theme_113",
+      "desc": "[NX_TRACK_OST_113_113]",
+      "timestamp": [
+        9.175999641418457,
+        122.11699676513672
+      ]
+    }
+  ],
+  "OST_114": [
+    {
+      "id": 114,
+      "type": 0,
+      "path": "Audio/BGM/Theme_114",
+      "desc": "[NX_TRACK_OST_114_114]",
+      "timestamp": [
+        12.428000450134277,
+        122.14199829101562
+      ]
+    },
+    {
+      "id": 82502,
+      "type": 3,
+      "path": "Audio/BGM/Theme_114_8bit",
+      "desc": "[NX_TRACK_OST_114_82502]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_115": [
+    {
+      "id": 115,
+      "type": 0,
+      "path": "Audio/BGM/Theme_115",
+      "desc": "[NX_TRACK_OST_115_115]",
+      "timestamp": [
+        60.0,
+        120.0
+      ]
+    }
+  ],
+  "OST_116": [
+    {
+      "id": 116,
+      "type": 0,
+      "path": "Audio/BGM/Theme_116",
+      "desc": "[NX_TRACK_OST_116_116]",
+      "timestamp": [
+        10.36299991607666,
+        115.08999633789062
+      ]
+    }
+  ],
+  "OST_117": [
+    {
+      "id": 117,
+      "type": 0,
+      "path": "Audio/BGM/Theme_117",
+      "desc": "[NX_TRACK_OST_117_117]",
+      "timestamp": [
+        14.067999839782715,
+        120.0
+      ]
+    }
+  ],
+  "OST_118": [
+    {
+      "id": 118,
+      "type": 0,
+      "path": "Audio/BGM/Theme_118",
+      "desc": "[NX_TRACK_OST_118_118]",
+      "timestamp": [
+        0.0,
+        119.1719970703125
+      ]
+    }
+  ],
+  "OST_119": [
+    {
+      "id": 119,
+      "type": 0,
+      "path": "Audio/BGM/Theme_119",
+      "desc": "[NX_TRACK_OST_119_119]",
+      "timestamp": [
+        22.11199951171875,
+        55.21500015258789
+      ]
+    }
+  ],
+  "OST_120": [
+    {
+      "id": 120,
+      "type": 0,
+      "path": "Audio/BGM/Theme_120",
+      "desc": "[NX_TRACK_OST_120_120]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_121": [
+    {
+      "id": 121,
+      "type": 0,
+      "path": "Audio/BGM/Theme_121",
+      "desc": "[NX_TRACK_OST_121_121]",
+      "timestamp": [
+        11.0,
+        117.66600036621094
+      ]
+    }
+  ],
+  "OST_122": [
+    {
+      "id": 122,
+      "type": 0,
+      "path": "Audio/BGM/Theme_122",
+      "desc": "[NX_TRACK_OST_122_122]",
+      "timestamp": [
+        12.045999526977539,
+        120.0459976196289
+      ]
+    }
+  ],
+  "OST_123": [
+    {
+      "id": 123,
+      "type": 0,
+      "path": "Audio/BGM/Theme_123",
+      "desc": "[NX_TRACK_OST_123_123]",
+      "timestamp": [
+        15.359000205993652,
+        122.87899780273438
+      ]
+    }
+  ],
+  "OST_124": [
+    {
+      "id": 124,
+      "type": 0,
+      "path": "Audio/BGM/Theme_124",
+      "desc": "[NX_TRACK_OST_124_124]",
+      "timestamp": [
+        0.460999995470047,
+        107.53800201416016
+      ]
+    }
+  ],
+  "OST_125": [
+    {
+      "id": 125,
+      "type": 0,
+      "path": "Audio/BGM/Theme_125",
+      "desc": "[NX_TRACK_OST_125_125]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10006,
+      "type": null,
+      "path": "Audio/BGM/Theme_125_Blank",
+      "desc": "[NX_TRACK_OST_125_10006]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_127": [
+    {
+      "id": 127,
+      "type": 0,
+      "path": "Audio/BGM/Theme_127",
+      "desc": "[NX_TRACK_OST_127_127]",
+      "timestamp": [
+        0.0,
+        119.1719970703125
+      ]
+    }
+  ],
+  "OST_128": [
+    {
+      "id": 128,
+      "type": 0,
+      "path": "Audio/BGM/Theme_128",
+      "desc": "[NX_TRACK_OST_128_128]",
+      "timestamp": [
+        24.843000411987305,
+        120.84300231933594
+      ]
+    }
+  ],
+  "OST_129": [
+    {
+      "id": 129,
+      "type": 0,
+      "path": "Audio/BGM/Theme_129",
+      "desc": "[NX_TRACK_OST_129_129]",
+      "timestamp": [
+        42.66600036621094,
+        128.0
+      ]
+    }
+  ],
+  "OST_130": [
+    {
+      "id": 130,
+      "type": 0,
+      "path": "Audio/BGM/Theme_130",
+      "desc": "[NX_TRACK_OST_130_130]",
+      "timestamp": [
+        42.58000183105469,
+        125.16100311279297
+      ]
+    }
+  ],
+  "OST_131": [
+    {
+      "id": 131,
+      "type": 0,
+      "path": "Audio/BGM/Theme_131",
+      "desc": "[NX_TRACK_OST_131_131]",
+      "timestamp": [
+        48.0,
+        117.81800079345703
+      ]
+    }
+  ],
+  "OST_132": [
+    {
+      "id": 132,
+      "type": 0,
+      "path": "Audio/BGM/Theme_132",
+      "desc": "[NX_TRACK_OST_132_132]",
+      "timestamp": [
+        1.5,
+        124.5
+      ]
+    }
+  ],
+  "OST_133": [
+    {
+      "id": 133,
+      "type": 0,
+      "path": "Audio/BGM/Theme_133",
+      "desc": "[NX_TRACK_OST_133_133]",
+      "timestamp": [
+        33.6619987487793,
+        114.59300231933594
+      ]
+    }
+  ],
+  "OST_134": [
+    {
+      "id": 134,
+      "type": 0,
+      "path": "Audio/BGM/Theme_134",
+      "desc": "[NX_TRACK_OST_134_134]",
+      "timestamp": [
+        0.6660000085830688,
+        60.66600036621094
+      ]
+    }
+  ],
+  "OST_135": [
+    {
+      "id": 135,
+      "type": 0,
+      "path": "Audio/BGM/Theme_135",
+      "desc": "[NX_TRACK_OST_135_135]",
+      "timestamp": [
+        0.3330000042915344,
+        64.33300018310547
+      ]
+    }
+  ],
+  "OST_136": [
+    {
+      "id": 136,
+      "type": 0,
+      "path": "Audio/BGM/Theme_136",
+      "desc": "[NX_TRACK_OST_136_136]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10007,
+      "type": null,
+      "path": "Audio/BGM/Theme_136_Short",
+      "desc": "[NX_TRACK_OST_136_10007]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 80704,
+      "type": null,
+      "path": "Audio/BGM/Theme_136_Song",
+      "desc": "[NX_TRACK_OST_136_80704]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_137": [
+    {
+      "id": 137,
+      "type": 0,
+      "path": "Audio/BGM/Theme_137",
+      "desc": "[NX_TRACK_OST_137_137]",
+      "timestamp": [
+        0.9369999766349792,
+        120.93699645996094
+      ]
+    }
+  ],
+  "OST_138": [
+    {
+      "id": 138,
+      "type": 0,
+      "path": "Audio/BGM/Theme_138",
+      "desc": "[NX_TRACK_OST_138_138]",
+      "timestamp": [
+        9.0,
+        69.0
+      ]
+    }
+  ],
+  "OST_139": [
+    {
+      "id": 139,
+      "type": 0,
+      "path": "Audio/BGM/Theme_139",
+      "desc": "[NX_TRACK_OST_139_139]",
+      "timestamp": [
+        0.5210000276565552,
+        129.39100646972656
+      ]
+    }
+  ],
+  "OST_140": [
+    {
+      "id": 140,
+      "type": 0,
+      "path": "Audio/BGM/Theme_140",
+      "desc": "[NX_TRACK_OST_140_140]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_141": [
+    {
+      "id": 141,
+      "type": 0,
+      "path": "Audio/BGM/Theme_141",
+      "desc": "[NX_TRACK_OST_141_141]",
+      "timestamp": [
+        18.0,
+        70.36299896240234
+      ]
+    }
+  ],
+  "OST_142": [
+    {
+      "id": 142,
+      "type": 0,
+      "path": "Audio/BGM/Theme_142",
+      "desc": "[NX_TRACK_OST_142_142]",
+      "timestamp": [
+        19.42799949645996,
+        110.85700225830078
+      ]
+    },
+    {
+      "id": 10009,
+      "type": null,
+      "path": "Audio/BGM/Theme_142_Short",
+      "desc": "[NX_TRACK_OST_142_10009]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_143": [
+    {
+      "id": 143,
+      "type": 0,
+      "path": "Audio/BGM/Theme_143",
+      "desc": "[NX_TRACK_OST_143_143]",
+      "timestamp": [
+        16.86400032043457,
+        112.86399841308594
+      ]
+    }
+  ],
+  "OST_145": [
+    {
+      "id": 145,
+      "type": 0,
+      "path": "Audio/BGM/Theme_145",
+      "desc": "[NX_TRACK_OST_145_145]",
+      "timestamp": [
+        23.023000717163086,
+        89.9990005493164
+      ]
+    }
+  ],
+  "OST_148": [
+    {
+      "id": 148,
+      "type": 0,
+      "path": "Audio/BGM/Theme_148",
+      "desc": "[NX_TRACK_OST_148_148]",
+      "timestamp": [
+        29.10099983215332,
+        98.08300018310547
+      ]
+    }
+  ],
+  "OST_149": [
+    {
+      "id": 149,
+      "type": 0,
+      "path": "Audio/BGM/Theme_149",
+      "desc": "[NX_TRACK_OST_149_149]",
+      "timestamp": [
+        36.9370002746582,
+        132.93699645996094
+      ]
+    }
+  ],
+  "OST_150": [
+    {
+      "id": 150,
+      "type": 0,
+      "path": "Audio/BGM/Theme_150",
+      "desc": "[NX_TRACK_OST_150_150]",
+      "timestamp": [
+        31.42799949645996,
+        115.23799896240234
+      ]
+    }
+  ],
+  "OST_151": [
+    {
+      "id": 151,
+      "type": 0,
+      "path": "Audio/BGM/Theme_151",
+      "desc": "[NX_TRACK_OST_151_151]",
+      "timestamp": [
+        14.399999618530273,
+        78.4000015258789
+      ]
+    },
+    {
+      "id": 10011,
+      "type": null,
+      "path": "Audio/BGM/Theme_151_Short",
+      "desc": "[NX_TRACK_OST_151_10011]",
+      "timestamp": [
+        30.600000381469727,
+        36.79999923706055
+      ]
+    },
+    {
+      "id": 10012,
+      "type": null,
+      "path": "Audio/BGM/Theme_151_VeryShort",
+      "desc": "[NX_TRACK_OST_151_10012]",
+      "timestamp": [
+        0.0,
+        12.800000190734863
+      ]
+    }
+  ],
+  "OST_152": [
+    {
+      "id": 152,
+      "type": 0,
+      "path": "Audio/BGM/Theme_152",
+      "desc": "[NX_TRACK_OST_152_152]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 90002,
+      "type": null,
+      "path": "Audio/BGM/Theme_152_Title",
+      "desc": "[NX_TRACK_OST_152_90002]",
+      "timestamp": [
+        3.5999999046325684,
+        111.5999984741211
+      ]
+    }
+  ],
+  "OST_155": [
+    {
+      "id": 155,
+      "type": 0,
+      "path": "Audio/BGM/Theme_155",
+      "desc": "[NX_TRACK_OST_155_155]",
+      "timestamp": [
+        0.75,
+        123.75
+      ]
+    }
+  ],
+  "OST_156": [
+    {
+      "id": 156,
+      "type": 0,
+      "path": "Audio/BGM/Theme_156",
+      "desc": "[NX_TRACK_OST_156_156]",
+      "timestamp": [
+        35.78900146484375,
+        120.0
+      ]
+    }
+  ],
+  "OST_157": [
+    {
+      "id": 157,
+      "type": 0,
+      "path": "Audio/BGM/Theme_157",
+      "desc": "[NX_TRACK_OST_157_157]",
+      "timestamp": [
+        16.319000244140625,
+        62.39899826049805
+      ]
+    }
+  ],
+  "OST_158": [
+    {
+      "id": 158,
+      "type": 0,
+      "path": "Audio/BGM/Theme_158",
+      "desc": "[NX_TRACK_OST_158_158]",
+      "timestamp": [
+        186.90899658203125,
+        223.45399475097656
+      ]
+    },
+    {
+      "id": 1501,
+      "type": null,
+      "path": "Audio/BGM/Theme_158_Intro",
+      "desc": "[NX_TRACK_OST_158_1501]",
+      "timestamp": [
+        16.0,
+        39.27199935913086
+      ]
+    },
+    {
+      "id": 1502,
+      "type": null,
+      "path": "Audio/BGM/Theme_158_Verse",
+      "desc": "[NX_TRACK_OST_158_1502]",
+      "timestamp": [
+        53.81800079345703,
+        110.36299896240234
+      ]
+    },
+    {
+      "id": 1503,
+      "type": null,
+      "path": "Audio/BGM/Theme_158_Chorus",
+      "desc": "[NX_TRACK_OST_158_1503]",
+      "timestamp": [
+        0.0,
+        23.27199935913086
+      ]
+    }
+  ],
+  "OST_159": [
+    {
+      "id": 159,
+      "type": 0,
+      "path": "Audio/BGM/Theme_159",
+      "desc": "[NX_TRACK_OST_159_159]",
+      "timestamp": [
+        0.8569999933242798,
+        115.71399688720703
+      ]
+    }
+  ],
+  "OST_160": [
+    {
+      "id": 160,
+      "type": 0,
+      "path": "Audio/BGM/Theme_160",
+      "desc": "[NX_TRACK_OST_160_160]",
+      "timestamp": [
+        16.190000534057617,
+        107.61900329589844
+      ]
+    }
+  ],
+  "OST_161": [
+    {
+      "id": 161,
+      "type": 0,
+      "path": "Audio/BGM/Theme_161",
+      "desc": "[NX_TRACK_OST_161_161]",
+      "timestamp": [
+        15.0,
+        125.625
+      ]
+    }
+  ],
+  "OST_162": [
+    {
+      "id": 162,
+      "type": 0,
+      "path": "Audio/BGM/Theme_162",
+      "desc": "[NX_TRACK_OST_162_162]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_163": [
+    {
+      "id": 163,
+      "type": 0,
+      "path": "Audio/BGM/Theme_163",
+      "desc": "[NX_TRACK_OST_163_163]",
+      "timestamp": [
+        4.210000038146973,
+        120.0
+      ]
+    }
+  ],
+  "OST_164": [
+    {
+      "id": 164,
+      "type": 0,
+      "path": "Audio/BGM/Theme_164",
+      "desc": "[NX_TRACK_OST_164_164]",
+      "timestamp": [
+        13.09000015258789,
+        117.81800079345703
+      ]
+    }
+  ],
+  "OST_165": [
+    {
+      "id": 165,
+      "type": 0,
+      "path": "Audio/BGM/Theme_165",
+      "desc": "[NX_TRACK_OST_165_165]",
+      "timestamp": [
+        2.2939999103546143,
+        119.47000122070312
+      ]
+    }
+  ],
+  "OST_167": [
+    {
+      "id": 167,
+      "type": 0,
+      "path": "Audio/BGM/Theme_167",
+      "desc": "[NX_TRACK_OST_167_167]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_168": [
+    {
+      "id": 168,
+      "type": 0,
+      "path": "Audio/BGM/Theme_168",
+      "desc": "[NX_TRACK_OST_168_168]",
+      "timestamp": [
+        31.08799934387207,
+        108.50800323486328
+      ]
+    }
+  ],
+  "OST_169": [
+    {
+      "id": 169,
+      "type": 0,
+      "path": "Audio/BGM/Theme_169",
+      "desc": "[NX_TRACK_OST_169_169]",
+      "timestamp": [
+        12.857000350952148,
+        118.57099914550781
+      ]
+    }
+  ],
+  "OST_170": [
+    {
+      "id": 170,
+      "type": 0,
+      "path": "Audio/BGM/Theme_170",
+      "desc": "[NX_TRACK_OST_170_170]",
+      "timestamp": [
+        12.45199966430664,
+        109.05599975585938
+      ]
+    }
+  ],
+  "OST_171": [
+    {
+      "id": 171,
+      "type": 0,
+      "path": "Audio/BGM/Theme_171",
+      "desc": "[NX_TRACK_OST_171_171]",
+      "timestamp": [
+        1.4630000591278076,
+        127.31700134277344
+      ]
+    }
+  ],
+  "OST_172": [
+    {
+      "id": 172,
+      "type": 0,
+      "path": "Audio/BGM/Theme_172",
+      "desc": "[NX_TRACK_OST_172_172]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_173": [
+    {
+      "id": 173,
+      "type": 0,
+      "path": "Audio/BGM/Theme_173",
+      "desc": "[NX_TRACK_OST_173_173]",
+      "timestamp": [
+        0.0,
+        146.87899780273438
+      ]
+    }
+  ],
+  "OST_174": [
+    {
+      "id": 174,
+      "type": 0,
+      "path": "Audio/BGM/Theme_174",
+      "desc": "[NX_TRACK_OST_174_174]",
+      "timestamp": [
+        1.3480000495910645,
+        130.78599548339844
+      ]
+    }
+  ],
+  "OST_175": [
+    {
+      "id": 175,
+      "type": 0,
+      "path": "Audio/BGM/Theme_175",
+      "desc": "[NX_TRACK_OST_175_175]",
+      "timestamp": [
+        65.5999984741211,
+        129.60000610351562
+      ]
+    }
+  ],
+  "OST_176": [
+    {
+      "id": 176,
+      "type": 0,
+      "path": "Audio/BGM/Theme_176",
+      "desc": "[NX_TRACK_OST_176_176]",
+      "timestamp": [
+        0.0,
+        122.18099975585938
+      ]
+    }
+  ],
+  "OST_177": [
+    {
+      "id": 177,
+      "type": 0,
+      "path": "Audio/BGM/Theme_177",
+      "desc": "[NX_TRACK_OST_177_177]",
+      "timestamp": [
+        25.410999298095703,
+        115.76399993896484
+      ]
+    }
+  ],
+  "OST_178": [
+    {
+      "id": 178,
+      "type": 0,
+      "path": "Audio/BGM/Theme_178",
+      "desc": "[NX_TRACK_OST_178_178]",
+      "timestamp": [
+        1.9509999752044678,
+        95.60900115966797
+      ]
+    }
+  ],
+  "OST_179": [
+    {
+      "id": 179,
+      "type": 0,
+      "path": "Audio/BGM/Theme_179",
+      "desc": "[NX_TRACK_OST_179_179]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10019,
+      "type": null,
+      "path": "Audio/BGM/Theme_179_Inst",
+      "desc": "[NX_TRACK_OST_179_10019]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10020,
+      "type": null,
+      "path": "Audio/BGM/Theme_179_Short",
+      "desc": "[NX_TRACK_OST_179_10020]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10021,
+      "type": null,
+      "path": "Audio/BGM/Theme_179_Short_Inst",
+      "desc": "[NX_TRACK_OST_179_10021]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10022,
+      "type": null,
+      "path": "Audio/BGM/Theme_179_Inst2",
+      "desc": "[NX_TRACK_OST_179_10022]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_180": [
+    {
+      "id": 180,
+      "type": 0,
+      "path": "Audio/BGM/Theme_180",
+      "desc": "[NX_TRACK_OST_180_180]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10024,
+      "type": null,
+      "path": "Audio/BGM/Theme_180_Inst",
+      "desc": "[NX_TRACK_OST_180_10024]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_181": [
+    {
+      "id": 181,
+      "type": 0,
+      "path": "Audio/BGM/Theme_181",
+      "desc": "[NX_TRACK_OST_181_181]",
+      "timestamp": [
+        56.62900161743164,
+        110.56099700927734
+      ]
+    },
+    {
+      "id": 1504,
+      "type": null,
+      "path": "Audio/BGM/Theme_181_Verse",
+      "desc": "[NX_TRACK_OST_181_1504]",
+      "timestamp": [
+        2.696000099182129,
+        56.62900161743164
+      ]
+    },
+    {
+      "id": 1505,
+      "type": null,
+      "path": "Audio/BGM/Theme_181_Chorus",
+      "desc": "[NX_TRACK_OST_181_1505]",
+      "timestamp": [
+        0.0,
+        53.93199920654297
+      ]
+    }
+  ],
+  "OST_182": [
+    {
+      "id": 182,
+      "type": 0,
+      "path": "Audio/BGM/Theme_182",
+      "desc": "[NX_TRACK_OST_182_182]",
+      "timestamp": [
+        20.768999099731445,
+        109.38400268554688
+      ]
+    }
+  ],
+  "OST_183": [
+    {
+      "id": 183,
+      "type": 0,
+      "path": "Audio/BGM/Theme_183",
+      "desc": "[NX_TRACK_OST_183_183]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_186": [
+    {
+      "id": 186,
+      "type": 0,
+      "path": "Audio/BGM/Theme_186",
+      "desc": "[NX_TRACK_OST_186_186]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_187": [
+    {
+      "id": 187,
+      "type": 0,
+      "path": "Audio/BGM/Theme_187",
+      "desc": "[NX_TRACK_OST_187_187]",
+      "timestamp": [
+        19.565000534057617,
+        123.91300201416016
+      ]
+    }
+  ],
+  "OST_188": [
+    {
+      "id": 188,
+      "type": 0,
+      "path": "Audio/BGM/Theme_188",
+      "desc": "[NX_TRACK_OST_188_188]",
+      "timestamp": [
+        0.0,
+        138.7239990234375
+      ]
+    }
+  ],
+  "OST_189": [
+    {
+      "id": 189,
+      "type": 0,
+      "path": "Audio/BGM/Theme_189",
+      "desc": "[NX_TRACK_OST_189_189]",
+      "timestamp": [
+        2.6659998893737793,
+        133.33299255371094
+      ]
+    }
+  ],
+  "OST_190": [
+    {
+      "id": 190,
+      "type": 0,
+      "path": "Audio/BGM/Theme_190",
+      "desc": "[NX_TRACK_OST_190_190]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_191": [
+    {
+      "id": 191,
+      "type": 0,
+      "path": "Audio/BGM/Theme_191",
+      "desc": "[NX_TRACK_OST_191_191]",
+      "timestamp": [
+        17.45400047302246,
+        69.81800079345703
+      ]
+    }
+  ],
+  "OST_192": [
+    {
+      "id": 192,
+      "type": 0,
+      "path": "Audio/BGM/Theme_192",
+      "desc": "[NX_TRACK_OST_192_192]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_193": [
+    {
+      "id": 193,
+      "type": 0,
+      "path": "Audio/BGM/Theme_193",
+      "desc": "[NX_TRACK_OST_193_193]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_194": [
+    {
+      "id": 194,
+      "type": 0,
+      "path": "Audio/BGM/Theme_194",
+      "desc": "[NX_TRACK_OST_194_194]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_195": [
+    {
+      "id": 195,
+      "type": 0,
+      "path": "Audio/BGM/Theme_195",
+      "desc": "[NX_TRACK_OST_195_195]",
+      "timestamp": [
+        12.800000190734863,
+        128.0
+      ]
+    }
+  ],
+  "OST_196": [
+    {
+      "id": 196,
+      "type": 0,
+      "path": "Audio/BGM/Theme_196",
+      "desc": "[NX_TRACK_OST_196_196]",
+      "timestamp": [
+        0.0,
+        110.21700286865234
+      ]
+    }
+  ],
+  "OST_198": [
+    {
+      "id": 198,
+      "type": 0,
+      "path": "Audio/BGM/Theme_198",
+      "desc": "[NX_TRACK_OST_198_198]",
+      "timestamp": [
+        0.0,
+        102.5
+      ]
+    }
+  ],
+  "OST_199": [
+    {
+      "id": 199,
+      "type": 0,
+      "path": "Audio/BGM/Theme_199",
+      "desc": "[NX_TRACK_OST_199_199]",
+      "timestamp": [
+        0.7269999980926514,
+        116.84400177001953
+      ]
+    }
+  ],
+  "OST_201": [
+    {
+      "id": 201,
+      "type": 0,
+      "path": "Audio/BGM/Theme_201",
+      "desc": "[NX_TRACK_OST_201_201]",
+      "timestamp": [
+        0.7310000061988831,
+        59.268001556396484
+      ]
+    }
+  ],
+  "OST_202": [
+    {
+      "id": 202,
+      "type": 0,
+      "path": "Audio/BGM/Theme_202",
+      "desc": "[NX_TRACK_OST_202_202]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_207": [
+    {
+      "id": 207,
+      "type": 0,
+      "path": "Audio/BGM/Theme_207",
+      "desc": "[NX_TRACK_OST_207_207]",
+      "timestamp": [
+        56.1619987487793,
+        123.13899993896484
+      ]
+    }
+  ],
+  "OST_208": [
+    {
+      "id": 208,
+      "type": 0,
+      "path": "Audio/BGM/Theme_208",
+      "desc": "[NX_TRACK_OST_208_208]",
+      "timestamp": [
+        0.0,
+        136.61500549316406
+      ]
+    }
+  ],
+  "OST_209": [
+    {
+      "id": 209,
+      "type": 0,
+      "path": "Audio/BGM/Theme_209",
+      "desc": "[NX_TRACK_OST_209_209]",
+      "timestamp": [
+        0.0,
+        143.447998046875
+      ]
+    }
+  ],
+  "OST_210": [
+    {
+      "id": 210,
+      "type": 0,
+      "path": "Audio/BGM/Theme_210",
+      "desc": "[NX_TRACK_OST_210_210]",
+      "timestamp": [
+        4.695000171661377,
+        125.73899841308594
+      ]
+    }
+  ],
+  "OST_212": [
+    {
+      "id": 212,
+      "type": 0,
+      "path": "Audio/BGM/Theme_212",
+      "desc": "[NX_TRACK_OST_212_212]",
+      "timestamp": [
+        0.5210000276565552,
+        125.73899841308594
+      ]
+    }
+  ],
+  "OST_214": [
+    {
+      "id": 214,
+      "type": 0,
+      "path": "Audio/BGM/Theme_214",
+      "desc": "[NX_TRACK_OST_214_214]",
+      "timestamp": [
+        0.5550000071525574,
+        71.66600036621094
+      ]
+    }
+  ],
+  "OST_215": [
+    {
+      "id": 215,
+      "type": 0,
+      "path": "Audio/BGM/Theme_215",
+      "desc": "[NX_TRACK_OST_215_215]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_216": [
+    {
+      "id": 216,
+      "type": 0,
+      "path": "Audio/BGM/Theme_216",
+      "desc": "[NX_TRACK_OST_216_216]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "OST_219": [
+    {
+      "id": 219,
+      "type": 0,
+      "path": "Audio/BGM/Theme_219",
+      "desc": "[NX_TRACK_OST_219_219]",
+      "timestamp": [
+        56.275001525878906,
+        122.48200225830078
+      ]
+    }
+  ],
+  "OST_220": [
+    {
+      "id": 220,
+      "type": 0,
+      "path": "Audio/BGM/Theme_220",
+      "desc": "[NX_TRACK_OST_220_220]",
+      "timestamp": [
+        0.4000000059604645,
+        128.39999389648438
+      ]
+    }
+  ],
+  "OST_222": [
+    {
+      "id": 222,
+      "type": 0,
+      "path": "Audio/BGM/Theme_222",
+      "desc": "[NX_TRACK_OST_222_222]",
+      "timestamp": [
+        0.4000000059604645,
+        60.46799850463867
+      ]
+    }
+  ],
+  "other_3": [
+    {
+      "id": 10000,
+      "type": 0,
+      "path": "Audio/BGM/ClearMorning_Short",
+      "desc": "[NX_TRACK_other_3_10000]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "other_4": [
+    {
+      "id": 10003,
+      "type": 0,
+      "path": "Audio/BGM/BlueNewWorld_Short",
+      "desc": "[NX_TRACK_other_4_10003]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    },
+    {
+      "id": 10004,
+      "type": 0,
+      "path": "Audio/BGM/BlueNewWorld_Lobby",
+      "desc": "[NX_TRACK_other_4_10004]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "short_1": [
+    {
+      "id": 10008,
+      "type": 0,
+      "path": "Audio/BGM/WatashitachiNoQuest_Inst",
+      "desc": "[NX_TRACK_short_1_10008]",
+      "timestamp": [
+        0.0,
+        0.0
+      ]
+    }
+  ],
+  "other_5": [
+    {
+      "id": 80701,
+      "type": null,
+      "path": "Audio/BGM/BGM_TenchikaibyakuShinwa_Short",
+      "desc": "[NX_TRACK_other_5_80701]",
+      "timestamp": [
+        0.0,
+        15.0
+      ]
+    }
+  ],
+  "other_6": [
+    {
+      "id": 80702,
+      "type": null,
+      "path": "Audio/BGM/BGM_TellYourWorld_Short",
+      "desc": "[NX_TRACK_other_6_80702]",
+      "timestamp": [
+        0.0,
+        15.0
+      ]
+    }
+  ],
+  "other_7": [
+    {
+      "id": 80703,
+      "type": 0,
+      "path": "Audio/BGM/BGM_Mikumikuni",
+      "desc": "[NX_TRACK_other_7_80703]",
+      "timestamp": [
+        0.0,
+        15.0
+      ]
+    }
+  ],
+  "OST_154": [
+    {
+      "id": 90001,
+      "type": null,
+      "path": "Audio/BGM/Theme_154_Title",
+      "desc": "[NX_TRACK_OST_154_90001]",
+      "timestamp": [
+        0.0,
+        0.6660000085830688
+      ]
+    }
+  ],
+  "other_1": [
+    {
+      "id": 9000000,
+      "type": null,
+      "path": "Audio/BGM/TargetForLove_Short_kr",
+      "desc": "[NX_TRACK_other_1_9000000]",
+      "timestamp": [
+        null,
+        null
+      ]
+    },
+    {
+      "id": 9000001,
+      "type": null,
+      "path": "Audio/BGM/TargetForLove_Short_en",
+      "desc": "[NX_TRACK_other_1_9000001]",
+      "timestamp": [
+        null,
+        null
+      ]
+    }
+  ]
+}

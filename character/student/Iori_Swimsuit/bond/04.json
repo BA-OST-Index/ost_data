@@ -1,1 +1,64 @@
-{"uuid": "bf90fb3c-abfe-45da-b194-35c70e1cf25a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IORI_SWIMSUIT_4_NAME]", "desc": ["[STORY_BOND_IORI_SWIMSUIT_4_DESC_1]"], "pos": {"student": "IORI_SWIMSUIT", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg"], "character": ["Iori_Swimsuit"], "track": ["OST_10", "OST_3"]}, "track_to_bg": {"OST_10": ["BG_Beachside.jpg"], "OST_0": ["BG_Beachside.jpg"], "OST_3": ["BG_Beachside.jpg"]}, "track_to_char": {"OST_10": ["Iori_Swimsuit"], "OST_3": ["Iori_Swimsuit"]}, "char_to_bg": {"Iori_Swimsuit": ["BG_Beachside.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "430d022f-97bc-4118-af24-63b40d8c63d1",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IORI_SWIMSUIT_4_NAME]",
+  "desc": [
+    "[STORY_BOND_IORI_SWIMSUIT_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "IORI_SWIMSUIT",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg"
+      ],
+      "character": [
+        "Iori_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_3": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Iori_Swimsuit"
+      ],
+      "OST_3": [
+        "Iori_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Iori_Swimsuit": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

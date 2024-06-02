@@ -1,1 +1,219 @@
-{"uuid": "da0cccf5-2ea2-4ecd-a0ae-c774465eff68", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_817_9_NAME]", "desc": ["[STORY_EVENT_817_9_DESC_1]"], "pos": {"event_id": 817, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg", "BG_MilleniumCenter_Night2.jpg"], "character": ["Maki", "Hare", "Sumire", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "track": ["OST_49", "OST_3", "OST_5", "OST_7"]}, "track_to_bg": {"OST_49": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg"], "OST_0": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg", "BG_MilleniumCenter_Night2.jpg"], "OST_3": ["BG_MilleniumCenter_Night.jpg"], "OST_5": ["BG_MilleniumCenter_Night.jpg"], "OST_7": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg"]}, "track_to_char": {"OST_49": ["Maki", "Hare", "Sumire", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "OST_3": ["Hibiki_Cheerleader"], "OST_5": ["Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Chihiro"], "OST_7": ["Sumire", "Kotama"]}, "char_to_bg": {"Maki": ["BG_MilleniumCenter_Night.jpg"], "Sumire": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg"], "Hare": ["BG_MilleniumCenter_Night.jpg"], "Chihiro": ["BG_MilleniumCenter_Night.jpg"], "Hibiki_Cheerleader": ["BG_MilleniumCenter_Night.jpg", "BG_MilleniumCenter_Night2.jpg"], "Utaha_Cheerleader": ["BG_MilleniumCenter_Night.jpg"], "Kotori_Cheerleader": ["BG_MilleniumCenter_Night.jpg"], "Noa": ["BG_MilleniumCenter_Night.jpg"], "Kotama": ["BG_MilleniumCenter_Night.jpg", "BG_Storage_Night.jpg"]}, "char_to_char": {"Hare": ["Maki", "Sumire", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "Sumire": ["Maki", "Hare", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Kotama"], "Maki": ["Hare", "Sumire", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "Chihiro": ["Maki", "Sumire", "Hare", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "Hibiki_Cheerleader": ["Maki", "Sumire", "Hare", "Chihiro", "Utaha_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "Utaha_Cheerleader": ["Maki", "Sumire", "Hare", "Chihiro", "Hibiki_Cheerleader", "Kotori_Cheerleader", "Noa", "Kotama"], "Kotori_Cheerleader": ["Maki", "Sumire", "Hare", "Chihiro", "Hibiki_Cheerleader", "Utaha_Cheerleader", "Noa", "Kotama"], "Noa": ["Hare", "Maki", "Chihiro", "Utaha_Cheerleader", "Kotori_Cheerleader", "Hibiki_Cheerleader", "Kotama"], "Kotama": ["Hare", "Maki", "Chihiro", "Utaha_Cheerleader", "Kotori_Cheerleader", "Hibiki_Cheerleader", "Noa", "Sumire"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "f4b2fa13-f093-4f0f-8727-d24c7f2072c0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_817_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_817_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 817,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg",
+        "BG_MilleniumCenter_Night2.jpg"
+      ],
+      "character": [
+        "Maki",
+        "Hare",
+        "Sumire",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "track": [
+        "OST_49",
+        "OST_3",
+        "OST_5",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_49": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg",
+        "BG_MilleniumCenter_Night2.jpg"
+      ],
+      "OST_3": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "OST_5": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "OST_7": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_49": [
+        "Maki",
+        "Hare",
+        "Sumire",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "OST_3": [
+        "Hibiki_Cheerleader"
+      ],
+      "OST_5": [
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Chihiro"
+      ],
+      "OST_7": [
+        "Sumire",
+        "Kotama"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Sumire": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg"
+      ],
+      "Hare": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Chihiro": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Hibiki_Cheerleader": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_MilleniumCenter_Night2.jpg"
+      ],
+      "Utaha_Cheerleader": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Kotori_Cheerleader": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Noa": [
+        "BG_MilleniumCenter_Night.jpg"
+      ],
+      "Kotama": [
+        "BG_MilleniumCenter_Night.jpg",
+        "BG_Storage_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hare": [
+        "Maki",
+        "Sumire",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Sumire": [
+        "Maki",
+        "Hare",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Kotama"
+      ],
+      "Maki": [
+        "Hare",
+        "Sumire",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Chihiro": [
+        "Maki",
+        "Sumire",
+        "Hare",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Hibiki_Cheerleader": [
+        "Maki",
+        "Sumire",
+        "Hare",
+        "Chihiro",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Utaha_Cheerleader": [
+        "Maki",
+        "Sumire",
+        "Hare",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Kotori_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Kotori_Cheerleader": [
+        "Maki",
+        "Sumire",
+        "Hare",
+        "Chihiro",
+        "Hibiki_Cheerleader",
+        "Utaha_Cheerleader",
+        "Noa",
+        "Kotama"
+      ],
+      "Noa": [
+        "Hare",
+        "Maki",
+        "Chihiro",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Hibiki_Cheerleader",
+        "Kotama"
+      ],
+      "Kotama": [
+        "Hare",
+        "Maki",
+        "Chihiro",
+        "Utaha_Cheerleader",
+        "Kotori_Cheerleader",
+        "Hibiki_Cheerleader",
+        "Noa",
+        "Sumire"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

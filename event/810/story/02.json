@@ -1,1 +1,126 @@
-{"uuid": "7e7b1cbb-d88f-439d-84f8-967180b3e5bf", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_2_NAME]", "desc": ["[STORY_EVENT_810_2_DESC_1]"], "pos": {"event_id": 810, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingDistrict.jpg", "BG_UpperOffice.jpg", "BG_ShoppingMall.jpg", "BG_CityDowntown.jpg"], "character": ["Sena", "Wakamo", "Fubuki", "Kirino"], "track": ["OST_16", "OST_18", "OST_29", "OST_13"]}, "track_to_bg": {"OST_0": ["BG_ShoppingDistrict.jpg", "BG_UpperOffice.jpg", "BG_CityDowntown.jpg"], "OST_16": ["BG_ShoppingDistrict.jpg"], "OST_18": ["BG_UpperOffice.jpg", "BG_ShoppingMall.jpg", "BG_ShoppingDistrict.jpg"], "OST_29": ["BG_ShoppingDistrict.jpg"], "OST_13": ["BG_CityDowntown.jpg"]}, "track_to_char": {"OST_16": ["Sena"], "OST_18": ["Wakamo"], "OST_29": ["Sena", "Wakamo", "Fubuki", "Kirino"], "OST_13": ["Fubuki", "Kirino", "Sena"]}, "char_to_bg": {"Sena": ["BG_ShoppingDistrict.jpg", "BG_CityDowntown.jpg"], "Wakamo": ["BG_ShoppingMall.jpg", "BG_ShoppingDistrict.jpg"], "Fubuki": ["BG_ShoppingDistrict.jpg", "BG_CityDowntown.jpg"], "Kirino": ["BG_ShoppingDistrict.jpg", "BG_CityDowntown.jpg"]}, "char_to_char": {"Sena": ["Wakamo", "Fubuki", "Kirino"], "Fubuki": ["Wakamo", "Sena", "Kirino"], "Kirino": ["Wakamo", "Sena", "Fubuki"], "Wakamo": ["Sena", "Fubuki", "Kirino"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "8baad143-26c1-47c1-9b38-f933f349eb3f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_UpperOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Sena",
+        "Wakamo",
+        "Fubuki",
+        "Kirino"
+      ],
+      "track": [
+        "OST_16",
+        "OST_18",
+        "OST_29",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_UpperOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_16": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_18": [
+        "BG_UpperOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_29": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_13": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Sena"
+      ],
+      "OST_18": [
+        "Wakamo"
+      ],
+      "OST_29": [
+        "Sena",
+        "Wakamo",
+        "Fubuki",
+        "Kirino"
+      ],
+      "OST_13": [
+        "Fubuki",
+        "Kirino",
+        "Sena"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Wakamo": [
+        "BG_ShoppingMall.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "Fubuki": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Kirino": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sena": [
+        "Wakamo",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Fubuki": [
+        "Wakamo",
+        "Sena",
+        "Kirino"
+      ],
+      "Kirino": [
+        "Wakamo",
+        "Sena",
+        "Fubuki"
+      ],
+      "Wakamo": [
+        "Sena",
+        "Fubuki",
+        "Kirino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

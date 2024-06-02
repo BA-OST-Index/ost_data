@@ -1,1 +1,116 @@
-{"uuid": "5ea7e4fb-d139-4032-888f-09b987589b6a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_811_1_NAME]", "desc": ["[STORY_EVENT_811_1_DESC_1]"], "pos": {"event_id": 811, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown.jpg", "BG_InSideTank.jpg"], "character": ["Sena", "Chihiro", "Fubuki", "Kirino", "Wakamo"], "track": ["OST_10", "OST_6", "OST_3", "OST_18"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown.jpg", "BG_InSideTank.jpg"], "OST_10": ["BG_CityDowntown.jpg"], "OST_6": ["BG_CityDowntown.jpg"], "OST_3": ["BG_InSideTank.jpg"], "OST_18": ["BG_CityDowntown.jpg"]}, "track_to_char": {"OST_10": ["Sena"], "OST_6": ["Chihiro", "Sena"], "OST_3": ["Fubuki", "Kirino"], "OST_18": ["Fubuki", "Wakamo"]}, "char_to_bg": {"Sena": ["BG_CityDowntown.jpg"], "Chihiro": ["BG_CityDowntown.jpg"], "Fubuki": ["BG_InSideTank.jpg", "BG_CityDowntown.jpg"], "Kirino": ["BG_InSideTank.jpg"], "Wakamo": ["BG_CityDowntown.jpg"]}, "char_to_char": {"Sena": ["Chihiro", "Fubuki"], "Chihiro": ["Sena", "Fubuki"], "Kirino": ["Fubuki"], "Fubuki": ["Kirino", "Sena", "Chihiro"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "28b41415-cec1-47f0-b49f-efaea2493a01",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_811_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_811_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 811,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_InSideTank.jpg"
+      ],
+      "character": [
+        "Sena",
+        "Chihiro",
+        "Fubuki",
+        "Kirino",
+        "Wakamo"
+      ],
+      "track": [
+        "OST_10",
+        "OST_6",
+        "OST_3",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_InSideTank.jpg"
+      ],
+      "OST_10": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_6": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_3": [
+        "BG_InSideTank.jpg"
+      ],
+      "OST_18": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Sena"
+      ],
+      "OST_6": [
+        "Chihiro",
+        "Sena"
+      ],
+      "OST_3": [
+        "Fubuki",
+        "Kirino"
+      ],
+      "OST_18": [
+        "Fubuki",
+        "Wakamo"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Chihiro": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Fubuki": [
+        "BG_InSideTank.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Kirino": [
+        "BG_InSideTank.jpg"
+      ],
+      "Wakamo": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sena": [
+        "Chihiro",
+        "Fubuki"
+      ],
+      "Chihiro": [
+        "Sena",
+        "Fubuki"
+      ],
+      "Kirino": [
+        "Fubuki"
+      ],
+      "Fubuki": [
+        "Kirino",
+        "Sena",
+        "Chihiro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,178 @@
+{
+  "uuid": "f56150b1-5d4d-43f2-813e-693bc4fae7cf",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PowerRoom_Night.jpg",
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Hibiki",
+        "Utaha",
+        "Kotori",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko",
+        "Himari"
+      ],
+      "track": [
+        "OST_58",
+        "OST_192",
+        "OST_51",
+        "OST_175"
+      ]
+    },
+    "track_to_bg": {
+      "OST_58": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "OST_192": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "OST_51": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "OST_175": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_58": [
+        "Hibiki",
+        "Utaha",
+        "Kotori",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "OST_192": [
+        "Saten_Ruiko",
+        "Eimi",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Hibiki",
+        "Utaha",
+        "Kotori"
+      ],
+      "OST_51": [
+        "Hibiki",
+        "Utaha",
+        "Kotori",
+        "Eimi"
+      ],
+      "OST_175": [
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Hibiki": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Utaha": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Kotori": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Shokuhou_Misaki": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Eimi": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Saten_Ruiko": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Himari": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Utaha": [
+        "Hibiki",
+        "Kotori",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "Kotori": [
+        "Hibiki",
+        "Utaha",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "Shokuhou_Misaki": [
+        "Hibiki",
+        "Utaha",
+        "Kotori",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "Misaka_Mikoto": [
+        "Hibiki",
+        "Utaha",
+        "Kotori",
+        "Shokuhou_Misaki",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "Hibiki": [
+        "Utaha",
+        "Kotori",
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko"
+      ],
+      "Saten_Ruiko": [
+        "Eimi",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Kotori",
+        "Hibiki"
+      ],
+      "Eimi": [
+        "Saten_Ruiko",
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Kotori",
+        "Hibiki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

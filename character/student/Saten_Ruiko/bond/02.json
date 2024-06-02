@@ -1,0 +1,70 @@
+{
+  "uuid": "9135f210-b466-4bbe-a72e-e52d3377c51b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SATEN_RUIKO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SATEN_RUIKO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SATEN_RUIKO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DownTown.jpg",
+        "BG_DownTown_Night.jpg"
+      ],
+      "character": [
+        "Saten_Ruiko",
+        "Merchant C"
+      ],
+      "track": [
+        "OST_6"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_DownTown.jpg",
+        "BG_DownTown_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Saten_Ruiko",
+        "Merchant C"
+      ]
+    },
+    "char_to_bg": {
+      "Saten_Ruiko": [
+        "BG_DownTown.jpg",
+        "BG_DownTown_Night.jpg"
+      ],
+      "Merchant C": [
+        "BG_DownTown.jpg",
+        "BG_DownTown_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Merchant C": [
+        "Saten_Ruiko"
+      ],
+      "Saten_Ruiko": [
+        "Merchant C"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

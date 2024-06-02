@@ -1,1 +1,54 @@
-{"uuid": "c4764d44-4c85-4f30-8b2c-b21adce89221", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MARI_TRACK_3_NAME]", "desc": ["[STORY_BOND_MARI_TRACK_3_DESC_1]"], "pos": {"student": "MARI_TRACK", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park_Night.jpg"], "character": ["Mari_Track"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_Park_Night.jpg"]}, "track_to_char": {"OST_4": ["Mari_Track"]}, "char_to_bg": {"Mari_Track": ["BG_Park_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "ec794fe9-74a2-49a6-9f3f-1b2b39240a0a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MARI_TRACK_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MARI_TRACK_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MARI_TRACK",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park_Night.jpg"
+      ],
+      "character": [
+        "Mari_Track"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Mari_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Mari_Track": [
+        "BG_Park_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

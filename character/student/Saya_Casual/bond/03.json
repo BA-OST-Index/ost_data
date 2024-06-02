@@ -1,1 +1,70 @@
-{"uuid": "43b8d1d9-dd3a-4cc5-9424-4bdace4bcdc5", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SAYA_CASUAL_3_NAME]", "desc": ["[STORY_BOND_SAYA_CASUAL_3_DESC_1]"], "pos": {"student": "SAYA_CASUAL", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanTeaHouse.jpg"], "character": ["Saya_Casual"], "track": ["OST_88", "OST_36", "OST_3"]}, "track_to_bg": {"OST_88": ["BG_ShanTeaHouse.jpg"], "OST_0": ["BG_ShanTeaHouse.jpg"], "OST_36": ["BG_ShanTeaHouse.jpg"], "OST_3": ["BG_ShanTeaHouse.jpg"]}, "track_to_char": {"OST_88": ["Saya_Casual"], "OST_36": ["Saya_Casual"], "OST_3": ["Saya_Casual"]}, "char_to_bg": {"Saya_Casual": ["BG_ShanTeaHouse.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "f8c8c067-81ce-4e23-992d-c73e1b820dae",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SAYA_CASUAL_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SAYA_CASUAL_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SAYA_CASUAL",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Saya_Casual"
+      ],
+      "track": [
+        "OST_88",
+        "OST_36",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_88": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_0": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_36": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_3": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_88": [
+        "Saya_Casual"
+      ],
+      "OST_36": [
+        "Saya_Casual"
+      ],
+      "OST_3": [
+        "Saya_Casual"
+      ]
+    },
+    "char_to_bg": {
+      "Saya_Casual": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

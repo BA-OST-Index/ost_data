@@ -1,1 +1,63 @@
-{"uuid": "7e9b71be-1d39-4295-ab57-256f3568ade6", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_86_NAME]", "desc": ["[STORY_EVENT_999_86_DESC_1]"], "pos": {"event_id": 999, "segment": 86}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SRTCampSite_Sunset.jpg"], "character": ["Moe"], "track": ["OST_10", "OST_9"]}, "track_to_bg": {"OST_0": ["BG_SRTCampSite_Sunset.jpg"], "OST_10": ["BG_SRTCampSite_Sunset.jpg"], "OST_9": ["BG_SRTCampSite_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Moe"], "OST_9": ["Moe"]}, "char_to_bg": {"Moe": ["BG_SRTCampSite_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "5a949030-11df-41b8-8e09-85663b259a2d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_86_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_86_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 86
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "character": [
+        "Moe"
+      ],
+      "track": [
+        "OST_10",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "OST_10": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "OST_9": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Moe"
+      ],
+      "OST_9": [
+        "Moe"
+      ]
+    },
+    "char_to_bg": {
+      "Moe": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

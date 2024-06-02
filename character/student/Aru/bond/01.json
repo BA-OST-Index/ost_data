@@ -1,1 +1,70 @@
-{"uuid": "acda5aca-4686-4c97-8546-fee66db31746", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARU_1_NAME]", "desc": ["[STORY_BOND_ARU_1_DESC_1]"], "pos": {"student": "ARU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg", "BG_DessertCafe.jpg"], "character": ["Aru"], "track": ["OST_4", "OST_47"]}, "track_to_bg": {"OST_4": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg"], "OST_0": ["BG_CityDowntown.jpg", "BG_DessertCafe.jpg"], "OST_47": ["BG_DessertCafe.jpg"]}, "track_to_char": {"OST_4": ["Aru"], "OST_47": ["Aru"]}, "char_to_bg": {"Aru": ["BG_CityOffice.jpg", "BG_CityDowntown.jpg", "BG_DessertCafe.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "14c48f4f-6152-44f8-8715-29ca1667b7e9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_ARU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "character": [
+        "Aru"
+      ],
+      "track": [
+        "OST_4",
+        "OST_47"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_47": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Aru"
+      ],
+      "OST_47": [
+        "Aru"
+      ]
+    },
+    "char_to_bg": {
+      "Aru": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

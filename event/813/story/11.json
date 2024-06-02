@@ -1,1 +1,156 @@
-{"uuid": "a8a3152e-1c18-45ef-bc0f-48462302268f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_11_NAME]", "desc": ["[STORY_EVENT_813_11_DESC_1]"], "pos": {"event_id": 813, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkiyakoLookOut.jpg", "BG_HyakkiyakoMovieStreet.jpg"], "character": ["Michiru", "Kaede", "Kaho", "Iroha", "Tsukuyo", "Izuna", "Mimori"], "track": ["OST_60", "OST_3", "OST_18", "OST_49"]}, "track_to_bg": {"OST_60": ["BG_HyakkiyakoLookOut.jpg", "BG_HyakkiyakoMovieStreet.jpg"], "OST_0": ["BG_HyakkiyakoMovieStreet.jpg"], "OST_3": ["BG_HyakkiyakoMovieStreet.jpg"], "OST_18": ["BG_HyakkiyakoMovieStreet.jpg"], "OST_49": ["BG_HyakkiyakoMovieStreet.jpg"]}, "track_to_char": {"OST_60": ["Michiru", "Kaede", "Kaho", "Iroha", "Tsukuyo", "Izuna"], "OST_3": ["Izuna", "Mimori", "Iroha", "Tsukuyo", "Michiru"], "OST_18": ["Mimori"], "OST_49": ["Izuna", "Tsukuyo", "Michiru", "Iroha", "Mimori"]}, "char_to_bg": {"Iroha": ["BG_HyakkiyakoMovieStreet.jpg"], "Michiru": ["BG_HyakkiyakoMovieStreet.jpg"], "Tsukuyo": ["BG_HyakkiyakoMovieStreet.jpg"], "Izuna": ["BG_HyakkiyakoMovieStreet.jpg"], "Mimori": ["BG_HyakkiyakoMovieStreet.jpg"]}, "char_to_char": {"Kaede": ["Michiru", "Kaho"], "Kaho": ["Michiru", "Kaede"], "Michiru": ["Kaede", "Kaho", "Tsukuyo", "Izuna", "Mimori", "Iroha"], "Tsukuyo": ["Michiru", "Izuna", "Mimori", "Iroha"], "Izuna": ["Michiru", "Tsukuyo", "Mimori", "Iroha"], "Mimori": ["Michiru", "Izuna", "Iroha", "Tsukuyo"], "Iroha": ["Michiru", "Mimori", "Izuna", "Tsukuyo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "215719c1-457e-4d3c-b208-ef43b3794b34",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLookOut.jpg",
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "character": [
+        "Michiru",
+        "Kaede",
+        "Kaho",
+        "Niya",
+        "Iroha",
+        "Tsukuyo",
+        "Izuna",
+        "Mimori"
+      ],
+      "track": [
+        "OST_60",
+        "OST_3",
+        "OST_18",
+        "OST_49"
+      ]
+    },
+    "track_to_bg": {
+      "OST_60": [
+        "BG_HyakkiyakoLookOut.jpg",
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "OST_3": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "OST_18": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "OST_49": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_60": [
+        "Michiru",
+        "Kaede",
+        "Kaho",
+        "Niya",
+        "Iroha",
+        "Tsukuyo",
+        "Izuna"
+      ],
+      "OST_3": [
+        "Izuna",
+        "Mimori",
+        "Iroha",
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "OST_18": [
+        "Mimori"
+      ],
+      "OST_49": [
+        "Izuna",
+        "Tsukuyo",
+        "Michiru",
+        "Iroha",
+        "Mimori"
+      ]
+    },
+    "char_to_bg": {
+      "Niya": [
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "Iroha": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoMovieStreet.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kaede": [
+        "Michiru",
+        "Kaho"
+      ],
+      "Kaho": [
+        "Michiru",
+        "Kaede"
+      ],
+      "Michiru": [
+        "Kaede",
+        "Kaho",
+        "Tsukuyo",
+        "Izuna",
+        "Mimori",
+        "Iroha"
+      ],
+      "Tsukuyo": [
+        "Michiru",
+        "Izuna",
+        "Mimori",
+        "Iroha"
+      ],
+      "Izuna": [
+        "Michiru",
+        "Tsukuyo",
+        "Mimori",
+        "Iroha"
+      ],
+      "Mimori": [
+        "Michiru",
+        "Izuna",
+        "Iroha",
+        "Tsukuyo"
+      ],
+      "Iroha": [
+        "Michiru",
+        "Mimori",
+        "Izuna",
+        "Tsukuyo"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

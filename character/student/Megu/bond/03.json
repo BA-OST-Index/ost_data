@@ -1,1 +1,70 @@
-{"uuid": "a264d2ba-df63-4514-82e1-42c7b2ee94b9", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MEGU_3_NAME]", "desc": ["[STORY_BOND_MEGU_3_DESC_1]"], "pos": {"student": "MEGU", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RestingLounge.jpg", "BG_ForestRoad_Night.jpg", "BG_View_Sky.jpg", "BG_View_Sky_Sunset.jpg"], "character": ["Megu"], "track": ["OST_10", "OST_43"]}, "track_to_bg": {"OST_0": ["BG_RestingLounge.jpg", "BG_ForestRoad_Night.jpg", "BG_View_Sky.jpg", "BG_View_Sky_Sunset.jpg"], "OST_10": ["BG_RestingLounge.jpg"], "OST_43": ["BG_ForestRoad_Night.jpg"]}, "track_to_char": {"OST_10": ["Megu"], "OST_43": ["Megu"]}, "char_to_bg": {"Megu": ["BG_RestingLounge.jpg", "BG_ForestRoad_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_43"}}, "is_memory": true}
+{
+  "uuid": "a2779649-455c-4e00-b05e-bb0448da14d6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MEGU_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MEGU_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MEGU",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RestingLounge.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ],
+      "character": [
+        "Megu"
+      ],
+      "track": [
+        "OST_10",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RestingLounge.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ],
+      "OST_10": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_43": [
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Megu"
+      ],
+      "OST_43": [
+        "Megu"
+      ]
+    },
+    "char_to_bg": {
+      "Megu": [
+        "BG_RestingLounge.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_43"
+    }
+  },
+  "is_memory": true
+}

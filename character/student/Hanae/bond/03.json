@@ -1,1 +1,57 @@
-{"uuid": "823e962d-5380-4555-9d30-1a81dbd4ae10", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HANAE_3_NAME]", "desc": ["[STORY_BOND_HANAE_3_DESC_1]"], "pos": {"student": "HANAE", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg"], "character": ["Hanae"], "track": ["OST_28"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber.jpg"], "OST_28": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_28": ["Hanae"]}, "char_to_bg": {"Hanae": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "51d3f660-68b2-4e48-a421-54c773724c80",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HANAE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HANAE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HANAE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Hanae"
+      ],
+      "track": [
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_28": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Hanae"
+      ]
+    },
+    "char_to_bg": {
+      "Hanae": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

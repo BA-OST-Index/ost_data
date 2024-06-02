@@ -1,1 +1,170 @@
-{"uuid": "11b8af57-4be6-494c-88be-e65f3632ff4c", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_809_13_NAME]", "desc": ["[STORY_EVENT_809_13_DESC_1]"], "pos": {"event_id": 809, "segment": 13}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BlackMarket_Night.jpg", "BG_CityDowntown_Night.jpg"], "character": ["Hoshino", "Aru_NewYear", "Nonomi", "Serika_NewYear", "Shiroko", "Kayoko_NewYear", "Mutsuki_NewYear", "Ayane"], "track": ["OST_29", "OST_6", "OST_3", "OST_7"]}, "track_to_bg": {"OST_29": ["BG_BlackMarket_Night.jpg"], "OST_0": ["BG_BlackMarket_Night.jpg"], "OST_6": ["BG_BlackMarket_Night.jpg", "BG_CityDowntown_Night.jpg"], "OST_3": ["BG_BlackMarket_Night.jpg"], "OST_7": ["BG_BlackMarket_Night.jpg"]}, "track_to_char": {"OST_29": ["Hoshino", "Aru_NewYear"], "OST_6": ["Nonomi", "Serika_NewYear", "Shiroko", "Aru_NewYear", "Hoshino", "Kayoko_NewYear", "Mutsuki_NewYear"], "OST_3": ["Hoshino", "Nonomi", "Shiroko", "Aru_NewYear", "Mutsuki_NewYear", "Ayane", "Serika_NewYear"], "OST_7": ["Kayoko_NewYear", "Mutsuki_NewYear"]}, "char_to_bg": {"Hoshino": ["BG_BlackMarket_Night.jpg"], "Aru_NewYear": ["BG_BlackMarket_Night.jpg"], "Nonomi": ["BG_BlackMarket_Night.jpg"], "Serika_NewYear": ["BG_BlackMarket_Night.jpg", "BG_CityDowntown_Night.jpg"], "Shiroko": ["BG_BlackMarket_Night.jpg"], "Kayoko_NewYear": ["BG_BlackMarket_Night.jpg"], "Mutsuki_NewYear": ["BG_BlackMarket_Night.jpg"], "Ayane": ["BG_BlackMarket_Night.jpg"]}, "char_to_char": {"Aru_NewYear": ["Hoshino", "Nonomi", "Serika_NewYear", "Shiroko"], "Hoshino": ["Aru_NewYear", "Nonomi", "Serika_NewYear", "Shiroko"], "Serika_NewYear": ["Nonomi", "Shiroko", "Aru_NewYear", "Hoshino"], "Shiroko": ["Nonomi", "Serika_NewYear", "Aru_NewYear", "Hoshino"], "Nonomi": ["Serika_NewYear", "Shiroko", "Aru_NewYear", "Hoshino"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "30174728-f5be-4254-89ed-2586c466465c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_809_13_NAME]",
+  "desc": [
+    "[STORY_EVENT_809_13_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 809,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "character": [
+        "Hoshino",
+        "Kurokame Gangster C",
+        "Aru_NewYear",
+        "Nonomi",
+        "Serika_NewYear",
+        "Shiroko",
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear",
+        "Shiroko_Cycling",
+        "Ayane"
+      ],
+      "track": [
+        "OST_29",
+        "OST_6",
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_29": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_6": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_7": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_29": [
+        "Hoshino",
+        "Kurokame Gangster C",
+        "Aru_NewYear"
+      ],
+      "OST_6": [
+        "Nonomi",
+        "Serika_NewYear",
+        "Shiroko",
+        "Aru_NewYear",
+        "Hoshino",
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear",
+        "Shiroko_Cycling"
+      ],
+      "OST_3": [
+        "Hoshino",
+        "Nonomi",
+        "Shiroko_Cycling",
+        "Aru_NewYear",
+        "Mutsuki_NewYear",
+        "Shiroko",
+        "Ayane",
+        "Serika_NewYear"
+      ],
+      "OST_7": [
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Hoshino": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Kurokame Gangster C": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Aru_NewYear": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Nonomi": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Serika_NewYear": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "Shiroko": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Kayoko_NewYear": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Mutsuki_NewYear": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Shiroko_Cycling": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Ayane": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kurokame Gangster C": [
+        "Hoshino",
+        "Aru_NewYear"
+      ],
+      "Aru_NewYear": [
+        "Hoshino",
+        "Kurokame Gangster C",
+        "Nonomi",
+        "Serika_NewYear",
+        "Shiroko"
+      ],
+      "Hoshino": [
+        "Kurokame Gangster C",
+        "Aru_NewYear",
+        "Nonomi",
+        "Serika_NewYear",
+        "Shiroko"
+      ],
+      "Serika_NewYear": [
+        "Nonomi",
+        "Shiroko",
+        "Aru_NewYear",
+        "Hoshino"
+      ],
+      "Shiroko": [
+        "Nonomi",
+        "Serika_NewYear",
+        "Aru_NewYear",
+        "Hoshino"
+      ],
+      "Nonomi": [
+        "Serika_NewYear",
+        "Shiroko",
+        "Aru_NewYear",
+        "Hoshino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

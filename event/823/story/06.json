@@ -1,0 +1,113 @@
+{
+  "uuid": "0973dc77-5741-45b5-8220-0811acf98e18",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_823_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_823_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 823,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UtnapishtimBridge_V5.jpg",
+        "BG_CS_S1Final_51.jpg",
+        "BG_CS_S1Final_20.jpg",
+        "BG_CS_S1Final_54.jpg",
+        "BG_CS_S1Final_49.jpg",
+        "BG_CS_S1Final_45.jpg",
+        "BG_CS_S1Final_41.jpg",
+        "BG_CS_S1Final_44.jpg",
+        "BG_CS_S1Final_55.jpg",
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_17.jpg",
+        "BG_CS_S1Final_21.jpg",
+        "BG_CS_S1Final_56.jpg",
+        "BG_CS_S1Final_57.jpg",
+        "BG_CS_S1Final_58.jpg",
+        "BG_CS_S1Final_59.jpg",
+        "BG_CS_S1Final_60.jpg",
+        "BG_CS_S1Final_61.jpg",
+        "BG_CS_S1Final_62.jpg",
+        "BG_CS_S1Final_63.jpg",
+        "BG_CS_S1Final_64.jpg",
+        "BG_CS_S1Final_23.jpg",
+        "BG_CS_S1Final_23_2.jpg"
+      ],
+      "character": [
+        "Rin",
+        "ShirokoTerror",
+        "NamelesPriest",
+        "Plana"
+      ],
+      "track": [
+        "OST_155"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_UtnapishtimBridge_V5.jpg",
+        "BG_CS_S1Final_51.jpg",
+        "BG_CS_S1Final_64.jpg",
+        "BG_CS_S1Final_23.jpg",
+        "BG_CS_S1Final_23_2.jpg",
+        "BG_CS_S1Final_54.jpg"
+      ],
+      "OST_155": [
+        "BG_CS_S1Final_20.jpg",
+        "BG_CS_S1Final_54.jpg",
+        "BG_CS_S1Final_49.jpg",
+        "BG_CS_S1Final_45.jpg",
+        "BG_CS_S1Final_41.jpg",
+        "BG_CS_S1Final_44.jpg",
+        "BG_CS_S1Final_51.jpg",
+        "BG_CS_S1Final_55.jpg",
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_17.jpg",
+        "BG_CS_S1Final_21.jpg",
+        "BG_CS_S1Final_56.jpg",
+        "BG_CS_S1Final_57.jpg",
+        "BG_CS_S1Final_58.jpg",
+        "BG_CS_S1Final_59.jpg",
+        "BG_CS_S1Final_60.jpg",
+        "BG_CS_S1Final_61.jpg",
+        "BG_CS_S1Final_62.jpg",
+        "BG_CS_S1Final_63.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_155": [
+        "NamelesPriest",
+        "ShirokoTerror"
+      ]
+    },
+    "char_to_bg": {
+      "Rin": [
+        "BG_UtnapishtimBridge_V5.jpg"
+      ],
+      "ShirokoTerror": [
+        "BG_CS_S1Final_51.jpg",
+        "BG_CS_S1Final_20.jpg",
+        "BG_CS_S1Final_64.jpg"
+      ],
+      "Plana": [
+        "BG_CS_S1Final_23_2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,57 @@
-{"uuid": "6acaaa58-19ce-4669-9a68-92f1c1f0ba0d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MASHIRO_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_MASHIRO_SWIMSUIT_1_DESC_1]"], "pos": {"student": "MASHIRO_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg"], "character": ["Mashiro"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg"]}, "track_to_char": {"OST_10": ["Mashiro"]}, "char_to_bg": {"Mashiro": ["BG_ShoppingMall.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "d240e2d3-4d5c-4b5b-89c0-f1fad330d8d7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MASHIRO_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MASHIRO_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MASHIRO_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "character": [
+        "Mashiro"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Mashiro"
+      ]
+    },
+    "char_to_bg": {
+      "Mashiro": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

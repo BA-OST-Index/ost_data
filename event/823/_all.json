@@ -1,0 +1,23 @@
+{
+  "uuid": "de6235da-616f-49f8-b47b-2699424e055c",
+  "filetype": -42,
+  "name": "[EVENT_823_NAME]",
+  "namespace": "823",
+  "desc": "[EVENT_823_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "",
+    "short_desc": "",
+    "platform": -1
+  }
+}

@@ -1,1 +1,77 @@
-{"uuid": "ad28ae07-7b3a-4eb2-a845-97b3d4c4efe4", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIMARI_4_NAME]", "desc": ["[STORY_BOND_HIMARI_4_DESC_1]"], "pos": {"student": "HIMARI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ComputerCenter.jpg"], "character": ["Himari"], "track": ["OST_33", "OST_130", "OST_16", "OST_36"]}, "track_to_bg": {"OST_33": ["BG_ComputerCenter.jpg"], "OST_0": ["BG_ComputerCenter.jpg"], "OST_130": ["BG_ComputerCenter.jpg"], "OST_16": ["BG_ComputerCenter.jpg"], "OST_36": ["BG_ComputerCenter.jpg"]}, "track_to_char": {"OST_33": ["Himari"], "OST_130": ["Himari"], "OST_16": ["Himari"], "OST_36": ["Himari"]}, "char_to_bg": {"Himari": ["BG_ComputerCenter.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "41d5a7a3-f5ec-4b77-bd05-ef9f60cfff6b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIMARI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_HIMARI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIMARI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Himari"
+      ],
+      "track": [
+        "OST_33",
+        "OST_130",
+        "OST_16",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_130": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_16": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_36": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Himari"
+      ],
+      "OST_130": [
+        "Himari"
+      ],
+      "OST_16": [
+        "Himari"
+      ],
+      "OST_36": [
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

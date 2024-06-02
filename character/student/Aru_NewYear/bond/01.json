@@ -1,1 +1,77 @@
-{"uuid": "a4d46acb-b913-4a31-b707-427dd0f7482a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARU_NEWYEAR_1_NAME]", "desc": ["[STORY_BOND_ARU_NEWYEAR_1_DESC_1]"], "pos": {"student": "ARU_NEWYEAR", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SubwayHall.jpg", "BG_Park.jpg", "BG_ShoppingMall.jpg"], "character": ["Aru"], "track": ["OST_4", "OST_8", "OST_3"]}, "track_to_bg": {"OST_4": ["BG_SubwayHall.jpg", "BG_Park.jpg"], "OST_0": ["BG_Park.jpg", "BG_ShoppingMall.jpg"], "OST_8": ["BG_ShoppingMall.jpg"], "OST_3": ["BG_ShoppingMall.jpg"]}, "track_to_char": {"OST_4": ["Aru"], "OST_8": ["Aru"], "OST_3": ["Aru"]}, "char_to_bg": {"Aru": ["BG_SubwayHall.jpg", "BG_Park.jpg", "BG_ShoppingMall.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "dfc2b980-88ef-4b73-8e59-123e500a5e5c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARU_NEWYEAR_1_NAME]",
+  "desc": [
+    "[STORY_BOND_ARU_NEWYEAR_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARU_NEWYEAR",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SubwayHall.jpg",
+        "BG_Park.jpg",
+        "BG_ShoppingMall.jpg"
+      ],
+      "character": [
+        "Aru"
+      ],
+      "track": [
+        "OST_4",
+        "OST_8",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_SubwayHall.jpg",
+        "BG_Park.jpg"
+      ],
+      "OST_0": [
+        "BG_Park.jpg",
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_8": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_3": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Aru"
+      ],
+      "OST_8": [
+        "Aru"
+      ],
+      "OST_3": [
+        "Aru"
+      ]
+    },
+    "char_to_bg": {
+      "Aru": [
+        "BG_SubwayHall.jpg",
+        "BG_Park.jpg",
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

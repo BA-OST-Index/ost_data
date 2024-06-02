@@ -1,1 +1,64 @@
-{"uuid": "93ede858-46ac-4af0-8705-e492e5147659", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUKA_2_NAME]", "desc": ["[STORY_BOND_HARUKA_2_DESC_1]"], "pos": {"student": "HARUKA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolRooftop.jpg"], "character": ["Haruka"], "track": ["OST_13", "OST_7"]}, "track_to_bg": {"OST_13": ["BG_SchoolRooftop.jpg"], "OST_0": ["BG_SchoolRooftop.jpg"], "OST_7": ["BG_SchoolRooftop.jpg"]}, "track_to_char": {"OST_13": ["Haruka"], "OST_7": ["Haruka"]}, "char_to_bg": {"Haruka": ["BG_SchoolRooftop.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c529424c-3551-451c-a715-5e60e3c72a51",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUKA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUKA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUKA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolRooftop.jpg"
+      ],
+      "character": [
+        "Haruka"
+      ],
+      "track": [
+        "OST_13",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_SchoolRooftop.jpg"
+      ],
+      "OST_0": [
+        "BG_SchoolRooftop.jpg"
+      ],
+      "OST_7": [
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Haruka"
+      ],
+      "OST_7": [
+        "Haruka"
+      ]
+    },
+    "char_to_bg": {
+      "Haruka": [
+        "BG_SchoolRooftop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

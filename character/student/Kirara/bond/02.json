@@ -1,0 +1,52 @@
+{
+  "uuid": "8cb65e3f-443d-4c2f-a2f8-07de2de75a19",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KIRARA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KIRARA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KIRARA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_3",
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_16": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,64 @@
-{"uuid": "8ceddd20-f95b-4b3d-884d-7be75e79cf42", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NAGISA_2_NAME]", "desc": ["[STORY_BOND_NAGISA_2_DESC_1]"], "pos": {"student": "NAGISA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityTerrace.jpg"], "character": ["Nagisa"], "track": ["OST_25", "OST_3"]}, "track_to_bg": {"OST_25": ["BG_TrinityTerrace.jpg"], "OST_0": ["BG_TrinityTerrace.jpg"], "OST_3": ["BG_TrinityTerrace.jpg"]}, "track_to_char": {"OST_25": ["Nagisa"], "OST_3": ["Nagisa"]}, "char_to_bg": {"Nagisa": ["BG_TrinityTerrace.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "9dd5a582-e2b9-4286-b8fa-2f12eb528631",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NAGISA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_NAGISA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "NAGISA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "character": [
+        "Nagisa"
+      ],
+      "track": [
+        "OST_25",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_25": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_3": [
+        "BG_TrinityTerrace.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_25": [
+        "Nagisa"
+      ],
+      "OST_3": [
+        "Nagisa"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityTerrace.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

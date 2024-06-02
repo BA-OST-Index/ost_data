@@ -1,1 +1,84 @@
-{"uuid": "f6e42d57-a312-4e1e-bb28-7c91c4c7c0b2", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_830_5_NAME]", "desc": ["[STORY_EVENT_830_5_DESC_1]"], "pos": {"event_id": 830, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrainRestaurant_Ruin.jpg"], "character": ["Kasumi", "Ichika"], "track": ["OST_3", "OST_174", "OST_60"]}, "track_to_bg": {"OST_0": ["BG_TrainRestaurant_Ruin.jpg"], "OST_3": ["BG_TrainRestaurant_Ruin.jpg"], "OST_174": ["BG_TrainRestaurant_Ruin.jpg"], "OST_60": ["BG_TrainRestaurant_Ruin.jpg"]}, "track_to_char": {"OST_3": ["Ichika", "Kasumi"], "OST_174": ["Ichika", "Kasumi"], "OST_60": ["Ichika", "Kasumi"]}, "char_to_bg": {"Kasumi": ["BG_TrainRestaurant_Ruin.jpg"], "Ichika": ["BG_TrainRestaurant_Ruin.jpg"]}, "char_to_char": {"Kasumi": ["Ichika"], "Ichika": ["Kasumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "880f2924-d4e8-42d3-a160-fbd3762b56f7",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_830_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_830_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 830,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ],
+      "character": [
+        "Kasumi",
+        "Ichika"
+      ],
+      "track": [
+        "OST_3",
+        "OST_174",
+        "OST_60"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ],
+      "OST_3": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ],
+      "OST_174": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ],
+      "OST_60": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Ichika",
+        "Kasumi"
+      ],
+      "OST_174": [
+        "Ichika",
+        "Kasumi"
+      ],
+      "OST_60": [
+        "Ichika",
+        "Kasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Kasumi": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ],
+      "Ichika": [
+        "BG_TrainRestaurant_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kasumi": [
+        "Ichika"
+      ],
+      "Ichika": [
+        "Kasumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

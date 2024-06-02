@@ -1,1 +1,57 @@
-{"uuid": "61b1be55-5f51-4d24-af7d-b8b7cc058e39", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINATA_4_NAME]", "desc": ["[STORY_BOND_HINATA_4_DESC_1]"], "pos": {"student": "HINATA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RiversideRoad.jpg"], "character": ["Hinata"], "track": ["OST_4"]}, "track_to_bg": {"OST_0": ["BG_RiversideRoad.jpg"], "OST_4": ["BG_RiversideRoad.jpg"]}, "track_to_char": {"OST_4": ["Hinata"]}, "char_to_bg": {"Hinata": ["BG_RiversideRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "ae6ef5f0-9df2-4057-9953-54c5ecc7977d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINATA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_HINATA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINATA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RiversideRoad.jpg"
+      ],
+      "character": [
+        "Hinata"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RiversideRoad.jpg"
+      ],
+      "OST_4": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

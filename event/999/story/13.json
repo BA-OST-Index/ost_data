@@ -1,1 +1,56 @@
-{"uuid": "e40feb25-36d4-4298-a240-3f739ab31891", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_13_NAME]", "desc": ["[STORY_EVENT_999_13_DESC_1]"], "pos": {"event_id": 999, "segment": 13}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BuildingFrontGate.jpg"], "character": ["Hoshino"], "track": ["OST_12"]}, "track_to_bg": {"OST_0": ["BG_BuildingFrontGate.jpg"], "OST_12": ["BG_BuildingFrontGate.jpg"]}, "track_to_char": {"OST_12": ["Hoshino"]}, "char_to_bg": {"Hoshino": ["BG_BuildingFrontGate.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "259a3090-68a0-4cd5-a1ff-d33ea2d639ff",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_13_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_13_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "character": [
+        "Hoshino"
+      ],
+      "track": [
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_12": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_12": [
+        "Hoshino"
+      ]
+    },
+    "char_to_bg": {
+      "Hoshino": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

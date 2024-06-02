@@ -1,1 +1,64 @@
-{"uuid": "a9d2fc33-df25-4b4f-bb51-741f8a247281", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_YUZU_2_NAME]", "desc": ["[STORY_BOND_YUZU_2_DESC_1]"], "pos": {"student": "YUZU", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom.jpg"], "character": ["Yuzu"], "track": ["OST_64", "OST_49"]}, "track_to_bg": {"OST_64": ["BG_GameDevRoom.jpg"], "OST_0": ["BG_GameDevRoom.jpg"], "OST_49": ["BG_GameDevRoom.jpg"]}, "track_to_char": {"OST_64": ["Yuzu"], "OST_49": ["Yuzu"]}, "char_to_bg": {"Yuzu": ["BG_GameDevRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "99805007-4dff-41d4-a1ec-9a7a6bba896e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YUZU_2_NAME]",
+  "desc": [
+    "[STORY_BOND_YUZU_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "YUZU",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "character": [
+        "Yuzu"
+      ],
+      "track": [
+        "OST_64",
+        "OST_49"
+      ]
+    },
+    "track_to_bg": {
+      "OST_64": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_49": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_64": [
+        "Yuzu"
+      ],
+      "OST_49": [
+        "Yuzu"
+      ]
+    },
+    "char_to_bg": {
+      "Yuzu": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

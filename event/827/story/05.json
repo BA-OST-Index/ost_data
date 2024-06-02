@@ -1,1 +1,113 @@
-{"uuid": "fa821ef5-e8d8-49ba-9eec-5a32fad4b813", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_827_5_NAME]", "desc": ["[STORY_EVENT_827_5_DESC_1]"], "pos": {"event_id": 827, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg", "BG_FishingVillage_Night.jpg"], "character": ["Miyako_Swimsuit", "Saki_Swimsuit", "Miyu_Swimsuit", "Moe"], "track": ["OST_93", "OST_29"]}, "track_to_bg": {"OST_0": ["BG_LightHousePier_Night.jpg", "BG_FishingVillage_Night.jpg"], "OST_93": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg", "BG_FishingVillage_Night.jpg"], "OST_29": ["BG_FishingVillage_Night.jpg"]}, "track_to_char": {"OST_93": ["Miyako_Swimsuit", "Saki_Swimsuit", "Miyu_Swimsuit", "Moe"], "OST_29": ["Miyu_Swimsuit", "Miyako_Swimsuit", "Saki_Swimsuit"]}, "char_to_bg": {"Miyako_Swimsuit": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg", "BG_FishingVillage_Night.jpg"], "Saki_Swimsuit": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg", "BG_FishingVillage_Night.jpg"], "Miyu_Swimsuit": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg", "BG_FishingVillage_Night.jpg"], "Moe": ["BG_LightHousePier_Night.jpg", "BG_BeachFrontSide_Night.jpg"]}, "char_to_char": {"Saki_Swimsuit": ["Miyako_Swimsuit", "Miyu_Swimsuit", "Moe"], "Miyu_Swimsuit": ["Miyako_Swimsuit", "Saki_Swimsuit", "Moe"], "Moe": ["Miyako_Swimsuit", "Saki_Swimsuit", "Miyu_Swimsuit"], "Miyako_Swimsuit": ["Saki_Swimsuit", "Miyu_Swimsuit", "Moe"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "e5345dc2-b70e-49fc-831b-206103160c51",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_827_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_827_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 827,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "character": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Miyu_Swimsuit",
+        "Moe_Swimsuit"
+      ],
+      "track": [
+        "OST_93",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "OST_29": [
+        "BG_FishingVillage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_93": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Miyu_Swimsuit",
+        "Moe_Swimsuit"
+      ],
+      "OST_29": [
+        "Miyu_Swimsuit",
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako_Swimsuit": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "Saki_Swimsuit": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "Miyu_Swimsuit": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_FishingVillage_Night.jpg"
+      ],
+      "Moe_Swimsuit": [
+        "BG_LightHousePier_Night.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saki_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Miyu_Swimsuit",
+        "Moe_Swimsuit"
+      ],
+      "Miyu_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Moe_Swimsuit"
+      ],
+      "Moe_Swimsuit": [
+        "Miyako_Swimsuit",
+        "Saki_Swimsuit",
+        "Miyu_Swimsuit"
+      ],
+      "Miyako_Swimsuit": [
+        "Saki_Swimsuit",
+        "Miyu_Swimsuit",
+        "Moe_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

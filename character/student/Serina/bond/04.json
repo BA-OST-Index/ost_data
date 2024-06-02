@@ -1,1 +1,67 @@
-{"uuid": "67e71568-7312-42c2-a48d-321bdbd59102", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SERINA_4_NAME]", "desc": ["[STORY_BOND_SERINA_4_DESC_1]"], "pos": {"student": "SERINA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park.jpg"], "character": ["Serina"], "track": ["OST_4", "OST_38", "OST_43"]}, "track_to_bg": {"OST_4": ["BG_Park.jpg"], "OST_0": ["BG_Park.jpg"], "OST_38": ["BG_Park.jpg"], "OST_43": ["BG_Park.jpg"]}, "track_to_char": {"OST_38": ["Serina"], "OST_43": ["Serina"]}, "char_to_bg": {"Serina": ["BG_Park.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_43"}}, "is_memory": true}
+{
+  "uuid": "22d0cb19-da0e-4411-8440-adf8f46e9201",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SERINA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SERINA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SERINA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park.jpg"
+      ],
+      "character": [
+        "Serina"
+      ],
+      "track": [
+        "OST_4",
+        "OST_38",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_Park.jpg"
+      ],
+      "OST_0": [
+        "BG_Park.jpg"
+      ],
+      "OST_38": [
+        "BG_Park.jpg"
+      ],
+      "OST_43": [
+        "BG_Park.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Serina"
+      ],
+      "OST_43": [
+        "Serina"
+      ]
+    },
+    "char_to_bg": {
+      "Serina": [
+        "BG_Park.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_43"
+    }
+  },
+  "is_memory": true
+}

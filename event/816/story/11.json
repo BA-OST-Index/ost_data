@@ -1,1 +1,62 @@
-{"uuid": "7525d9ac-1aad-4e79-b226-fa6ea45a5fd6", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_11_NAME]", "desc": ["[STORY_EVENT_816_11_DESC_1]"], "pos": {"event_id": 816, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground_Night.jpg", "BG_View_Sky_Night.jpg"], "character": ["Reisa"], "track": ["OST_28", "OST_21"]}, "track_to_bg": {"OST_28": ["BG_Playground_Night.jpg"], "OST_0": ["BG_Playground_Night.jpg"], "OST_21": ["BG_Playground_Night.jpg", "BG_View_Sky_Night.jpg"]}, "track_to_char": {"OST_21": ["Reisa"]}, "char_to_bg": {"Reisa": ["BG_Playground_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2c561463-1c39-4de4-9cbf-615a7e7f8a29",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ],
+      "character": [
+        "Reisa"
+      ],
+      "track": [
+        "OST_28",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Playground_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Playground_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_Playground_Night.jpg",
+        "BG_View_Sky_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Reisa"
+      ]
+    },
+    "char_to_bg": {
+      "Reisa": [
+        "BG_Playground_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

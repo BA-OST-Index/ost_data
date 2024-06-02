@@ -1,1 +1,95 @@
-{"uuid": "a53ab6f4-fac5-4787-b2cb-27ee8f26f596", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_803_4_NAME]", "desc": ["[STORY_EVENT_803_4_DESC_1]"], "pos": {"event_id": 803, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide.jpg"], "character": ["Hifumi", "Azusa_Swimsuit", "Mashiro_Swimsuit"], "track": ["OST_10", "OST_79", "OST_20"]}, "track_to_bg": {"OST_10": ["BG_BeachFrontSide.jpg"], "OST_0": ["BG_BeachFrontSide.jpg"], "OST_79": ["BG_BeachFrontSide.jpg"], "OST_20": ["BG_BeachFrontSide.jpg"]}, "track_to_char": {"OST_10": ["Hifumi"], "OST_79": ["Hifumi", "Azusa_Swimsuit", "Mashiro_Swimsuit"], "OST_20": ["Mashiro_Swimsuit", "Azusa_Swimsuit", "Hifumi"]}, "char_to_bg": {"Hifumi": ["BG_BeachFrontSide.jpg"], "Azusa_Swimsuit": ["BG_BeachFrontSide.jpg"], "Mashiro_Swimsuit": ["BG_BeachFrontSide.jpg"]}, "char_to_char": {"Azusa_Swimsuit": ["Hifumi", "Mashiro_Swimsuit"], "Mashiro_Swimsuit": ["Hifumi", "Azusa_Swimsuit"], "Hifumi": ["Azusa_Swimsuit", "Mashiro_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "9fc33e86-1e0b-4988-bb20-1ca3767fc3a9",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_803_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_803_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 803,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_79",
+        "OST_20"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_79": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_20": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hifumi_Swimsuit"
+      ],
+      "OST_79": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "OST_20": [
+        "Mashiro_Swimsuit",
+        "Azusa_Swimsuit",
+        "Hifumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Azusa_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Mashiro_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa_Swimsuit": [
+        "Hifumi_Swimsuit",
+        "Mashiro_Swimsuit"
+      ],
+      "Mashiro_Swimsuit": [
+        "Hifumi_Swimsuit",
+        "Azusa_Swimsuit"
+      ],
+      "Hifumi_Swimsuit": [
+        "Azusa_Swimsuit",
+        "Mashiro_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

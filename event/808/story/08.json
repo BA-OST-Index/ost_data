@@ -1,1 +1,70 @@
-{"uuid": "d843d0e7-c2e3-4b18-9cda-dab4599e888d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_808_8_NAME]", "desc": ["[STORY_EVENT_808_8_DESC_1]"], "pos": {"event_id": 808, "segment": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RyokanRestLounge.jpg"], "character": ["Chinatsu_HotSpring"], "track": ["OST_6", "OST_10", "OST_38"]}, "track_to_bg": {"OST_6": ["BG_RyokanRestLounge.jpg"], "OST_0": ["BG_RyokanRestLounge.jpg"], "OST_10": ["BG_RyokanRestLounge.jpg"], "OST_38": ["BG_RyokanRestLounge.jpg"]}, "track_to_char": {"OST_6": ["Chinatsu_HotSpring"], "OST_10": ["Chinatsu_HotSpring"], "OST_38": ["Chinatsu_HotSpring"]}, "char_to_bg": {"Chinatsu_HotSpring": ["BG_RyokanRestLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "035ce3e6-afc8-4ceb-9c2f-0e1eaa8d8569",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_808_8_NAME]",
+  "desc": [
+    "[STORY_EVENT_808_8_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 808,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "character": [
+        "Chinatsu_HotSpring"
+      ],
+      "track": [
+        "OST_6",
+        "OST_10",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "OST_0": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "OST_10": [
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "OST_38": [
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Chinatsu_HotSpring"
+      ],
+      "OST_10": [
+        "Chinatsu_HotSpring"
+      ],
+      "OST_38": [
+        "Chinatsu_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Chinatsu_HotSpring": [
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

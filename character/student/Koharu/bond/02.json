@@ -1,1 +1,64 @@
-{"uuid": "fd17bf07-91db-45a0-aaf2-f993d9ed197a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOHARU_2_NAME]", "desc": ["[STORY_BOND_KOHARU_2_DESC_1]"], "pos": {"student": "KOHARU", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityCampus.jpg"], "character": ["Koharu"], "track": ["OST_4", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_TrinityCampus.jpg"], "OST_4": ["BG_TrinityCampus.jpg"], "OST_38": ["BG_TrinityCampus.jpg"]}, "track_to_char": {"OST_4": ["Koharu"], "OST_38": ["Koharu"]}, "char_to_bg": {"Koharu": ["BG_TrinityCampus.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "569b7486-c534-4a02-bf90-03a7b07fe25e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOHARU_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KOHARU_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOHARU",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "character": [
+        "Koharu"
+      ],
+      "track": [
+        "OST_4",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_4": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_38": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Koharu"
+      ],
+      "OST_38": [
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

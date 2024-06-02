@@ -1,0 +1,144 @@
+{
+  "uuid": "f1aefa46-ce8b-47f7-9e2d-40edc2145d0a",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampSite.jpg",
+        "BG_LemonForest2.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "character": [
+        "Hare_Camp",
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp",
+        "Rei",
+        "Sumire"
+      ],
+      "track": [
+        "OST_10",
+        "OST_130",
+        "OST_192",
+        "OST_186"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CampSite.jpg"
+      ],
+      "OST_0": [
+        "BG_CampSite.jpg",
+        "BG_LemonForest2.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "OST_130": [
+        "BG_CampSite.jpg",
+        "BG_LemonForest2.jpg"
+      ],
+      "OST_192": [
+        "BG_CampSite.jpg"
+      ],
+      "OST_186": [
+        "BG_CampSite_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hare_Camp"
+      ],
+      "OST_130": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp",
+        "Hare_Camp",
+        "Rei",
+        "Sumire"
+      ],
+      "OST_192": [
+        "Hare_Camp",
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ],
+      "OST_186": [
+        "Maki_Camp",
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Hare_Camp": [
+        "BG_CampSite.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "Maki_Camp": [
+        "BG_CampSite.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "Kotama_Camp": [
+        "BG_CampSite.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "Chihiro_Camp": [
+        "BG_CampSite.jpg",
+        "BG_CampSite_Night.jpg"
+      ],
+      "Rei": [
+        "BG_LemonForest2.jpg"
+      ],
+      "Sumire": [
+        "BG_LemonForest2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Maki_Camp": [
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ],
+      "Kotama_Camp": [
+        "Hare_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "Chihiro_Camp": [
+        "Hare_Camp",
+        "Maki_Camp",
+        "Kotama_Camp"
+      ],
+      "Hare_Camp": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ],
+      "Sumire": [
+        "Rei"
+      ],
+      "Rei": [
+        "Sumire"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

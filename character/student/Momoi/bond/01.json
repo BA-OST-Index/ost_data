@@ -1,1 +1,81 @@
-{"uuid": "36f96a32-93e1-4bab-9f99-d2318f046b90", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MOMOI_1_NAME]", "desc": ["[STORY_BOND_MOMOI_1_DESC_1]"], "pos": {"student": "MOMOI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"], "character": ["Momoi"], "track": ["OST_10", "OST_18", "OST_16", "OST_64"]}, "track_to_bg": {"OST_10": ["BG_GameDevRoom.jpg"], "OST_0": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"], "OST_18": ["BG_GameDevRoom.jpg"], "OST_16": ["BG_GameDevRoom.jpg"], "OST_64": ["BG_GameDevRoom_Night.jpg"]}, "track_to_char": {"OST_10": ["Momoi"], "OST_18": ["Momoi"], "OST_16": ["Momoi"], "OST_64": ["Momoi"]}, "char_to_bg": {"Momoi": ["BG_GameDevRoom.jpg", "BG_GameDevRoom_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "094312c1-69ae-485d-979b-43837b17622d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMOI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMOI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMOI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "character": [
+        "Momoi"
+      ],
+      "track": [
+        "OST_10",
+        "OST_18",
+        "OST_16",
+        "OST_64"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_16": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_64": [
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Momoi"
+      ],
+      "OST_18": [
+        "Momoi"
+      ],
+      "OST_16": [
+        "Momoi"
+      ],
+      "OST_64": [
+        "Momoi"
+      ]
+    },
+    "char_to_bg": {
+      "Momoi": [
+        "BG_GameDevRoom.jpg",
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

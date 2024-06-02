@@ -1,1 +1,54 @@
-{"uuid": "25d9f937-a12f-43df-9b26-823a9e7da119", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NOA_3_NAME]", "desc": ["[STORY_BOND_NOA_3_DESC_1]"], "pos": {"student": "NOA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_FamilyRestaurant.jpg"], "character": ["Noa"], "track": ["OST_22"]}, "track_to_bg": {"OST_22": ["BG_FamilyRestaurant.jpg"]}, "track_to_char": {"OST_22": ["Noa"]}, "char_to_bg": {"Noa": ["BG_FamilyRestaurant.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5ed86ec3-a760-45d9-9ae8-008033bac007",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NOA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_NOA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "NOA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "character": [
+        "Noa"
+      ],
+      "track": [
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Noa"
+      ]
+    },
+    "char_to_bg": {
+      "Noa": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

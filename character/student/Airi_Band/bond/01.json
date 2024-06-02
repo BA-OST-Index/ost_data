@@ -1,0 +1,46 @@
+{
+  "uuid": "a5daeec5-8646-43bb-a085-f0fd271d786b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AIRI_BAND_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AIRI_BAND_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AIRI_BAND",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg",
+        "BG_BigPlaza.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_210"
+      ]
+    },
+    "track_to_bg": {
+      "OST_210": [
+        "BG_CityOffice.jpg",
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

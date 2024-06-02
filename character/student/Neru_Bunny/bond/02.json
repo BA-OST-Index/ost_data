@@ -1,1 +1,65 @@
-{"uuid": "4caa4f43-f2a8-4d27-a56d-734205b1a351", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NERU_BUNNY_2_NAME]", "desc": ["[STORY_BOND_NERU_BUNNY_2_DESC_1]"], "pos": {"student": "NERU_BUNNY", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_IndoorPlaza.jpg", "BG_Storage.jpg"], "character": ["Neru_Bunny"], "track": ["OST_16", "OST_36"]}, "track_to_bg": {"OST_0": ["BG_IndoorPlaza.jpg", "BG_Storage.jpg"], "OST_16": ["BG_Storage.jpg"], "OST_36": ["BG_Storage.jpg"]}, "track_to_char": {"OST_16": ["Neru_Bunny"], "OST_36": ["Neru_Bunny"]}, "char_to_bg": {"Neru_Bunny": ["BG_Storage.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "cdda0653-e6f5-4e8e-a699-6ffbba19a4a0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NERU_BUNNY_2_NAME]",
+  "desc": [
+    "[STORY_BOND_NERU_BUNNY_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "NERU_BUNNY",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza.jpg",
+        "BG_Storage.jpg"
+      ],
+      "character": [
+        "Neru_Bunny"
+      ],
+      "track": [
+        "OST_16",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IndoorPlaza.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_16": [
+        "BG_Storage.jpg"
+      ],
+      "OST_36": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Neru_Bunny"
+      ],
+      "OST_36": [
+        "Neru_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Neru_Bunny": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

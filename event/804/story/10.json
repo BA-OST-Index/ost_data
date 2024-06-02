@@ -1,1 +1,53 @@
-{"uuid": "1590eed4-7f92-4775-98a3-f29b7e75e16f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_10_NAME]", "desc": ["[STORY_EVENT_804_10_DESC_1]"], "pos": {"event_id": 804, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront.jpg"], "character": ["Hina_Swimsuit"], "track": ["OST_18"]}, "track_to_bg": {"OST_18": ["BG_SlumFront.jpg"]}, "track_to_char": {"OST_18": ["Hina_Swimsuit"]}, "char_to_bg": {"Hina_Swimsuit": ["BG_SlumFront.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "02b5b1a7-53bb-4519-820c-169c40d2d9c3",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront.jpg"
+      ],
+      "character": [
+        "Hina_Swimsuit"
+      ],
+      "track": [
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Hina_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hina_Swimsuit": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

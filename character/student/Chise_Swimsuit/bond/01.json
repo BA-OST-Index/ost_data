@@ -1,1 +1,84 @@
-{"uuid": "08418f4e-76eb-40b5-86ef-a28540ba877a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHISE_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_CHISE_SWIMSUIT_1_DESC_1]"], "pos": {"student": "CHISE_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg", "BG_Beachside_Sunset.jpg"], "character": ["Chise_Swimsuit"], "track": ["OST_10", "OST_3", "OST_4", "OST_22"]}, "track_to_bg": {"OST_10": ["BG_Beachside.jpg"], "OST_0": ["BG_Beachside.jpg", "BG_Beachside_Sunset.jpg"], "OST_3": ["BG_Beachside.jpg"], "OST_4": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg"], "OST_22": ["BG_Beachside_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Chise_Swimsuit"], "OST_3": ["Chise_Swimsuit"], "OST_4": ["Chise_Swimsuit"], "OST_22": ["Chise_Swimsuit"]}, "char_to_bg": {"Chise_Swimsuit": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg", "BG_Beachside_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "93781f02-850a-40b7-825e-c8eee3131403",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHISE_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_CHISE_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHISE_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "character": [
+        "Chise_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3",
+        "OST_4",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ],
+      "OST_3": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_4": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_22": [
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Chise_Swimsuit"
+      ],
+      "OST_3": [
+        "Chise_Swimsuit"
+      ],
+      "OST_4": [
+        "Chise_Swimsuit"
+      ],
+      "OST_22": [
+        "Chise_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Chise_Swimsuit": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_Beachside_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

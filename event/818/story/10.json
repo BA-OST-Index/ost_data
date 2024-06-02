@@ -1,1 +1,144 @@
-{"uuid": "014d9d2a-f16c-47cb-b20e-1613775ecb97", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_10_NAME]", "desc": ["[STORY_EVENT_818_10_DESC_1]"], "pos": {"event_id": 818, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KivotosStadium.jpg", "BG_View_MainStadium2.jpg"], "character": ["Yuuka_Track", "Hasumi_Track", "Mari_Track", "Ako", "Izuna", "Kaede", "Chise", "Tsukuyo"], "track": ["OST_11", "OST_22", "OST_130", "OST_33"]}, "track_to_bg": {"OST_11": ["BG_KivotosStadium.jpg"], "OST_0": ["BG_KivotosStadium.jpg", "BG_View_MainStadium2.jpg"], "OST_22": ["BG_KivotosStadium.jpg"], "OST_130": ["BG_View_MainStadium2.jpg"], "OST_33": ["BG_View_MainStadium2.jpg"]}, "track_to_char": {"OST_11": ["Yuuka_Track", "Hasumi_Track", "Mari_Track", "Ako"], "OST_22": ["Hasumi_Track"], "OST_130": ["Izuna", "Kaede", "Chise", "Tsukuyo", "Hasumi_Track"], "OST_33": ["Hasumi_Track", "Izuna", "Kaede", "Tsukuyo", "Chise"]}, "char_to_bg": {"Yuuka_Track": ["BG_KivotosStadium.jpg"], "Hasumi_Track": ["BG_KivotosStadium.jpg", "BG_View_MainStadium2.jpg"], "Mari_Track": ["BG_KivotosStadium.jpg"], "Ako": ["BG_KivotosStadium.jpg"], "Izuna": ["BG_View_MainStadium2.jpg"], "Kaede": ["BG_View_MainStadium2.jpg"], "Chise": ["BG_View_MainStadium2.jpg"], "Tsukuyo": ["BG_View_MainStadium2.jpg"]}, "char_to_char": {"Hasumi_Track": ["Yuuka_Track", "Mari_Track", "Ako"], "Mari_Track": ["Yuuka_Track", "Hasumi_Track", "Ako"], "Ako": ["Yuuka_Track", "Hasumi_Track", "Mari_Track"], "Yuuka_Track": ["Hasumi_Track", "Mari_Track", "Ako"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "cc1f3090-e66d-43c6-9627-c82e3a5c5341",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KivotosStadium.jpg",
+        "BG_View_MainStadium2.jpg"
+      ],
+      "character": [
+        "Yuuka_Track",
+        "Hasumi_Track",
+        "Mari_Track",
+        "Ako",
+        "NPCNPC",
+        "Izuna",
+        "Kaede",
+        "Chise",
+        "Tsukuyo"
+      ],
+      "track": [
+        "OST_11",
+        "OST_22",
+        "OST_130",
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_0": [
+        "BG_KivotosStadium.jpg",
+        "BG_View_MainStadium2.jpg"
+      ],
+      "OST_22": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_130": [
+        "BG_View_MainStadium2.jpg"
+      ],
+      "OST_33": [
+        "BG_View_MainStadium2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Yuuka_Track",
+        "Hasumi_Track",
+        "Mari_Track",
+        "Ako"
+      ],
+      "OST_22": [
+        "Hasumi_Track"
+      ],
+      "OST_130": [
+        "Izuna",
+        "Kaede",
+        "Chise",
+        "Tsukuyo",
+        "Hasumi_Track"
+      ],
+      "OST_33": [
+        "Hasumi_Track",
+        "Izuna",
+        "Kaede",
+        "Tsukuyo",
+        "Chise"
+      ]
+    },
+    "char_to_bg": {
+      "Yuuka_Track": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Hasumi_Track": [
+        "BG_KivotosStadium.jpg",
+        "BG_View_MainStadium2.jpg"
+      ],
+      "Mari_Track": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Ako": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "NPCNPC": [
+        "BG_View_MainStadium2.jpg"
+      ],
+      "Izuna": [
+        "BG_View_MainStadium2.jpg"
+      ],
+      "Kaede": [
+        "BG_View_MainStadium2.jpg"
+      ],
+      "Chise": [
+        "BG_View_MainStadium2.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_View_MainStadium2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi_Track": [
+        "Yuuka_Track",
+        "Mari_Track",
+        "Ako"
+      ],
+      "Mari_Track": [
+        "Yuuka_Track",
+        "Hasumi_Track",
+        "Ako"
+      ],
+      "Ako": [
+        "Yuuka_Track",
+        "Hasumi_Track",
+        "Mari_Track"
+      ],
+      "Yuuka_Track": [
+        "Hasumi_Track",
+        "Mari_Track",
+        "Ako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

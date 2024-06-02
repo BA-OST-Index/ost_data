@@ -1,1 +1,60 @@
-{"uuid": "b00c00ab-745f-40f4-9b2e-852aa26b7ebb", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_2_NAME]", "desc": ["[STORY_BOND_SHIROKO_2_DESC_1]"], "pos": {"student": "SHIROKO", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolFrontGate.jpg", "BG_CommitteeRoom.jpg"], "character": ["Shiroko"], "track": ["OST_9"]}, "track_to_bg": {"OST_0": ["BG_SchoolFrontGate.jpg"], "OST_9": ["BG_SchoolFrontGate.jpg", "BG_CommitteeRoom.jpg"]}, "track_to_char": {"OST_9": ["Shiroko"]}, "char_to_bg": {"Shiroko": ["BG_SchoolFrontGate.jpg", "BG_CommitteeRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "e329c9fe-5070-4bcb-84c2-8a1527b5e1f7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_CommitteeRoom.jpg"
+      ],
+      "character": [
+        "Shiroko"
+      ],
+      "track": [
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SchoolFrontGate.jpg"
+      ],
+      "OST_9": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_CommitteeRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Shiroko"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko": [
+        "BG_SchoolFrontGate.jpg",
+        "BG_CommitteeRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

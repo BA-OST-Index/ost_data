@@ -1,1 +1,54 @@
-{"uuid": "e5e54dcc-8cfc-459f-a95e-589325badff0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHERINO_1_NAME]", "desc": ["[STORY_BOND_CHERINO_1_DESC_1]"], "pos": {"student": "CHERINO", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CherinoOffice.jpg"], "character": ["Cherino"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_CherinoOffice.jpg"]}, "track_to_char": {"OST_10": ["Cherino"]}, "char_to_bg": {"Cherino": ["BG_CherinoOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a5087aba-4a60-42ee-adb6-01a75ab8d261",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHERINO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_CHERINO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHERINO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "character": [
+        "Cherino"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Cherino"
+      ]
+    },
+    "char_to_bg": {
+      "Cherino": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,71 @@
-{"uuid": "a06512ee-caef-469e-b4d3-431e20b36699", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TSUKUYO_3_NAME]", "desc": ["[STORY_BOND_TSUKUYO_3_DESC_1]"], "pos": {"student": "TSUKUYO", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg"], "character": ["Tsukuyo"], "track": ["OST_3", "OST_38", "OST_7"]}, "track_to_bg": {"OST_3": ["BG_CraftChamber.jpg"], "OST_0": ["BG_CraftChamber.jpg"], "OST_38": ["BG_CraftChamber.jpg"], "OST_7": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_3": ["Tsukuyo"], "OST_38": ["Tsukuyo"], "OST_7": ["Tsukuyo"]}, "char_to_bg": {"Tsukuyo": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "77397fbd-4d1f-4fd5-8fba-01c989a4fb55",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSUKUYO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_TSUKUYO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSUKUYO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Tsukuyo"
+      ],
+      "track": [
+        "OST_3",
+        "OST_38",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_38": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_7": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Tsukuyo"
+      ],
+      "OST_38": [
+        "Tsukuyo"
+      ],
+      "OST_7": [
+        "Tsukuyo"
+      ]
+    },
+    "char_to_bg": {
+      "Tsukuyo": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

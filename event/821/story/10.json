@@ -1,0 +1,106 @@
+{
+  "uuid": "404d87af-c01e-4c77-afac-487258c7020d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_821_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_821_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 821,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV4_057.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_PV4_059.jpg"
+      ],
+      "character": [
+        "Yuuka",
+        "Noa",
+        "Koyuki",
+        "Chihiro",
+        "Kasumi",
+        "Megu"
+      ],
+      "track": [
+        "OST_100"
+      ]
+    },
+    "track_to_bg": {
+      "OST_100": [
+        "BG_CS_PV4_057.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_CS_PV4_059.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_100": [
+        "Yuuka",
+        "Noa",
+        "Koyuki",
+        "Chihiro",
+        "Kasumi",
+        "Megu"
+      ]
+    },
+    "char_to_bg": {
+      "Yuuka": [
+        "BG_CS_PV4_057.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "Noa": [
+        "BG_CS_PV4_057.jpg"
+      ],
+      "Koyuki": [
+        "BG_CS_PV4_057.jpg"
+      ],
+      "Chihiro": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Kasumi": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Megu": [
+        "BG_CS_PV4_059.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Noa": [
+        "Yuuka",
+        "Koyuki"
+      ],
+      "Koyuki": [
+        "Yuuka",
+        "Noa"
+      ],
+      "Yuuka": [
+        "Noa",
+        "Koyuki",
+        "Chihiro",
+        "Kasumi"
+      ],
+      "Chihiro": [
+        "Yuuka",
+        "Kasumi"
+      ],
+      "Kasumi": [
+        "Yuuka",
+        "Chihiro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

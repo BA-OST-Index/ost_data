@@ -1,0 +1,67 @@
+{
+  "uuid": "44ce7294-6660-4458-9298-ecb516f97d5c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MISAKA_MIKOTO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MISAKA_MIKOTO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MISAKA_MIKOTO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ],
+      "character": [
+        "Misaka_Mikoto"
+      ],
+      "track": [
+        "OST_6",
+        "OST_50"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ],
+      "OST_0": [
+        "BG_Residence.jpg"
+      ],
+      "OST_50": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Misaka_Mikoto"
+      ],
+      "OST_50": [
+        "Misaka_Mikoto"
+      ]
+    },
+    "char_to_bg": {
+      "Misaka_Mikoto": [
+        "BG_CityDowntown.jpg",
+        "BG_Residence.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

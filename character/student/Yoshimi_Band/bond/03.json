@@ -1,0 +1,52 @@
+{
+  "uuid": "25339b7a-53ee-44f2-a124-26ce0052b4a6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YOSHIMI_BAND_3_NAME]",
+  "desc": [
+    "[STORY_BOND_YOSHIMI_BAND_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "YOSHIMI_BAND",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PracticeRoom_Night.jpg",
+        "BG_PracticeRoom.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_44",
+        "OST_215"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_PracticeRoom_Night.jpg",
+        "BG_PracticeRoom.jpg"
+      ],
+      "OST_44": [
+        "BG_PracticeRoom.jpg"
+      ],
+      "OST_215": [
+        "BG_PracticeRoom.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_215"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,54 @@
-{"uuid": "61c4c89d-1b89-48a8-983a-daae1d83da48", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KARIN_BUNNY_2_NAME]", "desc": ["[STORY_BOND_KARIN_BUNNY_2_DESC_1]"], "pos": {"student": "KARIN_BUNNY", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BigPlaza.jpg"], "character": ["Karin_Bunny"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_BigPlaza.jpg"]}, "track_to_char": {"OST_10": ["Karin_Bunny"]}, "char_to_bg": {"Karin_Bunny": ["BG_BigPlaza.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "cd751921-01f7-448c-a0c9-88f178bf5805",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KARIN_BUNNY_2_NAME]",
+  "desc": [
+    "[STORY_BOND_KARIN_BUNNY_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "KARIN_BUNNY",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigPlaza.jpg"
+      ],
+      "character": [
+        "Karin_Bunny"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Karin_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Karin_Bunny": [
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

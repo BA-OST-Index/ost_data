@@ -1,0 +1,66 @@
+{
+  "uuid": "dc26b796-04bf-4b93-a5b0-9b4ca9ccbfc6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg"
+      ],
+      "character": [
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi"
+      ],
+      "track": [
+        "OST_6"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Shokuhou_Misaki",
+        "Misaka_Mikoto",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Shokuhou_Misaki": [
+        "BG_CityOffice.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_CityOffice.jpg"
+      ],
+      "Eimi": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

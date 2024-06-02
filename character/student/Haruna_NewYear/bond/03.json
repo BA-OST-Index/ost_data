@@ -1,1 +1,70 @@
-{"uuid": "9ee761ef-b15a-46ea-8fc1-8618c1febf97", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUNA_NEWYEAR_3_NAME]", "desc": ["[STORY_BOND_HARUNA_NEWYEAR_3_DESC_1]"], "pos": {"student": "HARUNA_NEWYEAR", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Park.jpg"], "character": ["Haruna_NewYear"], "track": ["OST_4", "OST_9", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_Park.jpg"], "OST_4": ["BG_Park.jpg"], "OST_9": ["BG_Park.jpg"], "OST_15": ["BG_Park.jpg"]}, "track_to_char": {"OST_4": ["Haruna_NewYear"], "OST_9": ["Haruna_NewYear"], "OST_15": ["Haruna_NewYear"]}, "char_to_bg": {"Haruna_NewYear": ["BG_Park.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "3e63e7cf-6d9c-4310-8bd5-3963852dadfc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUNA_NEWYEAR_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUNA_NEWYEAR_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUNA_NEWYEAR",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Park.jpg"
+      ],
+      "character": [
+        "Haruna_NewYear"
+      ],
+      "track": [
+        "OST_4",
+        "OST_9",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Park.jpg"
+      ],
+      "OST_4": [
+        "BG_Park.jpg"
+      ],
+      "OST_9": [
+        "BG_Park.jpg"
+      ],
+      "OST_15": [
+        "BG_Park.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Haruna_NewYear"
+      ],
+      "OST_9": [
+        "Haruna_NewYear"
+      ],
+      "OST_15": [
+        "Haruna_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_NewYear": [
+        "BG_Park.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

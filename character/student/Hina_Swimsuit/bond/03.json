@@ -1,1 +1,67 @@
-{"uuid": "b8713c07-876a-4663-93e2-9b356fc62780", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINA_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_HINA_SWIMSUIT_3_DESC_1]"], "pos": {"student": "HINA_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LuxuriousRooms.jpg", "BG_LuxuriousRooms_Night.jpg"], "character": ["Hina_Swimsuit"], "track": ["OST_10", "OST_22", "OST_21"]}, "track_to_bg": {"OST_10": ["BG_LuxuriousRooms.jpg"], "OST_0": ["BG_LuxuriousRooms.jpg", "BG_LuxuriousRooms_Night.jpg"], "OST_22": ["BG_LuxuriousRooms_Night.jpg"]}, "track_to_char": {"OST_10": ["Hina_Swimsuit"], "OST_22": ["Hina_Swimsuit"]}, "char_to_bg": {"Hina_Swimsuit": ["BG_LuxuriousRooms.jpg", "BG_LuxuriousRooms_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_21"}}, "is_memory": true}
+{
+  "uuid": "bc2d72ba-6709-44d5-a496-b102e2aec9c5",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINA_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HINA_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINA_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_LuxuriousRooms_Night.jpg"
+      ],
+      "character": [
+        "Hina_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_22",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "OST_0": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_LuxuriousRooms_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_LuxuriousRooms_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hina_Swimsuit"
+      ],
+      "OST_22": [
+        "Hina_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hina_Swimsuit": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_LuxuriousRooms_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

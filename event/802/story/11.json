@@ -1,1 +1,99 @@
-{"uuid": "faee7ae4-af41-4e37-b4c5-4e48443840c5", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_802_11_NAME]", "desc": ["[STORY_EVENT_802_11_DESC_1]"], "pos": {"event_id": 802, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CherinoOffice.jpg", "BG_RedWinterCampus.jpg"], "character": ["Cherino", "Tomoe", "Marina"], "track": ["OST_83", "OST_7", "OST_5"]}, "track_to_bg": {"OST_83": ["BG_CherinoOffice.jpg", "BG_RedWinterCampus.jpg"], "OST_0": ["BG_CherinoOffice.jpg", "BG_RedWinterCampus.jpg"], "OST_7": ["BG_CherinoOffice.jpg"], "OST_5": ["BG_CherinoOffice.jpg"]}, "track_to_char": {"OST_83": ["Cherino", "Tomoe", "Marina"], "OST_7": ["Cherino", "Marina"], "OST_5": ["Tomoe", "Cherino"]}, "char_to_bg": {"Cherino": ["BG_CherinoOffice.jpg"], "Tomoe": ["BG_CherinoOffice.jpg", "BG_RedWinterCampus.jpg"], "Marina": ["BG_CherinoOffice.jpg"]}, "char_to_char": {"Tomoe": ["Cherino", "Marina"], "Marina": ["Cherino", "Tomoe"], "Cherino": ["Tomoe", "Marina"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "46ac741f-9696-4ae8-9601-f98f987d9bd7",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_802_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_802_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 802,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CherinoOffice.jpg",
+        "BG_RedWinterCampus.jpg"
+      ],
+      "character": [
+        "Cherino",
+        "Tomoe",
+        "Marina"
+      ],
+      "track": [
+        "OST_83",
+        "OST_7",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_CherinoOffice.jpg",
+        "BG_RedWinterCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_CherinoOffice.jpg",
+        "BG_RedWinterCampus.jpg"
+      ],
+      "OST_7": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "OST_5": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Cherino",
+        "Tomoe",
+        "Marina"
+      ],
+      "OST_7": [
+        "Cherino",
+        "Marina"
+      ],
+      "OST_5": [
+        "Tomoe",
+        "Cherino"
+      ]
+    },
+    "char_to_bg": {
+      "Cherino": [
+        "BG_CherinoOffice.jpg"
+      ],
+      "Tomoe": [
+        "BG_CherinoOffice.jpg",
+        "BG_RedWinterCampus.jpg"
+      ],
+      "Marina": [
+        "BG_CherinoOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tomoe": [
+        "Cherino",
+        "Marina"
+      ],
+      "Marina": [
+        "Cherino",
+        "Tomoe"
+      ],
+      "Cherino": [
+        "Tomoe",
+        "Marina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

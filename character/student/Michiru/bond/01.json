@@ -1,1 +1,66 @@
-{"uuid": "ec963fa9-3f94-428a-8518-89757e263d38", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MICHIRU_1_NAME]", "desc": ["[STORY_BOND_MICHIRU_1_DESC_1]"], "pos": {"student": "MICHIRU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_RestingLounge.jpg"], "character": ["Michiru"], "track": ["OST_3", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber.jpg", "BG_RestingLounge.jpg"], "OST_3": ["BG_RestingLounge.jpg"], "OST_7": ["BG_RestingLounge.jpg"]}, "track_to_char": {"OST_3": ["Michiru"], "OST_7": ["Michiru"]}, "char_to_bg": {"Michiru": ["BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "640e717b-0ed3-47ea-a153-ef93e0c7abcb",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MICHIRU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MICHIRU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MICHIRU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Michiru"
+      ],
+      "track": [
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_7": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Michiru"
+      ],
+      "OST_7": [
+        "Michiru"
+      ]
+    },
+    "char_to_bg": {
+      "Michiru": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,56 @@
-{"uuid": "a776dd76-4282-4d98-aad0-804f1573b703", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HANAKO_1_NAME]", "desc": ["[STORY_BOND_HANAKO_1_DESC_1]"], "pos": {"student": "HANAKO", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityCampusPlaza.jpg"], "character": ["Hanako"], "track": ["OST_9"]}, "track_to_bg": {"OST_0": ["BG_TrinityCampusPlaza.jpg"], "OST_9": ["BG_TrinityCampusPlaza.jpg"]}, "track_to_char": {"OST_9": ["Hanako"]}, "char_to_bg": {"Hanako": ["BG_TrinityCampusPlaza.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "5db6b92b-f209-4689-9d4e-6db278d3a790",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HANAKO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HANAKO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HANAKO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampusPlaza.jpg"
+      ],
+      "character": [
+        "Hanako"
+      ],
+      "track": [
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampusPlaza.jpg"
+      ],
+      "OST_9": [
+        "BG_TrinityCampusPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Hanako": [
+        "BG_TrinityCampusPlaza.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,81 @@
-{"uuid": "725fef3b-2781-4a30-a32f-b5f14a385b3c", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHIHIRO_4_NAME]", "desc": ["[STORY_BOND_CHIHIRO_4_DESC_1]"], "pos": {"student": "CHIHIRO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UpperOffice_Night.jpg", "BG_ComputerCenter.jpg", "BG_MainOffice.jpg"], "character": ["Chihiro"], "track": ["OST_33", "OST_27", "OST_17", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_UpperOffice_Night.jpg", "BG_ComputerCenter.jpg", "BG_MainOffice.jpg"], "OST_33": ["BG_UpperOffice_Night.jpg"], "OST_27": ["BG_ComputerCenter.jpg"], "OST_17": ["BG_MainOffice.jpg"], "OST_15": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_33": ["Chihiro"], "OST_27": ["Chihiro"], "OST_15": ["Chihiro"]}, "char_to_bg": {"Chihiro": ["BG_UpperOffice_Night.jpg", "BG_ComputerCenter.jpg", "BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "cf8f2de7-9481-4d66-a3f7-014cfbcd58ca",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHIHIRO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_CHIHIRO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHIHIRO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Chihiro"
+      ],
+      "track": [
+        "OST_33",
+        "OST_27",
+        "OST_17",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_MainOffice.jpg"
+      ],
+      "OST_33": [
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_17": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_15": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Chihiro"
+      ],
+      "OST_27": [
+        "Chihiro"
+      ],
+      "OST_15": [
+        "Chihiro"
+      ]
+    },
+    "char_to_bg": {
+      "Chihiro": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_ComputerCenter.jpg",
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

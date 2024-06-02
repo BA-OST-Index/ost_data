@@ -1,1 +1,100 @@
-{"uuid": "3d5a6cdd-772f-4478-8360-bd95081ffdbd", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IZUNA_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_IZUNA_SWIMSUIT_3_DESC_1]"], "pos": {"student": "IZUNA_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_HyakkiyakoCastleSquare_Night.jpg", "BG_IslandBeach.jpg"], "character": ["Izuna_Swimsuit"], "track": ["OST_13", "OST_29", "OST_38", "OST_3", "OST_27", "OST_22"]}, "track_to_bg": {"OST_13": ["BG_Beachside.jpg"], "OST_0": ["BG_Beachside.jpg", "BG_HyakkiyakoCastleSquare_Night.jpg", "BG_IslandBeach.jpg"], "OST_29": ["BG_HyakkiyakoCastleSquare_Night.jpg", "BG_Beachside.jpg"], "OST_38": ["BG_Beachside.jpg", "BG_IslandBeach.jpg"], "OST_3": ["BG_IslandBeach.jpg"], "OST_27": ["BG_IslandBeach.jpg"], "OST_22": ["BG_IslandBeach.jpg"]}, "track_to_char": {"OST_13": ["Izuna_Swimsuit"], "OST_29": ["Izuna_Swimsuit"], "OST_38": ["Izuna_Swimsuit"], "OST_3": ["Izuna_Swimsuit"], "OST_27": ["Izuna_Swimsuit"], "OST_22": ["Izuna_Swimsuit"]}, "char_to_bg": {"Izuna_Swimsuit": ["BG_Beachside.jpg", "BG_HyakkiyakoCastleSquare_Night.jpg", "BG_IslandBeach.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "1f10a200-99f0-49fd-86f5-46de18534fcd",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IZUNA_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_IZUNA_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "IZUNA_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_IslandBeach.jpg"
+      ],
+      "character": [
+        "Izuna_Swimsuit"
+      ],
+      "track": [
+        "OST_13",
+        "OST_29",
+        "OST_38",
+        "OST_3",
+        "OST_27",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_29": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_38": [
+        "BG_Beachside.jpg",
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_3": [
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_27": [
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_22": [
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Izuna_Swimsuit"
+      ],
+      "OST_29": [
+        "Izuna_Swimsuit"
+      ],
+      "OST_38": [
+        "Izuna_Swimsuit"
+      ],
+      "OST_3": [
+        "Izuna_Swimsuit"
+      ],
+      "OST_27": [
+        "Izuna_Swimsuit"
+      ],
+      "OST_22": [
+        "Izuna_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna_Swimsuit": [
+        "BG_Beachside.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

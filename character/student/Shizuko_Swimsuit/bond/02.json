@@ -1,1 +1,104 @@
-{"uuid": "39bd12e4-7ea3-41eb-809f-75ea6ca0bb7b", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIZUKO_SWIMSUIT_2_NAME]", "desc": ["[STORY_BOND_SHIZUKO_SWIMSUIT_2_DESC_1]"], "pos": {"student": "SHIZUKO_SWIMSUIT", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_BeachsideShop.jpg", "BG_FamilyRestaurant.jpg", "BG_Yatai_Night.jpg"], "character": ["Shizuko_Swimsuit", "Pina", "Umika"], "track": ["OST_25", "OST_44", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_Beachside.jpg", "BG_BeachsideShop.jpg", "BG_FamilyRestaurant.jpg"], "OST_25": ["BG_Beachside.jpg"], "OST_44": ["BG_Beachside.jpg", "BG_Yatai_Night.jpg", "BG_FamilyRestaurant.jpg"], "OST_3": ["BG_Beachside.jpg"]}, "track_to_char": {"OST_25": ["Shizuko_Swimsuit"], "OST_44": ["Shizuko_Swimsuit", "Pina", "Umika"], "OST_3": ["Shizuko_Swimsuit"]}, "char_to_bg": {"Shizuko_Swimsuit": ["BG_Beachside.jpg", "BG_BeachsideShop.jpg", "BG_FamilyRestaurant.jpg", "BG_Yatai_Night.jpg"], "Pina": ["BG_FamilyRestaurant.jpg"], "Umika": ["BG_FamilyRestaurant.jpg"]}, "char_to_char": {"Pina": ["Shizuko_Swimsuit", "Umika"], "Umika": ["Shizuko_Swimsuit", "Pina"], "Shizuko_Swimsuit": ["Pina", "Umika"]}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "bd3f630a-07b6-4333-b264-e941d85d846e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIZUKO_SWIMSUIT_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIZUKO_SWIMSUIT_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIZUKO_SWIMSUIT",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_BeachsideShop.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_Yatai_Night.jpg"
+      ],
+      "character": [
+        "Shizuko_Swimsuit",
+        "Pina",
+        "Umika"
+      ],
+      "track": [
+        "OST_25",
+        "OST_44",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_BeachsideShop.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_25": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_44": [
+        "BG_Beachside.jpg",
+        "BG_Yatai_Night.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_3": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_25": [
+        "Shizuko_Swimsuit"
+      ],
+      "OST_44": [
+        "Shizuko_Swimsuit",
+        "Pina",
+        "Umika"
+      ],
+      "OST_3": [
+        "Shizuko_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko_Swimsuit": [
+        "BG_Beachside.jpg",
+        "BG_BeachsideShop.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_Yatai_Night.jpg"
+      ],
+      "Pina": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Umika": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Pina": [
+        "Shizuko_Swimsuit",
+        "Umika"
+      ],
+      "Umika": [
+        "Shizuko_Swimsuit",
+        "Pina"
+      ],
+      "Shizuko_Swimsuit": [
+        "Pina",
+        "Umika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

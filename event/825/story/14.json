@@ -1,1 +1,107 @@
-{"uuid": "03e1babe-7989-4828-9c9f-b9d71f907c4e", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_825_14_NAME]", "desc": ["[STORY_EVENT_825_14_DESC_1]"], "pos": {"event_id": 825, "segment": 14}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_OldHouseCorridor.jpg", "BG_CS_Event_16.jpg"], "character": ["Toki_Bunny", "Momoi", "Aris_Maid", "Yuzu_Maid"], "track": ["OST_160"]}, "track_to_bg": {"OST_160": ["BG_OldHouseCorridor.jpg", "BG_CS_Event_16.jpg"]}, "track_to_char": {"OST_160": ["Toki_Bunny", "Momoi", "Aris_Maid", "Yuzu_Maid"]}, "char_to_bg": {"Toki_Bunny": ["BG_OldHouseCorridor.jpg", "BG_CS_Event_16.jpg"], "Momoi": ["BG_OldHouseCorridor.jpg"], "Aris_Maid": ["BG_OldHouseCorridor.jpg", "BG_CS_Event_16.jpg"], "Yuzu_Maid": ["BG_CS_Event_16.jpg"]}, "char_to_char": {"Momoi": ["Toki_Bunny", "Aris_Maid"], "Aris_Maid": ["Toki_Bunny", "Momoi", "Yuzu_Maid"], "Toki_Bunny": ["Momoi", "Aris_Maid", "Yuzu_Maid"], "Yuzu_Maid": ["Aris_Maid", "Toki_Bunny"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "10e2b337-9f18-4c2b-ad22-8a5a2ed5c98e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_825_14_NAME]",
+  "desc": [
+    "[STORY_EVENT_825_14_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 825,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_CS_Event_16.jpg"
+      ],
+      "character": [
+        "Toki_Bunny",
+        "Akira",
+        "Momoi_Maid",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "track": [
+        "OST_160"
+      ]
+    },
+    "track_to_bg": {
+      "OST_160": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_CS_Event_16.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_160": [
+        "Toki_Bunny",
+        "Akira",
+        "Momoi_Maid",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Toki_Bunny": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_CS_Event_16.jpg"
+      ],
+      "Akira": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_CS_Event_16.jpg"
+      ],
+      "Momoi_Maid": [
+        "BG_OldHouseCorridor.jpg"
+      ],
+      "Aris_Maid": [
+        "BG_OldHouseCorridor.jpg",
+        "BG_CS_Event_16.jpg"
+      ],
+      "Yuzu_Maid": [
+        "BG_CS_Event_16.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Akira": [
+        "Toki_Bunny",
+        "Momoi_Maid",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "Momoi_Maid": [
+        "Toki_Bunny",
+        "Akira",
+        "Aris_Maid"
+      ],
+      "Aris_Maid": [
+        "Toki_Bunny",
+        "Akira",
+        "Momoi_Maid",
+        "Yuzu_Maid"
+      ],
+      "Toki_Bunny": [
+        "Akira",
+        "Momoi_Maid",
+        "Aris_Maid",
+        "Yuzu_Maid"
+      ],
+      "Yuzu_Maid": [
+        "Aris_Maid",
+        "Akira",
+        "Toki_Bunny"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

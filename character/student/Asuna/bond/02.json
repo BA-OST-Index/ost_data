@@ -1,1 +1,96 @@
-{"uuid": "2d068568-1664-4b0f-9ed7-6784b7429de7", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ASUNA_2_NAME]", "desc": ["[STORY_BOND_ASUNA_2_DESC_1]"], "pos": {"student": "ASUNA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityOffice.jpg", "BG_ShoppingMall.jpg", "BG_Arcade.jpg", "BG_Amusement.jpg", "BG_Campus_Sunset.jpg"], "character": ["Asuna"], "track": ["OST_28", "OST_8", "OST_4", "OST_15", "OST_3"]}, "track_to_bg": {"OST_28": ["BG_CityOffice.jpg"], "OST_0": ["BG_ShoppingMall.jpg", "BG_Campus_Sunset.jpg"], "OST_8": ["BG_ShoppingMall.jpg"], "OST_4": ["BG_ShoppingMall.jpg", "BG_Arcade.jpg", "BG_Amusement.jpg"], "OST_15": ["BG_Campus_Sunset.jpg"], "OST_3": ["BG_Campus_Sunset.jpg"]}, "track_to_char": {"OST_28": ["Asuna"], "OST_8": ["Asuna"], "OST_4": ["Asuna"], "OST_15": ["Asuna"], "OST_3": ["Asuna"]}, "char_to_bg": {"Asuna": ["BG_CityOffice.jpg", "BG_ShoppingMall.jpg", "BG_Arcade.jpg", "BG_Amusement.jpg", "BG_Campus_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "f0680f83-a144-4235-a49b-931d6a4b4004",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ASUNA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_ASUNA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "ASUNA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_Arcade.jpg",
+        "BG_Amusement.jpg",
+        "BG_Campus_Sunset.jpg"
+      ],
+      "character": [
+        "Asuna"
+      ],
+      "track": [
+        "OST_28",
+        "OST_8",
+        "OST_4",
+        "OST_15",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg",
+        "BG_Campus_Sunset.jpg"
+      ],
+      "OST_8": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_4": [
+        "BG_ShoppingMall.jpg",
+        "BG_Arcade.jpg",
+        "BG_Amusement.jpg"
+      ],
+      "OST_15": [
+        "BG_Campus_Sunset.jpg"
+      ],
+      "OST_3": [
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Asuna"
+      ],
+      "OST_8": [
+        "Asuna"
+      ],
+      "OST_4": [
+        "Asuna"
+      ],
+      "OST_15": [
+        "Asuna"
+      ],
+      "OST_3": [
+        "Asuna"
+      ]
+    },
+    "char_to_bg": {
+      "Asuna": [
+        "BG_CityOffice.jpg",
+        "BG_ShoppingMall.jpg",
+        "BG_Arcade.jpg",
+        "BG_Amusement.jpg",
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

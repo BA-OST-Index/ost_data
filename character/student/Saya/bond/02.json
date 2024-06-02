@@ -1,1 +1,64 @@
-{"uuid": "dff8ef46-2b2f-402e-801c-4b27f49857c2", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SAYA_2_NAME]", "desc": ["[STORY_BOND_SAYA_2_DESC_1]"], "pos": {"student": "SAYA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Lab.jpg"], "character": ["Saya"], "track": ["OST_25", "OST_3"]}, "track_to_bg": {"OST_25": ["BG_Lab.jpg"], "OST_0": ["BG_Lab.jpg"], "OST_3": ["BG_Lab.jpg"]}, "track_to_char": {"OST_25": ["Saya"], "OST_3": ["Saya"]}, "char_to_bg": {"Saya": ["BG_Lab.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "09b19eec-373d-49a7-b598-57c9c6d71792",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SAYA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SAYA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SAYA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Lab.jpg"
+      ],
+      "character": [
+        "Saya"
+      ],
+      "track": [
+        "OST_25",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_25": [
+        "BG_Lab.jpg"
+      ],
+      "OST_0": [
+        "BG_Lab.jpg"
+      ],
+      "OST_3": [
+        "BG_Lab.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_25": [
+        "Saya"
+      ],
+      "OST_3": [
+        "Saya"
+      ]
+    },
+    "char_to_bg": {
+      "Saya": [
+        "BG_Lab.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

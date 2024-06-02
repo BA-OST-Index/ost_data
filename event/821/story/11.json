@@ -1,0 +1,53 @@
+{
+  "uuid": "ff5bc158-d637-4fb2-8059-65779faa637b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_821_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_821_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 821,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HQ_Erode.jpg"
+      ],
+      "character": [
+        "Momoka"
+      ],
+      "track": [
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_12": [
+        "BG_HQ_Erode.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_12": [
+        "Momoka"
+      ]
+    },
+    "char_to_bg": {
+      "Momoka": [
+        "BG_HQ_Erode.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

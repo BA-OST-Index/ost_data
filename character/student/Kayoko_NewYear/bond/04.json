@@ -1,1 +1,84 @@
-{"uuid": "35e9c567-34db-4c49-ab24-6ce49f77c60c", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAYOKO_NEWYEAR_4_NAME]", "desc": ["[STORY_BOND_KAYOKO_NEWYEAR_4_DESC_1]"], "pos": {"student": "KAYOKO_NEWYEAR", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground.jpg", "BG_DownTown.jpg", "BG_CityOffice.jpg", "BG_CitySqaure.jpg", "BG_CityOffice_Night.jpg"], "character": ["Kayoko_NewYear"], "track": ["OST_13", "OST_4", "OST_60", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_Playground.jpg", "BG_CityOffice.jpg", "BG_CityOffice_Night.jpg"], "OST_13": ["BG_Playground.jpg", "BG_DownTown.jpg"], "OST_4": ["BG_CityOffice.jpg"], "OST_60": ["BG_CitySqaure.jpg"], "OST_15": ["BG_CityOffice_Night.jpg"]}, "track_to_char": {"OST_4": ["Kayoko_NewYear"], "OST_60": ["Kayoko_NewYear"], "OST_15": ["Kayoko_NewYear"]}, "char_to_bg": {"Kayoko_NewYear": ["BG_CityOffice.jpg", "BG_CitySqaure.jpg", "BG_CityOffice_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "ca6259ee-3177-4b84-8ac2-211d02e924fd",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAYOKO_NEWYEAR_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KAYOKO_NEWYEAR_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAYOKO_NEWYEAR",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground.jpg",
+        "BG_DownTown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_CitySqaure.jpg",
+        "BG_CityOffice_Night.jpg"
+      ],
+      "character": [
+        "Kayoko_NewYear"
+      ],
+      "track": [
+        "OST_13",
+        "OST_4",
+        "OST_60",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Playground.jpg",
+        "BG_CityOffice.jpg",
+        "BG_CityOffice_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_Playground.jpg",
+        "BG_DownTown.jpg"
+      ],
+      "OST_4": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_60": [
+        "BG_CitySqaure.jpg"
+      ],
+      "OST_15": [
+        "BG_CityOffice_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Kayoko_NewYear"
+      ],
+      "OST_60": [
+        "Kayoko_NewYear"
+      ],
+      "OST_15": [
+        "Kayoko_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Kayoko_NewYear": [
+        "BG_CityOffice.jpg",
+        "BG_CitySqaure.jpg",
+        "BG_CityOffice_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

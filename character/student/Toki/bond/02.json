@@ -1,1 +1,77 @@
-{"uuid": "15ec82f5-f09b-4dc9-8393-e58873a3a3ac", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TOKI_2_NAME]", "desc": ["[STORY_BOND_TOKI_2_DESC_1]"], "pos": {"student": "TOKI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCampus.jpg", "BG_Milleniumclub.jpg", "BG_ConventionHall3.jpg"], "character": ["Toki"], "track": ["OST_16", "OST_5", "OST_21"]}, "track_to_bg": {"OST_16": ["BG_MilleniumCampus.jpg", "BG_Milleniumclub.jpg", "BG_ConventionHall3.jpg"], "OST_0": ["BG_ConventionHall3.jpg"], "OST_5": ["BG_ConventionHall3.jpg"], "OST_21": ["BG_ConventionHall3.jpg"]}, "track_to_char": {"OST_16": ["Toki"], "OST_5": ["Toki"], "OST_21": ["Toki"]}, "char_to_bg": {"Toki": ["BG_MilleniumCampus.jpg", "BG_Milleniumclub.jpg", "BG_ConventionHall3.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5918cedf-eaf9-4189-8e76-e60ecab128d3",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TOKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_TOKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "TOKI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCampus.jpg",
+        "BG_Milleniumclub.jpg",
+        "BG_ConventionHall3.jpg"
+      ],
+      "character": [
+        "Toki"
+      ],
+      "track": [
+        "OST_16",
+        "OST_5",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_MilleniumCampus.jpg",
+        "BG_Milleniumclub.jpg",
+        "BG_ConventionHall3.jpg"
+      ],
+      "OST_0": [
+        "BG_ConventionHall3.jpg"
+      ],
+      "OST_5": [
+        "BG_ConventionHall3.jpg"
+      ],
+      "OST_21": [
+        "BG_ConventionHall3.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Toki"
+      ],
+      "OST_5": [
+        "Toki"
+      ],
+      "OST_21": [
+        "Toki"
+      ]
+    },
+    "char_to_bg": {
+      "Toki": [
+        "BG_MilleniumCampus.jpg",
+        "BG_Milleniumclub.jpg",
+        "BG_ConventionHall3.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

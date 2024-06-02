@@ -1,1 +1,67 @@
-{"uuid": "686247ed-c61e-4a5d-ba10-14ccdfc05cd2", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TOKI_BUNNY_3_NAME]", "desc": ["[STORY_BOND_TOKI_BUNNY_3_DESC_1]"], "pos": {"student": "TOKI_BUNNY", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RestingLounge_Night.jpg", "BG_RestingLounge.jpg"], "character": ["Toki_Bunny"], "track": ["OST_9", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_RestingLounge_Night.jpg", "BG_RestingLounge.jpg"], "OST_9": ["BG_RestingLounge.jpg"], "OST_3": ["BG_RestingLounge.jpg", "BG_RestingLounge_Night.jpg"]}, "track_to_char": {"OST_9": ["Toki_Bunny"], "OST_3": ["Toki_Bunny"]}, "char_to_bg": {"Toki_Bunny": ["BG_RestingLounge_Night.jpg", "BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "02ce7383-3aff-42d5-a45a-81ecad774284",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TOKI_BUNNY_3_NAME]",
+  "desc": [
+    "[STORY_BOND_TOKI_BUNNY_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "TOKI_BUNNY",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RestingLounge_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Toki_Bunny"
+      ],
+      "track": [
+        "OST_9",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RestingLounge_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_9": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_3": [
+        "BG_RestingLounge.jpg",
+        "BG_RestingLounge_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Toki_Bunny"
+      ],
+      "OST_3": [
+        "Toki_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Toki_Bunny": [
+        "BG_RestingLounge_Night.jpg",
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

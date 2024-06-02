@@ -1,0 +1,54 @@
+{
+  "uuid": "be1e5022-0c75-4cb1-8377-2324b6195bb1",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SpecialOperationRoom.jpg"
+      ],
+      "character": [
+        "Eimi_Swimsuit"
+      ],
+      "track": [
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Eimi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi_Swimsuit": [
+        "BG_SpecialOperationRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

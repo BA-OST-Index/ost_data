@@ -1,1 +1,54 @@
-{"uuid": "9f6e8be2-6118-4312-ab03-1243f74939ce", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SENA_3_NAME]", "desc": ["[STORY_BOND_SENA_3_DESC_1]"], "pos": {"student": "SENA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RiversideRoad.jpg"], "character": ["Sena"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_RiversideRoad.jpg"]}, "track_to_char": {"OST_10": ["Sena"]}, "char_to_bg": {"Sena": ["BG_RiversideRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "73643dfd-25b6-460b-b9ba-e696179aa356",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SENA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SENA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SENA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RiversideRoad.jpg"
+      ],
+      "character": [
+        "Sena"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Sena"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,79 @@
-{"uuid": "0c2e89e0-706c-4e61-8226-c7c410d6d6fa", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AYANE_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_AYANE_SWIMSUIT_3_DESC_1]"], "pos": {"student": "AYANE_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_IslandBeach.jpg", "BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_BeachFrontSide_Night.jpg"], "character": ["Ayane_Swimsuit"], "track": ["OST_10", "OST_43", "OST_121"]}, "track_to_bg": {"OST_0": ["BG_IslandBeach.jpg", "BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Sunset.jpg"], "OST_10": ["BG_BeachFrontSide.jpg"], "OST_43": ["BG_BeachFrontSide_Sunset.jpg"], "OST_121": ["BG_BeachFrontSide_Sunset.jpg", "BG_BeachFrontSide_Night.jpg"]}, "track_to_char": {"OST_10": ["Ayane_Swimsuit"], "OST_43": ["Ayane_Swimsuit"], "OST_121": ["Ayane_Swimsuit"]}, "char_to_bg": {"Ayane_Swimsuit": ["BG_IslandBeach.jpg", "BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_BeachFrontSide_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_121"}}, "is_memory": true}
+{
+  "uuid": "e9dea155-2ce6-4247-831a-fbe07c6c238b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AYANE_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_AYANE_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "AYANE_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IslandBeach.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ],
+      "character": [
+        "Ayane_Swimsuit"
+      ],
+      "track": [
+        "OST_10",
+        "OST_43",
+        "OST_121"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IslandBeach.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "OST_10": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_43": [
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "OST_121": [
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Ayane_Swimsuit"
+      ],
+      "OST_43": [
+        "Ayane_Swimsuit"
+      ],
+      "OST_121": [
+        "Ayane_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane_Swimsuit": [
+        "BG_IslandBeach.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_121"
+    }
+  },
+  "is_memory": true
+}

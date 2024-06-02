@@ -1,1 +1,66 @@
-{"uuid": "4f48c52a-3861-4c70-9507-225748668981", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHUN_SMALL_4_NAME]", "desc": ["[STORY_BOND_SHUN_SMALL_4_DESC_1]"], "pos": {"student": "SHUN_SMALL", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Playground.jpg", "BG_Playground_Sunset.jpg"], "character": ["Shun_Small"], "track": ["OST_10", "OST_46"]}, "track_to_bg": {"OST_10": ["BG_Playground.jpg"], "OST_0": ["BG_Playground.jpg"], "OST_46": ["BG_Playground.jpg", "BG_Playground_Sunset.jpg"]}, "track_to_char": {"OST_10": ["Shun_Small"], "OST_46": ["Shun_Small"]}, "char_to_bg": {"Shun_Small": ["BG_Playground.jpg", "BG_Playground_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_46"}}, "is_memory": true}
+{
+  "uuid": "7294afdf-625f-411f-9438-372fc3856f50",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHUN_SMALL_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SHUN_SMALL_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHUN_SMALL",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Playground.jpg",
+        "BG_Playground_Sunset.jpg"
+      ],
+      "character": [
+        "Shun_Small"
+      ],
+      "track": [
+        "OST_10",
+        "OST_46"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Playground.jpg"
+      ],
+      "OST_0": [
+        "BG_Playground.jpg"
+      ],
+      "OST_46": [
+        "BG_Playground.jpg",
+        "BG_Playground_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Shun_Small"
+      ],
+      "OST_46": [
+        "Shun_Small"
+      ]
+    },
+    "char_to_bg": {
+      "Shun_Small": [
+        "BG_Playground.jpg",
+        "BG_Playground_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_46"
+    }
+  },
+  "is_memory": true
+}

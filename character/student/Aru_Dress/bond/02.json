@@ -1,0 +1,58 @@
+{
+  "uuid": "838764b6-80ff-489a-81ad-9e87889a6363",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARU_DRESS_2_NAME]",
+  "desc": [
+    "[STORY_BOND_ARU_DRESS_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARU_DRESS",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ConventionHall3.jpg",
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_RamenYa.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_4",
+        "OST_13",
+        "OST_6",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ConventionHall3.jpg"
+      ],
+      "OST_0": [
+        "BG_ConventionHall3_Sunset.jpg",
+        "BG_RamenYa.jpg"
+      ],
+      "OST_13": [
+        "BG_ConventionHall3_Sunset.jpg"
+      ],
+      "OST_6": [
+        "BG_RamenYa.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

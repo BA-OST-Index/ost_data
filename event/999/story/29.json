@@ -1,1 +1,53 @@
-{"uuid": "1be8e1c4-1655-4c1d-89ff-d4c040d802f7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_29_NAME]", "desc": ["[STORY_EVENT_999_29_DESC_1]"], "pos": {"event_id": 999, "segment": 29}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg"], "character": ["Shun"], "track": ["OST_38"]}, "track_to_bg": {"OST_38": ["BG_MainOffice.jpg"]}, "track_to_char": {"OST_38": ["Shun"]}, "char_to_bg": {"Shun": ["BG_MainOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "106aaf83-df7f-4101-867c-9b8f4b892d91",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_29_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_29_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 29
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg"
+      ],
+      "character": [
+        "Shun"
+      ],
+      "track": [
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Shun"
+      ]
+    },
+    "char_to_bg": {
+      "Shun": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

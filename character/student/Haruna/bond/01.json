@@ -1,1 +1,77 @@
-{"uuid": "e839bd36-6f9a-42ce-af1d-68a37e41d682", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUNA_1_NAME]", "desc": ["[STORY_BOND_HARUNA_1_DESC_1]"], "pos": {"student": "HARUNA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolCafeteria_Night.jpg", "BG_SchoolCafeteria.jpg", "BG_Campus_Night.jpg"], "character": ["Haruna"], "track": ["OST_3", "OST_30", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_SchoolCafeteria_Night.jpg", "BG_SchoolCafeteria.jpg", "BG_Campus_Night.jpg"], "OST_3": ["BG_SchoolCafeteria.jpg"], "OST_30": ["BG_SchoolCafeteria_Night.jpg"], "OST_15": ["BG_Campus_Night.jpg"]}, "track_to_char": {"OST_3": ["Haruna"], "OST_30": ["Haruna"], "OST_15": ["Haruna"]}, "char_to_bg": {"Haruna": ["BG_SchoolCafeteria_Night.jpg", "BG_SchoolCafeteria.jpg", "BG_Campus_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "9e1e492b-739d-4043-bdf3-3433351a0bc9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUNA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUNA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUNA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolCafeteria_Night.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Campus_Night.jpg"
+      ],
+      "character": [
+        "Haruna"
+      ],
+      "track": [
+        "OST_3",
+        "OST_30",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SchoolCafeteria_Night.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Campus_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "OST_30": [
+        "BG_SchoolCafeteria_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_Campus_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Haruna"
+      ],
+      "OST_30": [
+        "Haruna"
+      ],
+      "OST_15": [
+        "Haruna"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna": [
+        "BG_SchoolCafeteria_Night.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Campus_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

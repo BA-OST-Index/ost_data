@@ -1,1 +1,81 @@
-{"uuid": "ee6ce126-cd35-4ada-971e-6fd37571c0ad", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_809_19_NAME]", "desc": ["[STORY_EVENT_809_19_DESC_1]"], "pos": {"event_id": 809, "segment": 19}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_NewYearFestival.jpg", "BG_NewYearFestivalRoad.jpg"], "character": ["Shinon", "Iori", "Serika_NewYear"], "track": ["OST_17", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_NewYearFestival.jpg", "BG_NewYearFestivalRoad.jpg"], "OST_17": ["BG_NewYearFestival.jpg"], "OST_3": ["BG_NewYearFestivalRoad.jpg"]}, "track_to_char": {"OST_17": ["Shinon", "Iori"], "OST_3": ["Serika_NewYear"]}, "char_to_bg": {"Shinon": ["BG_NewYearFestival.jpg"], "Iori": ["BG_NewYearFestival.jpg"], "Serika_NewYear": ["BG_NewYearFestivalRoad.jpg"]}, "char_to_char": {"Iori": ["Shinon"], "Shinon": ["Iori"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "32208501-7390-481d-aa9f-c3d989d65c00",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_809_19_NAME]",
+  "desc": [
+    "[STORY_EVENT_809_19_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 809,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_NewYearFestival.jpg",
+        "BG_NewYearFestivalRoad.jpg"
+      ],
+      "character": [
+        "Shinon",
+        "Iori",
+        "Serika_NewYear"
+      ],
+      "track": [
+        "OST_17",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_NewYearFestival.jpg",
+        "BG_NewYearFestivalRoad.jpg"
+      ],
+      "OST_17": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "OST_3": [
+        "BG_NewYearFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_17": [
+        "Shinon",
+        "Iori"
+      ],
+      "OST_3": [
+        "Serika_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Shinon": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "Iori": [
+        "BG_NewYearFestival.jpg"
+      ],
+      "Serika_NewYear": [
+        "BG_NewYearFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Iori": [
+        "Shinon"
+      ],
+      "Shinon": [
+        "Iori"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

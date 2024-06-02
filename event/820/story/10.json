@@ -1,1 +1,102 @@
-{"uuid": "10ae0cf3-471c-46b8-9612-b3e1d02d4f4f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_10_NAME]", "desc": ["[STORY_EVENT_820_10_DESC_1]"], "pos": {"event_id": 820, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg", "BG_DrawingRoom.jpg"], "character": ["Haruna_NewYear", "Junko_NewYear", "Akari_NewYear", "Izumi"], "track": ["OST_10", "OST_130", "OST_5"]}, "track_to_bg": {"OST_0": ["BG_Yatai.jpg", "BG_DrawingRoom.jpg"], "OST_10": ["BG_Yatai.jpg"], "OST_130": ["BG_DrawingRoom.jpg"], "OST_5": ["BG_DrawingRoom.jpg"]}, "track_to_char": {"OST_10": ["Haruna_NewYear", "Junko_NewYear", "Akari_NewYear", "Izumi"]}, "char_to_bg": {"Haruna_NewYear": ["BG_Yatai.jpg"], "Junko_NewYear": ["BG_Yatai.jpg"], "Akari_NewYear": ["BG_Yatai.jpg"], "Izumi": ["BG_Yatai.jpg"]}, "char_to_char": {"Junko_NewYear": ["Haruna_NewYear", "Akari_NewYear", "Izumi"], "Akari_NewYear": ["Haruna_NewYear", "Junko_NewYear", "Izumi"], "Izumi": ["Haruna_NewYear", "Junko_NewYear", "Akari_NewYear"], "Haruna_NewYear": ["Junko_NewYear", "Akari_NewYear", "Izumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "d485e37d-3c35-4213-a4a1-a732d16e9358",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg",
+        "BG_DrawingRoom.jpg"
+      ],
+      "character": [
+        "Haruna_NewYear",
+        "Junko_NewYear",
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ],
+      "track": [
+        "OST_10",
+        "OST_130",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai.jpg",
+        "BG_DrawingRoom.jpg"
+      ],
+      "OST_10": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_130": [
+        "BG_DrawingRoom.jpg"
+      ],
+      "OST_5": [
+        "BG_DrawingRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Haruna_NewYear",
+        "Junko_NewYear",
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Junko_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Akari_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Izumi_NewYear": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Junko_NewYear": [
+        "Haruna_NewYear",
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ],
+      "Akari_NewYear": [
+        "Haruna_NewYear",
+        "Junko_NewYear",
+        "Izumi_NewYear"
+      ],
+      "Izumi_NewYear": [
+        "Haruna_NewYear",
+        "Junko_NewYear",
+        "Akari_NewYear"
+      ],
+      "Haruna_NewYear": [
+        "Junko_NewYear",
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

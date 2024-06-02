@@ -1,1 +1,54 @@
-{"uuid": "ba601c1c-be8d-41ea-87f4-fb54fa274088", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_EIMI_5_NAME]", "desc": ["[STORY_BOND_EIMI_5_DESC_1]"], "pos": {"student": "EIMI", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Infirmary.jpg"], "character": ["Eimi"], "track": ["OST_2"]}, "track_to_bg": {"OST_2": ["BG_Infirmary.jpg"]}, "track_to_char": {"OST_2": ["Eimi"]}, "char_to_bg": {"Eimi": ["BG_Infirmary.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "699f1fac-003b-4146-9ad6-35bbbfc9d3bf",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_5_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Infirmary.jpg"
+      ],
+      "character": [
+        "Eimi"
+      ],
+      "track": [
+        "OST_2"
+      ]
+    },
+    "track_to_bg": {
+      "OST_2": [
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_2": [
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi": [
+        "BG_Infirmary.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

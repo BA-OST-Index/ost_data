@@ -1,1 +1,162 @@
-{"uuid": "ad96c7e2-ec95-4637-b377-d81d73c58c81", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_818_11_NAME]", "desc": ["[STORY_EVENT_818_11_DESC_1]"], "pos": {"event_id": 818, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"], "character": ["Izuna", "Tsukuyo", "Kaede", "Chise", "Hasumi_Track", "Shinon", "Maki"], "track": ["OST_28", "OST_132"]}, "track_to_bg": {"OST_28": ["BG_KivotosStadium.jpg"], "OST_0": ["BG_KivotosStadium.jpg"], "OST_132": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"]}, "track_to_char": {"OST_28": ["Izuna", "Tsukuyo", "Kaede", "Chise", "Hasumi_Track", "Shinon"], "OST_132": ["Maki", "Izuna", "Tsukuyo", "Kaede", "Hasumi_Track", "Chise", "Shinon"]}, "char_to_bg": {"Izuna": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"], "Tsukuyo": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"], "Kaede": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"], "Chise": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"], "Hasumi_Track": ["BG_KivotosStadium.jpg"], "Shinon": ["BG_KivotosStadium.jpg"], "Maki": ["BG_KivotosStadium.jpg", "BG_CS_PV3_61.jpg"]}, "char_to_char": {"Tsukuyo": ["Izuna", "Kaede", "Chise", "Hasumi_Track", "Shinon", "Maki"], "Kaede": ["Izuna", "Tsukuyo", "Chise", "Hasumi_Track", "Shinon", "Maki"], "Chise": ["Izuna", "Tsukuyo", "Kaede", "Hasumi_Track", "Shinon", "Maki"], "Hasumi_Track": ["Izuna", "Tsukuyo", "Kaede", "Chise", "Shinon", "Maki"], "Izuna": ["Tsukuyo", "Kaede", "Chise", "Hasumi_Track", "Shinon", "Maki"], "Shinon": ["Izuna", "Tsukuyo", "Chise", "Kaede", "Hasumi_Track", "Maki"], "Maki": ["Izuna", "Tsukuyo", "Chise", "Kaede", "Hasumi_Track", "Shinon"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "30ade21b-41e5-449f-b886-d7f5ce828cc0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_818_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_818_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 818,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Chise",
+        "Hasumi_Track",
+        "Shinon",
+        "Maki"
+      ],
+      "track": [
+        "OST_28",
+        "OST_132"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_0": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "OST_132": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Chise",
+        "Hasumi_Track",
+        "Shinon"
+      ],
+      "OST_132": [
+        "Maki",
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Hasumi_Track",
+        "Chise",
+        "Shinon"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ],
+      "Kaede": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ],
+      "Chise": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ],
+      "Hasumi_Track": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Shinon": [
+        "BG_KivotosStadium.jpg"
+      ],
+      "Maki": [
+        "BG_KivotosStadium.jpg",
+        "BG_CS_PV3_61.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Izuna",
+        "Kaede",
+        "Chise",
+        "Hasumi_Track",
+        "Shinon",
+        "Maki"
+      ],
+      "Kaede": [
+        "Izuna",
+        "Tsukuyo",
+        "Chise",
+        "Hasumi_Track",
+        "Shinon",
+        "Maki"
+      ],
+      "Chise": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Hasumi_Track",
+        "Shinon",
+        "Maki"
+      ],
+      "Hasumi_Track": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Chise",
+        "Shinon",
+        "Maki"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Kaede",
+        "Chise",
+        "Hasumi_Track",
+        "Shinon",
+        "Maki"
+      ],
+      "Shinon": [
+        "Izuna",
+        "Tsukuyo",
+        "Chise",
+        "Kaede",
+        "Hasumi_Track",
+        "Maki"
+      ],
+      "Maki": [
+        "Izuna",
+        "Tsukuyo",
+        "Chise",
+        "Kaede",
+        "Hasumi_Track",
+        "Shinon"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

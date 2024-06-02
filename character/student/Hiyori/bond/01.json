@@ -1,1 +1,67 @@
-{"uuid": "189b95f2-70b1-4f54-b991-3b8301702cf6", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIYORI_1_NAME]", "desc": ["[STORY_BOND_HIYORI_1_DESC_1]"], "pos": {"student": "HIYORI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront_Night.jpg", "BG_ConvenienceStore.jpg"], "character": ["Hiyori"], "track": ["OST_33", "OST_8"]}, "track_to_bg": {"OST_0": ["BG_SlumFront_Night.jpg", "BG_ConvenienceStore.jpg"], "OST_33": ["BG_SlumFront_Night.jpg"], "OST_8": ["BG_ConvenienceStore.jpg"]}, "track_to_char": {"OST_33": ["Hiyori"], "OST_8": ["Hiyori"]}, "char_to_bg": {"Hiyori": ["BG_SlumFront_Night.jpg", "BG_ConvenienceStore.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "e2d47e5f-adf6-4bcd-8ac3-8bdeca91423f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIYORI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HIYORI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIYORI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront_Night.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "character": [
+        "Hiyori"
+      ],
+      "track": [
+        "OST_33",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SlumFront_Night.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "OST_33": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_8": [
+        "BG_ConvenienceStore.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Hiyori"
+      ],
+      "OST_8": [
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Hiyori": [
+        "BG_SlumFront_Night.jpg",
+        "BG_ConvenienceStore.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

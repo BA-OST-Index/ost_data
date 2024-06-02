@@ -1,0 +1,76 @@
+{
+  "uuid": "495855b6-d3c2-4e1a-bf9b-9d838292ffad",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "character": [
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Kotori"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Misaka_Mikoto",
+        "Eimi",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Misaka_Mikoto": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "Eimi": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "Saten_Ruiko": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "Shokuhou_Misaki": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "Kotori": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

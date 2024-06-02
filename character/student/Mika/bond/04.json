@@ -1,1 +1,124 @@
-{"uuid": "2ad5111e-1276-4454-bff2-69913a0906e4", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIKA_4_NAME]", "desc": ["[STORY_BOND_MIKA_4_DESC_1]"], "pos": {"student": "MIKA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityClubRoom_Night.jpg", "BG_TrinityHospital_Night.jpg", "BG_LockerRoom.jpg", "BG_SwimmingTerrace.jpg", "BG_ShoppingMall_Night.jpg", "BG_TrinityCampus_Night.jpg", "BG_SwimmingPool_Night.jpg"], "character": ["Mika"], "track": ["OST_55", "OST_27", "OST_35", "OST_15", "OST_37", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_TrinityClubRoom_Night.jpg", "BG_TrinityHospital_Night.jpg", "BG_LockerRoom.jpg", "BG_SwimmingTerrace.jpg", "BG_ShoppingMall_Night.jpg", "BG_TrinityCampus_Night.jpg", "BG_SwimmingPool_Night.jpg"], "OST_55": ["BG_TrinityClubRoom_Night.jpg", "BG_TrinityHospital_Night.jpg"], "OST_27": ["BG_LockerRoom.jpg", "BG_SwimmingTerrace.jpg"], "OST_35": ["BG_TrinityHospital_Night.jpg"], "OST_15": ["BG_ShoppingMall_Night.jpg"], "OST_37": ["BG_SwimmingPool_Night.jpg"], "OST_7": ["BG_SwimmingPool_Night.jpg"]}, "track_to_char": {"OST_55": ["Mika"], "OST_27": ["Mika"], "OST_35": ["Mika"], "OST_15": ["Mika"], "OST_37": ["Mika"], "OST_7": ["Mika"]}, "char_to_bg": {"Mika": ["BG_TrinityHospital_Night.jpg", "BG_LockerRoom.jpg", "BG_SwimmingTerrace.jpg", "BG_ShoppingMall_Night.jpg", "BG_TrinityCampus_Night.jpg", "BG_SwimmingPool_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "4ea00525-51b3-4c00-9a42-237cc23bf4e8",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MIKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIKA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityHospital_Night.jpg",
+        "BG_LockerRoom.jpg",
+        "BG_SwimmingTerrace.jpg",
+        "BG_ShoppingMall_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_SwimmingPool_Night.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Suspicious Student C"
+      ],
+      "track": [
+        "OST_55",
+        "OST_27",
+        "OST_35",
+        "OST_15",
+        "OST_37",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityHospital_Night.jpg",
+        "BG_LockerRoom.jpg",
+        "BG_SwimmingTerrace.jpg",
+        "BG_ShoppingMall_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_SwimmingPool_Night.jpg"
+      ],
+      "OST_55": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityHospital_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_LockerRoom.jpg",
+        "BG_SwimmingTerrace.jpg"
+      ],
+      "OST_35": [
+        "BG_TrinityHospital_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_ShoppingMall_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_SwimmingPool_Night.jpg"
+      ],
+      "OST_7": [
+        "BG_SwimmingPool_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Mika"
+      ],
+      "OST_27": [
+        "Suspicious Student C",
+        "Mika"
+      ],
+      "OST_35": [
+        "Mika"
+      ],
+      "OST_15": [
+        "Mika"
+      ],
+      "OST_37": [
+        "Mika"
+      ],
+      "OST_7": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_TrinityHospital_Night.jpg",
+        "BG_LockerRoom.jpg",
+        "BG_SwimmingTerrace.jpg",
+        "BG_ShoppingMall_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_SwimmingPool_Night.jpg"
+      ],
+      "Suspicious Student C": [
+        "BG_LockerRoom.jpg",
+        "BG_SwimmingTerrace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Suspicious Student C"
+      ],
+      "Suspicious Student C": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,0 +1,113 @@
+{
+  "uuid": "2f9d1140-67c0-43a6-86fc-3196cc8172fa",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_View_Sky2.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Hare",
+        "Kotama",
+        "Maki",
+        "Chihiro"
+      ],
+      "track": [
+        "OST_6",
+        "OST_130",
+        "OST_183"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_View_Sky2.jpg",
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_130": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_183": [
+        "BG_ComputerCenter.jpg",
+        "BG_View_Sky2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Hare",
+        "Kotama",
+        "Maki",
+        "Chihiro"
+      ],
+      "OST_130": [
+        "Maki",
+        "Chihiro",
+        "Kotama",
+        "Hare"
+      ],
+      "OST_183": [
+        "Chihiro",
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Hare": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Kotama": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Maki": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Chihiro": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kotama": [
+        "Hare",
+        "Maki",
+        "Chihiro"
+      ],
+      "Maki": [
+        "Hare",
+        "Kotama",
+        "Chihiro"
+      ],
+      "Chihiro": [
+        "Hare",
+        "Kotama",
+        "Maki"
+      ],
+      "Hare": [
+        "Kotama",
+        "Maki",
+        "Chihiro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

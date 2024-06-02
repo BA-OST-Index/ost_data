@@ -1,1 +1,76 @@
-{"uuid": "cb5c0811-da87-4b65-8bc0-63dcdf2d03a9", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_CYCLING_4_NAME]", "desc": ["[STORY_BOND_SHIROKO_CYCLING_4_DESC_1]"], "pos": {"student": "SHIROKO_CYCLING", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BuildingFrontGate.jpg", "BG_CityTown.jpg", "BG_CityOffice.jpg", "BG_Playground.jpg", "BG_Residence.jpg", "BG_SchoolFrontGate.jpg", "BG_SchoolGround_Sunset.jpg"], "character": ["Shiroko_Cycling"], "track": ["OST_4", "OST_22"]}, "track_to_bg": {"OST_4": ["BG_BuildingFrontGate.jpg", "BG_CityTown.jpg", "BG_CityOffice.jpg", "BG_Playground.jpg", "BG_Residence.jpg", "BG_SchoolFrontGate.jpg"], "OST_0": ["BG_SchoolGround_Sunset.jpg"], "OST_22": ["BG_SchoolGround_Sunset.jpg"]}, "track_to_char": {"OST_4": ["Shiroko_Cycling"], "OST_22": ["Shiroko_Cycling"]}, "char_to_bg": {"Shiroko_Cycling": ["BG_BuildingFrontGate.jpg", "BG_SchoolGround_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a5327875-b525-407f-8175-c07106f59191",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_CYCLING_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_CYCLING_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO_CYCLING",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_CityTown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_Playground.jpg",
+        "BG_Residence.jpg",
+        "BG_SchoolFrontGate.jpg",
+        "BG_SchoolGround_Sunset.jpg"
+      ],
+      "character": [
+        "Shiroko_Cycling"
+      ],
+      "track": [
+        "OST_4",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_CityTown.jpg",
+        "BG_CityOffice.jpg",
+        "BG_Playground.jpg",
+        "BG_Residence.jpg",
+        "BG_SchoolFrontGate.jpg"
+      ],
+      "OST_0": [
+        "BG_SchoolGround_Sunset.jpg"
+      ],
+      "OST_22": [
+        "BG_SchoolGround_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Shiroko_Cycling"
+      ],
+      "OST_22": [
+        "Shiroko_Cycling"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko_Cycling": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_SchoolGround_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

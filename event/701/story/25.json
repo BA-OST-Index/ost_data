@@ -1,0 +1,101 @@
+{
+  "uuid": "5a490516-b08a-4e44-ac6f-38db3599091a",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_701_25_NAME]",
+  "desc": [
+    "[STORY_EVENT_701_25_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 701,
+    "segment": 25
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FrozenSea.jpg"
+      ],
+      "character": [
+        "Himari",
+        "Eimi_Swimsuit",
+        "Toki",
+        "???"
+      ],
+      "track": [
+        "OST_69",
+        "OST_96"
+      ]
+    },
+    "track_to_bg": {
+      "OST_69": [
+        "BG_FrozenSea.jpg"
+      ],
+      "OST_0": [
+        "BG_FrozenSea.jpg"
+      ],
+      "OST_96": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_69": [
+        "Himari",
+        "Eimi_Swimsuit",
+        "Toki"
+      ],
+      "OST_96": [
+        "Himari",
+        "Eimi_Swimsuit",
+        "Toki",
+        "???"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Eimi_Swimsuit": [
+        "BG_FrozenSea.jpg"
+      ],
+      "Toki": [
+        "BG_FrozenSea.jpg"
+      ],
+      "???": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Eimi_Swimsuit": [
+        "Himari",
+        "Toki",
+        "???"
+      ],
+      "Toki": [
+        "Himari",
+        "Eimi_Swimsuit",
+        "???"
+      ],
+      "???": [
+        "Himari",
+        "Eimi_Swimsuit",
+        "Toki"
+      ],
+      "Himari": [
+        "Eimi_Swimsuit",
+        "Toki",
+        "???"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

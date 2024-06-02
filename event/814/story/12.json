@@ -1,1 +1,154 @@
-{"uuid": "2c21c01a-b7f9-4f11-9524-f271eeed298d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_814_12_NAME]", "desc": ["[STORY_EVENT_814_12_DESC_1]"], "pos": {"event_id": 814, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide.jpg", "BG_CS_PV3_50.jpg", "BG_CS_PV3_50_2.jpg", "BG_CS_PV3_49.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_CS_PV3_51.jpg", "BG_BeachFrontSide_Night.jpg", "BG_CS_PV3_52.jpg", "BG_CS_PV3_53.jpg", "BG_CS_PV3_54.jpg", "BG_IslandBeach_Night.jpg"], "character": ["Ayane_Swimsuit", "Serika", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit"], "track": ["OST_50", "OST_120", "OST_46"]}, "track_to_bg": {"OST_0": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg", "BG_IslandBeach_Night.jpg"], "OST_50": ["BG_BeachFrontSide.jpg"], "OST_120": ["BG_BeachFrontSide.jpg", "BG_CS_PV3_50.jpg", "BG_CS_PV3_50_2.jpg", "BG_CS_PV3_49.jpg", "BG_BeachFrontSide_Sunset.jpg", "BG_CS_PV3_51.jpg", "BG_BeachFrontSide_Night.jpg", "BG_CS_PV3_52.jpg", "BG_CS_PV3_53.jpg", "BG_CS_PV3_54.jpg"], "OST_46": ["BG_IslandBeach_Night.jpg"]}, "track_to_char": {"OST_50": ["Ayane_Swimsuit", "Serika", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit"], "OST_120": ["Shiroko_Swimsuit", "Serika", "Nonomi_Swimsuit", "Hoshino_Swimsuit", "Ayane_Swimsuit"], "OST_46": ["Nonomi_Swimsuit", "Hoshino_Swimsuit"]}, "char_to_bg": {"Ayane_Swimsuit": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg"], "Serika": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg"], "Hoshino_Swimsuit": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg", "BG_IslandBeach_Night.jpg"], "Nonomi_Swimsuit": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg", "BG_IslandBeach_Night.jpg"], "Shiroko_Swimsuit": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Night.jpg"]}, "char_to_char": {"Serika": ["Ayane_Swimsuit", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit"], "Hoshino_Swimsuit": ["Ayane_Swimsuit", "Serika", "Nonomi_Swimsuit", "Shiroko_Swimsuit"], "Nonomi_Swimsuit": ["Ayane_Swimsuit", "Serika", "Hoshino_Swimsuit", "Shiroko_Swimsuit"], "Shiroko_Swimsuit": ["Ayane_Swimsuit", "Serika", "Hoshino_Swimsuit", "Nonomi_Swimsuit"], "Ayane_Swimsuit": ["Serika", "Hoshino_Swimsuit", "Nonomi_Swimsuit", "Shiroko_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "6cb0a829-9297-4b7e-b2ce-8d06e5fc9524",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_814_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_814_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 814,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide.jpg",
+        "BG_CS_PV3_50.jpg",
+        "BG_CS_PV3_50_2.jpg",
+        "BG_CS_PV3_49.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_CS_PV3_51.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_CS_PV3_52.jpg",
+        "BG_CS_PV3_53.jpg",
+        "BG_CS_PV3_54.jpg",
+        "BG_IslandBeach_Night.jpg"
+      ],
+      "character": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "track": [
+        "OST_50",
+        "OST_120",
+        "OST_46"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_IslandBeach_Night.jpg"
+      ],
+      "OST_50": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_120": [
+        "BG_BeachFrontSide.jpg",
+        "BG_CS_PV3_50.jpg",
+        "BG_CS_PV3_50_2.jpg",
+        "BG_CS_PV3_49.jpg",
+        "BG_BeachFrontSide_Sunset.jpg",
+        "BG_CS_PV3_51.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_CS_PV3_52.jpg",
+        "BG_CS_PV3_53.jpg",
+        "BG_CS_PV3_54.jpg"
+      ],
+      "OST_46": [
+        "BG_IslandBeach_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_50": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "OST_120": [
+        "Shiroko_Swimsuit",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Ayane_Swimsuit"
+      ],
+      "OST_46": [
+        "Nonomi_Swimsuit",
+        "Hoshino_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ],
+      "Serika_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ],
+      "Hoshino_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_IslandBeach_Night.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg",
+        "BG_IslandBeach_Night.jpg"
+      ],
+      "Shiroko_Swimsuit": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Serika_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Hoshino_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Nonomi_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Shiroko_Swimsuit"
+      ],
+      "Shiroko_Swimsuit": [
+        "Ayane_Swimsuit",
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit"
+      ],
+      "Ayane_Swimsuit": [
+        "Serika_Swimsuit",
+        "Hoshino_Swimsuit",
+        "Nonomi_Swimsuit",
+        "Shiroko_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,71 @@
-{"uuid": "fd44f774-8551-4814-a0e7-c578f891e097", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NONOMI_6_NAME]", "desc": ["[STORY_BOND_NONOMI_6_DESC_1]"], "pos": {"student": "NONOMI", "segment": 6, "favor_rank": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CommitteeRoom.jpg"], "character": ["Nonomi"], "track": ["OST_10", "OST_15", "OST_44"]}, "track_to_bg": {"OST_10": ["BG_CommitteeRoom.jpg"], "OST_0": ["BG_CommitteeRoom.jpg"], "OST_15": ["BG_CommitteeRoom.jpg"], "OST_44": ["BG_CommitteeRoom.jpg"]}, "track_to_char": {"OST_10": ["Nonomi"], "OST_15": ["Nonomi"], "OST_44": ["Nonomi"]}, "char_to_bg": {"Nonomi": ["BG_CommitteeRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "7e384f86-f9a4-47a6-9802-3f1cf82b1642",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NONOMI_6_NAME]",
+  "desc": [
+    "[STORY_BOND_NONOMI_6_DESC_1]"
+  ],
+  "pos": {
+    "student": "NONOMI",
+    "segment": 6,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CommitteeRoom.jpg"
+      ],
+      "character": [
+        "Nonomi"
+      ],
+      "track": [
+        "OST_10",
+        "OST_15",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CommitteeRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_CommitteeRoom.jpg"
+      ],
+      "OST_15": [
+        "BG_CommitteeRoom.jpg"
+      ],
+      "OST_44": [
+        "BG_CommitteeRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Nonomi"
+      ],
+      "OST_15": [
+        "Nonomi"
+      ],
+      "OST_44": [
+        "Nonomi"
+      ]
+    },
+    "char_to_bg": {
+      "Nonomi": [
+        "BG_CommitteeRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

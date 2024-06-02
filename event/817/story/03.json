@@ -1,1 +1,143 @@
-{"uuid": "83451fee-7f43-4907-8ec1-ab32e3895aed", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_817_3_NAME]", "desc": ["[STORY_EVENT_817_3_DESC_1]"], "pos": {"event_id": 817, "segment": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ComputerCenter.jpg"], "character": ["Maki", "Kotama", "Chihiro", "Hare", "Noa"], "track": ["OST_8", "OST_15", "OST_129", "OST_16", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_ComputerCenter.jpg"], "OST_8": ["BG_ComputerCenter.jpg"], "OST_15": ["BG_ComputerCenter.jpg"], "OST_129": ["BG_ComputerCenter.jpg"], "OST_16": ["BG_ComputerCenter.jpg"], "OST_7": ["BG_ComputerCenter.jpg"]}, "track_to_char": {"OST_8": ["Maki", "Kotama", "Hare", "Chihiro"], "OST_15": ["Noa", "Hare", "Kotama", "Maki", "Chihiro"], "OST_129": ["Chihiro", "Noa"], "OST_16": ["Chihiro", "Maki", "Kotama", "Hare"], "OST_7": ["Chihiro", "Maki"]}, "char_to_bg": {"Maki": ["BG_ComputerCenter.jpg"], "Kotama": ["BG_ComputerCenter.jpg"], "Hare": ["BG_ComputerCenter.jpg"], "Chihiro": ["BG_ComputerCenter.jpg"], "Noa": ["BG_ComputerCenter.jpg"]}, "char_to_char": {"Kotama": ["Maki", "Chihiro", "Hare", "Noa"], "Chihiro": ["Maki", "Kotama", "Hare", "Noa"], "Hare": ["Maki", "Kotama", "Chihiro", "Noa"], "Maki": ["Kotama", "Chihiro", "Hare", "Noa"], "Noa": ["Chihiro", "Maki", "Kotama", "Hare"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2a2b249d-86d1-49ac-a276-ae9b238c0eba",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_817_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_817_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 817,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Maki",
+        "Kotama",
+        "Chihiro",
+        "Hare",
+        "Noa"
+      ],
+      "track": [
+        "OST_8",
+        "OST_15",
+        "OST_129",
+        "OST_16",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_8": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_15": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_129": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_16": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_7": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Maki",
+        "Kotama",
+        "Hare",
+        "Chihiro"
+      ],
+      "OST_15": [
+        "Noa",
+        "Hare",
+        "Kotama",
+        "Maki",
+        "Chihiro"
+      ],
+      "OST_129": [
+        "Chihiro",
+        "Noa"
+      ],
+      "OST_16": [
+        "Chihiro",
+        "Maki",
+        "Kotama",
+        "Hare"
+      ],
+      "OST_7": [
+        "Chihiro",
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Kotama": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Hare": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Chihiro": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Noa": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kotama": [
+        "Maki",
+        "Chihiro",
+        "Hare",
+        "Noa"
+      ],
+      "Chihiro": [
+        "Maki",
+        "Kotama",
+        "Hare",
+        "Noa"
+      ],
+      "Hare": [
+        "Maki",
+        "Kotama",
+        "Chihiro",
+        "Noa"
+      ],
+      "Maki": [
+        "Kotama",
+        "Chihiro",
+        "Hare",
+        "Noa"
+      ],
+      "Noa": [
+        "Chihiro",
+        "Maki",
+        "Kotama",
+        "Hare"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

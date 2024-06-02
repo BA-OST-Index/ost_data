@@ -1,1 +1,64 @@
-{"uuid": "5607815e-4598-4e95-9120-0ab727a664ca", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHUN_SMALL_2_NAME]", "desc": ["[STORY_BOND_SHUN_SMALL_2_DESC_1]"], "pos": {"student": "SHUN_SMALL", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Meihuayuan.jpg"], "character": ["Shun_Small"], "track": ["OST_3", "OST_10"]}, "track_to_bg": {"OST_3": ["BG_Meihuayuan.jpg"], "OST_0": ["BG_Meihuayuan.jpg"], "OST_10": ["BG_Meihuayuan.jpg"]}, "track_to_char": {"OST_3": ["Shun_Small"], "OST_10": ["Shun_Small"]}, "char_to_bg": {"Shun_Small": ["BG_Meihuayuan.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "9c340209-9c15-4c33-849f-8eaea0573c4b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHUN_SMALL_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHUN_SMALL_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHUN_SMALL",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Meihuayuan.jpg"
+      ],
+      "character": [
+        "Shun_Small"
+      ],
+      "track": [
+        "OST_3",
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_Meihuayuan.jpg"
+      ],
+      "OST_0": [
+        "BG_Meihuayuan.jpg"
+      ],
+      "OST_10": [
+        "BG_Meihuayuan.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Shun_Small"
+      ],
+      "OST_10": [
+        "Shun_Small"
+      ]
+    },
+    "char_to_bg": {
+      "Shun_Small": [
+        "BG_Meihuayuan.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

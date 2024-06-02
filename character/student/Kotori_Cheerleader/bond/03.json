@@ -1,1 +1,57 @@
-{"uuid": "24eb1bcf-9818-49e7-8282-2de4a429a875", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_CHEERLEADER_3_NAME]", "desc": ["[STORY_BOND_KOTORI_CHEERLEADER_3_DESC_1]"], "pos": {"student": "KOTORI_CHEERLEADER", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LockerRoom.jpg"], "character": ["Kotori_Cheerleader"], "track": ["OST_104"]}, "track_to_bg": {"OST_0": ["BG_LockerRoom.jpg"], "OST_104": ["BG_LockerRoom.jpg"]}, "track_to_char": {"OST_104": ["Kotori_Cheerleader"]}, "char_to_bg": {"Kotori_Cheerleader": ["BG_LockerRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "48cfb9a5-aa78-4ccb-b41a-fb67544f7320",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_CHEERLEADER_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_CHEERLEADER_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI_CHEERLEADER",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LockerRoom.jpg"
+      ],
+      "character": [
+        "Kotori_Cheerleader"
+      ],
+      "track": [
+        "OST_104"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_LockerRoom.jpg"
+      ],
+      "OST_104": [
+        "BG_LockerRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_104": [
+        "Kotori_Cheerleader"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori_Cheerleader": [
+        "BG_LockerRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

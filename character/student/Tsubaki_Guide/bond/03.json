@@ -1,0 +1,63 @@
+{
+  "uuid": "961f065b-65ba-4f6e-85bf-c444b41ce3ae",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TSUBAKI_GUIDE_3_NAME]",
+  "desc": [
+    "[STORY_BOND_TSUBAKI_GUIDE_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "TSUBAKI_GUIDE",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoCampus_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_Park_Night.jpg",
+        "BG_Park.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_186",
+        "OST_209",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_186": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoCampus_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_Park.jpg"
+      ],
+      "OST_209": [
+        "BG_Park_Night.jpg"
+      ],
+      "OST_9": [
+        "BG_Park.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_209"
+    }
+  },
+  "is_memory": true
+}

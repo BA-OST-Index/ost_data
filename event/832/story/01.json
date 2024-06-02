@@ -1,0 +1,102 @@
+{
+  "uuid": "4b1868fc-dff7-4fa1-a959-fa122d5b4a20",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "character": [
+        "Hare",
+        "Maki",
+        "Kotama",
+        "Chihiro"
+      ],
+      "track": [
+        "OST_6",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_0": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "OST_8": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Hare",
+        "Maki",
+        "Kotama",
+        "Chihiro"
+      ],
+      "OST_8": [
+        "Maki",
+        "Chihiro",
+        "Hare",
+        "Kotama"
+      ]
+    },
+    "char_to_bg": {
+      "Hare": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Maki": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Kotama": [
+        "BG_ComputerCenter.jpg"
+      ],
+      "Chihiro": [
+        "BG_ComputerCenter.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Maki": [
+        "Hare",
+        "Kotama",
+        "Chihiro"
+      ],
+      "Kotama": [
+        "Hare",
+        "Maki",
+        "Chihiro"
+      ],
+      "Hare": [
+        "Maki",
+        "Kotama",
+        "Chihiro"
+      ],
+      "Chihiro": [
+        "Kotama",
+        "Maki",
+        "Hare"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

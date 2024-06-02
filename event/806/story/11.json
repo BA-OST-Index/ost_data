@@ -1,1 +1,173 @@
-{"uuid": "c575c119-9f9a-486b-a4d9-6b59d0d0bf89", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_806_11_NAME]", "desc": ["[STORY_EVENT_806_11_DESC_1]"], "pos": {"event_id": 806, "segment": 11}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BuildingCorridor.jpg", "BG_CruiseRooftop_Sunset.jpg", "BG_CS_Millenium_12.jpg", "BG_Auditorium.jpg"], "character": ["Neru_Bunny", "Asuna_Bunny", "Karin_Bunny", "Akane_Bunny", "Yuuka"], "track": ["OST_20", "OST_18", "OST_91", "OST_16", "OST_10", "OST_94"]}, "track_to_bg": {"OST_20": ["BG_BuildingCorridor.jpg", "BG_CruiseRooftop_Sunset.jpg"], "OST_0": ["BG_CruiseRooftop_Sunset.jpg", "BG_CS_Millenium_12.jpg", "BG_Auditorium.jpg"], "OST_18": ["BG_CruiseRooftop_Sunset.jpg"], "OST_91": ["BG_CruiseRooftop_Sunset.jpg"], "OST_16": ["BG_CS_Millenium_12.jpg"], "OST_10": ["BG_Auditorium.jpg"], "OST_94": ["BG_Auditorium.jpg"]}, "track_to_char": {"OST_20": ["Neru_Bunny"], "OST_18": ["Neru_Bunny", "Asuna_Bunny", "Karin_Bunny", "Akane_Bunny"], "OST_91": ["Neru_Bunny", "Akane_Bunny", "Karin_Bunny"], "OST_16": ["Akane_Bunny", "Yuuka"], "OST_10": ["Akane_Bunny", "Karin_Bunny", "Neru_Bunny"], "OST_94": ["Neru_Bunny", "Asuna_Bunny", "Karin_Bunny", "Akane_Bunny"]}, "char_to_bg": {"Neru_Bunny": ["BG_BuildingCorridor.jpg", "BG_CruiseRooftop_Sunset.jpg", "BG_Auditorium.jpg"], "Asuna_Bunny": ["BG_CruiseRooftop_Sunset.jpg", "BG_Auditorium.jpg"], "Karin_Bunny": ["BG_CruiseRooftop_Sunset.jpg", "BG_Auditorium.jpg"], "Akane_Bunny": ["BG_CruiseRooftop_Sunset.jpg", "BG_CS_Millenium_12.jpg", "BG_Auditorium.jpg"], "Yuuka": ["BG_CS_Millenium_12.jpg"]}, "char_to_char": {"Asuna_Bunny": ["Neru_Bunny", "Karin_Bunny", "Akane_Bunny"], "Karin_Bunny": ["Neru_Bunny", "Asuna_Bunny", "Akane_Bunny"], "Akane_Bunny": ["Neru_Bunny", "Asuna_Bunny", "Karin_Bunny", "Yuuka"], "Neru_Bunny": ["Asuna_Bunny", "Karin_Bunny", "Akane_Bunny"], "Yuuka": ["Akane_Bunny"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "89f9d657-4a62-45d0-bbc4-25105cc8c7d4",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_806_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_806_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 806,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingCorridor.jpg",
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_CS_Millenium_12.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "character": [
+        "Koyuki_Bunny",
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny",
+        "Yuuka"
+      ],
+      "track": [
+        "OST_20",
+        "OST_18",
+        "OST_91",
+        "OST_16",
+        "OST_10",
+        "OST_94"
+      ]
+    },
+    "track_to_bg": {
+      "OST_20": [
+        "BG_BuildingCorridor.jpg",
+        "BG_CruiseRooftop_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_CS_Millenium_12.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "OST_18": [
+        "BG_CruiseRooftop_Sunset.jpg"
+      ],
+      "OST_91": [
+        "BG_CruiseRooftop_Sunset.jpg"
+      ],
+      "OST_16": [
+        "BG_CS_Millenium_12.jpg"
+      ],
+      "OST_10": [
+        "BG_Auditorium.jpg"
+      ],
+      "OST_94": [
+        "BG_Auditorium.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_20": [
+        "Koyuki_Bunny",
+        "Neru_Bunny"
+      ],
+      "OST_18": [
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny",
+        "Koyuki_Bunny"
+      ],
+      "OST_91": [
+        "Koyuki_Bunny",
+        "Neru_Bunny",
+        "Akane_Bunny",
+        "Karin_Bunny"
+      ],
+      "OST_16": [
+        "Akane_Bunny",
+        "Yuuka"
+      ],
+      "OST_10": [
+        "Akane_Bunny",
+        "Karin_Bunny",
+        "Neru_Bunny"
+      ],
+      "OST_94": [
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Koyuki_Bunny": [
+        "BG_BuildingCorridor.jpg",
+        "BG_CruiseRooftop_Sunset.jpg"
+      ],
+      "Neru_Bunny": [
+        "BG_BuildingCorridor.jpg",
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "Asuna_Bunny": [
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "Karin_Bunny": [
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "Akane_Bunny": [
+        "BG_CruiseRooftop_Sunset.jpg",
+        "BG_CS_Millenium_12.jpg",
+        "BG_Auditorium.jpg"
+      ],
+      "Yuuka": [
+        "BG_CS_Millenium_12.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Neru_Bunny": [
+        "Koyuki_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny"
+      ],
+      "Koyuki_Bunny": [
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny"
+      ],
+      "Asuna_Bunny": [
+        "Koyuki_Bunny",
+        "Neru_Bunny",
+        "Karin_Bunny",
+        "Akane_Bunny"
+      ],
+      "Karin_Bunny": [
+        "Koyuki_Bunny",
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Akane_Bunny"
+      ],
+      "Akane_Bunny": [
+        "Koyuki_Bunny",
+        "Neru_Bunny",
+        "Asuna_Bunny",
+        "Karin_Bunny",
+        "Yuuka"
+      ],
+      "Yuuka": [
+        "Akane_Bunny"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

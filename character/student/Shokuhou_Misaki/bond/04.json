@@ -1,0 +1,60 @@
+{
+  "uuid": "c5ce60d8-0e19-4a2f-be0d-9a7273a4f5c4",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHOKUHOU_MISAKI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SHOKUHOU_MISAKI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHOKUHOU_MISAKI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityTown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "character": [
+        "Shokuhou_Misaki"
+      ],
+      "track": [
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_9": [
+        "BG_CityTown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_0": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Shokuhou_Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Shokuhou_Misaki": [
+        "BG_CityTown.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

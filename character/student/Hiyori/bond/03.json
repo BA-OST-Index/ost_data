@@ -1,1 +1,84 @@
-{"uuid": "5d22eaa9-42df-485c-a6af-00e81fa97de7", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIYORI_3_NAME]", "desc": ["[STORY_BOND_HIYORI_3_DESC_1]"], "pos": {"student": "HIYORI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ConvenienceStore.jpg", "BG_VillaComplex_Night.jpg", "BG_HotelLobby_Night.jpg", "BG_RuinUndergroundPassage_Night.jpg", "BG_Infirmary_Night.jpg", "BG_Ward_Night.jpg", "BG_Ward.jpg"], "character": ["Hiyori"], "track": ["OST_27", "OST_37", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_ConvenienceStore.jpg", "BG_VillaComplex_Night.jpg", "BG_HotelLobby_Night.jpg", "BG_Infirmary_Night.jpg", "BG_Ward_Night.jpg", "BG_Ward.jpg"], "OST_27": ["BG_HotelLobby_Night.jpg", "BG_RuinUndergroundPassage_Night.jpg"], "OST_37": ["BG_Ward_Night.jpg"], "OST_38": ["BG_Ward.jpg"]}, "track_to_char": {"OST_27": ["Hiyori"], "OST_37": ["Hiyori"], "OST_38": ["Hiyori"]}, "char_to_bg": {"Hiyori": ["BG_RuinUndergroundPassage_Night.jpg", "BG_Ward_Night.jpg", "BG_Ward.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_38"}}, "is_memory": true}
+{
+  "uuid": "42269414-986f-453a-a073-9b23b680c8e0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIYORI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HIYORI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIYORI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ConvenienceStore.jpg",
+        "BG_VillaComplex_Night.jpg",
+        "BG_HotelLobby_Night.jpg",
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_Infirmary_Night.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_Ward.jpg"
+      ],
+      "character": [
+        "Hiyori"
+      ],
+      "track": [
+        "OST_27",
+        "OST_37",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ConvenienceStore.jpg",
+        "BG_VillaComplex_Night.jpg",
+        "BG_HotelLobby_Night.jpg",
+        "BG_Infirmary_Night.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_Ward.jpg"
+      ],
+      "OST_27": [
+        "BG_HotelLobby_Night.jpg",
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_Ward_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_Ward.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Hiyori"
+      ],
+      "OST_37": [
+        "Hiyori"
+      ],
+      "OST_38": [
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Hiyori": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_Ward.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_38"
+    }
+  },
+  "is_memory": true
+}

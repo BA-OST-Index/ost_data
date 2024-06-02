@@ -1,1 +1,78 @@
-{"uuid": "773805de-e83a-419c-8d9b-d118fb2d0254", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HARUNA_TRACK_2_NAME]", "desc": ["[STORY_BOND_HARUNA_TRACK_2_DESC_1]"], "pos": {"student": "HARUNA_TRACK", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Haruna_Track"], "track": ["OST_4", "OST_16", "OST_33", "OST_40"]}, "track_to_bg": {"OST_0": ["BG_Yatai.jpg"], "OST_4": ["BG_Yatai.jpg"], "OST_16": ["BG_Yatai.jpg"], "OST_33": ["BG_Yatai.jpg"], "OST_40": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_4": ["Haruna_Track"], "OST_16": ["Haruna_Track"], "OST_33": ["Haruna_Track"], "OST_40": ["Haruna_Track"]}, "char_to_bg": {"Haruna_Track": ["BG_Yatai.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "965169a6-55cd-4f09-9442-f6cf2aa2f299",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HARUNA_TRACK_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HARUNA_TRACK_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HARUNA_TRACK",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Haruna_Track"
+      ],
+      "track": [
+        "OST_4",
+        "OST_16",
+        "OST_33",
+        "OST_40"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_4": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_16": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_33": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_40": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Haruna_Track"
+      ],
+      "OST_16": [
+        "Haruna_Track"
+      ],
+      "OST_33": [
+        "Haruna_Track"
+      ],
+      "OST_40": [
+        "Haruna_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna_Track": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

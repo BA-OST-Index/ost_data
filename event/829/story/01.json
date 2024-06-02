@@ -1,1 +1,84 @@
-{"uuid": "5001a437-6e0c-4740-a956-1a8337ddda8d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_829_1_NAME]", "desc": ["[STORY_EVENT_829_1_DESC_1]"], "pos": {"event_id": 829, "segment": 1}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg"], "character": ["Momiji", "Meru"], "track": ["OST_3", "OST_33", "OST_8"]}, "track_to_bg": {"OST_0": ["BG_Library.jpg"], "OST_3": ["BG_Library.jpg"], "OST_33": ["BG_Library.jpg"], "OST_8": ["BG_Library.jpg"]}, "track_to_char": {"OST_3": ["Meru", "Momiji"], "OST_33": ["Meru", "Momiji"], "OST_8": ["Momiji", "Meru"]}, "char_to_bg": {"Momiji": ["BG_Library.jpg"], "Meru": ["BG_Library.jpg"]}, "char_to_char": {"Meru": ["Momiji"], "Momiji": ["Meru"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b378c2e9-c6ab-4241-83d2-26dfe370ad78",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_829_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_829_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 829,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Momiji",
+        "Meru"
+      ],
+      "track": [
+        "OST_3",
+        "OST_33",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Library.jpg"
+      ],
+      "OST_3": [
+        "BG_Library.jpg"
+      ],
+      "OST_33": [
+        "BG_Library.jpg"
+      ],
+      "OST_8": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Meru",
+        "Momiji"
+      ],
+      "OST_33": [
+        "Meru",
+        "Momiji"
+      ],
+      "OST_8": [
+        "Momiji",
+        "Meru"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_Library.jpg"
+      ],
+      "Meru": [
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Meru": [
+        "Momiji"
+      ],
+      "Momiji": [
+        "Meru"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

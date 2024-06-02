@@ -1,0 +1,177 @@
+{
+  "uuid": "c7867ddb-5a30-4c6a-be9f-cd2a89dabc45",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_8_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_8_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_View_Sky2_Night.jpg",
+        "BG_LemonForest2_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "character": [
+        "Maki_Camp",
+        "Chihiro_Camp",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "track": [
+        "OST_186",
+        "OST_192",
+        "OST_193"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_View_Sky2_Night.jpg",
+        "BG_LemonForest2_Night.jpg",
+        "BG_MountainTop_Night.jpg"
+      ],
+      "OST_186": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_192": [
+        "BG_ForestRoad_Night.jpg"
+      ],
+      "OST_193": [
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg",
+        "BG_View_Sky.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_186": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "OST_192": [
+        "Maki_Camp",
+        "Sumire",
+        "Rei",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp"
+      ],
+      "OST_193": [
+        "Hare_Camp",
+        "Rei",
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Sumire",
+        "Chihiro_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Maki_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ],
+      "Kotama_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ],
+      "Hare_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ],
+      "Chihiro_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ],
+      "Sumire": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ],
+      "Rei": [
+        "BG_ForestRoad_Night.jpg",
+        "BG_MountainTop_Night.jpg",
+        "BG_MountainTop.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Chihiro_Camp": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "Maki_Camp": [
+        "Chihiro_Camp",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "Kotama_Camp": [
+        "Maki_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "Hare_Camp": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp",
+        "Sumire",
+        "Rei"
+      ],
+      "Rei": [
+        "Sumire",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "Sumire": [
+        "Rei",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

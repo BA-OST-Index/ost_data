@@ -1,1 +1,45 @@
-{"uuid": "1fcd71d4-e419-46e9-8fa0-b9be2dcfb35e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KIKYOU_4_NAME]", "desc": ["[STORY_BOND_KIKYOU_4_DESC_1]"], "pos": {"student": "KIKYOU", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_HyakkayouranGarden.jpg", "BG_ClassCorridor.jpg"], "character": [], "track": ["OST_37"]}, "track_to_bg": {"OST_0": ["BG_HyakkayouranGarden.jpg", "BG_ClassCorridor.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": true, "track": "OST_37"}}, "is_memory": true}
+{
+  "uuid": "c2c21665-2bf1-4c46-a47c-ad63e4f34f8c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KIKYOU_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KIKYOU_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KIKYOU",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_ClassCorridor.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_37"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_ClassCorridor.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_37"
+    }
+  },
+  "is_memory": true
+}

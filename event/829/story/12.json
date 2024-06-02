@@ -1,1 +1,68 @@
-{"uuid": "1984f841-8aa8-45a2-b2f0-a1e3e05c0fd3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_829_12_NAME]", "desc": ["[STORY_EVENT_829_12_DESC_1]"], "pos": {"event_id": 829, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_WinterRoad.jpg"], "character": ["Momiji", "Meru", "Shigure", "Nodoka"], "track": ["OST_20"]}, "track_to_bg": {"OST_20": ["BG_WinterRoad.jpg"]}, "track_to_char": {"OST_20": ["Momiji", "Meru", "Shigure", "Nodoka"]}, "char_to_bg": {"Momiji": ["BG_WinterRoad.jpg"], "Meru": ["BG_WinterRoad.jpg"], "Shigure": ["BG_WinterRoad.jpg"], "Nodoka": ["BG_WinterRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "12ea286c-0295-43de-a308-43d9421b91d9",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_829_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_829_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 829,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_WinterRoad.jpg"
+      ],
+      "character": [
+        "Momiji",
+        "Meru",
+        "Shigure",
+        "Nodoka"
+      ],
+      "track": [
+        "OST_20"
+      ]
+    },
+    "track_to_bg": {
+      "OST_20": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_20": [
+        "Momiji",
+        "Meru",
+        "Shigure",
+        "Nodoka"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Meru": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Shigure": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Nodoka": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

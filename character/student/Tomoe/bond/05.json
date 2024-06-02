@@ -1,1 +1,80 @@
-{"uuid": "d45380b6-0ef3-41d8-bad2-59f4e36a182e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_TOMOE_5_NAME]", "desc": ["[STORY_BOND_TOMOE_5_DESC_1]"], "pos": {"student": "TOMOE", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg", "BG_DessertCafe.jpg", "BG_RedWinterCampus_Night.jpg"], "character": ["Tomoe"], "track": ["OST_83", "OST_47", "OST_21"]}, "track_to_bg": {"OST_83": ["BG_RedWinterCampus.jpg"], "OST_0": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg", "BG_RedWinterCampus_Night.jpg"], "OST_47": ["BG_CherinoOffice.jpg", "BG_DessertCafe.jpg"], "OST_21": ["BG_RedWinterCampus_Night.jpg"]}, "track_to_char": {"OST_83": ["Tomoe"], "OST_47": ["Tomoe"], "OST_21": ["Tomoe"]}, "char_to_bg": {"Tomoe": ["BG_RedWinterCampus.jpg", "BG_CherinoOffice.jpg", "BG_DessertCafe.jpg", "BG_RedWinterCampus_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c2fa7653-14fd-4a3d-a95d-34588b5e1f25",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_TOMOE_5_NAME]",
+  "desc": [
+    "[STORY_BOND_TOMOE_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "TOMOE",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg",
+        "BG_DessertCafe.jpg",
+        "BG_RedWinterCampus_Night.jpg"
+      ],
+      "character": [
+        "Tomoe"
+      ],
+      "track": [
+        "OST_83",
+        "OST_47",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_RedWinterCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg",
+        "BG_RedWinterCampus_Night.jpg"
+      ],
+      "OST_47": [
+        "BG_CherinoOffice.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_21": [
+        "BG_RedWinterCampus_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Tomoe"
+      ],
+      "OST_47": [
+        "Tomoe"
+      ],
+      "OST_21": [
+        "Tomoe"
+      ]
+    },
+    "char_to_bg": {
+      "Tomoe": [
+        "BG_RedWinterCampus.jpg",
+        "BG_CherinoOffice.jpg",
+        "BG_DessertCafe.jpg",
+        "BG_RedWinterCampus_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

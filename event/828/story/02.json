@@ -1,1 +1,144 @@
-{"uuid": "bedb91df-daf7-42d7-8f61-8b65d7e9f2b4", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_828_2_NAME]", "desc": ["[STORY_EVENT_828_2_DESC_1]"], "pos": {"event_id": 828, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Cathedral.jpg", "BG_TrinityOldLibrary_Night.jpg", "BG_CathedralRuins_Night.jpg", "BG_BeachFrontSide.jpg"], "character": ["Hinata", "Ui", "Sakurako", "Hanako", "Ui_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit", "Hanako_Swimsuit"], "track": ["OST_8", "OST_33"]}, "track_to_bg": {"OST_0": ["BG_Cathedral.jpg", "BG_TrinityOldLibrary_Night.jpg", "BG_CathedralRuins_Night.jpg", "BG_BeachFrontSide.jpg"], "OST_8": ["BG_CathedralRuins_Night.jpg"], "OST_33": ["BG_CathedralRuins_Night.jpg"]}, "track_to_char": {"OST_8": ["Ui", "Sakurako"], "OST_33": ["Hanako", "Ui", "Sakurako", "Hinata"]}, "char_to_bg": {"Hinata": ["BG_Cathedral.jpg", "BG_CathedralRuins_Night.jpg"], "Ui": ["BG_TrinityOldLibrary_Night.jpg", "BG_CathedralRuins_Night.jpg"], "Sakurako": ["BG_CathedralRuins_Night.jpg"], "Hanako": ["BG_CathedralRuins_Night.jpg"], "Ui_Swimsuit": ["BG_BeachFrontSide.jpg"], "Hinata_Swimsuit": ["BG_BeachFrontSide.jpg"], "Koharu_Swimsuit": ["BG_BeachFrontSide.jpg"], "Hanako_Swimsuit": ["BG_BeachFrontSide.jpg"]}, "char_to_char": {"Ui": ["Sakurako", "Hanako", "Hinata"], "Sakurako": ["Ui", "Hanako", "Hinata"], "Hanako": ["Sakurako", "Ui", "Hinata"], "Hinata": ["Sakurako", "Ui", "Hanako"], "Ui_Swimsuit": ["Hanako_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit"], "Hinata_Swimsuit": ["Hanako_Swimsuit", "Ui_Swimsuit", "Koharu_Swimsuit"], "Koharu_Swimsuit": ["Hanako_Swimsuit", "Ui_Swimsuit", "Hinata_Swimsuit"], "Hanako_Swimsuit": ["Ui_Swimsuit", "Hinata_Swimsuit", "Koharu_Swimsuit"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "e0a1fd6a-15d4-463b-b107-fb65892a6030",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_828_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_828_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 828,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Cathedral.jpg",
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "character": [
+        "Hinata",
+        "Ui",
+        "Sakurako",
+        "Hanako",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit",
+        "Hanako_Swimsuit"
+      ],
+      "track": [
+        "OST_8",
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Cathedral.jpg",
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_8": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_33": [
+        "BG_CathedralRuins_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Ui",
+        "Sakurako"
+      ],
+      "OST_33": [
+        "Hanako",
+        "Ui",
+        "Sakurako",
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_Cathedral.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Ui": [
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Sakurako": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Ui_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Hinata_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Koharu_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Hanako_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ui": [
+        "Sakurako",
+        "Hanako",
+        "Hinata"
+      ],
+      "Sakurako": [
+        "Ui",
+        "Hanako",
+        "Hinata"
+      ],
+      "Hanako": [
+        "Sakurako",
+        "Ui",
+        "Hinata"
+      ],
+      "Hinata": [
+        "Sakurako",
+        "Ui",
+        "Hanako"
+      ],
+      "Ui_Swimsuit": [
+        "Hanako_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit"
+      ],
+      "Hinata_Swimsuit": [
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Koharu_Swimsuit"
+      ],
+      "Koharu_Swimsuit": [
+        "Hanako_Swimsuit",
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit"
+      ],
+      "Hanako_Swimsuit": [
+        "Ui_Swimsuit",
+        "Hinata_Swimsuit",
+        "Koharu_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,63 @@
-{"uuid": "17a707e8-1ed9-43aa-b5b7-52a9c9262916", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_27_NAME]", "desc": ["[STORY_EVENT_999_27_DESC_1]"], "pos": {"event_id": 999, "segment": 27}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSchoolCorridor.jpg"], "character": ["Nodoka"], "track": ["OST_3", "OST_15"]}, "track_to_bg": {"OST_0": ["BG_RuinSchoolCorridor.jpg"], "OST_3": ["BG_RuinSchoolCorridor.jpg"], "OST_15": ["BG_RuinSchoolCorridor.jpg"]}, "track_to_char": {"OST_3": ["Nodoka"], "OST_15": ["Nodoka"]}, "char_to_bg": {"Nodoka": ["BG_RuinSchoolCorridor.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b63e6ecc-3d95-4388-a957-828df54c9401",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_27_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_27_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 27
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "character": [
+        "Nodoka"
+      ],
+      "track": [
+        "OST_3",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_3": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_15": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Nodoka"
+      ],
+      "OST_15": [
+        "Nodoka"
+      ]
+    },
+    "char_to_bg": {
+      "Nodoka": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

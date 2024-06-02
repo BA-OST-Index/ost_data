@@ -1,0 +1,64 @@
+{
+  "uuid": "67cc9b8f-f2ea-427b-aff3-00d53fad9225",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMOI_MAID_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMOI_MAID_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMOI_MAID",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "character": [
+        "Momoi_Maid"
+      ],
+      "track": [
+        "OST_64",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_64": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_13": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_64": [
+        "Momoi_Maid"
+      ],
+      "OST_13": [
+        "Momoi_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Momoi_Maid": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

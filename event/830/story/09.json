@@ -1,1 +1,86 @@
-{"uuid": "135d7b06-43ec-4b96-80ec-c6d4d00b6163", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_830_9_NAME]", "desc": ["[STORY_EVENT_830_9_DESC_1]"], "pos": {"event_id": 830, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrainCabin_Ruin.jpg"], "character": ["Kasumi", "Ichika", "Iori"], "track": ["OST_129", "OST_167"]}, "track_to_bg": {"OST_129": ["BG_TrainCabin_Ruin.jpg"], "OST_0": ["BG_TrainCabin_Ruin.jpg"], "OST_167": ["BG_TrainCabin_Ruin.jpg"]}, "track_to_char": {"OST_129": ["Kasumi", "Ichika", "Iori"], "OST_167": ["Ichika"]}, "char_to_bg": {"Kasumi": ["BG_TrainCabin_Ruin.jpg"], "Ichika": ["BG_TrainCabin_Ruin.jpg"], "Iori": ["BG_TrainCabin_Ruin.jpg"]}, "char_to_char": {"Ichika": ["Kasumi", "Iori"], "Iori": ["Kasumi", "Ichika"], "Kasumi": ["Ichika", "Iori"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "a0cf217f-7232-4e87-9e36-25c6fbd1b59b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_830_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_830_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 830,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrainCabin_Ruin.jpg"
+      ],
+      "character": [
+        "Kasumi",
+        "Ichika",
+        "Iori"
+      ],
+      "track": [
+        "OST_129",
+        "OST_167"
+      ]
+    },
+    "track_to_bg": {
+      "OST_129": [
+        "BG_TrainCabin_Ruin.jpg"
+      ],
+      "OST_0": [
+        "BG_TrainCabin_Ruin.jpg"
+      ],
+      "OST_167": [
+        "BG_TrainCabin_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_129": [
+        "Kasumi",
+        "Ichika",
+        "Iori"
+      ],
+      "OST_167": [
+        "Ichika"
+      ]
+    },
+    "char_to_bg": {
+      "Kasumi": [
+        "BG_TrainCabin_Ruin.jpg"
+      ],
+      "Ichika": [
+        "BG_TrainCabin_Ruin.jpg"
+      ],
+      "Iori": [
+        "BG_TrainCabin_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ichika": [
+        "Kasumi",
+        "Iori"
+      ],
+      "Iori": [
+        "Kasumi",
+        "Ichika"
+      ],
+      "Kasumi": [
+        "Ichika",
+        "Iori"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

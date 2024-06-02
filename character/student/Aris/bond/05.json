@@ -1,1 +1,60 @@
-{"uuid": "c8730a09-cc7c-4ea8-ab4b-0687261ee1c7", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ARIS_5_NAME]", "desc": ["[STORY_BOND_ARIS_5_DESC_1]"], "pos": {"student": "ARIS", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom_Night.jpg"], "character": ["Aris"], "track": ["OST_21", "OST_67"]}, "track_to_bg": {"OST_21": ["BG_GameDevRoom_Night.jpg"], "OST_0": ["BG_GameDevRoom_Night.jpg"], "OST_67": ["BG_GameDevRoom_Night.jpg"]}, "track_to_char": {"OST_21": ["Aris"]}, "char_to_bg": {"Aris": ["BG_GameDevRoom_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_67"}}, "is_memory": true}
+{
+  "uuid": "35504b93-59ad-4ef8-b004-e9b439f70625",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARIS_5_NAME]",
+  "desc": [
+    "[STORY_BOND_ARIS_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARIS",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "character": [
+        "Aris"
+      ],
+      "track": [
+        "OST_21",
+        "OST_67"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom_Night.jpg"
+      ],
+      "OST_67": [
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Aris"
+      ]
+    },
+    "char_to_bg": {
+      "Aris": [
+        "BG_GameDevRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_67"
+    }
+  },
+  "is_memory": true
+}

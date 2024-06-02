@@ -1,1 +1,68 @@
-{"uuid": "f610b21f-9d88-49ae-9ed1-81a23bf9b0de", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IORI_3_NAME]", "desc": ["[STORY_BOND_IORI_3_DESC_1]"], "pos": {"student": "IORI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BlackMarket_Night.jpg"], "character": ["Iori"], "track": ["OST_8", "OST_20", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_BlackMarket_Night.jpg"], "OST_8": ["BG_BlackMarket_Night.jpg"], "OST_20": ["BG_BlackMarket_Night.jpg"], "OST_3": ["BG_BlackMarket_Night.jpg"]}, "track_to_char": {"OST_20": ["Iori"], "OST_3": ["Iori"]}, "char_to_bg": {"Iori": ["BG_BlackMarket_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "017afd47-2ef9-4e43-8b98-261fc5594afc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IORI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_IORI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "IORI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "character": [
+        "Iori"
+      ],
+      "track": [
+        "OST_8",
+        "OST_20",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_8": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_20": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_20": [
+        "Iori"
+      ],
+      "OST_3": [
+        "Iori"
+      ]
+    },
+    "char_to_bg": {
+      "Iori": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

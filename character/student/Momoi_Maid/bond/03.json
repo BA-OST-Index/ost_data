@@ -1,0 +1,54 @@
+{
+  "uuid": "5a6de329-bcd0-47eb-ac1e-e1826a537865",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MOMOI_MAID_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MOMOI_MAID_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MOMOI_MAID",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Milleniumclub.jpg"
+      ],
+      "character": [
+        "Momoi_Maid"
+      ],
+      "track": [
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_Milleniumclub.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Momoi_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Momoi_Maid": [
+        "BG_Milleniumclub.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

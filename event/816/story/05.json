@@ -1,1 +1,89 @@
-{"uuid": "f078c715-9183-40ef-951d-ac2a8c658a9c", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_5_NAME]", "desc": ["[STORY_EVENT_816_5_DESC_1]"], "pos": {"event_id": 816, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SlumFront.jpg"], "character": ["Suzumi", "Reisa", "Kazusa"], "track": ["OST_5", "OST_130", "OST_3"]}, "track_to_bg": {"OST_0": ["BG_SlumFront.jpg"], "OST_5": ["BG_SlumFront.jpg"], "OST_130": ["BG_SlumFront.jpg"], "OST_3": ["BG_SlumFront.jpg"]}, "track_to_char": {"OST_5": ["Suzumi", "Reisa"], "OST_130": ["Reisa", "Suzumi"], "OST_3": ["Suzumi", "Reisa"]}, "char_to_bg": {"Suzumi": ["BG_SlumFront.jpg"], "Reisa": ["BG_SlumFront.jpg"]}, "char_to_char": {"Reisa": ["Suzumi", "Kazusa"], "Suzumi": ["Reisa"], "Kazusa": ["Reisa"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "3ddf5855-ea58-4efd-ab96-c8ad7d46db4e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront.jpg"
+      ],
+      "character": [
+        "Suzumi",
+        "Reisa",
+        "Kazusa"
+      ],
+      "track": [
+        "OST_5",
+        "OST_130",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_5": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_130": [
+        "BG_SlumFront.jpg"
+      ],
+      "OST_3": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_5": [
+        "Suzumi",
+        "Reisa"
+      ],
+      "OST_130": [
+        "Reisa",
+        "Suzumi"
+      ],
+      "OST_3": [
+        "Suzumi",
+        "Reisa"
+      ]
+    },
+    "char_to_bg": {
+      "Suzumi": [
+        "BG_SlumFront.jpg"
+      ],
+      "Reisa": [
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Reisa": [
+        "Suzumi",
+        "Kazusa"
+      ],
+      "Suzumi": [
+        "Reisa"
+      ],
+      "Kazusa": [
+        "Reisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

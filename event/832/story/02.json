@@ -1,0 +1,114 @@
+{
+  "uuid": "a21363c3-4e10-4930-9ab2-6aa434a0aadf",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCampus.jpg",
+        "BG_CampSite2.jpg"
+      ],
+      "character": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp"
+      ],
+      "track": [
+        "OST_33",
+        "OST_3",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "OST_3": [
+        "BG_MilleniumCampus.jpg",
+        "BG_CampSite2.jpg"
+      ],
+      "OST_28": [
+        "BG_MilleniumCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Hare_Camp"
+      ],
+      "OST_3": [
+        "Chihiro_Camp",
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Hare_Camp"
+      ],
+      "OST_28": [
+        "Chihiro_Camp",
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Hare_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Maki_Camp": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "Kotama_Camp": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "Hare_Camp": [
+        "BG_MilleniumCampus.jpg"
+      ],
+      "Chihiro_Camp": [
+        "BG_MilleniumCampus.jpg",
+        "BG_CampSite2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kotama_Camp": [
+        "Maki_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp"
+      ],
+      "Hare_Camp": [
+        "Maki_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ],
+      "Maki_Camp": [
+        "Kotama_Camp",
+        "Hare_Camp",
+        "Chihiro_Camp"
+      ],
+      "Chihiro_Camp": [
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Hare_Camp"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

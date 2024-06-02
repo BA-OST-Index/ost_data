@@ -1,1 +1,69 @@
-{"uuid": "ea1f8ca8-6845-45fe-97de-6139c9bc7089", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_6_NAME]", "desc": ["[STORY_EVENT_810_6_DESC_1]"], "pos": {"event_id": 810, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg", "BG_DessertCafe.jpg", "BG_Market.jpg"], "character": ["Suzumi"], "track": ["OST_130", "OST_3", "OST_30"]}, "track_to_bg": {"OST_0": ["BG_Yatai.jpg", "BG_Market.jpg"], "OST_130": ["BG_Yatai.jpg", "BG_DessertCafe.jpg", "BG_Market.jpg"], "OST_3": ["BG_Market.jpg"]}, "track_to_char": {"OST_130": ["Suzumi"], "OST_3": ["Suzumi"]}, "char_to_bg": {"Suzumi": ["BG_Market.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "7ca3bc17-0be5-464a-b4b9-60c9cefd935f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg",
+        "BG_DessertCafe.jpg",
+        "BG_Market.jpg"
+      ],
+      "character": [
+        "Suzumi"
+      ],
+      "track": [
+        "OST_130",
+        "OST_3",
+        "OST_30"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Yatai.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_130": [
+        "BG_Yatai.jpg",
+        "BG_DessertCafe.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_3": [
+        "BG_Market.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Suzumi"
+      ],
+      "OST_3": [
+        "Suzumi"
+      ]
+    },
+    "char_to_bg": {
+      "Suzumi": [
+        "BG_Market.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

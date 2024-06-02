@@ -1,1 +1,58 @@
-{"uuid": "07cb201d-57d6-456b-bf99-db5a1ad59e06", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KASUMI_1_NAME]", "desc": ["[STORY_BOND_KASUMI_1_DESC_1]"], "pos": {"student": "KASUMI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RuinSchoolCorridor.jpg", "BG_Storage.jpg"], "character": ["Kasumi"], "track": ["OST_8"]}, "track_to_bg": {"OST_0": ["BG_RuinSchoolCorridor.jpg", "BG_Storage.jpg"], "OST_8": ["BG_Storage.jpg"]}, "track_to_char": {"OST_8": ["Kasumi"]}, "char_to_bg": {"Kasumi": ["BG_Storage.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_8"}}, "is_memory": true}
+{
+  "uuid": "605e9341-aeff-4f2f-a320-4e5e2ab07278",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KASUMI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KASUMI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KASUMI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_Storage.jpg"
+      ],
+      "character": [
+        "Kasumi"
+      ],
+      "track": [
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_8": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Kasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Kasumi": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_8"
+    }
+  },
+  "is_memory": true
+}

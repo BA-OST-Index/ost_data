@@ -1,1 +1,120 @@
-{"uuid": "a711e534-6b2f-42bd-a482-4b97ac906f35", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_17_NAME]", "desc": ["[STORY_EVENT_816_17_DESC_1]"], "pos": {"event_id": 816, "segment": 17}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RestingLounge.jpg", "BG_CS_Event_11.jpg"], "character": ["Yoshimi", "Airi", "Natsu", "Kazusa", "Reisa"], "track": ["OST_103", "OST_128"]}, "track_to_bg": {"OST_0": ["BG_RestingLounge.jpg"], "OST_103": ["BG_RestingLounge.jpg"], "OST_128": ["BG_RestingLounge.jpg", "BG_CS_Event_11.jpg"]}, "track_to_char": {"OST_103": ["Yoshimi", "Airi", "Natsu", "Kazusa"], "OST_128": ["Kazusa", "Reisa", "Yoshimi", "Natsu", "Airi"]}, "char_to_bg": {"Yoshimi": ["BG_RestingLounge.jpg"], "Airi": ["BG_RestingLounge.jpg"], "Natsu": ["BG_RestingLounge.jpg"], "Kazusa": ["BG_RestingLounge.jpg", "BG_CS_Event_11.jpg"], "Reisa": ["BG_RestingLounge.jpg"]}, "char_to_char": {"Airi": ["Yoshimi", "Natsu", "Kazusa", "Reisa"], "Natsu": ["Yoshimi", "Airi", "Kazusa", "Reisa"], "Kazusa": ["Yoshimi", "Airi", "Natsu", "Reisa"], "Reisa": ["Yoshimi", "Airi", "Natsu", "Kazusa"], "Yoshimi": ["Airi", "Natsu", "Kazusa", "Reisa"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "74753a3a-164a-45f5-b036-c55016ebf6e0",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_17_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_17_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RestingLounge.jpg",
+        "BG_CS_Event_11.jpg"
+      ],
+      "character": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ],
+      "track": [
+        "OST_103",
+        "OST_128"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_103": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_128": [
+        "BG_RestingLounge.jpg",
+        "BG_CS_Event_11.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_103": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa"
+      ],
+      "OST_128": [
+        "Kazusa",
+        "Reisa",
+        "Yoshimi",
+        "Natsu",
+        "Airi"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_RestingLounge.jpg"
+      ],
+      "Airi": [
+        "BG_RestingLounge.jpg"
+      ],
+      "Natsu": [
+        "BG_RestingLounge.jpg"
+      ],
+      "Kazusa": [
+        "BG_RestingLounge.jpg",
+        "BG_CS_Event_11.jpg"
+      ],
+      "Reisa": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Airi": [
+        "Yoshimi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ],
+      "Natsu": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Reisa"
+      ],
+      "Kazusa": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Reisa"
+      ],
+      "Reisa": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa"
+      ],
+      "Yoshimi": [
+        "Airi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

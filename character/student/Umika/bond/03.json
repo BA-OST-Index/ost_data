@@ -1,0 +1,71 @@
+{
+  "uuid": "04b9407d-e4ac-4ddd-bf0b-998d33bb838f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UMIKA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_UMIKA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "UMIKA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "character": [
+        "Umika"
+      ],
+      "track": [
+        "OST_3",
+        "OST_18",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_3": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_0": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_18": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_13": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Umika"
+      ],
+      "OST_18": [
+        "Umika"
+      ],
+      "OST_13": [
+        "Umika"
+      ]
+    },
+    "char_to_bg": {
+      "Umika": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

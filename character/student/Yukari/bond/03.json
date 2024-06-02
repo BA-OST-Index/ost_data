@@ -1,0 +1,71 @@
+{
+  "uuid": "ce6edef3-2ec3-4832-b8c6-b3fba8c1c0de",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YUKARI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_YUKARI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "YUKARI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Yukari"
+      ],
+      "track": [
+        "OST_6",
+        "OST_21",
+        "OST_192"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_21": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_192": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Yukari"
+      ],
+      "OST_21": [
+        "Yukari"
+      ],
+      "OST_192": [
+        "Yukari"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

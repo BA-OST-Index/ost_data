@@ -1,1 +1,136 @@
-{"uuid": "0272614f-5b89-417b-a9c3-c5914001fa2a", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_5_NAME]", "desc": ["[STORY_EVENT_804_5_DESC_1]"], "pos": {"event_id": 804, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LuxuriousRooms.jpg", "BG_GehennaClubRoom2.jpg", "BG_Beachside.jpg"], "character": ["Hina_Swimsuit", "Iori_Swimsuit", "Chinatsu", "Ako", "Junko", "Akari", "Haruna", "Izumi_Swimsuit"], "track": ["OST_7", "OST_11", "OST_16"]}, "track_to_bg": {"OST_7": ["BG_LuxuriousRooms.jpg", "BG_GehennaClubRoom2.jpg", "BG_Beachside.jpg"], "OST_0": ["BG_GehennaClubRoom2.jpg"], "OST_11": ["BG_GehennaClubRoom2.jpg"], "OST_16": ["BG_GehennaClubRoom2.jpg"]}, "track_to_char": {"OST_7": ["Hina_Swimsuit", "Iori_Swimsuit", "Chinatsu", "Ako", "Junko", "Akari", "Haruna", "Izumi_Swimsuit"], "OST_11": ["Ako", "Iori_Swimsuit", "Chinatsu"], "OST_16": ["Chinatsu", "Iori_Swimsuit"]}, "char_to_bg": {"Hina_Swimsuit": ["BG_LuxuriousRooms.jpg"], "Iori_Swimsuit": ["BG_LuxuriousRooms.jpg", "BG_GehennaClubRoom2.jpg"], "Chinatsu": ["BG_LuxuriousRooms.jpg", "BG_GehennaClubRoom2.jpg"], "Ako": ["BG_LuxuriousRooms.jpg", "BG_GehennaClubRoom2.jpg"], "Junko": ["BG_Beachside.jpg"], "Akari": ["BG_Beachside.jpg"], "Haruna": ["BG_Beachside.jpg"], "Izumi_Swimsuit": ["BG_Beachside.jpg"]}, "char_to_char": {"Iori_Swimsuit": ["Hina_Swimsuit", "Chinatsu", "Ako"], "Chinatsu": ["Hina_Swimsuit", "Iori_Swimsuit", "Ako"], "Ako": ["Hina_Swimsuit", "Iori_Swimsuit", "Chinatsu"], "Hina_Swimsuit": ["Iori_Swimsuit", "Chinatsu", "Ako"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "f6881972-dc04-4a84-8767-81c432be4bbb",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_GehennaClubRoom2.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "character": [
+        "Hina_Swimsuit",
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako",
+        "Junko",
+        "Akari",
+        "Haruna",
+        "Izumi_Swimsuit"
+      ],
+      "track": [
+        "OST_7",
+        "OST_11",
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_7": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_GehennaClubRoom2.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_11": [
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_16": [
+        "BG_GehennaClubRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_7": [
+        "Hina_Swimsuit",
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako",
+        "Junko",
+        "Akari",
+        "Haruna",
+        "Izumi_Swimsuit"
+      ],
+      "OST_11": [
+        "Ako",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ],
+      "OST_16": [
+        "Chinatsu",
+        "Iori_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hina_Swimsuit": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "Iori_Swimsuit": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Chinatsu": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Ako": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Junko": [
+        "BG_Beachside.jpg"
+      ],
+      "Akari": [
+        "BG_Beachside.jpg"
+      ],
+      "Haruna": [
+        "BG_Beachside.jpg"
+      ],
+      "Izumi_Swimsuit": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Iori_Swimsuit": [
+        "Hina_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ],
+      "Chinatsu": [
+        "Hina_Swimsuit",
+        "Iori_Swimsuit",
+        "Ako"
+      ],
+      "Ako": [
+        "Hina_Swimsuit",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ],
+      "Hina_Swimsuit": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

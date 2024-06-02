@@ -1,1 +1,54 @@
-{"uuid": "11160ac2-6849-454a-93d3-df931d4d6181", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_UTAHA_2_NAME]", "desc": ["[STORY_BOND_UTAHA_2_DESC_1]"], "pos": {"student": "UTAHA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg"], "character": ["Utaha"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_ShoppingMall.jpg"]}, "track_to_char": {"OST_4": ["Utaha"]}, "char_to_bg": {"Utaha": ["BG_ShoppingMall.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "4309f33e-9482-4d25-974c-ac5bdbed832b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_UTAHA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_UTAHA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "UTAHA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "character": [
+        "Utaha"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Utaha"
+      ]
+    },
+    "char_to_bg": {
+      "Utaha": [
+        "BG_ShoppingMall.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

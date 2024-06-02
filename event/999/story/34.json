@@ -1,1 +1,63 @@
-{"uuid": "e169bcbe-28ae-4ac1-a068-a8283f34f0cc", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_34_NAME]", "desc": ["[STORY_EVENT_999_34_DESC_1]"], "pos": {"event_id": 999, "segment": 34}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GehennaCampus_Night.jpg"], "character": ["Hina"], "track": ["OST_15", "OST_46"]}, "track_to_bg": {"OST_15": ["BG_GehennaCampus_Night.jpg"], "OST_0": ["BG_GehennaCampus_Night.jpg"], "OST_46": ["BG_GehennaCampus_Night.jpg"]}, "track_to_char": {"OST_15": ["Hina"], "OST_46": ["Hina"]}, "char_to_bg": {"Hina": ["BG_GehennaCampus_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ee8867a6-3272-4a54-8082-caf1e4f43a16",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_34_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_34_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 34
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaCampus_Night.jpg"
+      ],
+      "character": [
+        "Hina"
+      ],
+      "track": [
+        "OST_15",
+        "OST_46"
+      ]
+    },
+    "track_to_bg": {
+      "OST_15": [
+        "BG_GehennaCampus_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaCampus_Night.jpg"
+      ],
+      "OST_46": [
+        "BG_GehennaCampus_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Hina"
+      ],
+      "OST_46": [
+        "Hina"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_GehennaCampus_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

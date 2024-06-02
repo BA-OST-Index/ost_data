@@ -1,1 +1,59 @@
-{"uuid": "db19bbbf-e856-4d0b-908c-2aa275145753", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIBIKI_2_NAME]", "desc": ["[STORY_BOND_HIBIKI_2_DESC_1]"], "pos": {"student": "HIBIKI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MilleniumCenter.jpg", "BG_Hangar2.jpg"], "character": ["Hibiki"], "track": ["OST_13"]}, "track_to_bg": {"OST_0": ["BG_MilleniumCenter.jpg", "BG_Hangar2.jpg"], "OST_13": ["BG_Hangar2.jpg"]}, "track_to_char": {"OST_13": ["Hibiki"]}, "char_to_bg": {"Hibiki": ["BG_Hangar2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "93bb726b-6b96-4705-aef1-d5382342d39f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIBIKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_HIBIKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIBIKI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MilleniumCenter.jpg",
+        "BG_Hangar2.jpg"
+      ],
+      "character": [
+        "Hibiki"
+      ],
+      "track": [
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MilleniumCenter.jpg",
+        "BG_Hangar2.jpg"
+      ],
+      "OST_13": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Hibiki"
+      ]
+    },
+    "char_to_bg": {
+      "Hibiki": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

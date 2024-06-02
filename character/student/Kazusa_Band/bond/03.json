@@ -1,0 +1,53 @@
+{
+  "uuid": "098768d1-e698-4892-8c3c-473c3632c88b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAZUSA_BAND_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KAZUSA_BAND_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAZUSA_BAND",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RailWayCrossing.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "character": [],
+      "track": [
+        "OST_44",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_44": [
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_0": [
+        "BG_RailWayCrossing.jpg",
+        "BG_BigPlaza_Sunset.jpg"
+      ],
+      "OST_22": [
+        "BG_BigPlaza_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {},
+    "char_to_bg": {},
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

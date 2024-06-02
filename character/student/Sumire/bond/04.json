@@ -1,1 +1,74 @@
-{"uuid": "969e04d1-a5cf-4152-b1d4-a99d255a7043", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SUMIRE_4_NAME]", "desc": ["[STORY_BOND_SUMIRE_4_DESC_1]"], "pos": {"student": "SUMIRE", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg", "BG_DessertCafe.jpg"], "character": ["Sumire"], "track": ["OST_38", "OST_47", "OST_22"]}, "track_to_bg": {"OST_38": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg", "BG_DessertCafe.jpg"], "OST_47": ["BG_DessertCafe.jpg"], "OST_22": ["BG_DessertCafe.jpg"]}, "track_to_char": {"OST_38": ["Sumire"], "OST_47": ["Sumire"], "OST_22": ["Sumire"]}, "char_to_bg": {"Sumire": ["BG_ShoppingMall.jpg", "BG_DessertCafe.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "a1c781f1-39c4-4a7f-a76e-74c92eda3c52",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SUMIRE_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SUMIRE_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SUMIRE",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "character": [
+        "Sumire"
+      ],
+      "track": [
+        "OST_38",
+        "OST_47",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_47": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_22": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Sumire"
+      ],
+      "OST_47": [
+        "Sumire"
+      ],
+      "OST_22": [
+        "Sumire"
+      ]
+    },
+    "char_to_bg": {
+      "Sumire": [
+        "BG_ShoppingMall.jpg",
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,65 @@
-{"uuid": "955ef67a-ed4e-48cb-adf5-216eee8a07a1", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_826_4_NAME]", "desc": ["[STORY_EVENT_826_4_DESC_1]"], "pos": {"event_id": 826, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanVipStreet_Night.jpg"], "character": ["Reijo", "Rumi"], "track": ["OST_8"]}, "track_to_bg": {"OST_8": ["BG_ShanVipStreet_Night.jpg"]}, "track_to_char": {"OST_8": ["Reijo", "Rumi"]}, "char_to_bg": {"Reijo": ["BG_ShanVipStreet_Night.jpg"], "Rumi": ["BG_ShanVipStreet_Night.jpg"]}, "char_to_char": {"Rumi": ["Reijo"], "Reijo": ["Rumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "7d7ca2e7-77e0-41da-aaf5-dbc4170235f1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_826_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_826_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 826,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "character": [
+        "Reijo",
+        "Rumi"
+      ],
+      "track": [
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_8": [
+        "BG_ShanVipStreet_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Reijo",
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Reijo": [
+        "BG_ShanVipStreet_Night.jpg"
+      ],
+      "Rumi": [
+        "BG_ShanVipStreet_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Rumi": [
+        "Reijo"
+      ],
+      "Reijo": [
+        "Rumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

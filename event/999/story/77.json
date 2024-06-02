@@ -1,1 +1,53 @@
-{"uuid": "1f37ce14-a061-4e62-8432-473c99d1a0e3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_77_NAME]", "desc": ["[STORY_EVENT_999_77_DESC_1]"], "pos": {"event_id": 999, "segment": 77}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityTown.jpg"], "character": ["Atsuko"], "track": ["OST_21"]}, "track_to_bg": {"OST_21": ["BG_CityTown.jpg"]}, "track_to_char": {"OST_21": ["Atsuko"]}, "char_to_bg": {"Atsuko": ["BG_CityTown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "2e1d3cb1-facb-4b9f-af24-379b681fc6f1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_77_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_77_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 77
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityTown.jpg"
+      ],
+      "character": [
+        "Atsuko"
+      ],
+      "track": [
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Atsuko"
+      ]
+    },
+    "char_to_bg": {
+      "Atsuko": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

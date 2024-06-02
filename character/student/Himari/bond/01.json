@@ -1,1 +1,86 @@
-{"uuid": "5a800ca7-cd0d-44e4-889a-f4f879406639", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIMARI_1_NAME]", "desc": ["[STORY_BOND_HIMARI_1_DESC_1]"], "pos": {"student": "HIMARI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassCorridor2.jpg", "BG_BuildingCorridor.jpg", "BG_ClassRoom2.jpg"], "character": ["Himari"], "track": ["OST_6", "OST_16", "OST_17", "OST_7", "OST_138"]}, "track_to_bg": {"OST_0": ["BG_ClassCorridor2.jpg", "BG_BuildingCorridor.jpg", "BG_ClassRoom2.jpg"], "OST_6": ["BG_ClassRoom2.jpg"], "OST_16": ["BG_ClassRoom2.jpg"], "OST_17": ["BG_ClassRoom2.jpg"], "OST_7": ["BG_ClassRoom2.jpg"], "OST_138": ["BG_ClassRoom2.jpg"]}, "track_to_char": {"OST_6": ["Himari"], "OST_16": ["Himari"], "OST_17": ["Himari"], "OST_138": ["Himari"]}, "char_to_bg": {"Himari": ["BG_ClassRoom2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "05ce1db1-be1a-4f62-af4e-9cb62164aa59",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIMARI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HIMARI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIMARI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassCorridor2.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_ClassRoom2.jpg"
+      ],
+      "character": [
+        "Himari"
+      ],
+      "track": [
+        "OST_6",
+        "OST_16",
+        "OST_17",
+        "OST_7",
+        "OST_138"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ClassCorridor2.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_6": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_16": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_17": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_7": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_138": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Himari"
+      ],
+      "OST_16": [
+        "Himari"
+      ],
+      "OST_17": [
+        "Himari"
+      ],
+      "OST_138": [
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

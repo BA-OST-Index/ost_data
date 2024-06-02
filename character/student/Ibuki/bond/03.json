@@ -1,1 +1,75 @@
-{"uuid": "d8a09d7a-6646-4d7c-9881-7d09705afa09", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IBUKI_3_NAME]", "desc": ["[STORY_BOND_IBUKI_3_DESC_1]"], "pos": {"student": "IBUKI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_ValkyrieOffice.jpg", "BG_ShanTeaHouse.jpg", "BG_GehennaCampus.jpg", "BG_Campus_Sunset.jpg"], "character": ["Ibuki"], "track": ["OST_130", "OST_50"]}, "track_to_bg": {"OST_130": ["BG_MainOffice.jpg", "BG_ValkyrieOffice.jpg", "BG_ShanTeaHouse.jpg", "BG_GehennaCampus.jpg"], "OST_0": ["BG_Campus_Sunset.jpg"], "OST_50": ["BG_Campus_Sunset.jpg"]}, "track_to_char": {"OST_130": ["Ibuki"], "OST_50": ["Ibuki"]}, "char_to_bg": {"Ibuki": ["BG_MainOffice.jpg", "BG_ValkyrieOffice.jpg", "BG_ShanTeaHouse.jpg", "BG_GehennaCampus.jpg", "BG_Campus_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "860b4329-bae0-4e4c-823c-e0d804e6e460",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IBUKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_IBUKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "IBUKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_ShanTeaHouse.jpg",
+        "BG_GehennaCampus.jpg",
+        "BG_Campus_Sunset.jpg"
+      ],
+      "character": [
+        "Ibuki"
+      ],
+      "track": [
+        "OST_130",
+        "OST_50"
+      ]
+    },
+    "track_to_bg": {
+      "OST_130": [
+        "BG_MainOffice.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_ShanTeaHouse.jpg",
+        "BG_GehennaCampus.jpg"
+      ],
+      "OST_0": [
+        "BG_Campus_Sunset.jpg"
+      ],
+      "OST_50": [
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Ibuki"
+      ],
+      "OST_50": [
+        "Ibuki"
+      ]
+    },
+    "char_to_bg": {
+      "Ibuki": [
+        "BG_MainOffice.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_ShanTeaHouse.jpg",
+        "BG_GehennaCampus.jpg",
+        "BG_Campus_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

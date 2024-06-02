@@ -1,1 +1,82 @@
-{"uuid": "0d34c363-890f-4146-8859-c9b95c56e630", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_ICHIKA_4_NAME]", "desc": ["[STORY_BOND_ICHIKA_4_DESC_1]"], "pos": {"student": "ICHIKA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RiversideRoad.jpg", "BG_TrinityClubRoom.jpg", "BG_BigPlaza.jpg"], "character": ["Ichika"], "track": ["OST_192", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_RiversideRoad.jpg"], "OST_192": ["BG_RiversideRoad.jpg"], "OST_22": ["BG_RiversideRoad.jpg", "BG_TrinityClubRoom.jpg", "BG_BigPlaza.jpg"]}, "track_to_char": {"OST_192": ["Ichika"], "OST_22": ["Ichika"]}, "char_to_bg": {"Ichika": ["BG_RiversideRoad.jpg", "BG_TrinityClubRoom.jpg", "BG_BigPlaza.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_192"}}, "is_memory": true}
+{
+  "uuid": "453f7108-65d1-4ad2-bc1d-a30479044edb",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ICHIKA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ICHIKA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ICHIKA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RiversideRoad.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_BigPlaza.jpg"
+      ],
+      "character": [
+        "Ichika",
+        "MemberOfJusticeTaskForce"
+      ],
+      "track": [
+        "OST_192",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RiversideRoad.jpg"
+      ],
+      "OST_192": [
+        "BG_RiversideRoad.jpg"
+      ],
+      "OST_22": [
+        "BG_RiversideRoad.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_192": [
+        "Ichika"
+      ],
+      "OST_22": [
+        "Ichika",
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "char_to_bg": {
+      "Ichika": [
+        "BG_RiversideRoad.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_BigPlaza.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_BigPlaza.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ichika": [
+        "MemberOfJusticeTaskForce"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Ichika"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_192"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,84 @@
-{"uuid": "f39f65a6-74cc-4ae5-977c-53f47f820f08", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_4_NAME]", "desc": ["[STORY_EVENT_819_4_DESC_1]"], "pos": {"event_id": 819, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown2.jpg"], "character": ["Serina_Christmas", "Hanae_Christmas"], "track": ["OST_139", "OST_8", "OST_21"]}, "track_to_bg": {"OST_0": ["BG_CityDowntown2.jpg"], "OST_139": ["BG_CityDowntown2.jpg"], "OST_8": ["BG_CityDowntown2.jpg"], "OST_21": ["BG_CityDowntown2.jpg"]}, "track_to_char": {"OST_139": ["Serina_Christmas", "Hanae_Christmas"], "OST_8": ["Hanae_Christmas", "Serina_Christmas"], "OST_21": ["Serina_Christmas", "Hanae_Christmas"]}, "char_to_bg": {"Serina_Christmas": ["BG_CityDowntown2.jpg"], "Hanae_Christmas": ["BG_CityDowntown2.jpg"]}, "char_to_char": {"Hanae_Christmas": ["Serina_Christmas"], "Serina_Christmas": ["Hanae_Christmas"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "85d56015-8c13-44f0-89fe-30c0d9e9a57c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "character": [
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "track": [
+        "OST_139",
+        "OST_8",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "OST_139": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "OST_8": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "OST_21": [
+        "BG_CityDowntown2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_139": [
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ],
+      "OST_8": [
+        "Hanae_Christmas",
+        "Serina_Christmas"
+      ],
+      "OST_21": [
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ]
+    },
+    "char_to_bg": {
+      "Serina_Christmas": [
+        "BG_CityDowntown2.jpg"
+      ],
+      "Hanae_Christmas": [
+        "BG_CityDowntown2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanae_Christmas": [
+        "Serina_Christmas"
+      ],
+      "Serina_Christmas": [
+        "Hanae_Christmas"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

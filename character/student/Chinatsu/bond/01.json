@@ -1,1 +1,57 @@
-{"uuid": "a84f3ce3-5715-4744-ac1f-a9e8b2d2783d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHINATSU_1_NAME]", "desc": ["[STORY_BOND_CHINATSU_1_DESC_1]"], "pos": {"student": "CHINATSU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassStairs.jpg", "BG_ClassCorridor2.jpg"], "character": ["Chinatsu"], "track": ["OST_16"]}, "track_to_bg": {"OST_16": ["BG_ClassStairs.jpg", "BG_ClassCorridor2.jpg"]}, "track_to_char": {"OST_16": ["Chinatsu"]}, "char_to_bg": {"Chinatsu": ["BG_ClassStairs.jpg", "BG_ClassCorridor2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "754355ee-eaae-4880-999a-d3ca7f51d080",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHINATSU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_CHINATSU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHINATSU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassStairs.jpg",
+        "BG_ClassCorridor2.jpg"
+      ],
+      "character": [
+        "Chinatsu"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ClassStairs.jpg",
+        "BG_ClassCorridor2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Chinatsu"
+      ]
+    },
+    "char_to_bg": {
+      "Chinatsu": [
+        "BG_ClassStairs.jpg",
+        "BG_ClassCorridor2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

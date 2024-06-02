@@ -1,1 +1,60 @@
-{"uuid": "47548437-4955-45d6-a78c-f6f813a10e87", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_49_NAME]", "desc": ["[STORY_EVENT_999_49_DESC_1]"], "pos": {"event_id": 999, "segment": 49}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber_Night.jpg", "BG_View_Schale.jpg", "BG_CraftChamber.jpg"], "character": ["Tsubaki"], "track": ["OST_9"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber_Night.jpg", "BG_View_Schale.jpg", "BG_CraftChamber.jpg"], "OST_9": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_9": ["Tsubaki"]}, "char_to_bg": {"Tsubaki": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "22e0deb2-89bd-491a-98ad-fcf9934f13cc",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_49_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_49_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 49
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber_Night.jpg",
+        "BG_View_Schale.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Tsubaki"
+      ],
+      "track": [
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber_Night.jpg",
+        "BG_View_Schale.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_9": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_9": [
+        "Tsubaki"
+      ]
+    },
+    "char_to_bg": {
+      "Tsubaki": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

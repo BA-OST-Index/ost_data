@@ -1,1 +1,117 @@
-{"uuid": "802f87fc-c41f-4bf7-90a6-74573c2bc299", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_816_9_NAME]", "desc": ["[STORY_EVENT_816_9_DESC_1]"], "pos": {"event_id": 816, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityMarket.jpg"], "character": ["Yoshimi", "Airi", "Natsu", "Kazusa", "Reisa"], "track": ["OST_6", "OST_105"]}, "track_to_bg": {"OST_0": ["BG_TrinityMarket.jpg"], "OST_6": ["BG_TrinityMarket.jpg"], "OST_105": ["BG_TrinityMarket.jpg"]}, "track_to_char": {"OST_6": ["Yoshimi", "Airi", "Natsu", "Kazusa"], "OST_105": ["Kazusa", "Natsu", "Airi", "Yoshimi", "Reisa"]}, "char_to_bg": {"Yoshimi": ["BG_TrinityMarket.jpg"], "Airi": ["BG_TrinityMarket.jpg"], "Natsu": ["BG_TrinityMarket.jpg"], "Kazusa": ["BG_TrinityMarket.jpg"], "Reisa": ["BG_TrinityMarket.jpg"]}, "char_to_char": {"Airi": ["Yoshimi", "Natsu", "Kazusa", "Reisa"], "Natsu": ["Yoshimi", "Airi", "Kazusa", "Reisa"], "Kazusa": ["Yoshimi", "Airi", "Natsu", "Reisa"], "Reisa": ["Yoshimi", "Airi", "Natsu", "Kazusa"], "Yoshimi": ["Airi", "Natsu", "Kazusa", "Reisa"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b23c5291-d00b-4934-b9cf-937d44a8f3ff",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_816_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_816_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 816,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "character": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ],
+      "track": [
+        "OST_6",
+        "OST_105"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_6": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "OST_105": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa"
+      ],
+      "OST_105": [
+        "Kazusa",
+        "Natsu",
+        "Airi",
+        "Yoshimi",
+        "Reisa"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "Airi": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "Natsu": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "Kazusa": [
+        "BG_TrinityMarket.jpg"
+      ],
+      "Reisa": [
+        "BG_TrinityMarket.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Airi": [
+        "Yoshimi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ],
+      "Natsu": [
+        "Yoshimi",
+        "Airi",
+        "Kazusa",
+        "Reisa"
+      ],
+      "Kazusa": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Reisa"
+      ],
+      "Reisa": [
+        "Yoshimi",
+        "Airi",
+        "Natsu",
+        "Kazusa"
+      ],
+      "Yoshimi": [
+        "Airi",
+        "Natsu",
+        "Kazusa",
+        "Reisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

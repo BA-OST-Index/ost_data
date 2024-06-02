@@ -1,1 +1,53 @@
-{"uuid": "86ec322e-fd7d-4bca-97f7-a5df7b5e0236", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_59_NAME]", "desc": ["[STORY_EVENT_999_59_DESC_1]"], "pos": {"event_id": 999, "segment": 59}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_DessertCafe.jpg"], "character": ["Yoshimi"], "track": ["OST_47"]}, "track_to_bg": {"OST_47": ["BG_DessertCafe.jpg"]}, "track_to_char": {"OST_47": ["Yoshimi"]}, "char_to_bg": {"Yoshimi": ["BG_DessertCafe.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "84a581ae-93d5-45f4-a2e7-71ecf6471e7f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_59_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_59_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 59
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DessertCafe.jpg"
+      ],
+      "character": [
+        "Yoshimi"
+      ],
+      "track": [
+        "OST_47"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Yoshimi"
+      ]
+    },
+    "char_to_bg": {
+      "Yoshimi": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

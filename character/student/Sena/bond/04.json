@@ -1,1 +1,56 @@
-{"uuid": "1846bdd9-62ec-4945-bd08-0e29773a3419", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SENA_4_NAME]", "desc": ["[STORY_BOND_SENA_4_DESC_1]"], "pos": {"student": "SENA", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BigBridge_Night.jpg"], "character": ["Sena"], "track": ["OST_21"]}, "track_to_bg": {"OST_0": ["BG_BigBridge_Night.jpg"], "OST_21": ["BG_BigBridge_Night.jpg"]}, "track_to_char": {"OST_21": ["Sena"]}, "char_to_bg": {"Sena": ["BG_BigBridge_Night.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_21"}}, "is_memory": true}
+{
+  "uuid": "319f64f4-6c63-4bf6-b748-8460eb87c846",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SENA_4_NAME]",
+  "desc": [
+    "[STORY_BOND_SENA_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "SENA",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "character": [
+        "Sena"
+      ],
+      "track": [
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_BigBridge_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Sena"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_BigBridge_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_21"
+    }
+  },
+  "is_memory": true
+}

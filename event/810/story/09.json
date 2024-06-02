@@ -1,1 +1,102 @@
-{"uuid": "f4ddfb4d-c238-4fe3-9627-8e2cdebc2cf5", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_810_9_NAME]", "desc": ["[STORY_EVENT_810_9_DESC_1]"], "pos": {"event_id": 810, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg"], "character": ["Wakamo", "Mine", "Serina", "Hanae"], "track": ["OST_18", "OST_102"]}, "track_to_bg": {"OST_18": ["BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg"], "OST_0": ["BG_BuildingFrontGate.jpg"], "OST_102": ["BG_BuildingFrontGate.jpg"]}, "track_to_char": {"OST_18": ["Wakamo", "Mine"], "OST_102": ["Mine", "Wakamo", "Serina", "Hanae"]}, "char_to_bg": {"Wakamo": ["BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg"], "Mine": ["BG_BuildingFrontGate.jpg"], "Serina": ["BG_BuildingFrontGate.jpg"], "Hanae": ["BG_BuildingFrontGate.jpg"]}, "char_to_char": {"Wakamo": ["Mine"], "Mine": ["Wakamo", "Serina", "Hanae"], "Hanae": ["Serina", "Mine"], "Serina": ["Hanae", "Mine"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "34945354-da0c-499e-b14d-675f26cf1ede",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_810_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_810_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 810,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "character": [
+        "Wakamo",
+        "Mine",
+        "Serina",
+        "Hanae"
+      ],
+      "track": [
+        "OST_18",
+        "OST_102"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_0": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_102": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Wakamo",
+        "Mine"
+      ],
+      "OST_102": [
+        "Mine",
+        "Wakamo",
+        "Serina",
+        "Hanae"
+      ]
+    },
+    "char_to_bg": {
+      "Wakamo": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Mine": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Serina": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Hanae": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Wakamo": [
+        "Mine"
+      ],
+      "Mine": [
+        "Wakamo",
+        "Serina",
+        "Hanae"
+      ],
+      "Hanae": [
+        "Serina",
+        "Mine"
+      ],
+      "Serina": [
+        "Hanae",
+        "Mine"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

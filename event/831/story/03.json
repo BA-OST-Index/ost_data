@@ -1,0 +1,86 @@
+{
+  "uuid": "7a810481-5895-4d88-9a1f-ca532204cc55",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Hangar2.jpg"
+      ],
+      "character": [
+        "Utaha",
+        "Hibiki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Kotori"
+      ],
+      "track": [
+        "OST_28",
+        "OST_130"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Hangar2.jpg"
+      ],
+      "OST_0": [
+        "BG_Hangar2.jpg"
+      ],
+      "OST_130": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Utaha",
+        "Hibiki",
+        "Misaka_Mikoto",
+        "Eimi",
+        "Kotori"
+      ],
+      "OST_130": [
+        "Misaka_Mikoto",
+        "Eimi",
+        "Utaha",
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Utaha": [
+        "BG_Hangar2.jpg"
+      ],
+      "Hibiki": [
+        "BG_Hangar2.jpg"
+      ],
+      "Misaka_Mikoto": [
+        "BG_Hangar2.jpg"
+      ],
+      "Eimi": [
+        "BG_Hangar2.jpg"
+      ],
+      "Kotori": [
+        "BG_Hangar2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,108 @@
-{"uuid": "4f4cc741-a3dd-487f-bdd1-666f72f4e464", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_8_NAME]", "desc": ["[STORY_EVENT_820_8_DESC_1]"], "pos": {"event_id": 820, "segment": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Juri", "Izumi", "Akari_NewYear"], "track": ["OST_33", "OST_73", "OST_29"]}, "track_to_bg": {"OST_33": ["BG_Yatai.jpg"], "OST_0": ["BG_Yatai.jpg"], "OST_73": ["BG_Yatai.jpg"], "OST_29": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_33": ["Juri", "Izumi", "Akari_NewYear"], "OST_73": ["Akari_NewYear", "Izumi"], "OST_29": ["Akari_NewYear", "Izumi"]}, "char_to_bg": {"Juri": ["BG_Yatai.jpg"], "Izumi": ["BG_Yatai.jpg"], "Akari_NewYear": ["BG_Yatai.jpg"]}, "char_to_char": {"Izumi": ["Juri", "Akari_NewYear"], "Akari_NewYear": ["Juri", "Izumi"], "Juri": ["Izumi", "Akari_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "cb01f1c5-c1ed-4269-954b-18eaa0063e02",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_8_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_8_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Juri",
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Greengrocer"
+      ],
+      "track": [
+        "OST_33",
+        "OST_73",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_73": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_29": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Juri",
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Greengrocer"
+      ],
+      "OST_73": [
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ],
+      "OST_29": [
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Juri": [
+        "BG_Yatai.jpg"
+      ],
+      "Izumi_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Akari_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Greengrocer": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Izumi_NewYear": [
+        "Juri",
+        "Akari_NewYear",
+        "Greengrocer"
+      ],
+      "Akari_NewYear": [
+        "Juri",
+        "Izumi_NewYear",
+        "Greengrocer"
+      ],
+      "Greengrocer": [
+        "Juri",
+        "Izumi_NewYear",
+        "Akari_NewYear"
+      ],
+      "Juri": [
+        "Izumi_NewYear",
+        "Akari_NewYear",
+        "Greengrocer"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

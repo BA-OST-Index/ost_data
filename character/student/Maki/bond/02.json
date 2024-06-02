@@ -1,1 +1,67 @@
-{"uuid": "adbeaa44-f508-4fc0-b21b-d9366e6fbcfb", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MAKI_2_NAME]", "desc": ["[STORY_BOND_MAKI_2_DESC_1]"], "pos": {"student": "MAKI", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BlackMarket_Night.jpg", "BG_ConvenienceStore.jpg"], "character": ["Maki"], "track": ["OST_6", "OST_3"]}, "track_to_bg": {"OST_6": ["BG_BlackMarket_Night.jpg"], "OST_0": ["BG_BlackMarket_Night.jpg", "BG_ConvenienceStore.jpg"], "OST_3": ["BG_ConvenienceStore.jpg", "BG_BlackMarket_Night.jpg"]}, "track_to_char": {"OST_6": ["Maki"], "OST_3": ["Maki"]}, "char_to_bg": {"Maki": ["BG_BlackMarket_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "6b3732d2-acce-4472-8276-fc5afb9bea36",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MAKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_MAKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "MAKI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "character": [
+        "Maki"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_ConvenienceStore.jpg"
+      ],
+      "OST_3": [
+        "BG_ConvenienceStore.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Maki"
+      ],
+      "OST_3": [
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

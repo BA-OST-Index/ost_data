@@ -1,0 +1,159 @@
+{
+  "uuid": "5c2d679f-34a6-4600-a98c-3a0c35c1473e",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_821_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_821_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 821,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Wilderness_Erode.jpg",
+        "BG_CS_PV4_045.jpg",
+        "BG_CS_PV4_046.jpg",
+        "BG_CS_PV4_047.jpg"
+      ],
+      "character": [
+        "Serika",
+        "Nonomi",
+        "Hoshino",
+        "Maki",
+        "Ayane",
+        "Mutsuki",
+        "Haruka",
+        "Aru"
+      ],
+      "track": [
+        "OST_24",
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_24": [
+        "BG_Wilderness_Erode.jpg",
+        "BG_CS_PV4_045.jpg",
+        "BG_CS_PV4_046.jpg"
+      ],
+      "OST_0": [
+        "BG_Wilderness_Erode.jpg"
+      ],
+      "OST_65": [
+        "BG_CS_PV4_047.jpg",
+        "BG_Wilderness_Erode.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_24": [
+        "Serika",
+        "Nonomi",
+        "Hoshino",
+        "Maki",
+        "Ayane",
+        "Mutsuki",
+        "Haruka",
+        "Aru"
+      ],
+      "OST_65": [
+        "Hoshino",
+        "Nonomi",
+        "Serika",
+        "Maki",
+        "Ayane"
+      ]
+    },
+    "char_to_bg": {
+      "Serika": [
+        "BG_CS_PV4_045.jpg",
+        "BG_Wilderness_Erode.jpg",
+        "BG_CS_PV4_047.jpg"
+      ],
+      "Nonomi": [
+        "BG_CS_PV4_045.jpg",
+        "BG_Wilderness_Erode.jpg",
+        "BG_CS_PV4_047.jpg"
+      ],
+      "Hoshino": [
+        "BG_CS_PV4_045.jpg",
+        "BG_Wilderness_Erode.jpg",
+        "BG_CS_PV4_047.jpg"
+      ],
+      "Maki": [
+        "BG_CS_PV4_045.jpg",
+        "BG_Wilderness_Erode.jpg"
+      ],
+      "Ayane": [
+        "BG_CS_PV4_045.jpg",
+        "BG_Wilderness_Erode.jpg"
+      ],
+      "Mutsuki": [
+        "BG_CS_PV4_046.jpg"
+      ],
+      "Haruka": [
+        "BG_CS_PV4_046.jpg"
+      ],
+      "Aru": [
+        "BG_CS_PV4_046.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nonomi": [
+        "Serika",
+        "Hoshino",
+        "Maki",
+        "Ayane"
+      ],
+      "Hoshino": [
+        "Serika",
+        "Nonomi",
+        "Maki",
+        "Ayane"
+      ],
+      "Maki": [
+        "Serika",
+        "Nonomi",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Ayane": [
+        "Serika",
+        "Nonomi",
+        "Hoshino",
+        "Maki"
+      ],
+      "Serika": [
+        "Nonomi",
+        "Hoshino",
+        "Maki",
+        "Ayane"
+      ],
+      "Haruka": [
+        "Mutsuki",
+        "Aru"
+      ],
+      "Aru": [
+        "Mutsuki",
+        "Haruka"
+      ],
+      "Mutsuki": [
+        "Haruka",
+        "Aru"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

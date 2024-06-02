@@ -1,1 +1,66 @@
-{"uuid": "f730bd57-c83f-40c3-b06a-f65450caad61", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NODOKA_HOTSPRING_4_NAME]", "desc": ["[STORY_BOND_NODOKA_HOTSPRING_4_DESC_1]"], "pos": {"student": "NODOKA_HOTSPRING", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_RyoKanFront2_Night.jpg", "BG_RyokanRestLounge.jpg"], "character": ["Nodoka_HotSpring"], "track": ["OST_22", "OST_99"]}, "track_to_bg": {"OST_22": ["BG_RyoKanFront2_Night.jpg"], "OST_0": ["BG_RyoKanFront2_Night.jpg"], "OST_99": ["BG_RyoKanFront2_Night.jpg", "BG_RyokanRestLounge.jpg"]}, "track_to_char": {"OST_22": ["Nodoka_HotSpring"], "OST_99": ["Nodoka_HotSpring"]}, "char_to_bg": {"Nodoka_HotSpring": ["BG_RyoKanFront2_Night.jpg", "BG_RyokanRestLounge.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_99"}}, "is_memory": true}
+{
+  "uuid": "05973f40-6040-41fa-bcc1-609604647440",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NODOKA_HOTSPRING_4_NAME]",
+  "desc": [
+    "[STORY_BOND_NODOKA_HOTSPRING_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "NODOKA_HOTSPRING",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RyoKanFront2_Night.jpg",
+        "BG_RyokanRestLounge.jpg"
+      ],
+      "character": [
+        "Nodoka_HotSpring"
+      ],
+      "track": [
+        "OST_22",
+        "OST_99"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_RyoKanFront2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_RyoKanFront2_Night.jpg"
+      ],
+      "OST_99": [
+        "BG_RyoKanFront2_Night.jpg",
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Nodoka_HotSpring"
+      ],
+      "OST_99": [
+        "Nodoka_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Nodoka_HotSpring": [
+        "BG_RyoKanFront2_Night.jpg",
+        "BG_RyokanRestLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_99"
+    }
+  },
+  "is_memory": true
+}

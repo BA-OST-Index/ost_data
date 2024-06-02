@@ -1,0 +1,126 @@
+{
+  "uuid": "631a9d9e-2ca7-4d66-b471-37072e4068ec",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg",
+        "BG_View_Sky2_Night.jpg"
+      ],
+      "character": [
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "track": [
+        "OST_36",
+        "OST_183",
+        "OST_22",
+        "OST_186"
+      ]
+    },
+    "track_to_bg": {
+      "OST_36": [
+        "BG_CampSite_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_CampSite_Night.jpg"
+      ],
+      "OST_183": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg",
+        "BG_View_Sky2_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_CampSite_Night.jpg"
+      ],
+      "OST_186": [
+        "BG_CampSite_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_36": [
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "OST_183": [
+        "Chihiro_Camp",
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Maki_Camp"
+      ],
+      "OST_22": [
+        "Hare_Camp",
+        "Kotama_Camp"
+      ],
+      "OST_186": [
+        "Hare_Camp",
+        "Kotama_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Hare_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg"
+      ],
+      "Kotama_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg"
+      ],
+      "Maki_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg"
+      ],
+      "Chihiro_Camp": [
+        "BG_CampSite_Night.jpg",
+        "BG_CS_Event_20.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kotama_Camp": [
+        "Hare_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "Maki_Camp": [
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Chihiro_Camp"
+      ],
+      "Chihiro_Camp": [
+        "Hare_Camp",
+        "Kotama_Camp",
+        "Maki_Camp"
+      ],
+      "Hare_Camp": [
+        "Kotama_Camp",
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,54 @@
-{"uuid": "1967a18c-c989-4bd3-b21c-808352f20b27", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AYANE_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_AYANE_SWIMSUIT_1_DESC_1]"], "pos": {"student": "AYANE_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ResortHotel.jpg"], "character": ["Ayane_Swimsuit"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_ResortHotel.jpg"]}, "track_to_char": {"OST_4": ["Ayane_Swimsuit"]}, "char_to_bg": {"Ayane_Swimsuit": ["BG_ResortHotel.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "5e837b71-6bcb-4046-ad08-76851fa56ce7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AYANE_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_AYANE_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "AYANE_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ResortHotel.jpg"
+      ],
+      "character": [
+        "Ayane_Swimsuit"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ResortHotel.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Ayane_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Ayane_Swimsuit": [
+        "BG_ResortHotel.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,64 @@
-{"uuid": "da048d94-ae0c-490e-98c6-9f8293dd0fcf", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NODOKA_HOTSPRING_2_NAME]", "desc": ["[STORY_BOND_NODOKA_HOTSPRING_2_DESC_1]"], "pos": {"student": "NODOKA_HOTSPRING", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg"], "character": ["Nodoka_HotSpring"], "track": ["OST_16", "OST_38"]}, "track_to_bg": {"OST_16": ["BG_CraftChamber.jpg"], "OST_0": ["BG_CraftChamber.jpg"], "OST_38": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_16": ["Nodoka_HotSpring"], "OST_38": ["Nodoka_HotSpring"]}, "char_to_bg": {"Nodoka_HotSpring": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "8bbc9f99-a61f-4d8f-b7c3-3fde2b8e5240",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NODOKA_HOTSPRING_2_NAME]",
+  "desc": [
+    "[STORY_BOND_NODOKA_HOTSPRING_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "NODOKA_HOTSPRING",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Nodoka_HotSpring"
+      ],
+      "track": [
+        "OST_16",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_38": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Nodoka_HotSpring"
+      ],
+      "OST_38": [
+        "Nodoka_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Nodoka_HotSpring": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,159 @@
-{"uuid": "145b82cc-e305-4477-a3f0-0d0578f13345", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_813_18_NAME]", "desc": ["[STORY_EVENT_813_18_DESC_1]"], "pos": {"event_id": 813, "segment": 18}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg", "BG_HyakkiyakoCampus.jpg"], "character": ["Izuna", "Tsukuyo", "Kaede", "Iroha", "Michiru", "Ibuki"], "track": ["OST_74", "OST_41", "OST_116", "OST_31"]}, "track_to_bg": {"OST_0": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "OST_74": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "OST_41": ["BG_HyakkiyakoLookOut_Sunset.jpg"], "OST_116": ["BG_HyakkiyakoLookOut_Sunset.jpg", "BG_HyakkiyakoCampus.jpg"], "OST_31": ["BG_HyakkiyakoLookOut_Sunset.jpg"]}, "track_to_char": {"OST_74": ["Kaede", "Izuna", "Tsukuyo", "Iroha", "Michiru", "Ibuki"], "OST_41": ["Ibuki", "Michiru"], "OST_116": ["Tsukuyo", "Michiru", "Ibuki", "Izuna"], "OST_31": ["Michiru", "Ibuki", "Izuna", "Tsukuyo", "Iroha"]}, "char_to_bg": {"Kaede": ["BG_DestructionFrontPublic.jpg"], "Izuna": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "Tsukuyo": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoCampus.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "Iroha": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "Michiru": ["BG_DestructionFrontPublic.jpg", "BG_HyakkiyakoLookOut_Sunset.jpg"], "Ibuki": ["BG_HyakkiyakoLookOut_Sunset.jpg"]}, "char_to_char": {"Tsukuyo": ["Izuna", "Kaede", "Iroha"], "Kaede": ["Izuna", "Tsukuyo", "Iroha"], "Izuna": ["Tsukuyo", "Kaede", "Iroha"], "Iroha": ["Kaede", "Izuna", "Tsukuyo"], "Michiru": ["Ibuki"], "Ibuki": ["Michiru"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "780ac181-ec7f-4406-9855-0a13a97d1be7",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_813_18_NAME]",
+  "desc": [
+    "[STORY_EVENT_813_18_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 813,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg",
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "character": [
+        "Izuna",
+        "Tsukuyo",
+        "Kaede",
+        "Iroha",
+        "Michiru",
+        "Ibuki",
+        "Niya"
+      ],
+      "track": [
+        "OST_74",
+        "OST_41",
+        "OST_116",
+        "OST_31"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_74": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_41": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_116": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg",
+        "BG_HyakkiyakoCampus.jpg"
+      ],
+      "OST_31": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_74": [
+        "Kaede",
+        "Izuna",
+        "Tsukuyo",
+        "Iroha",
+        "Michiru",
+        "Ibuki",
+        "Niya"
+      ],
+      "OST_41": [
+        "Ibuki",
+        "Michiru",
+        "Niya"
+      ],
+      "OST_116": [
+        "Tsukuyo",
+        "Michiru",
+        "Ibuki",
+        "Izuna"
+      ],
+      "OST_31": [
+        "Michiru",
+        "Ibuki",
+        "Izuna",
+        "Tsukuyo",
+        "Iroha"
+      ]
+    },
+    "char_to_bg": {
+      "Kaede": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Izuna": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoCampus.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Iroha": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Michiru": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Ibuki": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsukuyo": [
+        "Izuna",
+        "Kaede",
+        "Iroha"
+      ],
+      "Kaede": [
+        "Izuna",
+        "Tsukuyo",
+        "Iroha"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Kaede",
+        "Iroha"
+      ],
+      "Iroha": [
+        "Kaede",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Michiru": [
+        "Niya",
+        "Ibuki"
+      ],
+      "Niya": [
+        "Michiru",
+        "Ibuki"
+      ],
+      "Ibuki": [
+        "Michiru",
+        "Niya"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

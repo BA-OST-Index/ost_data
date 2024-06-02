@@ -1,1 +1,73 @@
-{"uuid": "f8f2e81f-6eb6-4d83-9982-1860c78de4a2", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_CHEERLEADER_4_NAME]", "desc": ["[STORY_BOND_KOTORI_CHEERLEADER_4_DESC_1]"], "pos": {"student": "KOTORI_CHEERLEADER", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Empty_KivotosStadium2_Sunset.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg", "BG_Grandstand_Sunset.jpg"], "character": ["Kotori_Cheerleader"], "track": ["OST_22", "OST_133"]}, "track_to_bg": {"OST_22": ["BG_Empty_KivotosStadium2_Sunset.jpg"], "OST_0": ["BG_Empty_KivotosStadium2_Sunset.jpg"], "OST_133": ["BG_Empty_KivotosStadium2_Sunset.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg", "BG_Grandstand_Sunset.jpg"]}, "track_to_char": {"OST_22": ["Kotori_Cheerleader"], "OST_133": ["Kotori_Cheerleader"]}, "char_to_bg": {"Kotori_Cheerleader": ["BG_Empty_KivotosStadium2_Sunset.jpg", "BG_KivotosStadium.jpg", "BG_KivotosStadium2.jpg", "BG_Grandstand_Sunset.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c90f227b-ef71-4685-8318-b2d2641534fc",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_CHEERLEADER_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_CHEERLEADER_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI_CHEERLEADER",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg",
+        "BG_Grandstand_Sunset.jpg"
+      ],
+      "character": [
+        "Kotori_Cheerleader"
+      ],
+      "track": [
+        "OST_22",
+        "OST_133"
+      ]
+    },
+    "track_to_bg": {
+      "OST_22": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg"
+      ],
+      "OST_0": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg"
+      ],
+      "OST_133": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg",
+        "BG_Grandstand_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Kotori_Cheerleader"
+      ],
+      "OST_133": [
+        "Kotori_Cheerleader"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori_Cheerleader": [
+        "BG_Empty_KivotosStadium2_Sunset.jpg",
+        "BG_KivotosStadium.jpg",
+        "BG_KivotosStadium2.jpg",
+        "BG_Grandstand_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,63 @@
-{"uuid": "09433303-8c09-4aa2-9fd5-253681d5b2f7", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_19_NAME]", "desc": ["[STORY_EVENT_999_19_DESC_1]"], "pos": {"event_id": 999, "segment": 19}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GameDevRoom.jpg"], "character": ["Yuzu"], "track": ["OST_64", "OST_44"]}, "track_to_bg": {"OST_64": ["BG_GameDevRoom.jpg"], "OST_0": ["BG_GameDevRoom.jpg"], "OST_44": ["BG_GameDevRoom.jpg"]}, "track_to_char": {"OST_64": ["Yuzu"], "OST_44": ["Yuzu"]}, "char_to_bg": {"Yuzu": ["BG_GameDevRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "ff9fc946-60f9-430c-87fe-8b8cb7f25a68",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_19_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_19_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "character": [
+        "Yuzu"
+      ],
+      "track": [
+        "OST_64",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_64": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_GameDevRoom.jpg"
+      ],
+      "OST_44": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_64": [
+        "Yuzu"
+      ],
+      "OST_44": [
+        "Yuzu"
+      ]
+    },
+    "char_to_bg": {
+      "Yuzu": [
+        "BG_GameDevRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

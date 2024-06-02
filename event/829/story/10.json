@@ -1,1 +1,79 @@
-{"uuid": "f927eddb-9c1d-4c3e-bc6d-b4a6b2dcdf4d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_829_10_NAME]", "desc": ["[STORY_EVENT_829_10_DESC_1]"], "pos": {"event_id": 829, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_WinterRoad.jpg"], "character": ["Momiji", "Meru", "Marina", "Tomoe", "State Guard A", "State Guard B", "State Guard C"], "track": ["OST_13", "OST_83"]}, "track_to_bg": {"OST_0": ["BG_WinterRoad.jpg"], "OST_13": ["BG_WinterRoad.jpg"], "OST_83": ["BG_WinterRoad.jpg"]}, "track_to_char": {"OST_13": ["Momiji", "Meru"], "OST_83": ["Marina", "Tomoe", "Meru", "Momiji", "State Guard A", "State Guard B", "State Guard C"]}, "char_to_bg": {"Momiji": ["BG_WinterRoad.jpg"], "Meru": ["BG_WinterRoad.jpg"], "Marina": ["BG_WinterRoad.jpg"], "Tomoe": ["BG_WinterRoad.jpg"], "State Guard A": ["BG_WinterRoad.jpg"], "State Guard B": ["BG_WinterRoad.jpg"], "State Guard C": ["BG_WinterRoad.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "c4e15687-40a5-4d25-b4ae-ff4952e224bc",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_829_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_829_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 829,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_WinterRoad.jpg"
+      ],
+      "character": [
+        "Momiji",
+        "Meru",
+        "Marina",
+        "Tomoe"
+      ],
+      "track": [
+        "OST_13",
+        "OST_83"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_13": [
+        "BG_WinterRoad.jpg"
+      ],
+      "OST_83": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Momiji",
+        "Meru"
+      ],
+      "OST_83": [
+        "Marina",
+        "Tomoe",
+        "Meru",
+        "Momiji"
+      ]
+    },
+    "char_to_bg": {
+      "Momiji": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Meru": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Marina": [
+        "BG_WinterRoad.jpg"
+      ],
+      "Tomoe": [
+        "BG_WinterRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

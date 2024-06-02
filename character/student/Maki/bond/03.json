@@ -1,1 +1,54 @@
-{"uuid": "e6282440-fee9-4766-8b4e-eac1ec038141", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MAKI_3_NAME]", "desc": ["[STORY_BOND_MAKI_3_DESC_1]"], "pos": {"student": "MAKI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassRoom.jpg"], "character": ["Maki"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_ClassRoom.jpg"]}, "track_to_char": {"OST_10": ["Maki"]}, "char_to_bg": {"Maki": ["BG_ClassRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "59f3b2d2-1956-43b0-a957-46b4410dae7c",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MAKI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MAKI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MAKI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassRoom.jpg"
+      ],
+      "character": [
+        "Maki"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

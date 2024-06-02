@@ -1,1 +1,57 @@
-{"uuid": "9129820e-2260-41c6-87f0-a35814d52aac", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_1_NAME]", "desc": ["[STORY_BOND_SHIROKO_1_DESC_1]"], "pos": {"student": "SHIROKO", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Residence.jpg", "BG_VillaComplex.jpg"], "character": ["Shiroko"], "track": ["OST_4"]}, "track_to_bg": {"OST_4": ["BG_Residence.jpg", "BG_VillaComplex.jpg"]}, "track_to_char": {"OST_4": ["Shiroko"]}, "char_to_bg": {"Shiroko": ["BG_Residence.jpg", "BG_VillaComplex.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c4d9ccd0-247c-45b5-b4ee-aac22f31b5ac",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Residence.jpg",
+        "BG_VillaComplex.jpg"
+      ],
+      "character": [
+        "Shiroko"
+      ],
+      "track": [
+        "OST_4"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_Residence.jpg",
+        "BG_VillaComplex.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Shiroko"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko": [
+        "BG_Residence.jpg",
+        "BG_VillaComplex.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

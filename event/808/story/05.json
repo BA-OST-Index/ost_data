@@ -1,1 +1,65 @@
-{"uuid": "10c0d9bf-3877-434b-8c77-32a2fc9731f3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_808_5_NAME]", "desc": ["[STORY_EVENT_808_5_DESC_1]"], "pos": {"event_id": 808, "segment": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Onsen2.jpg"], "character": ["Meru", "Nodoka_HotSpring"], "track": ["OST_28"]}, "track_to_bg": {"OST_28": ["BG_Onsen2.jpg"]}, "track_to_char": {"OST_28": ["Meru", "Nodoka_HotSpring"]}, "char_to_bg": {"Meru": ["BG_Onsen2.jpg"], "Nodoka_HotSpring": ["BG_Onsen2.jpg"]}, "char_to_char": {"Nodoka_HotSpring": ["Meru"], "Meru": ["Nodoka_HotSpring"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "efbbb066-e64c-4ff9-a767-a82d9d705308",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_808_5_NAME]",
+  "desc": [
+    "[STORY_EVENT_808_5_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 808,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Onsen2.jpg"
+      ],
+      "character": [
+        "Meru",
+        "Nodoka_HotSpring"
+      ],
+      "track": [
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Onsen2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Meru",
+        "Nodoka_HotSpring"
+      ]
+    },
+    "char_to_bg": {
+      "Meru": [
+        "BG_Onsen2.jpg"
+      ],
+      "Nodoka_HotSpring": [
+        "BG_Onsen2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nodoka_HotSpring": [
+        "Meru"
+      ],
+      "Meru": [
+        "Nodoka_HotSpring"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

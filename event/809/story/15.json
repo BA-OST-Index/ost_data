@@ -1,1 +1,176 @@
-{"uuid": "088b7f4f-7e41-4521-b2b1-1ef1c3da0a51", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_809_15_NAME]", "desc": ["[STORY_EVENT_809_15_DESC_1]"], "pos": {"event_id": 809, "segment": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_UpperOffice_Night.jpg", "BG_NewYearFestival_Night.jpg", "BG_NewYearFestivalRoad_Night.jpg"], "character": ["Aru_NewYear", "Kayoko_NewYear", "Serika_NewYear", "Hoshino", "Nonomi", "Shiroko", "Iori", "Ako", "Haruka_NewYear", "Mutsuki_NewYear"], "track": ["OST_7", "OST_5"]}, "track_to_bg": {"OST_7": ["BG_UpperOffice_Night.jpg"], "OST_0": ["BG_UpperOffice_Night.jpg", "BG_NewYearFestival_Night.jpg"], "OST_5": ["BG_NewYearFestival_Night.jpg", "BG_NewYearFestivalRoad_Night.jpg"]}, "track_to_char": {"OST_5": ["Aru_NewYear", "Kayoko_NewYear", "Serika_NewYear", "Hoshino", "Nonomi", "Shiroko", "Iori", "Ako", "Haruka_NewYear", "Mutsuki_NewYear"]}, "char_to_bg": {"Aru_NewYear": ["BG_NewYearFestival_Night.jpg"], "Kayoko_NewYear": ["BG_NewYearFestival_Night.jpg"], "Serika_NewYear": ["BG_NewYearFestival_Night.jpg"], "Hoshino": ["BG_NewYearFestival_Night.jpg"], "Nonomi": ["BG_NewYearFestival_Night.jpg"], "Shiroko": ["BG_NewYearFestival_Night.jpg"], "Iori": ["BG_NewYearFestivalRoad_Night.jpg"], "Ako": ["BG_NewYearFestivalRoad_Night.jpg"], "Haruka_NewYear": ["BG_NewYearFestival_Night.jpg"], "Mutsuki_NewYear": ["BG_NewYearFestival_Night.jpg"]}, "char_to_char": {"Kayoko_NewYear": ["Aru_NewYear", "Serika_NewYear", "Hoshino", "Nonomi", "Shiroko", "Haruka_NewYear", "Mutsuki_NewYear"], "Serika_NewYear": ["Aru_NewYear", "Kayoko_NewYear", "Hoshino", "Nonomi", "Shiroko", "Haruka_NewYear", "Mutsuki_NewYear"], "Hoshino": ["Aru_NewYear", "Kayoko_NewYear", "Serika_NewYear", "Nonomi", "Shiroko"], "Nonomi": ["Aru_NewYear", "Kayoko_NewYear", "Serika_NewYear", "Hoshino", "Shiroko"], "Shiroko": ["Aru_NewYear", "Kayoko_NewYear", "Serika_NewYear", "Hoshino", "Nonomi"], "Aru_NewYear": ["Kayoko_NewYear", "Serika_NewYear", "Hoshino", "Nonomi", "Shiroko", "Haruka_NewYear", "Mutsuki_NewYear"], "Ako": ["Iori"], "Iori": ["Ako"], "Haruka_NewYear": ["Aru_NewYear", "Kayoko_NewYear", "Mutsuki_NewYear", "Serika_NewYear"], "Mutsuki_NewYear": ["Aru_NewYear", "Haruka_NewYear", "Kayoko_NewYear", "Serika_NewYear"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "60711b02-3c7a-4eef-a7cf-f4dd2143c6b8",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_809_15_NAME]",
+  "desc": [
+    "[STORY_EVENT_809_15_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 809,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_NewYearFestival_Night.jpg",
+        "BG_NewYearFestivalRoad_Night.jpg"
+      ],
+      "character": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Nonomi",
+        "Shiroko",
+        "Iori",
+        "Ako",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ],
+      "track": [
+        "OST_7",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_7": [
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "OST_5": [
+        "BG_NewYearFestival_Night.jpg",
+        "BG_NewYearFestivalRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_5": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Nonomi",
+        "Shiroko",
+        "Iori",
+        "Ako",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Aru_NewYear": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Kayoko_NewYear": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Serika_NewYear": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Hoshino": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Nonomi": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Shiroko": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Iori": [
+        "BG_NewYearFestivalRoad_Night.jpg"
+      ],
+      "Ako": [
+        "BG_NewYearFestivalRoad_Night.jpg"
+      ],
+      "Haruka_NewYear": [
+        "BG_NewYearFestival_Night.jpg"
+      ],
+      "Mutsuki_NewYear": [
+        "BG_NewYearFestival_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kayoko_NewYear": [
+        "Aru_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Nonomi",
+        "Shiroko",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ],
+      "Serika_NewYear": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Hoshino",
+        "Nonomi",
+        "Shiroko",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ],
+      "Hoshino": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Nonomi",
+        "Shiroko"
+      ],
+      "Nonomi": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Shiroko"
+      ],
+      "Shiroko": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Nonomi"
+      ],
+      "Aru_NewYear": [
+        "Kayoko_NewYear",
+        "Serika_NewYear",
+        "Hoshino",
+        "Nonomi",
+        "Shiroko",
+        "Haruka_NewYear",
+        "Mutsuki_NewYear"
+      ],
+      "Ako": [
+        "Iori"
+      ],
+      "Iori": [
+        "Ako"
+      ],
+      "Haruka_NewYear": [
+        "Aru_NewYear",
+        "Kayoko_NewYear",
+        "Mutsuki_NewYear",
+        "Serika_NewYear"
+      ],
+      "Mutsuki_NewYear": [
+        "Aru_NewYear",
+        "Haruka_NewYear",
+        "Kayoko_NewYear",
+        "Serika_NewYear"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

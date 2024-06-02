@@ -1,0 +1,140 @@
+{
+  "uuid": "300b0fb7-8fb1-4c64-8a07-da878e66aa5f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_831_11_NAME]",
+  "desc": [
+    "[STORY_EVENT_831_11_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 831,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "character": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ],
+      "track": [
+        "OST_170"
+      ]
+    },
+    "track_to_bg": {
+      "OST_170": [
+        "BG_PowerRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_170": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ]
+    },
+    "char_to_bg": {
+      "Misaka_Mikoto": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Saten_Ruiko": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Shokuhou_Misaki": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Utaha": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Hibiki": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Kotori": [
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Eimi": [
+        "BG_PowerRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saten_Ruiko": [
+        "Misaka_Mikoto",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ],
+      "Shokuhou_Misaki": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Utaha",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ],
+      "Utaha": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ],
+      "Hibiki": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Kotori",
+        "Eimi"
+      ],
+      "Kotori": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Eimi"
+      ],
+      "Eimi": [
+        "Misaka_Mikoto",
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori"
+      ],
+      "Misaka_Mikoto": [
+        "Saten_Ruiko",
+        "Shokuhou_Misaki",
+        "Utaha",
+        "Hibiki",
+        "Kotori",
+        "Eimi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

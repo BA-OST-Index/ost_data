@@ -1,1 +1,63 @@
-{"uuid": "6a497dad-4a19-4352-af1f-1b122ecc7499", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_RUMI_4_NAME]", "desc": ["[STORY_BOND_RUMI_4_DESC_1]"], "pos": {"student": "RUMI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShanTeaHouse.jpg"], "character": ["Rumi"], "track": ["OST_66", "OST_44"]}, "track_to_bg": {"OST_0": ["BG_ShanTeaHouse.jpg"], "OST_66": ["BG_ShanTeaHouse.jpg"], "OST_44": ["BG_ShanTeaHouse.jpg"]}, "track_to_char": {"OST_66": ["Rumi"], "OST_44": ["Rumi"]}, "char_to_bg": {"Rumi": ["BG_ShanTeaHouse.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_44"}}, "is_memory": true}
+{
+  "uuid": "b60c1ba7-0bbe-4165-a4fd-8d983f7a3721",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_RUMI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_RUMI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "RUMI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "character": [
+        "Rumi"
+      ],
+      "track": [
+        "OST_66",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_66": [
+        "BG_ShanTeaHouse.jpg"
+      ],
+      "OST_44": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_66": [
+        "Rumi"
+      ],
+      "OST_44": [
+        "Rumi"
+      ]
+    },
+    "char_to_bg": {
+      "Rumi": [
+        "BG_ShanTeaHouse.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_44"
+    }
+  },
+  "is_memory": true
+}

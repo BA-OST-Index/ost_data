@@ -1,1 +1,57 @@
-{"uuid": "13e81485-91fd-40b6-a7b0-eeaa071a8978", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAHO_4_NAME]", "desc": ["[STORY_BOND_KAHO_4_DESC_1]"], "pos": {"student": "KAHO", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TatamiRoom.jpg"], "character": ["Kaho"], "track": ["OST_16", "OST_44"]}, "track_to_bg": {"OST_16": ["BG_TatamiRoom.jpg"], "OST_0": ["BG_TatamiRoom.jpg"]}, "track_to_char": {"OST_16": ["Kaho"]}, "char_to_bg": {"Kaho": ["BG_TatamiRoom.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_44"}}, "is_memory": true}
+{
+  "uuid": "42eddcf9-36d3-4f72-83dc-a8f30e6c15a2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAHO_4_NAME]",
+  "desc": [
+    "[STORY_BOND_KAHO_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAHO",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TatamiRoom.jpg"
+      ],
+      "character": [
+        "Kaho"
+      ],
+      "track": [
+        "OST_16",
+        "OST_44"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_TatamiRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_TatamiRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kaho"
+      ]
+    },
+    "char_to_bg": {
+      "Kaho": [
+        "BG_TatamiRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_44"
+    }
+  },
+  "is_memory": true
+}

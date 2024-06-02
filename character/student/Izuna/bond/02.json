@@ -1,1 +1,76 @@
-{"uuid": "edbc15de-0ec9-4beb-bce9-64b35d9e671c", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IZUNA_2_NAME]", "desc": ["[STORY_BOND_IZUNA_2_DESC_1]"], "pos": {"student": "IZUNA", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Residence.jpg", "BG_CityTown.jpg", "BG_SchoolCafeteria.jpg", "BG_Library.jpg", "BG_RailWayCrossing.jpg"], "character": ["Izuna"], "track": ["OST_16", "OST_38"]}, "track_to_bg": {"OST_16": ["BG_Residence.jpg", "BG_CityTown.jpg", "BG_SchoolCafeteria.jpg", "BG_Library.jpg"], "OST_0": ["BG_Library.jpg", "BG_RailWayCrossing.jpg"], "OST_38": ["BG_RailWayCrossing.jpg"]}, "track_to_char": {"OST_16": ["Izuna"], "OST_38": ["Izuna"]}, "char_to_bg": {"Izuna": ["BG_Residence.jpg", "BG_CityTown.jpg", "BG_SchoolCafeteria.jpg", "BG_Library.jpg", "BG_RailWayCrossing.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "02ad3bca-eff7-4894-a618-4b71fe5ade0a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IZUNA_2_NAME]",
+  "desc": [
+    "[STORY_BOND_IZUNA_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "IZUNA",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Residence.jpg",
+        "BG_CityTown.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Library.jpg",
+        "BG_RailWayCrossing.jpg"
+      ],
+      "character": [
+        "Izuna"
+      ],
+      "track": [
+        "OST_16",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Residence.jpg",
+        "BG_CityTown.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Library.jpg"
+      ],
+      "OST_0": [
+        "BG_Library.jpg",
+        "BG_RailWayCrossing.jpg"
+      ],
+      "OST_38": [
+        "BG_RailWayCrossing.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Izuna"
+      ],
+      "OST_38": [
+        "Izuna"
+      ]
+    },
+    "char_to_bg": {
+      "Izuna": [
+        "BG_Residence.jpg",
+        "BG_CityTown.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_Library.jpg",
+        "BG_RailWayCrossing.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

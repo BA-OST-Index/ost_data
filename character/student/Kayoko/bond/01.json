@@ -1,1 +1,64 @@
-{"uuid": "16b38cd5-3c66-4cab-8e73-056c2b78ef4f", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KAYOKO_1_NAME]", "desc": ["[STORY_BOND_KAYOKO_1_DESC_1]"], "pos": {"student": "KAYOKO", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityDowntown_Night.jpg"], "character": ["Kayoko"], "track": ["OST_33", "OST_15"]}, "track_to_bg": {"OST_33": ["BG_CityDowntown_Night.jpg"], "OST_0": ["BG_CityDowntown_Night.jpg"], "OST_15": ["BG_CityDowntown_Night.jpg"]}, "track_to_char": {"OST_33": ["Kayoko"], "OST_15": ["Kayoko"]}, "char_to_bg": {"Kayoko": ["BG_CityDowntown_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "7583ab7f-2524-4a7a-9df0-4a6b1783ca15",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KAYOKO_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KAYOKO_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KAYOKO",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "character": [
+        "Kayoko"
+      ],
+      "track": [
+        "OST_33",
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_CityDowntown_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Kayoko"
+      ],
+      "OST_15": [
+        "Kayoko"
+      ]
+    },
+    "char_to_bg": {
+      "Kayoko": [
+        "BG_CityDowntown_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

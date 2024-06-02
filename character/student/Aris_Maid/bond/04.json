@@ -1,0 +1,88 @@
+{
+  "uuid": "220e7a52-1d31-459b-92d3-5481140cabad",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_ARIS_MAID_4_NAME]",
+  "desc": [
+    "[STORY_BOND_ARIS_MAID_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "ARIS_MAID",
+    "segment": 4,
+    "favor_rank": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_VillaComplex.jpg",
+        "BG_CS_PV3_76.jpg",
+        "BG_CS_S1Final_32.jpg",
+        "BG_CS_PV_46.jpg",
+        "BG_CS_PV2_16.jpg",
+        "BG_CS_PV3_05.jpg",
+        "BG_CS_PV4_086.jpg",
+        "BG_CS_Millenium_18.jpg"
+      ],
+      "character": [
+        "Aris_Maid"
+      ],
+      "track": [
+        "OST_201",
+        "OST_209"
+      ]
+    },
+    "track_to_bg": {
+      "OST_201": [
+        "BG_MainOffice.jpg",
+        "BG_VillaComplex.jpg"
+      ],
+      "OST_0": [
+        "BG_VillaComplex.jpg"
+      ],
+      "OST_209": [
+        "BG_VillaComplex.jpg",
+        "BG_CS_PV3_76.jpg",
+        "BG_CS_S1Final_32.jpg",
+        "BG_CS_PV_46.jpg",
+        "BG_CS_PV2_16.jpg",
+        "BG_CS_PV3_05.jpg",
+        "BG_CS_PV4_086.jpg",
+        "BG_CS_Millenium_18.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_201": [
+        "Aris_Maid"
+      ],
+      "OST_209": [
+        "Aris_Maid"
+      ]
+    },
+    "char_to_bg": {
+      "Aris_Maid": [
+        "BG_MainOffice.jpg",
+        "BG_VillaComplex.jpg",
+        "BG_CS_PV3_76.jpg",
+        "BG_CS_S1Final_32.jpg",
+        "BG_CS_PV_46.jpg",
+        "BG_CS_PV2_16.jpg",
+        "BG_CS_PV3_05.jpg",
+        "BG_CS_PV4_086.jpg",
+        "BG_CS_Millenium_18.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

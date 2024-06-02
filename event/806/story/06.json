@@ -1,1 +1,97 @@
-{"uuid": "20634f08-e8df-4301-9468-aa617b963b8b", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_806_6_NAME]", "desc": ["[STORY_EVENT_806_6_DESC_1]"], "pos": {"event_id": 806, "segment": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_LuxuriousRooms.jpg"], "character": ["Neru_Bunny", "Akane_Bunny", "Karin_Bunny"], "track": ["OST_6", "OST_3", "OST_7"]}, "track_to_bg": {"OST_0": ["BG_LuxuriousRooms.jpg"], "OST_6": ["BG_LuxuriousRooms.jpg"], "OST_3": ["BG_LuxuriousRooms.jpg"], "OST_7": ["BG_LuxuriousRooms.jpg"]}, "track_to_char": {"OST_6": ["Neru_Bunny", "Akane_Bunny", "Karin_Bunny"], "OST_3": ["Neru_Bunny", "Akane_Bunny", "Karin_Bunny"], "OST_7": ["Karin_Bunny", "Neru_Bunny", "Akane_Bunny"]}, "char_to_bg": {"Neru_Bunny": ["BG_LuxuriousRooms.jpg"], "Akane_Bunny": ["BG_LuxuriousRooms.jpg"], "Karin_Bunny": ["BG_LuxuriousRooms.jpg"]}, "char_to_char": {"Akane_Bunny": ["Neru_Bunny", "Karin_Bunny"], "Karin_Bunny": ["Neru_Bunny", "Akane_Bunny"], "Neru_Bunny": ["Akane_Bunny", "Karin_Bunny"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "fd04eaef-3c93-4e67-bd74-8c0b4f68ae59",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_806_6_NAME]",
+  "desc": [
+    "[STORY_EVENT_806_6_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 806,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "character": [
+        "Neru_Bunny",
+        "Akane_Bunny",
+        "Karin_Bunny"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "OST_6": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "OST_3": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "OST_7": [
+        "BG_LuxuriousRooms.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Neru_Bunny",
+        "Akane_Bunny",
+        "Karin_Bunny"
+      ],
+      "OST_3": [
+        "Neru_Bunny",
+        "Akane_Bunny",
+        "Karin_Bunny"
+      ],
+      "OST_7": [
+        "Karin_Bunny",
+        "Neru_Bunny",
+        "Akane_Bunny"
+      ]
+    },
+    "char_to_bg": {
+      "Neru_Bunny": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "Akane_Bunny": [
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "Karin_Bunny": [
+        "BG_LuxuriousRooms.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Akane_Bunny": [
+        "Neru_Bunny",
+        "Karin_Bunny"
+      ],
+      "Karin_Bunny": [
+        "Neru_Bunny",
+        "Akane_Bunny"
+      ],
+      "Neru_Bunny": [
+        "Akane_Bunny",
+        "Karin_Bunny"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

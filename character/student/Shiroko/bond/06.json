@@ -1,1 +1,63 @@
-{"uuid": "2dc9476c-63e6-43f4-8ca9-e9632fc04797", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIROKO_6_NAME]", "desc": ["[STORY_BOND_SHIROKO_6_DESC_1]"], "pos": {"student": "SHIROKO", "segment": 6, "favor_rank": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassRoom.jpg"], "character": ["Shiroko"], "track": ["OST_2", "OST_9"]}, "track_to_bg": {"OST_2": ["BG_ClassRoom.jpg"], "OST_0": ["BG_ClassRoom.jpg"], "OST_9": ["BG_ClassRoom.jpg"]}, "track_to_char": {"OST_2": ["Shiroko"], "OST_9": ["Shiroko"]}, "char_to_bg": {"Shiroko": ["BG_ClassRoom.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_9"}}, "is_memory": true}
+{
+  "uuid": "42356f52-a078-448f-aac8-bb5ceeb100f9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIROKO_6_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIROKO_6_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIROKO",
+    "segment": 6,
+    "favor_rank": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassRoom.jpg"
+      ],
+      "character": [
+        "Shiroko"
+      ],
+      "track": [
+        "OST_2",
+        "OST_9"
+      ]
+    },
+    "track_to_bg": {
+      "OST_2": [
+        "BG_ClassRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_ClassRoom.jpg"
+      ],
+      "OST_9": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_2": [
+        "Shiroko"
+      ],
+      "OST_9": [
+        "Shiroko"
+      ]
+    },
+    "char_to_bg": {
+      "Shiroko": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_9"
+    }
+  },
+  "is_memory": true
+}

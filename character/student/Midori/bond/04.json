@@ -1,1 +1,63 @@
-{"uuid": "51f91b38-71d6-4f84-bbd9-155200c2b941", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIDORI_4_NAME]", "desc": ["[STORY_BOND_MIDORI_4_DESC_1]"], "pos": {"student": "MIDORI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Arcade.jpg"], "character": ["Midori"], "track": ["OST_64", "OST_36"]}, "track_to_bg": {"OST_64": ["BG_Arcade.jpg"], "OST_0": ["BG_Arcade.jpg"], "OST_36": ["BG_Arcade.jpg"]}, "track_to_char": {"OST_64": ["Midori"], "OST_36": ["Midori"]}, "char_to_bg": {"Midori": ["BG_Arcade.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "14ab5aec-87c9-479d-b1ed-d20ebc51ba47",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIDORI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_MIDORI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIDORI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Arcade.jpg"
+      ],
+      "character": [
+        "Midori"
+      ],
+      "track": [
+        "OST_64",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_64": [
+        "BG_Arcade.jpg"
+      ],
+      "OST_0": [
+        "BG_Arcade.jpg"
+      ],
+      "OST_36": [
+        "BG_Arcade.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_64": [
+        "Midori"
+      ],
+      "OST_36": [
+        "Midori"
+      ]
+    },
+    "char_to_bg": {
+      "Midori": [
+        "BG_Arcade.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

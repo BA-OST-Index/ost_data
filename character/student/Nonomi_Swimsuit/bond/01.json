@@ -1,1 +1,74 @@
-{"uuid": "ea69c8c8-c984-41da-91f0-fa68b6c744c5", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_NONOMI_SWIMSUIT_1_NAME]", "desc": ["[STORY_BOND_NONOMI_SWIMSUIT_1_DESC_1]"], "pos": {"student": "NONOMI_SWIMSUIT", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ResortHotel.jpg", "BG_IslandBeach.jpg"], "character": ["Nonomi_Swimsuit"], "track": ["OST_4", "OST_120", "OST_22"]}, "track_to_bg": {"OST_4": ["BG_ResortHotel.jpg"], "OST_0": ["BG_ResortHotel.jpg", "BG_IslandBeach.jpg"], "OST_120": ["BG_IslandBeach.jpg"], "OST_22": ["BG_IslandBeach.jpg"]}, "track_to_char": {"OST_4": ["Nonomi_Swimsuit"], "OST_120": ["Nonomi_Swimsuit"], "OST_22": ["Nonomi_Swimsuit"]}, "char_to_bg": {"Nonomi_Swimsuit": ["BG_ResortHotel.jpg", "BG_IslandBeach.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "6a5b4c56-a195-458c-a713-80c8b0f04844",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_NONOMI_SWIMSUIT_1_NAME]",
+  "desc": [
+    "[STORY_BOND_NONOMI_SWIMSUIT_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "NONOMI_SWIMSUIT",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ResortHotel.jpg",
+        "BG_IslandBeach.jpg"
+      ],
+      "character": [
+        "Nonomi_Swimsuit"
+      ],
+      "track": [
+        "OST_4",
+        "OST_120",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_4": [
+        "BG_ResortHotel.jpg"
+      ],
+      "OST_0": [
+        "BG_ResortHotel.jpg",
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_120": [
+        "BG_IslandBeach.jpg"
+      ],
+      "OST_22": [
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Nonomi_Swimsuit"
+      ],
+      "OST_120": [
+        "Nonomi_Swimsuit"
+      ],
+      "OST_22": [
+        "Nonomi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Nonomi_Swimsuit": [
+        "BG_ResortHotel.jpg",
+        "BG_IslandBeach.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

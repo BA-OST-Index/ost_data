@@ -1,1 +1,73 @@
-{"uuid": "7b28c00e-c7d0-4b54-aa8a-7463b8c9d8dd", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_811_7_NAME]", "desc": ["[STORY_EVENT_811_7_DESC_1]"], "pos": {"event_id": 811, "segment": 7}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ValkyrieOffice.jpg", "BG_Prison.jpg", "BG_CityOffice.jpg"], "character": ["Sena", "Fubuki", "Wakamo"], "track": ["OST_16", "OST_18"]}, "track_to_bg": {"OST_16": ["BG_ValkyrieOffice.jpg", "BG_Prison.jpg"], "OST_0": ["BG_Prison.jpg", "BG_CityOffice.jpg"], "OST_18": ["BG_CityOffice.jpg"]}, "track_to_char": {"OST_18": ["Fubuki", "Wakamo"]}, "char_to_bg": {"Sena": ["BG_CityOffice.jpg"], "Fubuki": ["BG_CityOffice.jpg"], "Wakamo": ["BG_CityOffice.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "4cde5dbd-5bb2-46bb-b65f-2a9d476b99ef",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_811_7_NAME]",
+  "desc": [
+    "[STORY_EVENT_811_7_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 811,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_Prison.jpg",
+        "BG_CityOffice.jpg"
+      ],
+      "character": [
+        "Sena",
+        "Fubuki",
+        "Wakamo"
+      ],
+      "track": [
+        "OST_16",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_Prison.jpg"
+      ],
+      "OST_0": [
+        "BG_Prison.jpg",
+        "BG_CityOffice.jpg"
+      ],
+      "OST_18": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Fubuki",
+        "Wakamo"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_CityOffice.jpg"
+      ],
+      "Fubuki": [
+        "BG_CityOffice.jpg"
+      ],
+      "Wakamo": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

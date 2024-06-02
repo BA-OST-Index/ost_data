@@ -1,1 +1,128 @@
-{"uuid": "48b025ed-7065-4f64-8a28-95979f54eeb0", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_4_NAME]", "desc": ["[STORY_EVENT_804_4_DESC_1]"], "pos": {"event_id": 804, "segment": 4}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GehennaClubRoom2.jpg", "BG_LuxuriousRooms.jpg", "BG_Beachside.jpg"], "character": ["Iori_Swimsuit", "Chinatsu", "Ako", "Hina_Swimsuit"], "track": ["OST_13", "OST_8", "OST_37", "OST_29"]}, "track_to_bg": {"OST_13": ["BG_GehennaClubRoom2.jpg", "BG_LuxuriousRooms.jpg"], "OST_0": ["BG_GehennaClubRoom2.jpg", "BG_LuxuriousRooms.jpg", "BG_Beachside.jpg"], "OST_8": ["BG_GehennaClubRoom2.jpg"], "OST_37": ["BG_Beachside.jpg"], "OST_29": ["BG_Beachside.jpg"]}, "track_to_char": {"OST_13": ["Iori_Swimsuit", "Chinatsu", "Hina_Swimsuit", "Ako"], "OST_8": ["Ako", "Iori_Swimsuit", "Chinatsu"], "OST_37": ["Hina_Swimsuit"], "OST_29": ["Ako", "Iori_Swimsuit", "Chinatsu", "Hina_Swimsuit"]}, "char_to_bg": {"Iori_Swimsuit": ["BG_GehennaClubRoom2.jpg", "BG_LuxuriousRooms.jpg", "BG_Beachside.jpg"], "Chinatsu": ["BG_GehennaClubRoom2.jpg", "BG_Beachside.jpg"], "Ako": ["BG_GehennaClubRoom2.jpg", "BG_Beachside.jpg"], "Hina_Swimsuit": ["BG_LuxuriousRooms.jpg", "BG_Beachside.jpg"]}, "char_to_char": {"Chinatsu": ["Iori_Swimsuit", "Ako", "Hina_Swimsuit"], "Ako": ["Iori_Swimsuit", "Chinatsu", "Hina_Swimsuit"], "Iori_Swimsuit": ["Chinatsu", "Ako", "Hina_Swimsuit"], "Hina_Swimsuit": ["Iori_Swimsuit", "Ako", "Chinatsu"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "b403531c-5454-46f2-bd4e-81a01f73b478",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_LuxuriousRooms.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "character": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako",
+        "Hina_Swimsuit"
+      ],
+      "track": [
+        "OST_13",
+        "OST_8",
+        "OST_37",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_LuxuriousRooms.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_LuxuriousRooms.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_8": [
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_37": [
+        "BG_Beachside.jpg"
+      ],
+      "OST_29": [
+        "BG_Beachside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina_Swimsuit",
+        "Ako"
+      ],
+      "OST_8": [
+        "Ako",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ],
+      "OST_37": [
+        "Hina_Swimsuit"
+      ],
+      "OST_29": [
+        "Ako",
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Iori_Swimsuit": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_LuxuriousRooms.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "Chinatsu": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "Ako": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "Hina_Swimsuit": [
+        "BG_LuxuriousRooms.jpg",
+        "BG_Beachside.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Chinatsu": [
+        "Iori_Swimsuit",
+        "Ako",
+        "Hina_Swimsuit"
+      ],
+      "Ako": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina_Swimsuit"
+      ],
+      "Iori_Swimsuit": [
+        "Chinatsu",
+        "Ako",
+        "Hina_Swimsuit"
+      ],
+      "Hina_Swimsuit": [
+        "Iori_Swimsuit",
+        "Ako",
+        "Chinatsu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,84 @@
-{"uuid": "cd96013b-0675-4063-b2b5-1d6bfa6a555a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_YUUKA_TRACK_3_NAME]", "desc": ["[STORY_BOND_YUUKA_TRACK_3_DESC_1]"], "pos": {"student": "YUUKA_TRACK", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg"], "character": ["Yuuka_Track"], "track": ["OST_10", "OST_23", "OST_3"]}, "track_to_bg": {"OST_10": ["BG_CraftChamber.jpg"], "OST_0": ["BG_CraftChamber.jpg"], "OST_23": ["BG_CraftChamber.jpg"], "OST_3": ["BG_CraftChamber.jpg"]}, "track_to_char": {"OST_10": ["Yuuka_Track"], "OST_23": ["Yuuka_Track"], "OST_3": ["Yuuka_Track"]}, "char_to_bg": {"Yuuka_Track": ["BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "827f57cc-9ebe-4d25-aab6-93dfe4d14ff0",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_YUUKA_TRACK_3_NAME]",
+  "desc": [
+    "[STORY_BOND_YUUKA_TRACK_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "YUUKA_TRACK",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Yuuka_Track",
+        "Broadcaster"
+      ],
+      "track": [
+        "OST_10",
+        "OST_23",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_23": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_3": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Yuuka_Track",
+        "Broadcaster"
+      ],
+      "OST_23": [
+        "Broadcaster",
+        "Yuuka_Track"
+      ],
+      "OST_3": [
+        "Yuuka_Track"
+      ]
+    },
+    "char_to_bg": {
+      "Yuuka_Track": [
+        "BG_CraftChamber.jpg"
+      ],
+      "Broadcaster": [
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Broadcaster": [
+        "Yuuka_Track"
+      ],
+      "Yuuka_Track": [
+        "Broadcaster"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,163 @@
-{"uuid": "2241acb7-3987-45ab-abd8-bb1aeec77268", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_811_12_NAME]", "desc": ["[STORY_EVENT_811_12_DESC_1]"], "pos": {"event_id": 811, "segment": 12}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_DemolitionCity.jpg", "BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg", "BG_FoodCartRamen2.jpg", "BG_BigPlaza.jpg", "BG_InterrogationRoom.jpg", "BG_CS_Event_06.jpg", "BG_CraftChamber.jpg"], "character": ["Sena", "Wakamo", "Chihiro", "Fubuki", "Kirino"], "track": ["OST_101", "OST_16", "OST_18", "OST_93", "OST_102"]}, "track_to_bg": {"OST_101": ["BG_DemolitionCity.jpg"], "OST_0": ["BG_DemolitionCity.jpg", "BG_ShoppingDistrict.jpg", "BG_InterrogationRoom.jpg", "BG_CS_Event_06.jpg"], "OST_16": ["BG_DemolitionCity.jpg"], "OST_18": ["BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg", "BG_FoodCartRamen2.jpg", "BG_BigPlaza.jpg", "BG_InterrogationRoom.jpg"], "OST_93": ["BG_DemolitionCity.jpg", "BG_CS_Event_06.jpg"], "OST_102": ["BG_DemolitionCity.jpg", "BG_CraftChamber.jpg", "BG_ShoppingDistrict.jpg"]}, "track_to_char": {"OST_101": ["Sena", "Wakamo"], "OST_16": ["Chihiro"], "OST_18": ["Wakamo", "Fubuki", "Kirino", "Chihiro"], "OST_93": ["Wakamo"], "OST_102": ["Fubuki", "Sena", "Wakamo", "Chihiro", "Kirino"]}, "char_to_bg": {"Sena": ["BG_DemolitionCity.jpg", "BG_ShoppingDistrict.jpg"], "Wakamo": ["BG_DemolitionCity.jpg", "BG_ShoppingDistrict.jpg", "BG_Market.jpg", "BG_BuildingFrontGate.jpg", "BG_FoodCartRamen2.jpg", "BG_BigPlaza.jpg", "BG_CS_Event_06.jpg"], "Chihiro": ["BG_DemolitionCity.jpg", "BG_InterrogationRoom.jpg"], "Fubuki": ["BG_InterrogationRoom.jpg", "BG_CraftChamber.jpg", "BG_DemolitionCity.jpg"], "Kirino": ["BG_InterrogationRoom.jpg", "BG_DemolitionCity.jpg"]}, "char_to_char": {"Wakamo": ["Sena", "Chihiro", "Kirino", "Fubuki"], "Sena": ["Wakamo"], "Kirino": ["Fubuki", "Chihiro", "Wakamo"], "Chihiro": ["Fubuki", "Kirino", "Wakamo"], "Fubuki": ["Kirino", "Chihiro", "Wakamo"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "8d92a5b4-460f-48b2-8458-9141a2568c7b",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_811_12_NAME]",
+  "desc": [
+    "[STORY_EVENT_811_12_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 811,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DemolitionCity.jpg",
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_FoodCartRamen2.jpg",
+        "BG_BigPlaza.jpg",
+        "BG_InterrogationRoom.jpg",
+        "BG_CS_Event_06.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Sena",
+        "Wakamo",
+        "Chihiro",
+        "Fubuki",
+        "Kirino"
+      ],
+      "track": [
+        "OST_101",
+        "OST_16",
+        "OST_18",
+        "OST_93",
+        "OST_102"
+      ]
+    },
+    "track_to_bg": {
+      "OST_101": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_0": [
+        "BG_DemolitionCity.jpg",
+        "BG_ShoppingDistrict.jpg",
+        "BG_InterrogationRoom.jpg",
+        "BG_CS_Event_06.jpg"
+      ],
+      "OST_16": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_18": [
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_FoodCartRamen2.jpg",
+        "BG_BigPlaza.jpg",
+        "BG_InterrogationRoom.jpg"
+      ],
+      "OST_93": [
+        "BG_DemolitionCity.jpg",
+        "BG_CS_Event_06.jpg"
+      ],
+      "OST_102": [
+        "BG_DemolitionCity.jpg",
+        "BG_CraftChamber.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_101": [
+        "Sena",
+        "Wakamo"
+      ],
+      "OST_16": [
+        "Chihiro"
+      ],
+      "OST_18": [
+        "Wakamo",
+        "Fubuki",
+        "Kirino",
+        "Chihiro"
+      ],
+      "OST_93": [
+        "Wakamo"
+      ],
+      "OST_102": [
+        "Fubuki",
+        "Sena",
+        "Wakamo",
+        "Chihiro",
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Sena": [
+        "BG_DemolitionCity.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "Wakamo": [
+        "BG_DemolitionCity.jpg",
+        "BG_ShoppingDistrict.jpg",
+        "BG_Market.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_FoodCartRamen2.jpg",
+        "BG_BigPlaza.jpg",
+        "BG_CS_Event_06.jpg"
+      ],
+      "Chihiro": [
+        "BG_DemolitionCity.jpg",
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Fubuki": [
+        "BG_InterrogationRoom.jpg",
+        "BG_CraftChamber.jpg",
+        "BG_DemolitionCity.jpg"
+      ],
+      "Kirino": [
+        "BG_InterrogationRoom.jpg",
+        "BG_DemolitionCity.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Wakamo": [
+        "Sena",
+        "Chihiro",
+        "Kirino",
+        "Fubuki"
+      ],
+      "Sena": [
+        "Wakamo"
+      ],
+      "Kirino": [
+        "Fubuki",
+        "Chihiro",
+        "Wakamo"
+      ],
+      "Chihiro": [
+        "Fubuki",
+        "Kirino",
+        "Wakamo"
+      ],
+      "Fubuki": [
+        "Kirino",
+        "Chihiro",
+        "Wakamo"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

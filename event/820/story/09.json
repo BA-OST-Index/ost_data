@@ -1,1 +1,73 @@
-{"uuid": "79e0b328-d7da-49c9-a907-01cae80ac724", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_820_9_NAME]", "desc": ["[STORY_EVENT_820_9_DESC_1]"], "pos": {"event_id": 820, "segment": 9}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Yatai.jpg"], "character": ["Akari_NewYear", "Izumi", "Juri"], "track": ["OST_28", "OST_141"]}, "track_to_bg": {"OST_28": ["BG_Yatai.jpg"], "OST_0": ["BG_Yatai.jpg"], "OST_141": ["BG_Yatai.jpg"]}, "track_to_char": {"OST_28": ["Akari_NewYear", "Izumi"], "OST_141": ["Akari_NewYear", "Izumi"]}, "char_to_bg": {"Akari_NewYear": ["BG_Yatai.jpg"], "Izumi": ["BG_Yatai.jpg"], "Juri": ["BG_Yatai.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "24fb29a7-3863-4da0-b139-e8886a213a2a",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_820_9_NAME]",
+  "desc": [
+    "[STORY_EVENT_820_9_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 820,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Yatai.jpg"
+      ],
+      "character": [
+        "Akari_NewYear",
+        "Izumi_NewYear",
+        "Juri"
+      ],
+      "track": [
+        "OST_28",
+        "OST_141"
+      ]
+    },
+    "track_to_bg": {
+      "OST_28": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_0": [
+        "BG_Yatai.jpg"
+      ],
+      "OST_141": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ],
+      "OST_141": [
+        "Akari_NewYear",
+        "Izumi_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Akari_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Izumi_NewYear": [
+        "BG_Yatai.jpg"
+      ],
+      "Juri": [
+        "BG_Yatai.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

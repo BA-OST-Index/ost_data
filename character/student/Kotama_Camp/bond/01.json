@@ -1,0 +1,70 @@
+{
+  "uuid": "9b72dbe3-14df-4b35-bef7-c227072ec3c6",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTAMA_CAMP_1_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTAMA_CAMP_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTAMA_CAMP",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_View_Sky.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_LemonForest2.jpg"
+      ],
+      "character": [
+        "Kotama_Camp"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_View_Sky.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_LemonForest2.jpg"
+      ],
+      "OST_0": [
+        "BG_LemonForest2.jpg",
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_3": [
+        "BG_LemonForest2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Kotama_Camp"
+      ],
+      "OST_3": [
+        "Kotama_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Kotama_Camp": [
+        "BG_ForestRoad.jpg",
+        "BG_LemonForest2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

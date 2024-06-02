@@ -1,1 +1,64 @@
-{"uuid": "81d93b7b-abb6-4d94-a0e3-79339e964cfc", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_KOTORI_3_NAME]", "desc": ["[STORY_BOND_KOTORI_3_DESC_1]"], "pos": {"student": "KOTORI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg"], "character": ["Kotori"], "track": ["OST_16", "OST_3"]}, "track_to_bg": {"OST_16": ["BG_Library.jpg"], "OST_0": ["BG_Library.jpg"], "OST_3": ["BG_Library.jpg"]}, "track_to_char": {"OST_16": ["Kotori"], "OST_3": ["Kotori"]}, "char_to_bg": {"Kotori": ["BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "64e85656-d4f6-4197-9a7f-69d9e29e0a02",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_KOTORI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_KOTORI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "KOTORI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Kotori"
+      ],
+      "track": [
+        "OST_16",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Library.jpg"
+      ],
+      "OST_0": [
+        "BG_Library.jpg"
+      ],
+      "OST_3": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Kotori"
+      ],
+      "OST_3": [
+        "Kotori"
+      ]
+    },
+    "char_to_bg": {
+      "Kotori": [
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,1 +1,74 @@
-{"uuid": "150bdcf3-0d93-4a2e-a6f1-b1b045c3e9c5", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IROHA_3_NAME]", "desc": ["[STORY_BOND_IROHA_3_DESC_1]"], "pos": {"student": "IROHA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CraftChamber.jpg", "BG_ShoppingDistrict.jpg"], "character": ["Iroha"], "track": ["OST_16", "OST_33", "OST_63"]}, "track_to_bg": {"OST_0": ["BG_CraftChamber.jpg", "BG_ShoppingDistrict.jpg"], "OST_16": ["BG_CraftChamber.jpg"], "OST_33": ["BG_ShoppingDistrict.jpg"], "OST_63": ["BG_ShoppingDistrict.jpg"]}, "track_to_char": {"OST_16": ["Iroha"], "OST_33": ["Iroha"], "OST_63": ["Iroha"]}, "char_to_bg": {"Iroha": ["BG_CraftChamber.jpg", "BG_ShoppingDistrict.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "38fdf6fa-55b0-4eb8-a1ca-890be3a9c802",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IROHA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_IROHA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "IROHA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "character": [
+        "Iroha"
+      ],
+      "track": [
+        "OST_16",
+        "OST_33",
+        "OST_63"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_16": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_33": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_63": [
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Iroha"
+      ],
+      "OST_33": [
+        "Iroha"
+      ],
+      "OST_63": [
+        "Iroha"
+      ]
+    },
+    "char_to_bg": {
+      "Iroha": [
+        "BG_CraftChamber.jpg",
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

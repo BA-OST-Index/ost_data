@@ -1,1 +1,129 @@
-{"uuid": "ff6736d8-10e2-48c9-b151-89e22ab77a2d", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_804_2_NAME]", "desc": ["[STORY_EVENT_804_2_DESC_1]"], "pos": {"event_id": 804, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_CS_Event_02.jpg", "BG_GehennaClubRoom2.jpg"], "character": ["Iori_Swimsuit", "Chinatsu", "Ako", "Hina"], "track": ["OST_80", "OST_3", "OST_7", "OST_29"]}, "track_to_bg": {"OST_0": ["BG_Beachside.jpg", "BG_GehennaClubRoom2.jpg"], "OST_80": ["BG_Beachside.jpg", "BG_CS_Event_02.jpg", "BG_GehennaClubRoom2.jpg"], "OST_3": ["BG_GehennaClubRoom2.jpg"], "OST_7": ["BG_GehennaClubRoom2.jpg", "BG_Beachside.jpg"], "OST_29": ["BG_GehennaClubRoom2.jpg"]}, "track_to_char": {"OST_80": ["Iori_Swimsuit", "Chinatsu", "Ako"], "OST_3": ["Iori_Swimsuit", "Chinatsu"], "OST_7": ["Iori_Swimsuit", "Ako", "Chinatsu", "Hina"], "OST_29": ["Ako", "Iori_Swimsuit", "Chinatsu"]}, "char_to_bg": {"Iori_Swimsuit": ["BG_CS_Event_02.jpg", "BG_Beachside.jpg", "BG_GehennaClubRoom2.jpg"], "Chinatsu": ["BG_CS_Event_02.jpg", "BG_Beachside.jpg", "BG_GehennaClubRoom2.jpg"], "Ako": ["BG_Beachside.jpg", "BG_GehennaClubRoom2.jpg"], "Hina": ["BG_GehennaClubRoom2.jpg"]}, "char_to_char": {"Chinatsu": ["Iori_Swimsuit", "Ako", "Hina"], "Iori_Swimsuit": ["Chinatsu", "Ako", "Hina"], "Ako": ["Iori_Swimsuit", "Chinatsu", "Hina"], "Hina": ["Ako", "Iori_Swimsuit", "Chinatsu"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "67fc474b-f9a8-4c8c-b5fc-9a36ab5e87dd",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_804_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_804_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 804,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_CS_Event_02.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "character": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako",
+        "Hina"
+      ],
+      "track": [
+        "OST_80",
+        "OST_3",
+        "OST_7",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_80": [
+        "BG_Beachside.jpg",
+        "BG_CS_Event_02.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_3": [
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "OST_7": [
+        "BG_GehennaClubRoom2.jpg",
+        "BG_Beachside.jpg"
+      ],
+      "OST_29": [
+        "BG_GehennaClubRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_80": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Ako"
+      ],
+      "OST_3": [
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ],
+      "OST_7": [
+        "Iori_Swimsuit",
+        "Ako",
+        "Chinatsu",
+        "Hina"
+      ],
+      "OST_29": [
+        "Ako",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ]
+    },
+    "char_to_bg": {
+      "Iori_Swimsuit": [
+        "BG_CS_Event_02.jpg",
+        "BG_Beachside.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Chinatsu": [
+        "BG_CS_Event_02.jpg",
+        "BG_Beachside.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Ako": [
+        "BG_Beachside.jpg",
+        "BG_GehennaClubRoom2.jpg"
+      ],
+      "Hina": [
+        "BG_GehennaClubRoom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Chinatsu": [
+        "Iori_Swimsuit",
+        "Ako",
+        "Hina"
+      ],
+      "Iori_Swimsuit": [
+        "Chinatsu",
+        "Ako",
+        "Hina"
+      ],
+      "Ako": [
+        "Iori_Swimsuit",
+        "Chinatsu",
+        "Hina"
+      ],
+      "Hina": [
+        "Ako",
+        "Iori_Swimsuit",
+        "Chinatsu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

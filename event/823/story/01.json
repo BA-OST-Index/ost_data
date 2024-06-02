@@ -1,0 +1,53 @@
+{
+  "uuid": "95b71879-4a09-492f-a769-15d9ef61be6c",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_823_1_NAME]",
+  "desc": [
+    "[STORY_EVENT_823_1_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 823,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "character": [
+        "Arona"
+      ],
+      "track": [
+        "OST_157"
+      ]
+    },
+    "track_to_bg": {
+      "OST_157": [
+        "BG_FrenapatisLobby.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_157": [
+        "Arona"
+      ]
+    },
+    "char_to_bg": {
+      "Arona": [
+        "BG_FrenapatisLobby.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

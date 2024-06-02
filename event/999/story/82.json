@@ -1,1 +1,63 @@
-{"uuid": "bd5f73c3-c898-4c40-b2d3-fb83edccf690", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_82_NAME]", "desc": ["[STORY_EVENT_999_82_DESC_1]"], "pos": {"event_id": 999, "segment": 82}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassRoom2.jpg"], "character": ["Himari"], "track": ["OST_16", "OST_3"]}, "track_to_bg": {"OST_16": ["BG_ClassRoom2.jpg"], "OST_0": ["BG_ClassRoom2.jpg"], "OST_3": ["BG_ClassRoom2.jpg"]}, "track_to_char": {"OST_16": ["Himari"], "OST_3": ["Himari"]}, "char_to_bg": {"Himari": ["BG_ClassRoom2.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "88ea20f2-4e58-4247-8f98-00b13707921f",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_82_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_82_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 82
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "character": [
+        "Himari"
+      ],
+      "track": [
+        "OST_16",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_0": [
+        "BG_ClassRoom2.jpg"
+      ],
+      "OST_3": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Himari"
+      ],
+      "OST_3": [
+        "Himari"
+      ]
+    },
+    "char_to_bg": {
+      "Himari": [
+        "BG_ClassRoom2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,56 @@
-{"uuid": "ac8deb9b-cdd4-486c-b9b5-c4d932cde406", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_33_NAME]", "desc": ["[STORY_EVENT_999_33_DESC_1]"], "pos": {"event_id": 999, "segment": 33}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityClubRoom.jpg"], "character": ["Hasumi"], "track": ["OST_47"]}, "track_to_bg": {"OST_0": ["BG_TrinityClubRoom.jpg"], "OST_47": ["BG_TrinityClubRoom.jpg"]}, "track_to_char": {"OST_47": ["Hasumi"]}, "char_to_bg": {"Hasumi": ["BG_TrinityClubRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "6b503188-568f-47cb-8122-90846bfadb1d",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_33_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_33_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 33
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "character": [
+        "Hasumi"
+      ],
+      "track": [
+        "OST_47"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_47": [
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Hasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

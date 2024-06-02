@@ -1,1 +1,70 @@
-{"uuid": "3693d33f-8d6d-4e6b-96a2-1a7f6fd566c3", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_999_38_NAME]", "desc": ["[STORY_EVENT_999_38_DESC_1]"], "pos": {"event_id": 999, "segment": 38}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_KohshinjoRoom.jpg"], "character": ["Mutsuki"], "track": ["OST_16", "OST_18", "OST_5"]}, "track_to_bg": {"OST_0": ["BG_KohshinjoRoom.jpg"], "OST_16": ["BG_KohshinjoRoom.jpg"], "OST_18": ["BG_KohshinjoRoom.jpg"], "OST_5": ["BG_KohshinjoRoom.jpg"]}, "track_to_char": {"OST_16": ["Mutsuki"], "OST_18": ["Mutsuki"], "OST_5": ["Mutsuki"]}, "char_to_bg": {"Mutsuki": ["BG_KohshinjoRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "faa287c0-a430-49a5-be2d-00faecb7ddd6",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_999_38_NAME]",
+  "desc": [
+    "[STORY_EVENT_999_38_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 999,
+    "segment": 38
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Mutsuki"
+      ],
+      "track": [
+        "OST_16",
+        "OST_18",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_16": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_18": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "OST_5": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Mutsuki"
+      ],
+      "OST_18": [
+        "Mutsuki"
+      ],
+      "OST_5": [
+        "Mutsuki"
+      ]
+    },
+    "char_to_bg": {
+      "Mutsuki": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,1 +1,63 @@
-{"uuid": "fd733c32-23fa-471f-8f4f-5ddfb543da1d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MAKI_5_NAME]", "desc": ["[STORY_BOND_MAKI_5_DESC_1]"], "pos": {"student": "MAKI", "segment": 5, "favor_rank": 8}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityOffice.jpg"], "character": ["Maki"], "track": ["OST_33", "OST_36"]}, "track_to_bg": {"OST_33": ["BG_CityOffice.jpg"], "OST_0": ["BG_CityOffice.jpg"], "OST_36": ["BG_CityOffice.jpg"]}, "track_to_char": {"OST_33": ["Maki"], "OST_36": ["Maki"]}, "char_to_bg": {"Maki": ["BG_CityOffice.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "8eda1f0d-c327-4ea1-be3b-7eb90c61703b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MAKI_5_NAME]",
+  "desc": [
+    "[STORY_BOND_MAKI_5_DESC_1]"
+  ],
+  "pos": {
+    "student": "MAKI",
+    "segment": 5,
+    "favor_rank": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice.jpg"
+      ],
+      "character": [
+        "Maki"
+      ],
+      "track": [
+        "OST_33",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_CityOffice.jpg"
+      ],
+      "OST_36": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Maki"
+      ],
+      "OST_36": [
+        "Maki"
+      ]
+    },
+    "char_to_bg": {
+      "Maki": [
+        "BG_CityOffice.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

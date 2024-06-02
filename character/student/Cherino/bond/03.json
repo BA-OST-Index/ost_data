@@ -1,1 +1,67 @@
-{"uuid": "905bf25d-fcc4-48df-ae0a-5ddcb09dd9e0", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHERINO_3_NAME]", "desc": ["[STORY_BOND_CHERINO_3_DESC_1]"], "pos": {"student": "CHERINO", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Market.jpg", "BG_DessertCafe.jpg"], "character": ["Cherino"], "track": ["OST_13", "OST_7"]}, "track_to_bg": {"OST_13": ["BG_Market.jpg", "BG_DessertCafe.jpg"], "OST_0": ["BG_DessertCafe.jpg"], "OST_7": ["BG_DessertCafe.jpg"]}, "track_to_char": {"OST_13": ["Cherino"], "OST_7": ["Cherino"]}, "char_to_bg": {"Cherino": ["BG_Market.jpg", "BG_DessertCafe.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "123b69f4-7e67-4e02-8732-69abbca0805e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHERINO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_CHERINO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHERINO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Market.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "character": [
+        "Cherino"
+      ],
+      "track": [
+        "OST_13",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_Market.jpg",
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_0": [
+        "BG_DessertCafe.jpg"
+      ],
+      "OST_7": [
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Cherino"
+      ],
+      "OST_7": [
+        "Cherino"
+      ]
+    },
+    "char_to_bg": {
+      "Cherino": [
+        "BG_Market.jpg",
+        "BG_DessertCafe.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

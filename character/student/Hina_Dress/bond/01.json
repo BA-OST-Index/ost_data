@@ -1,0 +1,81 @@
+{
+  "uuid": "e02c662a-fd0d-42c5-b71a-8a2531a91ea2",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINA_DRESS_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HINA_DRESS_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINA_DRESS",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_Storage.jpg"
+      ],
+      "character": [
+        "Hina"
+      ],
+      "track": [
+        "OST_44",
+        "OST_38",
+        "OST_130",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_44": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_Storage.jpg"
+      ],
+      "OST_38": [
+        "BG_Storage.jpg"
+      ],
+      "OST_130": [
+        "BG_Storage.jpg"
+      ],
+      "OST_22": [
+        "BG_Storage.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Hina"
+      ],
+      "OST_38": [
+        "Hina"
+      ],
+      "OST_130": [
+        "Hina"
+      ],
+      "OST_22": [
+        "Hina"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_CraftChamber.jpg",
+        "BG_Storage.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

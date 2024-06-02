@@ -1,0 +1,67 @@
+{
+  "uuid": "7e32ecbd-825c-45bc-8b7c-b2ffd4c724a9",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHOKUHOU_MISAKI_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHOKUHOU_MISAKI_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHOKUHOU_MISAKI",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolGround.jpg",
+        "BG_Ward.jpg"
+      ],
+      "character": [
+        "Shokuhou_Misaki"
+      ],
+      "track": [
+        "OST_6",
+        "OST_194"
+      ]
+    },
+    "track_to_bg": {
+      "OST_6": [
+        "BG_SchoolGround.jpg",
+        "BG_Ward.jpg"
+      ],
+      "OST_0": [
+        "BG_Ward.jpg"
+      ],
+      "OST_194": [
+        "BG_Ward.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Shokuhou_Misaki"
+      ],
+      "OST_194": [
+        "Shokuhou_Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Shokuhou_Misaki": [
+        "BG_SchoolGround.jpg",
+        "BG_Ward.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

@@ -1,0 +1,201 @@
+{
+  "uuid": "c0f0988e-0ad5-46ab-93d8-2558f32b8dc1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_823_3_NAME]",
+  "desc": [
+    "[STORY_EVENT_823_3_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 823,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_S1Final_04.jpg",
+        "BG_CS_S1Final_41.jpg",
+        "BG_FrenapatisLobby.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_CS_S1Final_16.jpg",
+        "BG_CS_S1Final_17.jpg",
+        "BG_CS_S1Final_42.jpg",
+        "BG_CS_PV4_081.jpg",
+        "BG_CS_PV4_083.jpg",
+        "BG_CS_S1Final_43.jpg",
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_44.jpg",
+        "BG_CS_S1Final_12.jpg",
+        "BG_CS_PV4_082.jpg",
+        "BG_CS_Abydos_12.jpg"
+      ],
+      "character": [
+        "ShirokoTerror",
+        "Phrenapates",
+        "Arona",
+        "Shiroko",
+        "Hanako",
+        "Ayane",
+        "Nonomi",
+        "Serika",
+        "Hoshino"
+      ],
+      "track": [
+        "OST_135",
+        "OST_105",
+        "OST_35"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CS_S1Final_04.jpg",
+        "BG_CS_S1Final_41.jpg",
+        "BG_FrenapatisLobby.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_CS_S1Final_16.jpg",
+        "BG_CS_S1Final_17.jpg",
+        "BG_CS_S1Final_42.jpg",
+        "BG_CS_PV4_081.jpg",
+        "BG_CS_PV4_083.jpg",
+        "BG_CS_S1Final_43.jpg",
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_12.jpg",
+        "BG_CS_PV4_082.jpg",
+        "BG_CS_Abydos_12.jpg"
+      ],
+      "OST_135": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "OST_105": [
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_44.jpg",
+        "BG_CS_S1Final_17.jpg",
+        "BG_FrenapatisLobby.jpg",
+        "BG_CS_S1Final_12.jpg"
+      ],
+      "OST_35": [
+        "BG_FrenapatisLobby.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_135": [
+        "Arona",
+        "Shiroko",
+        "ShirokoTerror"
+      ],
+      "OST_105": [
+        "ShirokoTerror",
+        "Ayane",
+        "Serika",
+        "Nonomi",
+        "Hoshino",
+        "Shiroko"
+      ],
+      "OST_35": [
+        "Nonomi",
+        "Ayane",
+        "Shiroko",
+        "Serika",
+        "ShirokoTerror"
+      ]
+    },
+    "char_to_bg": {
+      "ShirokoTerror": [
+        "BG_CS_S1Final_41.jpg",
+        "BG_FrenapatisLobby.jpg",
+        "BG_CS_S1Final_43.jpg",
+        "BG_CS_S1Final_43_2.jpg",
+        "BG_CS_S1Final_44.jpg",
+        "BG_CS_S1Final_17.jpg"
+      ],
+      "Phrenapates": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Arona": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Shiroko": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Ayane": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Nonomi": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Serika": [
+        "BG_FrenapatisLobby.jpg"
+      ],
+      "Hoshino": [
+        "BG_FrenapatisLobby.jpg",
+        "BG_CS_S1Final_12.jpg",
+        "BG_CS_PV4_082.jpg",
+        "BG_CS_Abydos_12.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Arona": [
+        "ShirokoTerror",
+        "Shiroko"
+      ],
+      "Shiroko": [
+        "ShirokoTerror",
+        "Arona",
+        "Ayane",
+        "Nonomi",
+        "Serika",
+        "Hoshino"
+      ],
+      "ShirokoTerror": [
+        "Arona",
+        "Shiroko",
+        "Ayane",
+        "Nonomi",
+        "Serika",
+        "Hoshino"
+      ],
+      "Ayane": [
+        "ShirokoTerror",
+        "Nonomi",
+        "Serika",
+        "Hoshino",
+        "Shiroko"
+      ],
+      "Nonomi": [
+        "ShirokoTerror",
+        "Ayane",
+        "Serika",
+        "Hoshino",
+        "Shiroko"
+      ],
+      "Serika": [
+        "ShirokoTerror",
+        "Ayane",
+        "Nonomi",
+        "Hoshino",
+        "Shiroko"
+      ],
+      "Hoshino": [
+        "ShirokoTerror",
+        "Ayane",
+        "Nonomi",
+        "Serika",
+        "Shiroko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

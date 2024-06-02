@@ -1,1 +1,75 @@
-{"uuid": "c51f5ee1-c6ad-4c23-8309-0d0f8ca83d0f", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_803_20_NAME]", "desc": ["[STORY_EVENT_803_20_DESC_1]"], "pos": {"event_id": 803, "segment": 20}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachFrontSide.jpg"], "character": ["Hifumi", "Tsurugi"], "track": ["OST_80", "OST_7"]}, "track_to_bg": {"OST_80": ["BG_BeachFrontSide.jpg"], "OST_0": ["BG_BeachFrontSide.jpg"], "OST_7": ["BG_BeachFrontSide.jpg"]}, "track_to_char": {"OST_80": ["Hifumi", "Tsurugi"], "OST_7": ["Tsurugi"]}, "char_to_bg": {"Hifumi": ["BG_BeachFrontSide.jpg"], "Tsurugi": ["BG_BeachFrontSide.jpg"]}, "char_to_char": {"Tsurugi": ["Hifumi"], "Hifumi": ["Tsurugi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "fcfddaab-0a74-4a41-8a2e-e3df412f6fc1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_803_20_NAME]",
+  "desc": [
+    "[STORY_EVENT_803_20_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 803,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit",
+        "Tsurugi_Swimsuit"
+      ],
+      "track": [
+        "OST_80",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_80": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_7": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_80": [
+        "Hifumi_Swimsuit",
+        "Tsurugi_Swimsuit"
+      ],
+      "OST_7": [
+        "Tsurugi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "Tsurugi_Swimsuit": [
+        "BG_BeachFrontSide.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsurugi_Swimsuit": [
+        "Hifumi_Swimsuit"
+      ],
+      "Hifumi_Swimsuit": [
+        "Tsurugi_Swimsuit"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

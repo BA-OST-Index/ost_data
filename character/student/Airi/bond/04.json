@@ -1,1 +1,59 @@
-{"uuid": "9aaa59f6-6516-4811-9afe-08da5b47bb4a", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_AIRI_4_NAME]", "desc": ["[STORY_BOND_AIRI_4_DESC_1]"], "pos": {"student": "AIRI", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_MainOffice.jpg", "BG_RiversideRoad.jpg"], "character": ["Airi"], "track": ["OST_10", "OST_36"]}, "track_to_bg": {"OST_0": ["BG_MainOffice.jpg", "BG_RiversideRoad.jpg"], "OST_10": ["BG_RiversideRoad.jpg"]}, "track_to_char": {"OST_10": ["Airi"]}, "char_to_bg": {"Airi": ["BG_RiversideRoad.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_36"}}, "is_memory": true}
+{
+  "uuid": "6bd271c1-1801-45a9-931f-16b92eed077b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_AIRI_4_NAME]",
+  "desc": [
+    "[STORY_BOND_AIRI_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "AIRI",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_RiversideRoad.jpg"
+      ],
+      "character": [
+        "Airi"
+      ],
+      "track": [
+        "OST_10",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_RiversideRoad.jpg"
+      ],
+      "OST_10": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Airi"
+      ]
+    },
+    "char_to_bg": {
+      "Airi": [
+        "BG_RiversideRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_36"
+    }
+  },
+  "is_memory": true
+}

@@ -1,1 +1,83 @@
-{"uuid": "6b8bacd9-a711-4441-9afa-d951e6877416", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_819_2_NAME]", "desc": ["[STORY_EVENT_819_2_DESC_1]"], "pos": {"event_id": 819, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassStairs.jpg", "BG_ClassCorridor2.jpg", "BG_ShoesCabinet.jpg"], "character": ["Hanae_Christmas", "Serina_Christmas"], "track": ["OST_10"]}, "track_to_bg": {"OST_10": ["BG_ClassStairs.jpg", "BG_ClassCorridor2.jpg", "BG_ShoesCabinet.jpg"]}, "track_to_char": {"OST_10": ["Hanae_Christmas", "Serina_Christmas"]}, "char_to_bg": {"Hanae_Christmas": ["BG_ClassStairs.jpg", "BG_ShoesCabinet.jpg"], "Serina_Christmas": ["BG_ClassStairs.jpg", "BG_ShoesCabinet.jpg"]}, "char_to_char": {"Serina_Christmas": ["Hanae_Christmas"], "Hanae_Christmas": ["Serina_Christmas"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "8a2a31e7-ca11-4137-b592-06b5d6ff2120",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_819_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_819_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 819,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassStairs.jpg",
+        "BG_ClassCorridor2.jpg",
+        "BG_ShoesCabinet.jpg"
+      ],
+      "character": [
+        "Hanae_Christmas",
+        "Serina_Christmas",
+        "MemberOfJusticeTaskForce"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ClassStairs.jpg",
+        "BG_ClassCorridor2.jpg",
+        "BG_ShoesCabinet.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hanae_Christmas",
+        "Serina_Christmas",
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "char_to_bg": {
+      "Hanae_Christmas": [
+        "BG_ClassStairs.jpg",
+        "BG_ShoesCabinet.jpg"
+      ],
+      "Serina_Christmas": [
+        "BG_ClassStairs.jpg",
+        "BG_ShoesCabinet.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_ClassCorridor2.jpg",
+        "BG_ClassStairs.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Serina_Christmas": [
+        "Hanae_Christmas",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Hanae_Christmas": [
+        "Serina_Christmas",
+        "MemberOfJusticeTaskForce"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Serina_Christmas",
+        "Hanae_Christmas"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

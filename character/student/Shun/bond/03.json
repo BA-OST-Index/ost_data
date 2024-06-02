@@ -1,1 +1,54 @@
-{"uuid": "1b1eb5ce-a279-4cce-884a-f3e4a11a59df", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHUN_3_NAME]", "desc": ["[STORY_BOND_SHUN_3_DESC_1]"], "pos": {"student": "SHUN", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ClassRoom.jpg"], "character": ["Shun"], "track": ["OST_15"]}, "track_to_bg": {"OST_15": ["BG_ClassRoom.jpg"]}, "track_to_char": {"OST_15": ["Shun"]}, "char_to_bg": {"Shun": ["BG_ClassRoom.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "db5333e0-e569-4a6c-ad13-35f791b8e244",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHUN_3_NAME]",
+  "desc": [
+    "[STORY_BOND_SHUN_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHUN",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ClassRoom.jpg"
+      ],
+      "character": [
+        "Shun"
+      ],
+      "track": [
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_15": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Shun"
+      ]
+    },
+    "char_to_bg": {
+      "Shun": [
+        "BG_ClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

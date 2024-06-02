@@ -1,0 +1,84 @@
+{
+  "uuid": "2d61e8d6-aca7-4573-9ce8-6370fc3f2538",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_RENGE_1_NAME]",
+  "desc": [
+    "[STORY_BOND_RENGE_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "RENGE",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "character": [
+        "Renge"
+      ],
+      "track": [
+        "OST_10",
+        "OST_6",
+        "OST_13",
+        "OST_194"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_13": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_194": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Renge"
+      ],
+      "OST_6": [
+        "Renge"
+      ],
+      "OST_13": [
+        "Renge"
+      ],
+      "OST_194": [
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

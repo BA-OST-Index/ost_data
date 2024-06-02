@@ -1,1 +1,70 @@
-{"uuid": "e8ee85d3-92c1-43ea-aab4-26ebbd853582", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MAKOTO_3_NAME]", "desc": ["[STORY_BOND_MAKOTO_3_DESC_1]"], "pos": {"student": "MAKOTO", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg", "BG_Infirmary.jpg", "BG_CraftChamber.jpg"], "character": ["Makoto"], "track": ["OST_130", "OST_103"]}, "track_to_bg": {"OST_130": ["BG_ShoppingMall.jpg"], "OST_0": ["BG_ShoppingMall.jpg", "BG_Infirmary.jpg"], "OST_103": ["BG_Infirmary.jpg", "BG_CraftChamber.jpg"]}, "track_to_char": {"OST_130": ["Makoto"], "OST_103": ["Makoto"]}, "char_to_bg": {"Makoto": ["BG_ShoppingMall.jpg", "BG_Infirmary.jpg", "BG_CraftChamber.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "95f00296-2b5c-4af4-95b4-14a26f58e0d7",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MAKOTO_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MAKOTO_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MAKOTO",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_Infirmary.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Makoto"
+      ],
+      "track": [
+        "OST_130",
+        "OST_103"
+      ]
+    },
+    "track_to_bg": {
+      "OST_130": [
+        "BG_ShoppingMall.jpg"
+      ],
+      "OST_0": [
+        "BG_ShoppingMall.jpg",
+        "BG_Infirmary.jpg"
+      ],
+      "OST_103": [
+        "BG_Infirmary.jpg",
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_130": [
+        "Makoto"
+      ],
+      "OST_103": [
+        "Makoto"
+      ]
+    },
+    "char_to_bg": {
+      "Makoto": [
+        "BG_ShoppingMall.jpg",
+        "BG_Infirmary.jpg",
+        "BG_CraftChamber.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

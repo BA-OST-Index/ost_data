@@ -1,1 +1,105 @@
-{"uuid": "76ac2753-4854-49af-8cd5-36c1f596f207", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_805_2_NAME]", "desc": ["[STORY_EVENT_805_2_DESC_1]"], "pos": {"event_id": 805, "segment": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Meihuayuan.jpg", "BG_Lab.jpg"], "character": ["Shun", "Kokona", "Saya_Casual", "Shun_Small"], "track": ["OST_10", "OST_6", "OST_38"]}, "track_to_bg": {"OST_0": ["BG_Meihuayuan.jpg", "BG_Lab.jpg"], "OST_10": ["BG_Meihuayuan.jpg"], "OST_6": ["BG_Lab.jpg"], "OST_38": ["BG_Lab.jpg"]}, "track_to_char": {"OST_10": ["Shun", "Kokona"], "OST_6": ["Saya_Casual", "Shun"], "OST_38": ["Shun_Small", "Saya_Casual"]}, "char_to_bg": {"Shun": ["BG_Meihuayuan.jpg", "BG_Lab.jpg"], "Kokona": ["BG_Meihuayuan.jpg"], "Saya_Casual": ["BG_Lab.jpg"], "Shun_Small": ["BG_Lab.jpg"]}, "char_to_char": {"Kokona": ["Shun"], "Shun": ["Kokona", "Saya_Casual", "Shun_Small"], "Saya_Casual": ["Shun", "Shun_Small"], "Shun_Small": ["Saya_Casual", "Shun"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "1e766178-7dcf-410a-8959-36ca07a4bb73",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_805_2_NAME]",
+  "desc": [
+    "[STORY_EVENT_805_2_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 805,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Meihuayuan.jpg",
+        "BG_Lab.jpg"
+      ],
+      "character": [
+        "Shun",
+        "Kokona",
+        "Saya_Casual",
+        "Shun_Small"
+      ],
+      "track": [
+        "OST_10",
+        "OST_6",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Meihuayuan.jpg",
+        "BG_Lab.jpg"
+      ],
+      "OST_10": [
+        "BG_Meihuayuan.jpg"
+      ],
+      "OST_6": [
+        "BG_Lab.jpg"
+      ],
+      "OST_38": [
+        "BG_Lab.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Shun",
+        "Kokona"
+      ],
+      "OST_6": [
+        "Saya_Casual",
+        "Shun"
+      ],
+      "OST_38": [
+        "Shun_Small",
+        "Saya_Casual"
+      ]
+    },
+    "char_to_bg": {
+      "Shun": [
+        "BG_Meihuayuan.jpg",
+        "BG_Lab.jpg"
+      ],
+      "Kokona": [
+        "BG_Meihuayuan.jpg"
+      ],
+      "Saya_Casual": [
+        "BG_Lab.jpg"
+      ],
+      "Shun_Small": [
+        "BG_Lab.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kokona": [
+        "Shun"
+      ],
+      "Shun": [
+        "Kokona",
+        "Saya_Casual",
+        "Shun_Small"
+      ],
+      "Saya_Casual": [
+        "Shun",
+        "Shun_Small"
+      ],
+      "Shun_Small": [
+        "Saya_Casual",
+        "Shun"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

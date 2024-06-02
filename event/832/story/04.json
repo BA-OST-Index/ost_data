@@ -1,0 +1,116 @@
+{
+  "uuid": "5dc522b6-b0d5-4183-b05a-f28731650ef1",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_832_4_NAME]",
+  "desc": [
+    "[STORY_EVENT_832_4_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 832,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "character": [
+        "Chihiro_Camp",
+        "Hare_Camp",
+        "Maki_Camp"
+      ],
+      "track": [
+        "OST_16",
+        "OST_130",
+        "OST_6",
+        "OST_8",
+        "OST_129"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_ForestRoad.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "OST_130": [
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_6": [
+        "BG_ForestRoad.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "OST_8": [
+        "BG_RuinInside.jpg"
+      ],
+      "OST_129": [
+        "BG_RuinInside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Chihiro_Camp",
+        "Hare_Camp"
+      ],
+      "OST_130": [
+        "Hare_Camp",
+        "Chihiro_Camp"
+      ],
+      "OST_6": [
+        "Hare_Camp",
+        "Chihiro_Camp",
+        "Maki_Camp"
+      ],
+      "OST_8": [
+        "Maki_Camp",
+        "Chihiro_Camp"
+      ],
+      "OST_129": [
+        "Chihiro_Camp",
+        "Maki_Camp"
+      ]
+    },
+    "char_to_bg": {
+      "Chihiro_Camp": [
+        "BG_CampSite.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "Hare_Camp": [
+        "BG_ForestRoad.jpg"
+      ],
+      "Maki_Camp": [
+        "BG_RuinInside.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hare_Camp": [
+        "Chihiro_Camp"
+      ],
+      "Chihiro_Camp": [
+        "Hare_Camp",
+        "Maki_Camp"
+      ],
+      "Maki_Camp": [
+        "Chihiro_Camp"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

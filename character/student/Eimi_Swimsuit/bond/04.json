@@ -1,0 +1,63 @@
+{
+  "uuid": "61918183-ed4a-46f6-a949-9a72b55bf306",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_EIMI_SWIMSUIT_4_NAME]",
+  "desc": [
+    "[STORY_BOND_EIMI_SWIMSUIT_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "EIMI_SWIMSUIT",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_FrozenSea.jpg"
+      ],
+      "character": [
+        "Eimi_Swimsuit"
+      ],
+      "track": [
+        "OST_103",
+        "OST_194"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_FrozenSea.jpg"
+      ],
+      "OST_103": [
+        "BG_FrozenSea.jpg"
+      ],
+      "OST_194": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_103": [
+        "Eimi_Swimsuit"
+      ],
+      "OST_194": [
+        "Eimi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Eimi_Swimsuit": [
+        "BG_FrozenSea.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_103"
+    }
+  },
+  "is_memory": true
+}

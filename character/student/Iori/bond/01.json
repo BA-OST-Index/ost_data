@@ -1,1 +1,57 @@
-{"uuid": "465a33e8-3a1e-432c-90a3-22f04789c563", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_IORI_1_NAME]", "desc": ["[STORY_BOND_IORI_1_DESC_1]"], "pos": {"student": "IORI", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_CityTown.jpg"], "character": ["Iori"], "track": ["OST_3"]}, "track_to_bg": {"OST_0": ["BG_CityTown.jpg"], "OST_3": ["BG_CityTown.jpg"]}, "track_to_char": {"OST_3": ["Iori"]}, "char_to_bg": {"Iori": ["BG_CityTown.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "1bda2766-173f-47e3-848a-89bb7cf9757e",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_IORI_1_NAME]",
+  "desc": [
+    "[STORY_BOND_IORI_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "IORI",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityTown.jpg"
+      ],
+      "character": [
+        "Iori"
+      ],
+      "track": [
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityTown.jpg"
+      ],
+      "OST_3": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Iori"
+      ]
+    },
+    "char_to_bg": {
+      "Iori": [
+        "BG_CityTown.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

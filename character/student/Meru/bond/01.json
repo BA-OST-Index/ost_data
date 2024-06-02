@@ -1,1 +1,80 @@
-{"uuid": "6bba8ce3-b141-4777-838a-bf0a3157f131", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MERU_1_NAME]", "desc": ["[STORY_BOND_MERU_1_DESC_1]"], "pos": {"student": "MERU", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingMall.jpg", "BG_RedWinterStreet.jpg", "BG_WinterRoad.jpg", "BG_Library.jpg"], "character": ["Meru"], "track": ["OST_10", "OST_3", "OST_50"]}, "track_to_bg": {"OST_10": ["BG_ShoppingMall.jpg", "BG_RedWinterStreet.jpg"], "OST_0": ["BG_RedWinterStreet.jpg", "BG_Library.jpg"], "OST_3": ["BG_RedWinterStreet.jpg", "BG_WinterRoad.jpg", "BG_Library.jpg"], "OST_50": ["BG_Library.jpg"]}, "track_to_char": {"OST_10": ["Meru"], "OST_3": ["Meru"], "OST_50": ["Meru"]}, "char_to_bg": {"Meru": ["BG_RedWinterStreet.jpg", "BG_WinterRoad.jpg", "BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "0e37ecf2-dc63-45c5-928d-a5b14772ea2b",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MERU_1_NAME]",
+  "desc": [
+    "[STORY_BOND_MERU_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "MERU",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingMall.jpg",
+        "BG_RedWinterStreet.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Meru"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3",
+        "OST_50"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ShoppingMall.jpg",
+        "BG_RedWinterStreet.jpg"
+      ],
+      "OST_0": [
+        "BG_RedWinterStreet.jpg",
+        "BG_Library.jpg"
+      ],
+      "OST_3": [
+        "BG_RedWinterStreet.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_Library.jpg"
+      ],
+      "OST_50": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Meru"
+      ],
+      "OST_3": [
+        "Meru"
+      ],
+      "OST_50": [
+        "Meru"
+      ]
+    },
+    "char_to_bg": {
+      "Meru": [
+        "BG_RedWinterStreet.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

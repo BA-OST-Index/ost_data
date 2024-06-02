@@ -1,1 +1,72 @@
-{"uuid": "109417e5-3a10-409c-a14f-0f9552a97fbc", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_830_10_NAME]", "desc": ["[STORY_EVENT_830_10_DESC_1]"], "pos": {"event_id": 830, "segment": 10}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrainRestaurant.jpg"], "character": ["Ichika", "Kasumi"], "track": ["OST_192", "OST_8"]}, "track_to_bg": {"OST_192": ["BG_TrainRestaurant.jpg"], "OST_0": ["BG_TrainRestaurant.jpg"], "OST_8": ["BG_TrainRestaurant.jpg"]}, "track_to_char": {"OST_192": ["Ichika"], "OST_8": ["Ichika", "Kasumi"]}, "char_to_bg": {"Ichika": ["BG_TrainRestaurant.jpg"]}, "char_to_char": {"Kasumi": ["Ichika"], "Ichika": ["Kasumi"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "863417ca-c078-4bfa-b42c-f4f1bad4d177",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_830_10_NAME]",
+  "desc": [
+    "[STORY_EVENT_830_10_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 830,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrainRestaurant.jpg"
+      ],
+      "character": [
+        "Ichika",
+        "Kasumi"
+      ],
+      "track": [
+        "OST_192",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_192": [
+        "BG_TrainRestaurant.jpg"
+      ],
+      "OST_0": [
+        "BG_TrainRestaurant.jpg"
+      ],
+      "OST_8": [
+        "BG_TrainRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_192": [
+        "Ichika"
+      ],
+      "OST_8": [
+        "Ichika",
+        "Kasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Ichika": [
+        "BG_TrainRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kasumi": [
+        "Ichika"
+      ],
+      "Ichika": [
+        "Kasumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

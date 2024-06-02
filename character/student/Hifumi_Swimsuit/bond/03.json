@@ -1,1 +1,77 @@
-{"uuid": "e36df1ab-3a85-4e78-a0e8-6c3cbcc2d203", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIFUMI_SWIMSUIT_3_NAME]", "desc": ["[STORY_BOND_HIFUMI_SWIMSUIT_3_DESC_1]"], "pos": {"student": "HIFUMI_SWIMSUIT", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Sunset.jpg"], "character": [], "track": ["OST_28", "OST_38", "OST_80"]}, "track_to_bg": {"OST_0": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg"], "OST_28": ["BG_Beachside.jpg", "BG_BeachFrontSide.jpg"], "OST_38": ["BG_BeachFrontSide.jpg"], "OST_80": ["BG_BeachFrontSide.jpg", "BG_BeachFrontSide_Sunset.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": true, "track": "OST_80"}}, "is_memory": true}
+{
+  "uuid": "1efb7db6-07b7-4b3d-b724-712f65eeac81",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIFUMI_SWIMSUIT_3_NAME]",
+  "desc": [
+    "[STORY_BOND_HIFUMI_SWIMSUIT_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIFUMI_SWIMSUIT",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit"
+      ],
+      "track": [
+        "OST_28",
+        "OST_38",
+        "OST_80"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_28": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_38": [
+        "BG_BeachFrontSide.jpg"
+      ],
+      "OST_80": [
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Hifumi_Swimsuit"
+      ],
+      "OST_38": [
+        "Hifumi_Swimsuit"
+      ],
+      "OST_80": [
+        "Hifumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_Beachside.jpg",
+        "BG_BeachFrontSide.jpg",
+        "BG_BeachFrontSide_Sunset.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_80"
+    }
+  },
+  "is_memory": true
+}

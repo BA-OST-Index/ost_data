@@ -1,1 +1,118 @@
-{"uuid": "1cae8b6b-ab4f-4db1-ad7b-8f40877fec45", "filetype": 14, "filetype_sub": 1, "name": "[STORY_EVENT_829_15_NAME]", "desc": ["[STORY_EVENT_829_15_DESC_1]"], "pos": {"event_id": 829, "segment": 15}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ExhibitionHall.jpg"], "character": ["Marina", "Meru", "Momiji"], "track": ["OST_83", "OST_130", "OST_28"]}, "track_to_bg": {"OST_83": ["BG_ExhibitionHall.jpg"], "OST_0": ["BG_ExhibitionHall.jpg"], "OST_130": ["BG_ExhibitionHall.jpg"], "OST_28": ["BG_ExhibitionHall.jpg"]}, "track_to_char": {"OST_83": ["Marina"], "OST_130": ["Meru", "Momiji"], "OST_28": ["Meru", "Momiji"]}, "char_to_bg": {"Marina": ["BG_ExhibitionHall.jpg"], "Meru": ["BG_ExhibitionHall.jpg"], "Momiji": ["BG_ExhibitionHall.jpg"]}, "char_to_char": {"Meru": ["Marina", "Momiji"], "Momiji": ["Marina", "Meru"], "Marina": ["Meru", "Momiji"]}, "special": {"flag": false, "track": "OST_0"}}, "is_battle": false}
+{
+  "uuid": "06d22a4d-26dc-42df-90e9-ed31c8baed05",
+  "filetype": 14,
+  "filetype_sub": 1,
+  "name": "[STORY_EVENT_829_15_NAME]",
+  "desc": [
+    "[STORY_EVENT_829_15_DESC_1]"
+  ],
+  "pos": {
+    "event_id": 829,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "character": [
+        "Marina",
+        "Yakumo",
+        "Meru",
+        "Momiji",
+        "Takane"
+      ],
+      "track": [
+        "OST_83",
+        "OST_130",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_83": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "OST_0": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "OST_130": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "OST_28": [
+        "BG_ExhibitionHall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Marina"
+      ],
+      "OST_130": [
+        "Yakumo",
+        "Meru",
+        "Momiji",
+        "Takane"
+      ],
+      "OST_28": [
+        "Takane",
+        "Meru",
+        "Momiji"
+      ]
+    },
+    "char_to_bg": {
+      "Marina": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "Yakumo": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "Meru": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "Momiji": [
+        "BG_ExhibitionHall.jpg"
+      ],
+      "Takane": [
+        "BG_ExhibitionHall.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yakumo": [
+        "Marina",
+        "Meru",
+        "Momiji"
+      ],
+      "Meru": [
+        "Marina",
+        "Yakumo",
+        "Momiji",
+        "Takane"
+      ],
+      "Momiji": [
+        "Marina",
+        "Yakumo",
+        "Meru",
+        "Takane"
+      ],
+      "Marina": [
+        "Yakumo",
+        "Meru",
+        "Momiji"
+      ],
+      "Takane": [
+        "Meru",
+        "Momiji"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

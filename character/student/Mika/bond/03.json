@@ -1,1 +1,71 @@
-{"uuid": "92c4ca61-62fd-49a4-b1e6-d3586b599a31", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_MIKA_3_NAME]", "desc": ["[STORY_BOND_MIKA_3_DESC_1]"], "pos": {"student": "MIKA", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_TrinityHospital_Night.jpg", "BG_Hotelcorridor2.jpg", "BG_RecreationRoom2.jpg"], "character": ["Mika"], "track": ["OST_38", "OST_44", "OST_22"]}, "track_to_bg": {"OST_0": ["BG_TrinityHospital_Night.jpg", "BG_Hotelcorridor2.jpg", "BG_RecreationRoom2.jpg"], "OST_38": ["BG_TrinityHospital_Night.jpg"], "OST_44": ["BG_Hotelcorridor2.jpg", "BG_RecreationRoom2.jpg"]}, "track_to_char": {"OST_38": ["Mika"], "OST_44": ["Mika"]}, "char_to_bg": {"Mika": ["BG_TrinityHospital_Night.jpg", "BG_Hotelcorridor2.jpg", "BG_RecreationRoom2.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_22"}}, "is_memory": true}
+{
+  "uuid": "1ad39bf2-d432-4775-9cfb-ba7d719a8108",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_MIKA_3_NAME]",
+  "desc": [
+    "[STORY_BOND_MIKA_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "MIKA",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityHospital_Night.jpg",
+        "BG_Hotelcorridor2.jpg",
+        "BG_RecreationRoom2.jpg"
+      ],
+      "character": [
+        "Mika"
+      ],
+      "track": [
+        "OST_38",
+        "OST_44",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityHospital_Night.jpg",
+        "BG_Hotelcorridor2.jpg",
+        "BG_RecreationRoom2.jpg"
+      ],
+      "OST_38": [
+        "BG_TrinityHospital_Night.jpg"
+      ],
+      "OST_44": [
+        "BG_Hotelcorridor2.jpg",
+        "BG_RecreationRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Mika"
+      ],
+      "OST_44": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_TrinityHospital_Night.jpg",
+        "BG_Hotelcorridor2.jpg",
+        "BG_RecreationRoom2.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_22"
+    }
+  },
+  "is_memory": true
+}

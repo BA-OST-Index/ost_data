@@ -1,1 +1,66 @@
-{"uuid": "6d5429d1-0e36-4d81-8268-675565c97ebb", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HIFUMI_SWIMSUIT_4_NAME]", "desc": ["[STORY_BOND_HIFUMI_SWIMSUIT_4_DESC_1]"], "pos": {"student": "HIFUMI_SWIMSUIT", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BeachsideShop.jpg", "BG_BeachsideShop_Dark.jpg"], "character": [], "track": ["OST_79", "OST_23"]}, "track_to_bg": {"OST_79": ["BG_BeachsideShop.jpg"], "OST_0": ["BG_BeachsideShop.jpg", "BG_BeachsideShop_Dark.jpg"], "OST_23": ["BG_BeachsideShop.jpg"]}, "track_to_char": {}, "char_to_bg": {}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "694937ba-872d-4b97-8c59-b102ff6e1b3f",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HIFUMI_SWIMSUIT_4_NAME]",
+  "desc": [
+    "[STORY_BOND_HIFUMI_SWIMSUIT_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "HIFUMI_SWIMSUIT",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachsideShop_Dark.jpg"
+      ],
+      "character": [
+        "Hifumi_Swimsuit"
+      ],
+      "track": [
+        "OST_79",
+        "OST_23"
+      ]
+    },
+    "track_to_bg": {
+      "OST_79": [
+        "BG_BeachsideShop.jpg"
+      ],
+      "OST_0": [
+        "BG_BeachsideShop.jpg",
+        "BG_BeachsideShop_Dark.jpg"
+      ],
+      "OST_23": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_79": [
+        "Hifumi_Swimsuit"
+      ],
+      "OST_23": [
+        "Hifumi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi_Swimsuit": [
+        "BG_BeachsideShop.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

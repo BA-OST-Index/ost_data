@@ -1,1 +1,54 @@
-{"uuid": "cbb3b7dc-827d-4d32-ae3c-d672dfd87c04", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_JURI_3_NAME]", "desc": ["[STORY_BOND_JURI_3_DESC_1]"], "pos": {"student": "JURI", "segment": 3, "favor_rank": 5}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_SchoolCafeteria.jpg"], "character": ["Juri"], "track": ["OST_38"]}, "track_to_bg": {"OST_38": ["BG_SchoolCafeteria.jpg"]}, "track_to_char": {"OST_38": ["Juri"]}, "char_to_bg": {"Juri": ["BG_SchoolCafeteria.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "f929d1b9-dbc1-4706-8f9b-6ca9531e530d",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_JURI_3_NAME]",
+  "desc": [
+    "[STORY_BOND_JURI_3_DESC_1]"
+  ],
+  "pos": {
+    "student": "JURI",
+    "segment": 3,
+    "favor_rank": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "character": [
+        "Juri"
+      ],
+      "track": [
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_38": [
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Juri"
+      ]
+    },
+    "char_to_bg": {
+      "Juri": [
+        "BG_SchoolCafeteria.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

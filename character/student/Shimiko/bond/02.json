@@ -1,1 +1,54 @@
-{"uuid": "ca71d795-b114-41e3-b21c-4ff9949fc77e", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_SHIMIKO_2_NAME]", "desc": ["[STORY_BOND_SHIMIKO_2_DESC_1]"], "pos": {"student": "SHIMIKO", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_Library.jpg"], "character": ["Shimiko"], "track": ["OST_16"]}, "track_to_bg": {"OST_16": ["BG_Library.jpg"]}, "track_to_char": {"OST_16": ["Shimiko"]}, "char_to_bg": {"Shimiko": ["BG_Library.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "750ac7c8-2312-4fa4-af23-7d02aedf4931",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_SHIMIKO_2_NAME]",
+  "desc": [
+    "[STORY_BOND_SHIMIKO_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "SHIMIKO",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Library.jpg"
+      ],
+      "character": [
+        "Shimiko"
+      ],
+      "track": [
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Library.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Shimiko"
+      ]
+    },
+    "char_to_bg": {
+      "Shimiko": [
+        "BG_Library.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

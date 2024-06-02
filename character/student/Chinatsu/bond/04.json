@@ -1,1 +1,73 @@
-{"uuid": "bdaa5382-8c6a-45c6-af23-d4750613d40d", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_CHINATSU_4_NAME]", "desc": ["[STORY_BOND_CHINATSU_4_DESC_1]"], "pos": {"student": "CHINATSU", "segment": 4, "favor_rank": 6}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_GehennaCouncilHall.jpg", "BG_RestingLounge.jpg"], "character": ["Chinatsu"], "track": ["OST_44", "OST_15", "OST_37"]}, "track_to_bg": {"OST_0": ["BG_GehennaCouncilHall.jpg", "BG_RestingLounge.jpg"], "OST_44": ["BG_RestingLounge.jpg"], "OST_15": ["BG_RestingLounge.jpg"], "OST_37": ["BG_RestingLounge.jpg"]}, "track_to_char": {"OST_44": ["Chinatsu"], "OST_15": ["Chinatsu"], "OST_37": ["Chinatsu"]}, "char_to_bg": {"Chinatsu": ["BG_GehennaCouncilHall.jpg", "BG_RestingLounge.jpg"]}, "char_to_char": {}, "special": {"flag": true, "track": "OST_37"}}, "is_memory": true}
+{
+  "uuid": "80d5ce4e-b1d4-4f90-9a0d-7ac59fdcff57",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_CHINATSU_4_NAME]",
+  "desc": [
+    "[STORY_BOND_CHINATSU_4_DESC_1]"
+  ],
+  "pos": {
+    "student": "CHINATSU",
+    "segment": 4,
+    "favor_rank": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GehennaCouncilHall.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "character": [
+        "Chinatsu"
+      ],
+      "track": [
+        "OST_44",
+        "OST_15",
+        "OST_37"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_GehennaCouncilHall.jpg",
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_44": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_15": [
+        "BG_RestingLounge.jpg"
+      ],
+      "OST_37": [
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_44": [
+        "Chinatsu"
+      ],
+      "OST_15": [
+        "Chinatsu"
+      ],
+      "OST_37": [
+        "Chinatsu"
+      ]
+    },
+    "char_to_bg": {
+      "Chinatsu": [
+        "BG_GehennaCouncilHall.jpg",
+        "BG_RestingLounge.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_37"
+    }
+  },
+  "is_memory": true
+}

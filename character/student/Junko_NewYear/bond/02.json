@@ -1,1 +1,64 @@
-{"uuid": "444c8a00-cad7-48c9-85c0-2fc2f211d896", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_JUNKO_NEWYEAR_2_NAME]", "desc": ["[STORY_BOND_JUNKO_NEWYEAR_2_DESC_1]"], "pos": {"student": "JUNKO_NEWYEAR", "segment": 2, "favor_rank": 3}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_ShoppingDistrict.jpg"], "character": ["Junko_NewYear"], "track": ["OST_11", "OST_36"]}, "track_to_bg": {"OST_0": ["BG_ShoppingDistrict.jpg"], "OST_11": ["BG_ShoppingDistrict.jpg"], "OST_36": ["BG_ShoppingDistrict.jpg"]}, "track_to_char": {"OST_11": ["Junko_NewYear"], "OST_36": ["Junko_NewYear"]}, "char_to_bg": {"Junko_NewYear": ["BG_ShoppingDistrict.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "c69b9d59-8661-41b0-9981-d8a8ab88b38a",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_JUNKO_NEWYEAR_2_NAME]",
+  "desc": [
+    "[STORY_BOND_JUNKO_NEWYEAR_2_DESC_1]"
+  ],
+  "pos": {
+    "student": "JUNKO_NEWYEAR",
+    "segment": 2,
+    "favor_rank": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "character": [
+        "Junko_NewYear"
+      ],
+      "track": [
+        "OST_11",
+        "OST_36"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_11": [
+        "BG_ShoppingDistrict.jpg"
+      ],
+      "OST_36": [
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Junko_NewYear"
+      ],
+      "OST_36": [
+        "Junko_NewYear"
+      ]
+    },
+    "char_to_bg": {
+      "Junko_NewYear": [
+        "BG_ShoppingDistrict.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}

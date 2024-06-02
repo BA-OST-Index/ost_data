@@ -1,1 +1,57 @@
-{"uuid": "b6804774-2292-43c2-9c7a-71684151b9c8", "filetype": 15, "filetype_sub": 1, "name": "[STORY_BOND_HINA_1_NAME]", "desc": ["[STORY_BOND_HINA_1_DESC_1]"], "pos": {"student": "HINA", "segment": 1, "favor_rank": 2}, "image": {"platform": -1, "value": "", "short_desc": ""}, "data": {"all": {"background": ["BG_BlackMarket_Night.jpg"], "character": ["Hina"], "track": ["OST_15"]}, "track_to_bg": {"OST_0": ["BG_BlackMarket_Night.jpg"], "OST_15": ["BG_BlackMarket_Night.jpg"]}, "track_to_char": {"OST_15": ["Hina"]}, "char_to_bg": {"Hina": ["BG_BlackMarket_Night.jpg"]}, "char_to_char": {}, "special": {"flag": false, "track": "OST_0"}}, "is_memory": false}
+{
+  "uuid": "dec2e632-3f15-437e-ae8e-abc2d48b4685",
+  "filetype": 15,
+  "filetype_sub": 1,
+  "name": "[STORY_BOND_HINA_1_NAME]",
+  "desc": [
+    "[STORY_BOND_HINA_1_DESC_1]"
+  ],
+  "pos": {
+    "student": "HINA",
+    "segment": 1,
+    "favor_rank": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "character": [
+        "Hina"
+      ],
+      "track": [
+        "OST_15"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_15": [
+        "Hina"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_memory": false
+}
