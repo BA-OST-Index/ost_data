@@ -1,0 +1,10 @@
+{
+  "uuid": "22df2b21-55d1-4ae0-af79-0d82dc35f419",
+  "filetype": -53,
+  "namespace": "airi_band",
+  "name": "Airi_Band",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

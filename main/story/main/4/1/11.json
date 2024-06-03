@@ -1,0 +1,135 @@
+{
+  "uuid": "bd7a5f70-2ec3-4c15-ad61-c3a8ad7b4652",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CraftChamber.jpg",
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_06.jpg",
+        "BG_CS_Rabbit_08.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "character": [
+        "Arona",
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Miyako"
+      ],
+      "track": [
+        "OST_10",
+        "OST_55"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_0": [
+        "BG_CraftChamber.jpg",
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_06.jpg",
+        "BG_CS_Rabbit_08.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "OST_55": [
+        "BG_CS_Rabbit_08.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_ReceptionRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Arona"
+      ],
+      "OST_55": [
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Arona": [
+        "BG_CraftChamber.jpg"
+      ],
+      "Saki": [
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_08.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_08.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Moe": [
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_08.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTBase_Night.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_SRTCampSite2.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako"
+      ],
+      "Moe": [
+        "Saki",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Saki",
+        "Miyu",
+        "Moe"
+      ],
+      "Saki": [
+        "Miyu",
+        "Moe",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

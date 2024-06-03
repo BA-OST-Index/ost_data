@@ -1,0 +1,144 @@
+{
+  "uuid": "e3cc0896-683b-498a-a274-f0730ebb8694",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_13_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_View_Sky.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Shizuko",
+        "Kikyou",
+        "Pina",
+        "Nagusa",
+        "Shuro",
+        "Arata"
+      ],
+      "track": [
+        "OST_55",
+        "OST_135",
+        "OST_16",
+        "OST_178"
+      ]
+    },
+    "track_to_bg": {
+      "OST_55": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_View_Sky.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_16": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_178": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Yukari",
+        "Shizuko",
+        "Kikyou"
+      ],
+      "OST_135": [
+        "Kikyou",
+        "Shizuko",
+        "Pina"
+      ],
+      "OST_16": [
+        "Arata"
+      ],
+      "OST_178": [
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "Pina": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "Arata": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Shuro": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Shizuko": [
+        "Yukari",
+        "Kikyou"
+      ],
+      "Kikyou": [
+        "Yukari",
+        "Shizuko",
+        "Shuro"
+      ],
+      "Yukari": [
+        "Shizuko",
+        "Kikyou"
+      ],
+      "Shuro": [
+        "Kikyou"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

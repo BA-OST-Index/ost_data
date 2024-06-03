@@ -1,0 +1,164 @@
+{
+  "uuid": "d02f06d1-eb02-4662-8333-ac958df7e5d6",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_12_DESC_1]",
+    "[STORY_MAIN_5_1_12_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Kikyou",
+        "Shizuko",
+        "Nagusa"
+      ],
+      "track": [
+        "OST_4",
+        "OST_3",
+        "OST_16",
+        "OST_129",
+        "OST_92",
+        "OST_41",
+        "OST_191",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_4": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_3": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_16": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_129": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_CS_PV4_5_27.jpg"
+      ],
+      "OST_92": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_41": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_191": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_12": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_4": [
+        "Yukari"
+      ],
+      "OST_3": [
+        "Kikyou",
+        "Yukari"
+      ],
+      "OST_16": [
+        "Shizuko",
+        "Yukari",
+        "Kikyou"
+      ],
+      "OST_129": [
+        "Yukari",
+        "Kikyou"
+      ],
+      "OST_92": [
+        "Kikyou",
+        "Yukari",
+        "Nagusa"
+      ],
+      "OST_41": [
+        "Kikyou",
+        "Yukari",
+        "Shizuko"
+      ],
+      "OST_191": [
+        "Kikyou",
+        "Yukari"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kikyou": [
+        "Yukari",
+        "Shizuko",
+        "Nagusa"
+      ],
+      "Yukari": [
+        "Kikyou",
+        "Shizuko",
+        "Nagusa"
+      ],
+      "Shizuko": [
+        "Yukari",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Nagusa": [
+        "Kikyou",
+        "Yukari",
+        "Shizuko"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

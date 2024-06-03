@@ -1,0 +1,136 @@
+{
+  "uuid": "fb00517b-0ebd-45b5-9843-2b48cac669fc",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ],
+      "character": [
+        "Shuro",
+        "Shizuko",
+        "Yukari",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "track": [
+        "OST_93",
+        "OST_178",
+        "OST_13",
+        "OST_135",
+        "OST_176"
+      ]
+    },
+    "track_to_bg": {
+      "OST_93": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_178": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_23.jpg"
+      ],
+      "OST_176": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_93": [
+        "Shuro"
+      ],
+      "OST_178": [
+        "Shuro"
+      ],
+      "OST_13": [
+        "Shizuko"
+      ],
+      "OST_135": [
+        "Shizuko",
+        "Yukari",
+        "Shuro"
+      ],
+      "OST_176": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ]
+    },
+    "char_to_bg": {
+      "Shuro": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Shizuko"
+      ],
+      "Shizuko": [
+        "Yukari"
+      ],
+      "Izuna": [
+        "Michiru",
+        "Tsukuyo"
+      ],
+      "Tsukuyo": [
+        "Michiru",
+        "Izuna"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Tsukuyo"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,144 @@
+{
+  "uuid": "e8e19ae8-ff5d-46e4-975c-7aac5a47f9de",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Sora"
+      ],
+      "track": [
+        "OST_10",
+        "OST_8",
+        "OST_16",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_10": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_8": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_16": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_3": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Miyu"
+      ],
+      "OST_8": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "OST_16": [
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Miyako",
+        "Sora"
+      ],
+      "OST_3": [
+        "Sora",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Sora": [
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyako",
+        "Miyu",
+        "Sora"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Sora"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Sora"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Sora"
+      ],
+      "Sora": [
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

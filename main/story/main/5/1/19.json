@@ -1,0 +1,191 @@
+{
+  "uuid": "a0d5ceda-a8d6-4e28-9dac-11db08be77c8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_19_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV4_5_31_2.jpg",
+        "BG_CS_PV4_5_31.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "character": [
+        "Renge",
+        "Kaede",
+        "Tsubaki",
+        "Mimori",
+        "Nagusa",
+        "Yukari",
+        "Shuro",
+        "Kikyou"
+      ],
+      "track": [
+        "OST_134",
+        "OST_181",
+        "OST_178",
+        "OST_93",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_134": [
+        "BG_CS_PV4_5_31_2.jpg",
+        "BG_CS_PV4_5_31.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_181": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_178": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "OST_93": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "OST_92": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_181": [
+        "Renge",
+        "Kaede",
+        "Tsubaki",
+        "Mimori",
+        "Nagusa",
+        "Yukari"
+      ],
+      "OST_178": [
+        "Shuro",
+        "Nagusa",
+        "Renge",
+        "Mimori",
+        "Kaede"
+      ],
+      "OST_93": [
+        "Shuro"
+      ],
+      "OST_134": [
+        "Nagusa"
+      ],
+      "OST_92": [
+        "Shuro",
+        "Kikyou",
+        "Nagusa",
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Shuro": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kaede": [
+        "Renge",
+        "Tsubaki",
+        "Mimori",
+        "Nagusa",
+        "Shuro",
+        "Kikyou"
+      ],
+      "Tsubaki": [
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Nagusa",
+        "Shuro",
+        "Kikyou"
+      ],
+      "Mimori": [
+        "Renge",
+        "Kaede",
+        "Tsubaki",
+        "Nagusa",
+        "Shuro",
+        "Kikyou"
+      ],
+      "Renge": [
+        "Kaede",
+        "Tsubaki",
+        "Mimori",
+        "Nagusa",
+        "Shuro",
+        "Kikyou"
+      ],
+      "Nagusa": [
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki",
+        "Shuro",
+        "Kikyou"
+      ],
+      "Shuro": [
+        "Tsubaki",
+        "Nagusa",
+        "Renge",
+        "Mimori",
+        "Kaede",
+        "Kikyou"
+      ],
+      "Kikyou": [
+        "Kaede",
+        "Tsubaki",
+        "Mimori",
+        "Renge",
+        "Nagusa",
+        "Shuro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

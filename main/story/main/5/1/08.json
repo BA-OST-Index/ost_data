@@ -1,0 +1,185 @@
+{
+  "uuid": "c59942a3-9b1c-4e8a-bee1-5ec96645f50c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_8_DESC_1]",
+    "[STORY_MAIN_5_1_8_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_008.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_26.jpg"
+      ],
+      "character": [
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Yukari",
+        "Arata",
+        "Nagusa",
+        "Renge"
+      ],
+      "track": [
+        "OST_33",
+        "OST_40",
+        "OST_49",
+        "OST_19",
+        "OST_60",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_008.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_40": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_49": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_19": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_60": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_28": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_5_26.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Yukari"
+      ],
+      "OST_40": [
+        "Yukari",
+        "Mimori",
+        "Tsubaki",
+        "Kaede"
+      ],
+      "OST_49": [
+        "Arata",
+        "Yukari",
+        "Mimori",
+        "Kaede",
+        "Tsubaki"
+      ],
+      "OST_19": [
+        "Yukari",
+        "Nagusa",
+        "Arata"
+      ],
+      "OST_60": [
+        "Renge",
+        "Yukari",
+        "Arata"
+      ],
+      "OST_28": [
+        "Arata",
+        "Kaede",
+        "Mimori",
+        "Tsubaki",
+        "Yukari",
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Mimori": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Arata": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsubaki": [
+        "Mimori",
+        "Kaede",
+        "Yukari",
+        "Arata",
+        "Renge"
+      ],
+      "Kaede": [
+        "Mimori",
+        "Tsubaki",
+        "Yukari",
+        "Arata",
+        "Renge"
+      ],
+      "Yukari": [
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Arata",
+        "Renge"
+      ],
+      "Mimori": [
+        "Tsubaki",
+        "Kaede",
+        "Yukari",
+        "Arata",
+        "Renge"
+      ],
+      "Arata": [
+        "Yukari",
+        "Mimori",
+        "Kaede",
+        "Tsubaki",
+        "Renge"
+      ],
+      "Renge": [
+        "Yukari",
+        "Arata",
+        "Kaede",
+        "Mimori",
+        "Tsubaki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

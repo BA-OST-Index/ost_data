@@ -1,0 +1,154 @@
+{
+  "uuid": "ed2bd5c1-7e15-4e3e-98c0-f8aa0048097a",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_19_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu",
+        "Kanna"
+      ],
+      "track": [
+        "OST_49",
+        "OST_93",
+        "OST_65",
+        "OST_32",
+        "OST_43"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "OST_49": [
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "OST_65": [
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "OST_32": [
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_SRTCampSite_Night.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_49": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ],
+      "OST_93": [
+        "Miyako",
+        "Saki",
+        "Kanna"
+      ],
+      "OST_65": [
+        "Miyako",
+        "Kanna",
+        "Saki"
+      ],
+      "OST_32": [
+        "Kanna",
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Miyako"
+      ],
+      "OST_43": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Moe": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Saki": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "Kanna": [
+        "BG_BuildingRooftop_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Kanna"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "Kanna"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Kanna"
+      ],
+      "Miyako": [
+        "Moe",
+        "Saki",
+        "Miyu",
+        "Kanna"
+      ],
+      "Kanna": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

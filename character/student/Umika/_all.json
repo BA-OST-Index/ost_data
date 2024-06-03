@@ -1,0 +1,10 @@
+{
+  "uuid": "b72d07c5-8f37-470d-9676-f934b883d2fd",
+  "filetype": -53,
+  "namespace": "umika",
+  "name": "Umika",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

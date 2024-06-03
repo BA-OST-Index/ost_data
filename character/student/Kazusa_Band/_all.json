@@ -1,0 +1,10 @@
+{
+  "uuid": "f0641b2c-38cb-4059-81c5-326ebb9cf6af",
+  "filetype": -53,
+  "namespace": "kazusa_band",
+  "name": "Kazusa_Band",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

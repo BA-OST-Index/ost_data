@@ -1,0 +1,139 @@
+{
+  "uuid": "4d45c374-e4f4-44be-a3f5-92f7b5855a9f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_22_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_22_DESC_1]",
+    "[STORY_MAIN_4_2_22_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 22
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HQ2.jpg",
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CS_PV4_5_02.jpg",
+        "BG_CS_Rabbit_14.jpg",
+        "BG_CS_PV4_5_10_2.jpg"
+      ],
+      "character": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Miyako"
+      ],
+      "track": [
+        "OST_55",
+        "OST_105",
+        "OST_164",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HQ2.jpg",
+        "BG_CS_Rabbit_14.jpg"
+      ],
+      "OST_55": [
+        "BG_HQ2.jpg"
+      ],
+      "OST_105": [
+        "BG_HQ2.jpg",
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CS_PV4_5_02.jpg"
+      ],
+      "OST_164": [
+        "BG_HQ2.jpg"
+      ],
+      "OST_135": [
+        "BG_CS_Rabbit_14.jpg",
+        "BG_CS_PV4_5_10_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Yukino"
+      ],
+      "OST_105": [
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Yukino",
+        "Miyako"
+      ],
+      "OST_164": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Miyako"
+      ],
+      "OST_135": [
+        "Yukino"
+      ]
+    },
+    "char_to_bg": {
+      "Yukino": [
+        "BG_HQ2.jpg",
+        "BG_CS_Rabbit_14.jpg"
+      ],
+      "Otogi": [
+        "BG_HQ2.jpg"
+      ],
+      "Kurumi": [
+        "BG_HQ2.jpg"
+      ],
+      "Niko": [
+        "BG_HQ2.jpg"
+      ],
+      "Miyako": [
+        "BG_HQ2.jpg",
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CS_PV4_5_02.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Otogi": [
+        "Yukino",
+        "Kurumi",
+        "Niko"
+      ],
+      "Kurumi": [
+        "Yukino",
+        "Otogi",
+        "Niko"
+      ],
+      "Niko": [
+        "Yukino",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Yukino": [
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Yukino"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

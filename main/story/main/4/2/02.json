@@ -1,0 +1,144 @@
+{
+  "uuid": "197816ae-2e26-4493-aa7e-b1dc64c6b852",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_2_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV4_5_01.jpg",
+        "BG_CS_PV4_5_02.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CampInside.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CS_PV4_043.jpg",
+        "BG_CS_PV4_007.jpg",
+        "BG_CS_PV4_048_2.jpg",
+        "BG_CS_S1Final_09.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "track": [
+        "OST_10",
+        "OST_38",
+        "OST_41",
+        "OST_113"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CS_PV4_5_01.jpg",
+        "BG_CS_PV4_5_02.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CampInside.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CS_S1Final_09.jpg"
+      ],
+      "OST_10": [
+        "BG_CampInside.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_38": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_41": [
+        "BG_SRTCampSite.jpg",
+        "BG_CS_PV4_043.jpg",
+        "BG_CS_PV4_007.jpg",
+        "BG_CS_PV4_048_2.jpg"
+      ],
+      "OST_113": [
+        "BG_SRTCampSite.jpg",
+        "BG_View_Sky.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Miyu",
+        "Miyako",
+        "Saki",
+        "Moe"
+      ],
+      "OST_38": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Miyu"
+      ],
+      "OST_41": [
+        "Moe",
+        "Miyu"
+      ],
+      "OST_113": [
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_CampInside.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CS_S1Final_09.jpg"
+      ],
+      "Miyu": [
+        "BG_CampInside.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "Saki": [
+        "BG_SRTCampSite.jpg",
+        "BG_CS_S1Final_09.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe"
+      ],
+      "Miyako": [
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "Saki": [
+        "Miyako",
+        "Miyu",
+        "Moe"
+      ],
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

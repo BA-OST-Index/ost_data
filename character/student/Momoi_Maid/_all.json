@@ -1,0 +1,10 @@
+{
+  "uuid": "1673fa76-fde0-4826-8d94-444ba46b1979",
+  "filetype": -53,
+  "namespace": "momoi_maid",
+  "name": "Momoi_Maid",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

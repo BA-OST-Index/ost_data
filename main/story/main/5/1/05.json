@@ -1,0 +1,180 @@
+{
+  "uuid": "2762a424-9798-41ed-86c2-f5c142af8749",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Niya",
+        "Kaho",
+        "Tsukuyo",
+        "Izuna",
+        "Michiru",
+        "Chise",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "track": [
+        "OST_17",
+        "OST_3",
+        "OST_18",
+        "OST_130",
+        "OST_129",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_17": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_3": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_129": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_28": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_17": [
+        "Yukari",
+        "Niya",
+        "Kaho"
+      ],
+      "OST_3": [
+        "Yukari",
+        "Niya",
+        "Kaho"
+      ],
+      "OST_18": [
+        "Yukari",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "OST_130": [
+        "Niya",
+        "Yukari",
+        "Kaho"
+      ],
+      "OST_129": [
+        "Yukari",
+        "Niya",
+        "Kaho"
+      ],
+      "OST_28": [
+        "Yukari",
+        "Niya",
+        "Kaho",
+        "Chise"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Kaho": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Niya": [
+        "Yukari",
+        "Kaho",
+        "Chise"
+      ],
+      "Kaho": [
+        "Yukari",
+        "Niya",
+        "Chise"
+      ],
+      "Yukari": [
+        "Niya",
+        "Kaho",
+        "Tsukuyo",
+        "Izuna",
+        "Michiru",
+        "Chise",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Michiru",
+        "Yukari"
+      ],
+      "Michiru": [
+        "Tsukuyo",
+        "Izuna",
+        "Yukari"
+      ],
+      "Tsukuyo": [
+        "Izuna",
+        "Michiru",
+        "Yukari"
+      ],
+      "Chise": [
+        "Yukari",
+        "Niya",
+        "Kaho"
+      ],
+      "Renge": [
+        "Yukari",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Kikyou": [
+        "Yukari",
+        "Renge",
+        "Nagusa"
+      ],
+      "Nagusa": [
+        "Yukari",
+        "Renge",
+        "Kikyou"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,131 @@
+{
+  "uuid": "9af5ac47-da24-41ce-907a-50f6876adda8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_17_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "track": [
+        "OST_65",
+        "OST_16",
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault.jpg"
+      ],
+      "OST_65": [
+        "BG_IndoorPlaza_Night2.jpg"
+      ],
+      "OST_16": [
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_73": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_65": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "OST_16": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "OST_73": [
+        "Miyako",
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Moe": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Saki": [
+        "BG_IndoorPlaza_Night2.jpg",
+        "BG_Vault_Night.jpg",
+        "BG_Vault_Open_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Moe",
+        "Saki"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

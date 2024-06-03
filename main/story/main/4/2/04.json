@@ -1,0 +1,116 @@
+{
+  "uuid": "5fbc0a6a-7e01-40f7-a4e3-68bcd1712540",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AbandonedWarehouse.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Yukino"
+      ],
+      "track": [
+        "OST_74",
+        "OST_115"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_AbandonedWarehouse.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_74": [
+        "BG_AbandonedWarehouse.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "OST_115": [
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_74": [
+        "Saki",
+        "Miyako"
+      ],
+      "OST_115": [
+        "Miyako",
+        "Yukino"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_AbandonedWarehouse.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_AbandonedWarehouse.jpg"
+      ],
+      "Saki": [
+        "BG_AbandonedWarehouse.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "Moe": [
+        "BG_AbandonedWarehouse.jpg"
+      ],
+      "Yukino": [
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe"
+      ],
+      "Saki": [
+        "Miyako",
+        "Miyu",
+        "Moe",
+        "Yukino"
+      ],
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ],
+      "Miyako": [
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Yukino"
+      ],
+      "Yukino": [
+        "Miyako",
+        "Saki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

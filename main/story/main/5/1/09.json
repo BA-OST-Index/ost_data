@@ -1,0 +1,193 @@
+{
+  "uuid": "60e11dd1-3fb6-4b7b-aeb1-1cf6b8dfa8f4",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_9_DESC_1]",
+    "[STORY_MAIN_5_1_9_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_006.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "character": [
+        "Renge",
+        "Yukari",
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Nagusa",
+        "Kikyou"
+      ],
+      "track": [
+        "OST_13",
+        "OST_3",
+        "OST_6",
+        "OST_73",
+        "OST_74",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_73": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_006.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_74": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Renge",
+        "Yukari",
+        "Mimori",
+        "Tsubaki",
+        "Kaede"
+      ],
+      "OST_3": [
+        "Renge",
+        "Yukari"
+      ],
+      "OST_6": [
+        "Yukari",
+        "Renge"
+      ],
+      "OST_73": [
+        "Renge",
+        "Mimori",
+        "Yukari",
+        "Tsubaki",
+        "Nagusa",
+        "Kikyou"
+      ],
+      "OST_74": [
+        "Renge",
+        "Yukari"
+      ],
+      "OST_135": [
+        "Renge",
+        "Yukari",
+        "Mimori",
+        "Kaede",
+        "Tsubaki"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Renge",
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Nagusa",
+        "Kikyou"
+      ],
+      "Mimori": [
+        "Renge",
+        "Yukari",
+        "Tsubaki",
+        "Kaede"
+      ],
+      "Tsubaki": [
+        "Renge",
+        "Yukari",
+        "Mimori",
+        "Kaede"
+      ],
+      "Kaede": [
+        "Renge",
+        "Yukari",
+        "Mimori",
+        "Tsubaki"
+      ],
+      "Renge": [
+        "Yukari",
+        "Mimori",
+        "Tsubaki",
+        "Kaede",
+        "Nagusa",
+        "Kikyou"
+      ],
+      "Kikyou": [
+        "Nagusa",
+        "Yukari",
+        "Renge"
+      ],
+      "Nagusa": [
+        "Yukari",
+        "Kikyou",
+        "Renge"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

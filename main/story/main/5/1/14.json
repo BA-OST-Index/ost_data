@@ -1,0 +1,135 @@
+{
+  "uuid": "8bf2e595-3c09-47ae-8ef9-7de6539d6561",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_14_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_23.jpg"
+      ],
+      "character": [
+        "Shizuko",
+        "Yukari",
+        "Nagusa",
+        "Renge",
+        "Kikyou",
+        "Shuro"
+      ],
+      "track": [
+        "OST_55",
+        "OST_46",
+        "OST_105",
+        "OST_176"
+      ]
+    },
+    "track_to_bg": {
+      "OST_55": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_23.jpg"
+      ],
+      "OST_46": [
+        "BG_HyakkiyakoObservatory_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_105": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_176": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Shizuko",
+        "Yukari",
+        "Nagusa",
+        "Renge",
+        "Kikyou"
+      ],
+      "OST_46": [
+        "Shizuko"
+      ],
+      "OST_105": [
+        "Shizuko",
+        "Yukari"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Shuro": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Nagusa",
+        "Shizuko"
+      ],
+      "Nagusa": [
+        "Yukari"
+      ],
+      "Shizuko": [
+        "Yukari"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

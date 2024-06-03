@@ -1,0 +1,105 @@
+{
+  "uuid": "0dd20ed4-4455-4c88-bcf9-7c103f86c91d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_MainOffice.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Rin",
+        "Arona",
+        "Ayumu"
+      ],
+      "track": [
+        "OST_10",
+        "OST_6",
+        "OST_16",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_MainOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_6": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_16": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_ReceptionRoom.jpg",
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Rin",
+        "Arona"
+      ],
+      "OST_6": [
+        "Rin"
+      ],
+      "OST_16": [
+        "Ayumu",
+        "Rin"
+      ],
+      "OST_3": [
+        "Ayumu",
+        "Rin"
+      ]
+    },
+    "char_to_bg": {
+      "Rin": [
+        "BG_MainOffice.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Arona": [
+        "BG_MainOffice.jpg"
+      ],
+      "Ayumu": [
+        "BG_ReceptionRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Arona": [
+        "Rin"
+      ],
+      "Rin": [
+        "Arona",
+        "Ayumu"
+      ],
+      "Ayumu": [
+        "Rin"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

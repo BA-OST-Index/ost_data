@@ -1,0 +1,133 @@
+{
+  "uuid": "eebf3c43-df01-4dcd-81a9-25ab36512e8e",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_22.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_5_24.jpg"
+      ],
+      "character": [
+        "Niya",
+        "Kaho",
+        "Chise",
+        "Yukari"
+      ],
+      "track": [
+        "OST_10",
+        "OST_92",
+        "OST_33",
+        "OST_194"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_24.jpg"
+      ],
+      "OST_92": [
+        "BG_CS_PV4_5_23.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_22.jpg"
+      ],
+      "OST_33": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_194": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_24.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Niya",
+        "Kaho",
+        "Chise"
+      ],
+      "OST_92": [
+        "Niya"
+      ],
+      "OST_33": [
+        "Niya",
+        "Kaho",
+        "Yukari",
+        "Chise"
+      ],
+      "OST_194": [
+        "Yukari",
+        "Chise",
+        "Kaho",
+        "Niya"
+      ]
+    },
+    "char_to_bg": {
+      "Niya": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_22.jpg"
+      ],
+      "Kaho": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_PV4_5_24.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kaho": [
+        "Niya",
+        "Chise",
+        "Yukari"
+      ],
+      "Chise": [
+        "Niya",
+        "Kaho",
+        "Yukari"
+      ],
+      "Niya": [
+        "Kaho",
+        "Chise",
+        "Yukari"
+      ],
+      "Yukari": [
+        "Chise",
+        "Kaho",
+        "Niya"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

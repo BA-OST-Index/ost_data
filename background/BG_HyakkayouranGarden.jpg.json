@@ -1,0 +1,13 @@
+{
+  "uuid": "d8830649-9269-4a4f-a428-b565e7a3e69d",
+  "filetype": 71,
+  "filename": "BG_HyakkayouranGarden.jpg",
+  "name": "[BG_HyakkayouranGarden.jpg_NAME]",
+  "desc": "[BG_HyakkayouranGarden.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_HyakkayouranGarden.jpg",
+    "short_desc": ""
+  }
+}

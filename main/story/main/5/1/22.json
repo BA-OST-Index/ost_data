@@ -1,0 +1,185 @@
+{
+  "uuid": "23561eed-952e-486e-8879-5e065f9b106d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_22_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_22_DESC_1]",
+    "[STORY_MAIN_5_1_22_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 22
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_CS_PV4_5_29.jpg",
+        "BG_CS_PV4_5_30.jpg",
+        "BG_CS_PV4_5_24.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_CS_PV4_5_28.jpg"
+      ],
+      "character": [
+        "Nagusa",
+        "Chise",
+        "Niya",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Yukari",
+        "Shuro"
+      ],
+      "track": [
+        "OST_49",
+        "OST_74",
+        "OST_93",
+        "OST_178"
+      ]
+    },
+    "track_to_bg": {
+      "OST_49": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_CS_PV4_5_28.jpg"
+      ],
+      "OST_74": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_93": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_CS_PV4_5_29.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_178": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_CS_PV4_5_30.jpg",
+        "BG_CS_PV4_5_24.jpg",
+        "BG_CS_PV4_5_27.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_49": [
+        "Nagusa",
+        "Chise",
+        "Niya"
+      ],
+      "OST_74": [
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Nagusa",
+        "Chise",
+        "Niya"
+      ],
+      "OST_93": [
+        "Yukari",
+        "Shuro"
+      ],
+      "OST_178": [
+        "Yukari",
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Nagusa": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ],
+      "Shuro": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Chise": [
+        "Nagusa",
+        "Niya",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Niya": [
+        "Nagusa",
+        "Chise",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Nagusa": [
+        "Chise",
+        "Niya",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Shuro"
+      ],
+      "Izuna": [
+        "Michiru",
+        "Tsukuyo",
+        "Nagusa",
+        "Chise",
+        "Niya"
+      ],
+      "Tsukuyo": [
+        "Michiru",
+        "Izuna",
+        "Nagusa",
+        "Chise",
+        "Niya"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Tsukuyo",
+        "Nagusa",
+        "Chise",
+        "Niya"
+      ],
+      "Shuro": [
+        "Yukari",
+        "Nagusa"
+      ],
+      "Yukari": [
+        "Shuro"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

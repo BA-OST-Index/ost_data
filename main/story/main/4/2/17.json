@@ -1,0 +1,125 @@
+{
+  "uuid": "fe8cee11-a608-4009-89d6-ac06eeb3b4d2",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_17_DESC_1]",
+    "[STORY_MAIN_4_2_17_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Kaya",
+        "Descartes"
+      ],
+      "track": [
+        "OST_39",
+        "OST_129",
+        "OST_73",
+        "OST_114",
+        "OST_130",
+        "OST_13",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_39": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_129": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_73": [
+        "BG_CityOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_114": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_130": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_13": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_12": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_39": [
+        "Miyako"
+      ],
+      "OST_129": [
+        "Miyako",
+        "Kaya"
+      ],
+      "OST_73": [
+        "Miyako"
+      ],
+      "OST_114": [
+        "Descartes",
+        "Miyako"
+      ],
+      "OST_130": [
+        "Descartes",
+        "Miyako"
+      ],
+      "OST_13": [
+        "Descartes",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Descartes": [
+        "BG_CityDowntown.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyako": [
+        "Kaya",
+        "Descartes"
+      ],
+      "Kaya": [
+        "Miyako"
+      ],
+      "Descartes": [
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

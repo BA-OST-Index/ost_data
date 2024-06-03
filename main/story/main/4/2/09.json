@@ -1,0 +1,180 @@
+{
+  "uuid": "e794fd82-1b51-4a49-8a0a-e0f933685cf9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg",
+        "BG_UpperOffice.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Descartes",
+        "Yukino",
+        "PMC_General"
+      ],
+      "track": [
+        "OST_92",
+        "OST_8",
+        "OST_114",
+        "OST_18",
+        "OST_104"
+      ]
+    },
+    "track_to_bg": {
+      "OST_92": [
+        "BG_SRTCampSite.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg",
+        "BG_UpperOffice.jpg"
+      ],
+      "OST_8": [
+        "BG_CityDowntown.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_114": [
+        "BG_Market.jpg"
+      ],
+      "OST_18": [
+        "BG_Market.jpg"
+      ],
+      "OST_104": [
+        "BG_SRTCampSite_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_92": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "PMC_General"
+      ],
+      "OST_8": [
+        "Moe",
+        "Saki",
+        "Miyako"
+      ],
+      "OST_114": [
+        "Descartes"
+      ],
+      "OST_18": [
+        "Miyako",
+        "Yukino",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "OST_104": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg",
+        "BG_Market.jpg",
+        "BG_SRTCampSite_Sunset.jpg"
+      ],
+      "Descartes": [
+        "BG_Market.jpg"
+      ],
+      "PMC_General": [
+        "BG_Market.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Descartes",
+        "PMC_General"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Descartes",
+        "PMC_General"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Descartes",
+        "PMC_General"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Descartes",
+        "PMC_General"
+      ],
+      "Descartes": [
+        "Moe",
+        "Saki",
+        "Miyako",
+        "Miyu"
+      ],
+      "PMC_General": [
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

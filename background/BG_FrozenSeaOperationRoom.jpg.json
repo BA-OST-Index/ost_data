@@ -1,0 +1,13 @@
+{
+  "uuid": "9b8e2a27-8711-43c4-9155-5f718aed2bb1",
+  "filetype": 71,
+  "filename": "BG_FrozenSeaOperationRoom.jpg",
+  "name": "[BG_FrozenSeaOperationRoom.jpg_NAME]",
+  "desc": "[BG_FrozenSeaOperationRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_FrozenSeaOperationRoom.jpg",
+    "short_desc": ""
+  }
+}

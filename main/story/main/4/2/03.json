@@ -1,0 +1,108 @@
+{
+  "uuid": "3d00db04-2c3f-4f49-aadd-740bf2e7dc8f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_CS_Millenium_02.jpg",
+        "BG_AbandonedWarehouse.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "track": [
+        "OST_103",
+        "OST_16"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_AbandonedWarehouse.jpg"
+      ],
+      "OST_103": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_16": [
+        "BG_SRTCampSite.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_103": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ],
+      "OST_16": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

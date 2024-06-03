@@ -1,0 +1,119 @@
+{
+  "uuid": "f4a0f879-2f82-497a-8762-8968ae499513",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_InterrogationRoom.jpg",
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Kanna",
+        "Moe",
+        "Kirino",
+        "Miyu",
+        "Fubuki",
+        "Miyako",
+        "Kaya"
+      ],
+      "track": [
+        "OST_16",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_InterrogationRoom.jpg",
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_16": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "OST_13": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Saki",
+        "Kanna",
+        "Moe",
+        "Kirino",
+        "Miyu",
+        "Fubuki"
+      ],
+      "OST_13": [
+        "Kanna"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Kanna": [
+        "BG_InterrogationRoom.jpg",
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "Moe": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Kirino": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Miyu": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Fubuki": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Miyako": [
+        "BG_InterrogationRoom.jpg"
+      ],
+      "Kaya": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kanna": [
+        "Saki"
+      ],
+      "Saki": [
+        "Kanna"
+      ],
+      "Kirino": [
+        "Moe"
+      ],
+      "Moe": [
+        "Kirino"
+      ],
+      "Fubuki": [
+        "Miyu"
+      ],
+      "Miyu": [
+        "Fubuki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

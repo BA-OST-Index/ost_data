@@ -1,0 +1,13 @@
+{
+  "uuid": "9dbb3d7b-0b9d-4544-a36f-218ee54dc4a5",
+  "filetype": 71,
+  "filename": "BG_MountainTop.jpg",
+  "name": "[BG_MountainTop.jpg_NAME]",
+  "desc": "[BG_MountainTop.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_MountainTop.jpg",
+    "short_desc": ""
+  }
+}

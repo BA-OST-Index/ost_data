@@ -1,0 +1,10 @@
+{
+  "uuid": "9fdf1cc4-9029-4e3a-ba83-b5f21d7aa2b9",
+  "filetype": -53,
+  "namespace": "kirara",
+  "name": "Kirara",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

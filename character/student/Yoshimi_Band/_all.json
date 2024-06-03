@@ -1,0 +1,10 @@
+{
+  "uuid": "944ed1ac-a334-48a5-b8e7-49bce225a4bf",
+  "filetype": -53,
+  "namespace": "yoshimi_band",
+  "name": "Yoshimi_Band",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

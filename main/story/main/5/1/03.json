@@ -1,0 +1,95 @@
+{
+  "uuid": "bf67b2e4-e4c4-4320-bafa-1322b2f7d68b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_CS_Hyakkiyako_02.jpg",
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "character": [
+        "Yukari"
+      ],
+      "track": [
+        "OST_13",
+        "OST_6",
+        "OST_176",
+        "OST_130"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg",
+        "BG_HyakkiyakoLanternRoad.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkiyakoCastleSquare.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_176": [
+        "BG_CS_Hyakkiyako_02.jpg",
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Yukari"
+      ],
+      "OST_6": [
+        "Yukari"
+      ],
+      "OST_176": [
+        "Yukari"
+      ],
+      "OST_130": [
+        "Yukari"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoCastleSquare.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

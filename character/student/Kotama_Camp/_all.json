@@ -1,0 +1,10 @@
+{
+  "uuid": "2373228f-903a-476d-9e22-8bb0d60bca6b",
+  "filetype": -53,
+  "namespace": "kotama_camp",
+  "name": "Kotama_Camp",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

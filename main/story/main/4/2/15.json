@@ -1,0 +1,103 @@
+{
+  "uuid": "c9b42cbc-1d67-4f99-bf01-c61c824d0fd6",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ShowerRoom.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_InterrogationRoom_Night.jpg"
+      ],
+      "character": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ],
+      "track": [
+        "OST_37"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ShowerRoom.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_InterrogationRoom_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_ShowerRoom.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_37": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Moe": [
+        "BG_ShowerRoom.jpg"
+      ],
+      "Miyu": [
+        "BG_ShowerRoom.jpg"
+      ],
+      "Saki": [
+        "BG_ShowerRoom.jpg",
+        "BG_CS_Rabbit_04.jpg"
+      ],
+      "Miyako": [
+        "BG_ShowerRoom.jpg",
+        "BG_DesertCamp2_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Moe",
+        "Saki",
+        "Miyako"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Moe": [
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

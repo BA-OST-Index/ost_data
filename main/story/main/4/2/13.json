@@ -1,0 +1,157 @@
+{
+  "uuid": "6f5ea31c-9709-41c5-b473-114e5da8ceaf",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_13_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_MainOffice_Night.jpg"
+      ],
+      "character": [
+        "Kaya",
+        "Cherino",
+        "Haine",
+        "Ayumu",
+        "Momoka",
+        "Yukino",
+        "PMC_General"
+      ],
+      "track": [
+        "OST_83",
+        "OST_3",
+        "OST_92",
+        "OST_93"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_MainOffice_Night.jpg"
+      ],
+      "OST_83": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "OST_92": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_93": [
+        "BG_ReceptionRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_83": [
+        "Cherino",
+        "Kaya"
+      ],
+      "OST_3": [
+        "Cherino",
+        "Kaya",
+        "Haine",
+        "Ayumu",
+        "Momoka"
+      ],
+      "OST_92": [
+        "Yukino",
+        "PMC_General",
+        "Kaya"
+      ],
+      "OST_93": [
+        "Kaya",
+        "Yukino",
+        "PMC_General"
+      ]
+    },
+    "char_to_bg": {
+      "Kaya": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Cherino": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Haine": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Ayumu": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Momoka": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Yukino": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "PMC_General": [
+        "BG_ReceptionRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Cherino": [
+        "Kaya",
+        "Haine",
+        "Ayumu",
+        "Momoka"
+      ],
+      "Kaya": [
+        "Cherino",
+        "Haine",
+        "Ayumu",
+        "Momoka",
+        "Yukino",
+        "PMC_General"
+      ],
+      "Haine": [
+        "Kaya",
+        "Cherino",
+        "Ayumu",
+        "Momoka"
+      ],
+      "Ayumu": [
+        "Kaya",
+        "Cherino",
+        "Haine",
+        "Momoka"
+      ],
+      "Momoka": [
+        "Kaya",
+        "Cherino",
+        "Haine",
+        "Ayumu"
+      ],
+      "PMC_General": [
+        "Yukino",
+        "Kaya"
+      ],
+      "Yukino": [
+        "PMC_General",
+        "Kaya"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

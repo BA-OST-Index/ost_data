@@ -1,0 +1,187 @@
+{
+  "uuid": "41363442-0fa3-4508-b25b-da927929848f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_InterrogationRoom_Night.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_HQ2.jpg",
+        "BG_SubwayHall_Night.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "track": [
+        "OST_105",
+        "OST_43",
+        "OST_92",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_InterrogationRoom_Night.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_HQ2.jpg"
+      ],
+      "OST_105": [
+        "BG_InterrogationRoom_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "OST_92": [
+        "BG_HQ2.jpg",
+        "BG_SubwayHall_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HQ2.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_105": [
+        "Miyako"
+      ],
+      "OST_43": [
+        "Miyako"
+      ],
+      "OST_92": [
+        "Yukino",
+        "Miyako"
+      ],
+      "OST_135": [
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_InterrogationRoom_Night.jpg",
+        "BG_DesertCamp2_Night.jpg",
+        "BG_HQ2.jpg"
+      ],
+      "Yukino": [
+        "BG_HQ2.jpg",
+        "BG_SubwayHall_Night.jpg"
+      ],
+      "Otogi": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "Kurumi": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "Niko": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "Moe": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_DesertCamp2_Night.jpg"
+      ],
+      "Saki": [
+        "BG_DesertCamp2_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukino": [
+        "Miyako"
+      ],
+      "Miyako": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Otogi": [
+        "Miyako",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Kurumi": [
+        "Miyako",
+        "Otogi",
+        "Niko",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Niko": [
+        "Miyako",
+        "Otogi",
+        "Kurumi",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Moe": [
+        "Miyako",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Miyu",
+        "Saki"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Saki"
+      ],
+      "Saki": [
+        "Miyako",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Moe",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

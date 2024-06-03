@@ -1,0 +1,138 @@
+{
+  "uuid": "4694d415-940e-44f0-addf-1d54eacce941",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Descartes",
+        "Kirino",
+        "Public Peace Bureau Student",
+        "Kanna"
+      ],
+      "track": [
+        "OST_16",
+        "OST_114",
+        "OST_27"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_114": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_27": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ],
+      "OST_114": [
+        "Descartes",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "OST_27": [
+        "Saki",
+        "Miyako",
+        "Miyu",
+        "Moe",
+        "Kirino",
+        "Descartes"
+      ]
+    },
+    "char_to_bg": {
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Descartes": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Public Peace Bureau Student": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Kanna": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Descartes"
+      ],
+      "Miyu": [
+        "Moe",
+        "Miyako",
+        "Saki",
+        "Descartes"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Descartes"
+      ],
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Descartes"
+      ],
+      "Descartes": [
+        "Moe",
+        "Saki",
+        "Miyako",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

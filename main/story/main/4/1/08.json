@@ -1,0 +1,176 @@
+{
+  "uuid": "6d39f04b-a7e2-4ef8-91f8-a3fa7ae8acf3",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_8_DESC_1]",
+    "[STORY_MAIN_4_1_8_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_05.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_Market.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu",
+        "Descartes"
+      ],
+      "track": [
+        "OST_18",
+        "OST_7",
+        "OST_16",
+        "OST_3",
+        "OST_5",
+        "OST_13",
+        "OST_113"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_Wharf_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_05.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_7": [
+        "BG_Wharf_Night.jpg",
+        "BG_CS_Rabbit_05.jpg"
+      ],
+      "OST_16": [
+        "BG_Wharf_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_Wharf_Night.jpg"
+      ],
+      "OST_5": [
+        "BG_Wharf_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_SRTCampSite_Night.jpg"
+      ],
+      "OST_113": [
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ],
+      "OST_7": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "OST_16": [
+        "Saki",
+        "Miyako"
+      ],
+      "OST_3": [
+        "Saki",
+        "Miyu"
+      ],
+      "OST_5": [
+        "Saki",
+        "Moe",
+        "Miyako"
+      ],
+      "OST_13": [
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "OST_113": [
+        "Saki",
+        "Miyako",
+        "Miyu",
+        "Moe"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_05.jpg"
+      ],
+      "Moe": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg"
+      ],
+      "Saki": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_05.jpg"
+      ],
+      "Miyu": [
+        "BG_Wharf_Night.jpg",
+        "BG_SRTCampSite_Night.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_05.jpg"
+      ],
+      "Descartes": [
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Moe",
+        "Saki"
+      ],
+      "Miyako": [
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

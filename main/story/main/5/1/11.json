@@ -1,0 +1,103 @@
+{
+  "uuid": "4a29a3d4-c483-46e6-9cd2-9de6bc109d73",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "character": [
+        "Arata",
+        "Nagusa"
+      ],
+      "track": [
+        "OST_29",
+        "OST_49",
+        "OST_43",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_29": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2_Night.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_49": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2_Night.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_29": [
+        "Arata",
+        "Nagusa"
+      ],
+      "OST_49": [
+        "Nagusa",
+        "Arata"
+      ],
+      "OST_43": [
+        "Nagusa"
+      ]
+    },
+    "char_to_bg": {
+      "Arata": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nagusa": [
+        "Arata"
+      ],
+      "Arata": [
+        "Nagusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

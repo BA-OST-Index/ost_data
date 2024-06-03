@@ -1,0 +1,23 @@
+{
+  "uuid": "1ce43d1e-908f-4253-be9f-283bb190d060",
+  "filetype": -25,
+  "name": "[STORY_MAIN_5_1_NAME]",
+  "namespace": "1",
+  "desc": "[STORY_MAIN_5_1_DESC]",
+
+  "include": [
+    "[AUTO]"
+  ],
+
+  "parent_data": {
+    "enable": true,
+    "extra_data": {},
+    "enable_export": false
+  },
+
+  "image": {
+    "value": "/static/images/background/BG_HyakkayouranGarden.jpg",
+    "short_desc": "",
+    "platform": -1
+  }
+}

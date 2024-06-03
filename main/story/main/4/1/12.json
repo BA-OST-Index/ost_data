@@ -1,0 +1,101 @@
+{
+  "uuid": "15d3bb18-c56f-468a-9fbb-96a4ed5cc135",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ReceptionRoom.jpg",
+        "BG_UpperOffice.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_Market.jpg"
+      ],
+      "character": [
+        "Rin",
+        "Yukino",
+        "Kaya",
+        "Kanna"
+      ],
+      "track": [
+        "OST_33",
+        "OST_93"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ReceptionRoom.jpg",
+        "BG_UpperOffice.jpg",
+        "BG_BuildingCorridor.jpg",
+        "BG_Market.jpg"
+      ],
+      "OST_33": [
+        "BG_ReceptionRoom.jpg",
+        "BG_UpperOffice.jpg"
+      ],
+      "OST_93": [
+        "BG_UpperOffice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Rin",
+        "Yukino",
+        "Kaya"
+      ],
+      "OST_93": [
+        "Kaya",
+        "Kanna",
+        "Yukino"
+      ]
+    },
+    "char_to_bg": {
+      "Rin": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Kaya": [
+        "BG_UpperOffice.jpg"
+      ],
+      "Kanna": [
+        "BG_BuildingCorridor.jpg",
+        "BG_UpperOffice.jpg"
+      ],
+      "Yukino": [
+        "BG_UpperOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kaya": [
+        "Kanna",
+        "Yukino"
+      ],
+      "Yukino": [
+        "Kanna",
+        "Kaya"
+      ],
+      "Kanna": [
+        "Kaya",
+        "Yukino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

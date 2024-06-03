@@ -1,0 +1,65 @@
+{
+  "uuid": "6be06cf3-b7ed-4419-8e94-1fe536af2eda",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Market.jpg",
+        "BG_Residence.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "character": [
+        "Kirino",
+        "Descartes"
+      ],
+      "track": [
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_Market.jpg"
+      ],
+      "OST_0": [
+        "BG_Market.jpg",
+        "BG_Residence.jpg",
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Kirino": [
+        "BG_Market.jpg"
+      ],
+      "Descartes": [
+        "BG_Residence.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

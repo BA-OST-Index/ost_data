@@ -1,0 +1,13 @@
+{
+  "uuid": "4a63c183-6c63-45be-baa1-cbd756d65f06",
+  "filetype": 71,
+  "filename": "BG_FrozenSea.jpg",
+  "name": "[BG_FrozenSea.jpg_NAME]",
+  "desc": "[BG_FrozenSea.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_FrozenSea.jpg",
+    "short_desc": ""
+  }
+}

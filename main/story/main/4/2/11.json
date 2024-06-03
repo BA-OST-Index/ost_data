@@ -1,0 +1,103 @@
+{
+  "uuid": "ede7ef9c-a7d1-409a-b92e-63791e44054d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_ModernCafe.jpg",
+        "BG_CS_S1Final_13_2.jpg",
+        "BG_CS_PV4_5_13.jpg",
+        "BG_CS_PV4_5_15.jpg",
+        "BG_CitySqaure.jpg",
+        "BG_SlumFront.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "character": [
+        "Kirino",
+        "Kanna"
+      ],
+      "track": [
+        "OST_8",
+        "OST_129",
+        "OST_105"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_ModernCafe.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "OST_8": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_129": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_105": [
+        "BG_ModernCafe.jpg",
+        "BG_CS_S1Final_13_2.jpg",
+        "BG_CS_PV4_5_13.jpg",
+        "BG_CS_PV4_5_15.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_CitySqaure.jpg",
+        "BG_SlumFront.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Kirino"
+      ],
+      "OST_129": [
+        "Kanna",
+        "Kirino"
+      ],
+      "OST_105": [
+        "Kanna",
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Kirino": [
+        "BG_CityDowntown.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "Kanna": [
+        "BG_CityDowntown.jpg",
+        "BG_ModernCafe.jpg",
+        "BG_CS_PV4_5_13.jpg",
+        "BG_CS_PV4_5_15.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kanna": [
+        "Kirino"
+      ],
+      "Kirino": [
+        "Kanna"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

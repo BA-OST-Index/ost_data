@@ -1,0 +1,147 @@
+{
+  "uuid": "bb747ae9-b3b5-4ee3-ab7a-8032f8e2d9cf",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_Vault_Night.jpg"
+      ],
+      "character": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "track": [
+        "OST_73",
+        "OST_27",
+        "OST_113"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_27": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_113": [
+        "BG_SRTCampSite.jpg",
+        "BG_Vault_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "OST_27": [
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "OST_113": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Public Peace Bureau Student": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Kanna": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kanna": [
+        "Public Peace Bureau Student",
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Saki": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyako": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "Moe": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Saki",
+        "Miyako",
+        "Miyu"
+      ],
+      "Miyu": [
+        "Public Peace Bureau Student",
+        "Kanna",
+        "Saki",
+        "Miyako",
+        "Moe"
+      ],
+      "Public Peace Bureau Student": [
+        "Kanna",
+        "Saki",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

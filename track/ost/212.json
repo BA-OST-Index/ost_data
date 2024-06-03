@@ -1,0 +1,63 @@
+{
+  "uuid": "6459f535-57e2-443d-ad75-3f95294dffd7",
+
+  "name":{
+    "realname": "[OST_212_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_212_DESC]",
+
+  "release_date": 1711606719,
+  "no": 212,
+  "track_type": 0,
+  "duration": 128,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 2
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=GulGAXoLQ0o",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "stats": {
+    "is_ba": true,
+    "is_jp": true,
+    "is_global": true,
+    "is_cn": true,
+    "is_segment": false,
+    "is_sub": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

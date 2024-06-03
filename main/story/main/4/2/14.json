@@ -1,0 +1,103 @@
+{
+  "uuid": "fa61e42b-e4cb-4b13-a6e1-504d962b273e",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_14_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_Shop.jpg",
+        "BG_MainOffice_Night.jpg"
+      ],
+      "character": [
+        "Sora",
+        "Kurumi",
+        "Otogi",
+        "Niko"
+      ],
+      "track": [
+        "OST_16",
+        "OST_6",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_Shop.jpg"
+      ],
+      "OST_0": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "OST_6": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_MainOffice_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Sora"
+      ],
+      "OST_6": [
+        "Niko",
+        "Otogi",
+        "Kurumi"
+      ],
+      "OST_135": [
+        "Niko",
+        "Kurumi",
+        "Otogi"
+      ]
+    },
+    "char_to_bg": {
+      "Sora": [
+        "BG_Shop.jpg"
+      ],
+      "Kurumi": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "Otogi": [
+        "BG_MainOffice_Night.jpg"
+      ],
+      "Niko": [
+        "BG_MainOffice_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Otogi": [
+        "Kurumi",
+        "Niko"
+      ],
+      "Niko": [
+        "Kurumi",
+        "Otogi"
+      ],
+      "Kurumi": [
+        "Otogi",
+        "Niko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,284 @@
+{
+  "uuid": "785767b3-1c7c-4793-9a91-0ab9af65625c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_2_DESC_1]",
+    "[STORY_MAIN_4_1_2_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ForestRoad.jpg",
+        "BG_Park.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_SRTBase.jpg",
+        "BG_InterrogationRoom.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Kanna",
+        "Shinon",
+        "Mai",
+        "Kirino",
+        "Fubuki",
+        "Miyako",
+        "Miyu",
+        "Public Peace Bureau Student",
+        "Suspicious Target"
+      ],
+      "track": [
+        "OST_29",
+        "OST_3",
+        "OST_8",
+        "OST_5",
+        "OST_28",
+        "OST_18",
+        "OST_16",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_29": [
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_ForestRoad.jpg",
+        "BG_Park.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_SRTBase.jpg"
+      ],
+      "OST_3": [
+        "BG_Park.jpg",
+        "BG_ForestRoad.jpg"
+      ],
+      "OST_8": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_5": [
+        "BG_Park.jpg"
+      ],
+      "OST_28": [
+        "BG_Park.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_18": [
+        "BG_ForestRoad.jpg",
+        "BG_SRTBase.jpg"
+      ],
+      "OST_16": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_13": [
+        "BG_Park.jpg",
+        "BG_InterrogationRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_29": [
+        "Saki",
+        "Moe"
+      ],
+      "OST_3": [
+        "Shinon",
+        "Mai",
+        "Kanna",
+        "Kirino",
+        "Fubuki",
+        "Public Peace Bureau Student",
+        "Miyu"
+      ],
+      "OST_8": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Miyu"
+      ],
+      "OST_5": [
+        "Kanna",
+        "Fubuki",
+        "Kirino"
+      ],
+      "OST_28": [
+        "Saki",
+        "Moe"
+      ],
+      "OST_18": [
+        "Miyu",
+        "Saki",
+        "Suspicious Target",
+        "Fubuki",
+        "Kirino",
+        "Miyako"
+      ],
+      "OST_16": [
+        "Saki",
+        "Moe"
+      ],
+      "OST_13": [
+        "Kanna",
+        "Fubuki",
+        "Kirino",
+        "Moe",
+        "Saki",
+        "Miyu",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_ForestRoad.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_Park.jpg"
+      ],
+      "Moe": [
+        "BG_ForestRoad.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_Park.jpg"
+      ],
+      "Kanna": [
+        "BG_Park.jpg"
+      ],
+      "Shinon": [
+        "BG_Park.jpg"
+      ],
+      "Mai": [
+        "BG_Park.jpg"
+      ],
+      "Kirino": [
+        "BG_Park.jpg",
+        "BG_SRTBase.jpg"
+      ],
+      "Fubuki": [
+        "BG_Park.jpg",
+        "BG_ForestRoad.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg",
+        "BG_SRTBase.jpg",
+        "BG_Park.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg",
+        "BG_ForestRoad.jpg",
+        "BG_Park.jpg"
+      ],
+      "Public Peace Bureau Student": [
+        "BG_Park.jpg"
+      ],
+      "Suspicious Target": [
+        "BG_ForestRoad.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyako",
+        "Miyu",
+        "Kanna",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Suspicious Target",
+        "Fubuki",
+        "Kanna",
+        "Kirino"
+      ],
+      "Shinon": [
+        "Kanna",
+        "Mai",
+        "Kirino",
+        "Fubuki"
+      ],
+      "Mai": [
+        "Kanna",
+        "Shinon",
+        "Kirino",
+        "Fubuki"
+      ],
+      "Kirino": [
+        "Kanna",
+        "Shinon",
+        "Mai",
+        "Fubuki",
+        "Public Peace Bureau Student",
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ],
+      "Fubuki": [
+        "Kanna",
+        "Shinon",
+        "Mai",
+        "Kirino",
+        "Public Peace Bureau Student",
+        "Miyu",
+        "Saki",
+        "Suspicious Target",
+        "Moe",
+        "Miyako"
+      ],
+      "Kanna": [
+        "Shinon",
+        "Mai",
+        "Kirino",
+        "Fubuki",
+        "Public Peace Bureau Student",
+        "Moe",
+        "Saki",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Kirino",
+        "Kanna",
+        "Fubuki"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Suspicious Target",
+        "Fubuki",
+        "Kanna",
+        "Kirino"
+      ],
+      "Public Peace Bureau Student": [
+        "Kanna",
+        "Kirino",
+        "Fubuki"
+      ],
+      "Suspicious Target": [
+        "Miyu",
+        "Saki",
+        "Fubuki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

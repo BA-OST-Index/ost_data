@@ -1,0 +1,90 @@
+{
+  "uuid": "2667a8fa-2c98-459f-b84f-cdd45a08d08b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_14_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "track": [
+        "OST_13",
+        "OST_8",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_8": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_3": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "OST_8": [
+        "Moe",
+        "Miyako"
+      ],
+      "OST_3": [
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Saki"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

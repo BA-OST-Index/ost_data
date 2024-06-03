@@ -1,0 +1,82 @@
+{
+  "uuid": "9e6e1fc2-7087-451f-baeb-f2a70df08e53",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_2_DESC_1]",
+    "[STORY_MAIN_5_1_2_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_Hyakkiyako_02.jpg"
+      ],
+      "character": [
+        "Yukari"
+      ],
+      "track": [
+        "OST_10",
+        "OST_8",
+        "OST_60",
+        "OST_40",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_8": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_60": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_40": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_12": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_CS_Hyakkiyako_02.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_8": [
+        "Yukari"
+      ],
+      "OST_60": [
+        "Yukari"
+      ],
+      "OST_40": [
+        "Yukari"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

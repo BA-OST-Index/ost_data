@@ -1,0 +1,195 @@
+{
+  "uuid": "56af504c-82ed-45ad-9b50-54cfa7847d71",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_20_DESC_1]",
+    "[STORY_MAIN_4_2_20_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HQ2.jpg",
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_MissileSilo.jpg",
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_PowerRoom_Night.jpg",
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "character": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Moe"
+      ],
+      "track": [
+        "OST_19",
+        "OST_129",
+        "OST_65",
+        "OST_164"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HQ2.jpg",
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_19": [
+        "BG_HQ2.jpg"
+      ],
+      "OST_129": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_65": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_164": [
+        "BG_MissileSilo.jpg",
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_PowerRoom_Night.jpg",
+        "BG_MissileSilo_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_19": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "OST_129": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Moe"
+      ],
+      "OST_65": [
+        "Saki",
+        "Miyu",
+        "Moe"
+      ],
+      "OST_164": [
+        "Saki",
+        "Otogi",
+        "Kurumi",
+        "Miyu",
+        "Niko",
+        "Moe",
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Yukino": [
+        "BG_HQ2.jpg"
+      ],
+      "Otogi": [
+        "BG_HQ2.jpg",
+        "BG_MissileSilo.jpg",
+        "BG_BuildingCorridor2_Night.jpg"
+      ],
+      "Kurumi": [
+        "BG_HQ2.jpg",
+        "BG_MissileSilo.jpg"
+      ],
+      "Niko": [
+        "BG_HQ2.jpg",
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Miyako": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Saki": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_MissileSilo.jpg",
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_PowerRoom_Night.jpg"
+      ],
+      "Moe": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_PowerRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Otogi": [
+        "Yukino",
+        "Kurumi",
+        "Niko",
+        "Saki",
+        "Miyu"
+      ],
+      "Kurumi": [
+        "Yukino",
+        "Otogi",
+        "Niko",
+        "Saki"
+      ],
+      "Yukino": [
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Niko": [
+        "Kurumi",
+        "Otogi",
+        "Yukino",
+        "Moe",
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ],
+      "Saki": [
+        "Miyako",
+        "Miyu",
+        "Moe",
+        "Kurumi",
+        "Otogi",
+        "Niko"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Otogi",
+        "Niko"
+      ],
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Niko"
+      ],
+      "Miyako": [
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Niko"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

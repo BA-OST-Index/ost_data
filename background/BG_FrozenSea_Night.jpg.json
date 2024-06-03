@@ -1,0 +1,13 @@
+{
+  "uuid": "4a3ac6a5-9a10-4d38-8a87-7ecae709db31",
+  "filetype": 71,
+  "filename": "BG_FrozenSea_Night.jpg",
+  "name": "[BG_FrozenSea_Night.jpg_NAME]",
+  "desc": "[BG_FrozenSea_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_FrozenSea_Night.jpg",
+    "short_desc": ""
+  }
+}

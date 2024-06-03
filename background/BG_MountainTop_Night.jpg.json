@@ -1,0 +1,13 @@
+{
+  "uuid": "e35d3e49-efc8-4f4e-b56e-65712d8c76e4",
+  "filetype": 71,
+  "filename": "BG_MountainTop_Night.jpg",
+  "name": "[BG_MountainTop_Night.jpg_NAME]",
+  "desc": "[BG_MountainTop_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_MountainTop_Night.jpg",
+    "short_desc": ""
+  }
+}

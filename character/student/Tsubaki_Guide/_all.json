@@ -1,0 +1,10 @@
+{
+  "uuid": "638ccbe3-48b3-4e7a-826c-590574c2f070",
+  "filetype": -53,
+  "namespace": "tsubaki_guide",
+  "name": "Tsubaki_Guide",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

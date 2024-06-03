@@ -1,0 +1,13 @@
+{
+  "uuid": "c923b613-2878-4686-ae8c-bd6cd7c7b014",
+  "filetype": 71,
+  "filename": "BG_CampSite_Night.jpg",
+  "name": "[BG_CampSite_Night.jpg_NAME]",
+  "desc": "[BG_CampSite_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_CampSite_Night.jpg",
+    "short_desc": ""
+  }
+}

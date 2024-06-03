@@ -1,0 +1,95 @@
+{
+  "uuid": "71faf089-5c33-47d6-b4ef-6e6c9521de5c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_CS_Rabbit_02.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CS_Rabbit_01.jpg",
+        "BG_IndoorPlaza.jpg"
+      ],
+      "character": [
+        "Kaya",
+        "Kanna"
+      ],
+      "track": [
+        "OST_10",
+        "OST_73",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_0": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_73": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_CS_Rabbit_02.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CS_Rabbit_01.jpg"
+      ],
+      "OST_28": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_IndoorPlaza.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Kaya",
+        "Kanna"
+      ],
+      "OST_73": [
+        "Kaya"
+      ],
+      "OST_28": [
+        "Kaya",
+        "Kanna"
+      ]
+    },
+    "char_to_bg": {
+      "Kaya": [
+        "BG_ValkyrieOffice.jpg",
+        "BG_CS_Rabbit_02.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CS_Rabbit_01.jpg"
+      ],
+      "Kanna": [
+        "BG_ValkyrieOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kanna": [
+        "Kaya"
+      ],
+      "Kaya": [
+        "Kanna"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

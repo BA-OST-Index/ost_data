@@ -1,0 +1,127 @@
+{
+  "uuid": "9797333b-75ba-4dbb-b5b2-7fad58c4f6fb",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_Wharf.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Saki & Moe",
+        "Miyako"
+      ],
+      "track": [
+        "OST_6",
+        "OST_3",
+        "OST_5"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_6": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_3": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_5": [
+        "BG_SRTCampSite.jpg",
+        "BG_Wharf.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Saki & Moe",
+        "Miyako"
+      ],
+      "OST_3": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "OST_5": [
+        "Miyako"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Saki & Moe": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyu",
+        "Saki & Moe",
+        "Miyako"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Saki & Moe",
+        "Miyako"
+      ],
+      "Saki & Moe": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Saki & Moe"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Saki & Moe",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

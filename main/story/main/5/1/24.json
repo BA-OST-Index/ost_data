@@ -1,0 +1,205 @@
+{
+  "uuid": "a6477484-ecd9-45ad-8f2c-048ee8c87d0f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_24_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_24_DESC_1]",
+    "[STORY_MAIN_5_1_24_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 24
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_25_2.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_CS_PV4_5_26.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "character": [
+        "Nagusa",
+        "Renge",
+        "Kikyou",
+        "Yukari",
+        "Shuro"
+      ],
+      "track": [
+        "OST_196",
+        "OST_105",
+        "OST_32",
+        "OST_145",
+        "OST_177",
+        "OST_190",
+        "OST_195",
+        "OST_178"
+      ]
+    },
+    "track_to_bg": {
+      "OST_196": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_PV4_5_25_2.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ],
+      "OST_105": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg"
+      ],
+      "OST_32": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_CS_PV4_5_26.jpg",
+        "BG_CS_PV4_5_27.jpg"
+      ],
+      "OST_145": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ],
+      "OST_177": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ],
+      "OST_190": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_195": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_178": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_196": [
+        "Nagusa",
+        "Renge",
+        "Kikyou",
+        "Yukari"
+      ],
+      "OST_105": [
+        "Shuro",
+        "Nagusa",
+        "Yukari",
+        "Kikyou",
+        "Renge"
+      ],
+      "OST_32": [
+        "Yukari",
+        "Shuro"
+      ],
+      "OST_145": [
+        "Yukari",
+        "Shuro",
+        "Renge",
+        "Kikyou"
+      ],
+      "OST_177": [
+        "Shuro",
+        "Renge",
+        "Kikyou",
+        "Yukari"
+      ],
+      "OST_190": [
+        "Nagusa",
+        "Yukari",
+        "Renge",
+        "Kikyou"
+      ],
+      "OST_195": [
+        "Shuro",
+        "Yukari",
+        "Nagusa",
+        "Renge",
+        "Kikyou"
+      ],
+      "OST_178": [
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Renge": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Nagusa": [
+        "BG_CS_PV4_5_25_2.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Shuro": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Nagusa",
+        "Kikyou",
+        "Renge",
+        "Shuro"
+      ],
+      "Nagusa": [
+        "Yukari",
+        "Kikyou",
+        "Renge",
+        "Shuro"
+      ],
+      "Kikyou": [
+        "Nagusa",
+        "Yukari",
+        "Renge",
+        "Shuro"
+      ],
+      "Renge": [
+        "Nagusa",
+        "Yukari",
+        "Kikyou",
+        "Shuro"
+      ],
+      "Shuro": [
+        "Yukari",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_190",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

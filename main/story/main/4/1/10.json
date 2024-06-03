@@ -1,0 +1,147 @@
+{
+  "uuid": "d287fe07-cc5a-41ef-a71a-1af7b2225af1",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_10_DESC_1]",
+    "[STORY_MAIN_4_1_10_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "character": [
+        "Descartes",
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "track": [
+        "OST_114",
+        "OST_3",
+        "OST_18",
+        "OST_91",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_114": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_3": [
+        "BG_RuinSchoolCorridor.jpg",
+        "BG_CraftChamber.jpg"
+      ],
+      "OST_18": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_91": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "OST_13": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_114": [
+        "Descartes",
+        "Miyako"
+      ],
+      "OST_3": [
+        "Descartes",
+        "Moe",
+        "Miyako",
+        "Saki",
+        "Miyu"
+      ],
+      "OST_18": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe",
+        "Descartes"
+      ],
+      "OST_91": [
+        "Descartes"
+      ],
+      "OST_13": [
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Descartes"
+      ]
+    },
+    "char_to_bg": {
+      "Descartes": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Miyako": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Saki": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Moe": [
+        "BG_RuinSchoolCorridor.jpg"
+      ],
+      "Miyu": [
+        "BG_RuinSchoolCorridor.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyako": [
+        "Descartes",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "Saki": [
+        "Descartes",
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Moe": [
+        "Descartes",
+        "Miyako",
+        "Saki",
+        "Miyu"
+      ],
+      "Descartes": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Descartes"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

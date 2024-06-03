@@ -1,0 +1,218 @@
+{
+  "uuid": "c73eb113-3490-4a6e-9280-6a9b5549e19d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_20_DESC_1]",
+    "[STORY_MAIN_5_1_20_DESC_2]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_HyakkiyakoSquareStage.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_HyakkiyakoLanternSquare_Night.jpg",
+        "BG_CS_PV4_5_31_2.jpg"
+      ],
+      "character": [
+        "Shuro",
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Renge",
+        "Kikyou",
+        "Nagusa",
+        "Yukari",
+        "Shizuko",
+        "Umika",
+        "Pina"
+      ],
+      "track": [
+        "OST_19",
+        "OST_181",
+        "OST_176",
+        "OST_134"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoSquareStage.jpg"
+      ],
+      "OST_19": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "OST_181": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_CS_PV4_5_23.jpg"
+      ],
+      "OST_176": [
+        "BG_HyakkiyakoSquareStage.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "OST_134": [
+        "BG_CS_PV4_5_31_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_19": [
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Renge",
+        "Kikyou",
+        "Shuro",
+        "Nagusa"
+      ],
+      "OST_181": [
+        "Shuro",
+        "Renge",
+        "Kikyou",
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Yukari",
+        "Nagusa"
+      ],
+      "OST_176": [
+        "Shizuko",
+        "Umika",
+        "Pina",
+        "Yukari"
+      ],
+      "OST_134": [
+        "Yukari",
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Shuro": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkiyakoSquareStage.jpg"
+      ],
+      "Umika": [
+        "BG_HyakkiyakoSquareStage.jpg"
+      ],
+      "Pina": [
+        "BG_HyakkiyakoSquareStage.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoSquareStage.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsubaki": [
+        "Shuro",
+        "Mimori",
+        "Kaede",
+        "Renge",
+        "Kikyou"
+      ],
+      "Mimori": [
+        "Shuro",
+        "Tsubaki",
+        "Kaede",
+        "Renge",
+        "Kikyou"
+      ],
+      "Kaede": [
+        "Shuro",
+        "Tsubaki",
+        "Mimori",
+        "Renge",
+        "Kikyou"
+      ],
+      "Renge": [
+        "Shuro",
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Kikyou": [
+        "Shuro",
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Renge",
+        "Nagusa"
+      ],
+      "Shuro": [
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Renge",
+        "Kikyou",
+        "Nagusa",
+        "Yukari"
+      ],
+      "Nagusa": [
+        "Shuro",
+        "Kikyou",
+        "Renge"
+      ],
+      "Yukari": [
+        "Shuro",
+        "Shizuko",
+        "Umika",
+        "Pina"
+      ],
+      "Umika": [
+        "Shizuko",
+        "Pina",
+        "Yukari"
+      ],
+      "Pina": [
+        "Shizuko",
+        "Umika",
+        "Yukari"
+      ],
+      "Shizuko": [
+        "Umika",
+        "Pina",
+        "Yukari"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

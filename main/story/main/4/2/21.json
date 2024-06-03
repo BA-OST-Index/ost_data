@@ -1,0 +1,161 @@
+{
+  "uuid": "b9149abf-cd9b-48b3-ac4d-5374cfff9fd7",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_21_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_21_DESC_1]",
+    "[STORY_MAIN_4_2_21_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HQ2.jpg",
+        "BG_MissileSilo_Night.jpg",
+        "BG_CS_Rabbit_15.jpg"
+      ],
+      "character": [
+        "Kurumi",
+        "Otogi",
+        "Niko",
+        "Yukino",
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ],
+      "track": [
+        "OST_68",
+        "OST_73",
+        "OST_163",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_68": [
+        "BG_HQ2.jpg"
+      ],
+      "OST_0": [
+        "BG_HQ2.jpg",
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "OST_163": [
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "OST_12": [
+        "BG_MissileSilo_Night.jpg",
+        "BG_CS_Rabbit_15.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_68": [
+        "Kurumi",
+        "Otogi",
+        "Niko",
+        "Yukino"
+      ],
+      "OST_73": [
+        "Miyako",
+        "Saki",
+        "Moe"
+      ],
+      "OST_163": [
+        "Yukino",
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Kurumi": [
+        "BG_HQ2.jpg"
+      ],
+      "Otogi": [
+        "BG_HQ2.jpg"
+      ],
+      "Niko": [
+        "BG_HQ2.jpg"
+      ],
+      "Yukino": [
+        "BG_HQ2.jpg",
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "Miyako": [
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "Saki": [
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "Moe": [
+        "BG_MissileSilo_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_MissileSilo_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Otogi": [
+        "Kurumi",
+        "Niko",
+        "Yukino"
+      ],
+      "Niko": [
+        "Kurumi",
+        "Otogi",
+        "Yukino"
+      ],
+      "Yukino": [
+        "Kurumi",
+        "Otogi",
+        "Niko",
+        "Miyako"
+      ],
+      "Kurumi": [
+        "Otogi",
+        "Niko",
+        "Yukino"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Yukino",
+        "Miyu"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

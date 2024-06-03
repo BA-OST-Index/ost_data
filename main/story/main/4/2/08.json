@@ -1,0 +1,85 @@
+{
+  "uuid": "207ea059-0400-4122-95c8-f4f29be8b17b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_8_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_12.jpg",
+        "BG_CS_PV4_5_11.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "character": [
+        "Ayumu",
+        "Momoka",
+        "Kaya"
+      ],
+      "track": [
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_73": [
+        "BG_BuildingFrontGate_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_12.jpg",
+        "BG_CS_PV4_5_11.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Ayumu",
+        "Momoka",
+        "Kaya"
+      ]
+    },
+    "char_to_bg": {
+      "Ayumu": [
+        "BG_BuildingFrontGate_Night.jpg"
+      ],
+      "Momoka": [
+        "BG_BuildingFrontGate_Night.jpg"
+      ],
+      "Kaya": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_12.jpg",
+        "BG_CS_PV4_5_11.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Momoka": [
+        "Ayumu"
+      ],
+      "Ayumu": [
+        "Momoka"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

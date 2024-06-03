@@ -1,0 +1,187 @@
+{
+  "uuid": "259a1bec-629c-42b9-a84c-a258192c297d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_23_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_23_DESC_1]",
+    "[STORY_MAIN_4_2_23_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ReceptionRoom.jpg",
+        "BG_TrainStation.jpg",
+        "BG_RailWay.jpg",
+        "BG_CS_Millenium_02.jpg",
+        "BG_View_Sky2.jpg"
+      ],
+      "character": [
+        "Kaya",
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu",
+        "PMC_General",
+        "Haine"
+      ],
+      "track": [
+        "OST_47",
+        "OST_101",
+        "OST_5",
+        "OST_130",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_47": [
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_101": [
+        "BG_TrainStation.jpg",
+        "BG_RailWay.jpg"
+      ],
+      "OST_5": [
+        "BG_RailWay.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_130": [
+        "BG_ReceptionRoom.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "OST_7": [
+        "BG_ReceptionRoom.jpg",
+        "BG_View_Sky2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Kaya"
+      ],
+      "OST_101": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Miyu",
+        "PMC_General"
+      ],
+      "OST_5": [
+        "Kaya",
+        "Saki",
+        "Miyu",
+        "Miyako"
+      ],
+      "OST_130": [
+        "Haine",
+        "Kaya",
+        "Moe",
+        "Saki",
+        "Miyako"
+      ],
+      "OST_7": [
+        "Haine",
+        "Kaya"
+      ]
+    },
+    "char_to_bg": {
+      "Kaya": [
+        "BG_ReceptionRoom.jpg",
+        "BG_CS_Millenium_02.jpg"
+      ],
+      "Miyako": [
+        "BG_TrainStation.jpg",
+        "BG_RailWay.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Saki": [
+        "BG_TrainStation.jpg",
+        "BG_RailWay.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Moe": [
+        "BG_TrainStation.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "Miyu": [
+        "BG_TrainStation.jpg",
+        "BG_RailWay.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "PMC_General": [
+        "BG_RailWay.jpg"
+      ],
+      "Haine": [
+        "BG_ReceptionRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "PMC_General",
+        "Kaya",
+        "Haine"
+      ],
+      "Moe": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Haine",
+        "Kaya"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "PMC_General",
+        "Kaya"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "PMC_General",
+        "Kaya",
+        "Haine"
+      ],
+      "PMC_General": [
+        "Saki",
+        "Miyako",
+        "Miyu"
+      ],
+      "Kaya": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Haine",
+        "Moe"
+      ],
+      "Haine": [
+        "Kaya",
+        "Moe",
+        "Saki",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

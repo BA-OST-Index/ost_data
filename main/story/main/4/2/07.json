@@ -1,0 +1,175 @@
+{
+  "uuid": "9bd643a4-2d20-4326-b0ea-e43878cc2d12",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_CS_PV4_5_08.jpg",
+        "BG_CS_Rabbit_13.jpg",
+        "BG_CS_PV4_5_07.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_10.jpg",
+        "BG_CS_PV4_5_11.jpg"
+      ],
+      "character": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Momoka",
+        "Kaya"
+      ],
+      "track": [
+        "OST_6",
+        "OST_163"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_CS_PV4_5_08.jpg",
+        "BG_CS_Rabbit_13.jpg",
+        "BG_CS_PV4_5_07.jpg"
+      ],
+      "OST_6": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "OST_163": [
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_10.jpg",
+        "BG_CS_PV4_5_11.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Momoka"
+      ],
+      "OST_163": [
+        "Rin",
+        "Kaya",
+        "Haine"
+      ]
+    },
+    "char_to_bg": {
+      "Rin": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_CS_PV4_5_08.jpg",
+        "BG_CS_Rabbit_13.jpg"
+      ],
+      "Ayumu": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Aoi": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Haine": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "Sumomo": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Momoka": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Kaya": [
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_CS_Rabbit_13.jpg",
+        "BG_CS_PV4_5_07.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_PV4_5_10.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Ayumu": [
+        "Rin",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Momoka",
+        "Kaya"
+      ],
+      "Aoi": [
+        "Rin",
+        "Ayumu",
+        "Haine",
+        "Sumomo",
+        "Momoka",
+        "Kaya"
+      ],
+      "Haine": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Sumomo",
+        "Momoka",
+        "Kaya"
+      ],
+      "Sumomo": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Momoka",
+        "Kaya"
+      ],
+      "Momoka": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Kaya"
+      ],
+      "Kaya": [
+        "Rin",
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Momoka"
+      ],
+      "Rin": [
+        "Ayumu",
+        "Aoi",
+        "Haine",
+        "Sumomo",
+        "Momoka",
+        "Kaya"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

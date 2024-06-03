@@ -1,0 +1,245 @@
+{
+  "uuid": "18a299a5-86c6-472b-8ab5-1dce4be37f21",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_20_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_Rabbit_10.jpg",
+        "BG_SRTCampSite2.jpg"
+      ],
+      "character": [
+        "Shinon",
+        "Mai",
+        "Kanna",
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Descartes",
+        "Yukino",
+        "Niko",
+        "Kaya",
+        "Otogi",
+        "Kurumi"
+      ],
+      "track": [
+        "OST_113",
+        "OST_114",
+        "OST_6",
+        "OST_3",
+        "OST_7",
+        "OST_92",
+        "OST_93"
+      ]
+    },
+    "track_to_bg": {
+      "OST_113": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_SRTCampSite2.jpg"
+      ],
+      "OST_114": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_6": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_3": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_7": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_92": [
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_CS_Rabbit_10.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_113": [
+        "Shinon",
+        "Mai",
+        "Kanna",
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "OST_114": [
+        "Descartes"
+      ],
+      "OST_6": [
+        "Descartes",
+        "Saki",
+        "Moe"
+      ],
+      "OST_3": [
+        "Descartes",
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Moe"
+      ],
+      "OST_7": [
+        "Descartes",
+        "Saki",
+        "Moe",
+        "Miyako"
+      ],
+      "OST_92": [
+        "Kaya",
+        "Yukino",
+        "Niko"
+      ],
+      "OST_93": [
+        "Otogi",
+        "Kurumi",
+        "Niko",
+        "Yukino"
+      ]
+    },
+    "char_to_bg": {
+      "Shinon": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Mai": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Kanna": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Miyu": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Saki": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Moe": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Descartes": [
+        "BG_SRTCampSite.jpg"
+      ],
+      "Kaya": [
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "Yukino": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_Rabbit_10.jpg"
+      ],
+      "Niko": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_CS_Rabbit_10.jpg"
+      ],
+      "Otogi": [
+        "BG_CS_Rabbit_10.jpg"
+      ],
+      "Kurumi": [
+        "BG_CS_Rabbit_10.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mai": [
+        "Shinon",
+        "Kanna"
+      ],
+      "Kanna": [
+        "Shinon",
+        "Mai"
+      ],
+      "Shinon": [
+        "Mai",
+        "Kanna"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Saki",
+        "Moe",
+        "Descartes"
+      ],
+      "Saki": [
+        "Miyako",
+        "Miyu",
+        "Moe",
+        "Descartes"
+      ],
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki",
+        "Descartes"
+      ],
+      "Miyako": [
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Descartes"
+      ],
+      "Descartes": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ],
+      "Niko": [
+        "Yukino",
+        "Kaya",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Yukino": [
+        "Niko",
+        "Kaya",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Kaya": [
+        "Yukino",
+        "Niko"
+      ],
+      "Kurumi": [
+        "Otogi",
+        "Niko",
+        "Yukino"
+      ],
+      "Otogi": [
+        "Kurumi",
+        "Niko",
+        "Yukino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,216 @@
+{
+  "uuid": "fa6a74a2-07bf-4d75-b278-4e225bbb8706",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_18_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_18_DESC_1]",
+    "[STORY_MAIN_4_1_18_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_ValkyrieOffice_Night.jpg",
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "character": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Fubuki",
+        "Kirino"
+      ],
+      "track": [
+        "OST_27",
+        "OST_55",
+        "OST_65",
+        "OST_16",
+        "OST_18",
+        "OST_115",
+        "OST_28",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_55": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_65": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_16": [
+        "BG_Vault.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "OST_115": [
+        "BG_CS_Rabbit_09.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_ClassCorridor2_Night.jpg"
+      ],
+      "OST_28": [
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_ValkyrieOffice_Night.jpg",
+        "BG_BuildingRooftop_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "OST_55": [
+        "Miyako"
+      ],
+      "OST_65": [
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Miyako"
+      ],
+      "OST_18": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Kirino"
+      ],
+      "OST_115": [
+        "Saki",
+        "Miyako",
+        "Miyu",
+        "Moe"
+      ],
+      "OST_16": [
+        "Fubuki"
+      ],
+      "OST_28": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "OST_3": [
+        "Kirino",
+        "Fubuki"
+      ]
+    },
+    "char_to_bg": {
+      "Saki": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "Moe": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "Miyako": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Vault_Open.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "Fubuki": [
+        "BG_ValkyrieOffice_Night.jpg"
+      ],
+      "Kirino": [
+        "BG_ValkyrieOffice_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Miyu": [
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Miyako": [
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Kirino": [
+        "Fubuki",
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe"
+      ],
+      "Fubuki": [
+        "Saki",
+        "Miyu",
+        "Miyako",
+        "Moe",
+        "Kirino"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

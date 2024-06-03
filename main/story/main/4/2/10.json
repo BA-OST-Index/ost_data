@@ -1,0 +1,136 @@
+{
+  "uuid": "4a4218cb-a21c-4835-94ee-e4a48d4cb55d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_10_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_UpperOffice.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_BuildingFrontGate.jpg",
+        "BG_CS_PV4_5_18.jpg",
+        "BG_CS_PV4_5_15.jpg"
+      ],
+      "character": [
+        "Kaya",
+        "Momoka",
+        "Aoi",
+        "Yukino",
+        "Minori"
+      ],
+      "track": [
+        "OST_11",
+        "OST_3",
+        "OST_129",
+        "OST_83",
+        "OST_84"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_UpperOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_0": [
+        "BG_UpperOffice.jpg",
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_3": [
+        "BG_UpperOffice.jpg",
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "OST_129": [
+        "BG_UpperOffice.jpg"
+      ],
+      "OST_83": [
+        "BG_BuildingFrontGate.jpg"
+      ],
+      "OST_84": [
+        "BG_CS_PV4_5_18.jpg",
+        "BG_CS_PV4_5_15.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Kaya"
+      ],
+      "OST_3": [
+        "Kaya",
+        "Momoka",
+        "Aoi"
+      ],
+      "OST_129": [
+        "Kaya",
+        "Yukino"
+      ],
+      "OST_83": [
+        "Minori"
+      ],
+      "OST_84": [
+        "Minori"
+      ]
+    },
+    "char_to_bg": {
+      "Kaya": [
+        "BG_UpperOffice.jpg",
+        "BG_CityDowntown.jpg"
+      ],
+      "Momoka": [
+        "BG_UpperOffice.jpg"
+      ],
+      "Aoi": [
+        "BG_UpperOffice.jpg"
+      ],
+      "Yukino": [
+        "BG_UpperOffice.jpg"
+      ],
+      "Minori": [
+        "BG_BuildingFrontGate.jpg",
+        "BG_CS_PV4_5_18.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Momoka": [
+        "Kaya",
+        "Aoi",
+        "Yukino"
+      ],
+      "Kaya": [
+        "Momoka",
+        "Aoi",
+        "Yukino"
+      ],
+      "Aoi": [
+        "Kaya",
+        "Momoka",
+        "Yukino"
+      ],
+      "Yukino": [
+        "Kaya",
+        "Momoka",
+        "Aoi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

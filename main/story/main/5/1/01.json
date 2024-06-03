@@ -1,0 +1,112 @@
+{
+  "uuid": "29486bc8-5627-47e6-b1ad-93d3fb73f56c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_19.jpg",
+        "BG_MainOffice.jpg",
+        "BG_CS_PV4_008_2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "character": [
+        "Arata",
+        "Nagusa",
+        "Niya",
+        "Chise",
+        "Kuzunoha"
+      ],
+      "track": [
+        "OST_29",
+        "OST_130",
+        "OST_6",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_29": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_19.jpg",
+        "BG_MainOffice.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_130": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_6": [
+        "BG_MainOffice.jpg",
+        "BG_CS_PV4_008_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_29": [
+        "Arata",
+        "Nagusa"
+      ],
+      "OST_130": [
+        "Nagusa",
+        "Arata"
+      ],
+      "OST_6": [
+        "Niya",
+        "Chise"
+      ],
+      "OST_92": [
+        "Kuzunoha"
+      ]
+    },
+    "char_to_bg": {
+      "Arata": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Niya": [
+        "BG_MainOffice.jpg"
+      ],
+      "Chise": [
+        "BG_MainOffice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nagusa": [
+        "Arata"
+      ],
+      "Arata": [
+        "Nagusa"
+      ],
+      "Chise": [
+        "Niya"
+      ],
+      "Niya": [
+        "Chise"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

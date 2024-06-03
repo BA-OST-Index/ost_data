@@ -1,0 +1,10 @@
+{
+  "uuid": "bc1b5664-e96e-46fd-bd78-3b7acc6ee960",
+  "filetype": -53,
+  "namespace": "midori_maid",
+  "name": "Midori_Maid",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

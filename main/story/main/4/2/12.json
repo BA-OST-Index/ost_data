@@ -1,0 +1,194 @@
+{
+  "uuid": "a8fee1fb-46a2-4b0d-91fd-4815fcb25171",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SRTCampSite.jpg",
+        "BG_CampInside.jpg",
+        "BG_CS_PV4_5_05.jpg",
+        "BG_DesertCamp2.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "character": [
+        "Niko",
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Yukino",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "track": [
+        "OST_55",
+        "OST_135",
+        "OST_60"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SRTCampSite.jpg",
+        "BG_CampInside.jpg",
+        "BG_DesertCamp2.jpg",
+        "BG_ReceptionRoom.jpg"
+      ],
+      "OST_55": [
+        "BG_CS_PV4_5_05.jpg",
+        "BG_CampInside.jpg"
+      ],
+      "OST_135": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "OST_60": [
+        "BG_DesertCamp2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Miyako"
+      ],
+      "OST_135": [
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Saki",
+        "Niko",
+        "Miyu",
+        "Moe"
+      ],
+      "OST_60": [
+        "Otogi",
+        "Miyu",
+        "Moe",
+        "Kurumi",
+        "Saki",
+        "Niko"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_CS_PV4_5_05.jpg",
+        "BG_CampInside.jpg",
+        "BG_DesertCamp2.jpg"
+      ],
+      "Saki": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Miyu": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Moe": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Yukino": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Otogi": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Kurumi": [
+        "BG_DesertCamp2.jpg"
+      ],
+      "Niko": [
+        "BG_DesertCamp2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Niko",
+        "Saki",
+        "Moe",
+        "Yukino",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Saki": [
+        "Niko",
+        "Miyu",
+        "Moe",
+        "Yukino",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Moe": [
+        "Niko",
+        "Miyu",
+        "Saki",
+        "Yukino",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Yukino": [
+        "Niko",
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Niko": [
+        "Miyu",
+        "Saki",
+        "Moe",
+        "Yukino",
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Miyako": [
+        "Saki",
+        "Miyu",
+        "Moe",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Otogi": [
+        "Miyako",
+        "Yukino",
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Kurumi",
+        "Niko"
+      ],
+      "Kurumi": [
+        "Miyako",
+        "Yukino",
+        "Saki",
+        "Moe",
+        "Miyu",
+        "Otogi",
+        "Niko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

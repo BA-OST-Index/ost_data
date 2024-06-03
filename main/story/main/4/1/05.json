@@ -1,0 +1,105 @@
+{
+  "uuid": "7b45f17f-0489-45ee-80e2-1c10ea83abb7",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_1_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_1_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 1,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ],
+      "track": [
+        "OST_6",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IndoorPlaza.jpg"
+      ],
+      "OST_6": [
+        "BG_IndoorPlaza.jpg"
+      ],
+      "OST_13": [
+        "BG_IndoorPlaza.jpg",
+        "BG_SRTCampSite.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_6": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Moe"
+      ],
+      "OST_13": [
+        "Miyako",
+        "Saki",
+        "Miyu",
+        "Moe"
+      ]
+    },
+    "char_to_bg": {
+      "Moe": [
+        "BG_IndoorPlaza.jpg"
+      ],
+      "Miyu": [
+        "BG_IndoorPlaza.jpg"
+      ],
+      "Saki": [
+        "BG_IndoorPlaza.jpg"
+      ],
+      "Miyako": [
+        "BG_IndoorPlaza.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Moe",
+        "Saki",
+        "Miyako"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako"
+      ],
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "Moe": [
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

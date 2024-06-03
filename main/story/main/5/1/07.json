@@ -1,0 +1,155 @@
+{
+  "uuid": "1debf341-982a-4cb3-a1bd-bb93353e808c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_HyakkiyakoMeetingroom.jpg",
+        "BG_HealthClub.jpg",
+        "BG_TatamiRoom.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki"
+      ],
+      "track": [
+        "OST_33",
+        "OST_6",
+        "OST_3",
+        "OST_16",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_ClassRoom.jpg"
+      ],
+      "OST_6": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_ClassRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_ClassRoom.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_HyakkiyakoMeetingroom.jpg",
+        "BG_HealthClub.jpg",
+        "BG_TatamiRoom.jpg"
+      ],
+      "OST_16": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_8": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Yukari",
+        "Renge"
+      ],
+      "OST_6": [
+        "Yukari"
+      ],
+      "OST_3": [
+        "Yukari",
+        "Renge"
+      ],
+      "OST_16": [
+        "Yukari"
+      ],
+      "OST_8": [
+        "Yukari",
+        "Kaede",
+        "Mimori",
+        "Tsubaki"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_ClassCorridor.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_HyakkiyakoMeetingroom.jpg",
+        "BG_TatamiRoom.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkayouranGarden.jpg",
+        "BG_ClassRoom.jpg",
+        "BG_HyakkiyakoMeetingroom.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Renge": [
+        "Yukari"
+      ],
+      "Yukari": [
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki"
+      ],
+      "Mimori": [
+        "Kaede",
+        "Yukari",
+        "Tsubaki"
+      ],
+      "Tsubaki": [
+        "Kaede",
+        "Yukari",
+        "Mimori"
+      ],
+      "Kaede": [
+        "Yukari",
+        "Mimori",
+        "Tsubaki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

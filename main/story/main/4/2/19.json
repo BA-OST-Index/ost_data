@@ -1,0 +1,130 @@
+{
+  "uuid": "3a89b507-8608-4cac-8f9f-7bb2bab75fb2",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_19_DESC_1]",
+    "[STORY_MAIN_4_2_19_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_MissileSilo.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CS_Rabbit_15.jpg"
+      ],
+      "character": [
+        "Miyako",
+        "Moe",
+        "Miyu",
+        "Saki"
+      ],
+      "track": [
+        "OST_92",
+        "OST_163",
+        "OST_12",
+        "OST_32"
+      ]
+    },
+    "track_to_bg": {
+      "OST_92": [
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "OST_163": [
+        "BG_MissileSilo.jpg",
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_12": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Rabbit_15.jpg",
+        "BG_MissileSilo.jpg"
+      ],
+      "OST_32": [
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Rabbit_15.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_92": [
+        "Miyako"
+      ],
+      "OST_163": [
+        "Miyako"
+      ],
+      "OST_12": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ],
+      "OST_32": [
+        "Miyako",
+        "Moe",
+        "Saki",
+        "Miyu"
+      ]
+    },
+    "char_to_bg": {
+      "Miyako": [
+        "BG_BuildingCorridor2_Night.jpg",
+        "BG_UndergroundPassage_Night.jpg",
+        "BG_CS_Rabbit_15.jpg"
+      ],
+      "Moe": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "Miyu": [
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "Saki": [
+        "BG_UndergroundPassage_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Moe": [
+        "Miyako",
+        "Miyu",
+        "Saki"
+      ],
+      "Miyu": [
+        "Miyako",
+        "Moe",
+        "Saki"
+      ],
+      "Saki": [
+        "Miyako",
+        "Moe",
+        "Miyu"
+      ],
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

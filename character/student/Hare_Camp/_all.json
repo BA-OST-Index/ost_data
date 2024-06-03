@@ -1,0 +1,10 @@
+{
+  "uuid": "dd8b297e-7492-4802-bb9a-199cfdcd166a",
+  "filetype": -53,
+  "namespace": "hare_camp",
+  "name": "Hare_Camp",
+  "desc": "",
+  "include": [
+    "[AUTO]"
+  ]
+}

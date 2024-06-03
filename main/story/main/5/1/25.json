@@ -1,0 +1,119 @@
+{
+  "uuid": "af92fdfe-c861-41c1-99f5-239ce3be1350",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_25_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_25_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 25
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_CS_PV4_5_20.jpg"
+      ],
+      "character": [
+        "Shuro",
+        "Nagusa",
+        "Kikyou",
+        "Renge",
+        "Yukari"
+      ],
+      "track": [
+        "OST_135",
+        "OST_192",
+        "OST_193"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_192": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_193": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_CS_PV4_5_20.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_135": [
+        "Yukari",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "OST_192": [
+        "Yukari",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "OST_193": [
+        "Yukari",
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ]
+    },
+    "char_to_bg": {
+      "Shuro": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kikyou": [
+        "Nagusa",
+        "Renge",
+        "Yukari"
+      ],
+      "Renge": [
+        "Nagusa",
+        "Kikyou",
+        "Yukari"
+      ],
+      "Yukari": [
+        "Nagusa",
+        "Kikyou",
+        "Renge"
+      ],
+      "Nagusa": [
+        "Kikyou",
+        "Renge",
+        "Yukari"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

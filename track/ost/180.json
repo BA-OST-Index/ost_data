@@ -1,0 +1,71 @@
+{
+  "uuid": "4ec58fd4-8a52-46ac-a8af-d13cc2e16073",
+
+  "name":{
+    "realname": "[OST_180_NAME]",
+    "known_as": []
+  },
+  "desc": "[OST_180_DESC]",
+
+  "release_date": 1714283656,
+  "no": 180,
+  "track_type": 0,
+  "duration": 159,
+  "filetype": 1,
+
+  "composer": {
+    "composer_id": 5
+  },
+
+  "stats": {
+    "is_ba": true,
+    "is_jp": true,
+    "is_global": true,
+    "is_cn": true,
+    "is_segment": false,
+    "is_sub": false
+  },
+
+  "used_by": {
+    "other": {
+      "other": []
+    }
+  },
+
+  "tags": {
+    "overall": [],
+    "beginning": [],
+    "middle": [],
+    "ending": []
+  },
+
+  "version": [
+    {
+      "url": [
+        {
+          "value": "https://www.youtube.com/watch?v=m744roAczb4",
+          "platform": 3,
+          "short_desc": ""
+        }
+      ],
+      "desc": "[OST_VERSION_ORIGINAL]",
+      "is_main": true
+    }
+  ],
+
+  "special_case": {
+    "is_ost": true,
+    "is_bond_memory": false,
+    "is_story": false,
+    "is_battle": false,
+    "is_event": false
+  },
+
+  "reference": [],
+
+  "image": {
+    "value": "/static/images/background/BG_View_Kivotos.jpg",
+    "platform": -1,
+    "short_desc": ""
+  }
+}

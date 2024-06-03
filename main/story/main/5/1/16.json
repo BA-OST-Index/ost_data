@@ -1,0 +1,131 @@
+{
+  "uuid": "d0a823b3-92af-4b5f-9f9b-9103d30e711d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg",
+        "BG_View_Sky2_Night.jpg",
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "character": [
+        "Nagusa",
+        "Renge",
+        "Yukari",
+        "Kikyou",
+        "Arata",
+        "Shuro"
+      ],
+      "track": [
+        "OST_67",
+        "OST_105",
+        "OST_177"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_View_Sky2_Night.jpg"
+      ],
+      "OST_67": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkayouranTatamiRoom.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg"
+      ],
+      "OST_105": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_177": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_67": [
+        "Nagusa"
+      ],
+      "OST_105": [
+        "Nagusa",
+        "Renge",
+        "Yukari",
+        "Kikyou"
+      ],
+      "OST_177": [
+        "Arata",
+        "Nagusa",
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkayouranTatamiRoom_Sunset.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "Arata": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Renge",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Kikyou": [
+        "Renge",
+        "Yukari",
+        "Nagusa"
+      ],
+      "Nagusa": [
+        "Renge",
+        "Yukari",
+        "Kikyou",
+        "Arata"
+      ],
+      "Renge": [
+        "Yukari",
+        "Kikyou",
+        "Nagusa"
+      ],
+      "Arata": [
+        "Nagusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

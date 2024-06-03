@@ -1,0 +1,146 @@
+{
+  "uuid": "0f8c5f80-09d6-4440-8487-89662c147f56",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_10_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_MainOffice.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Niya",
+        "Chise",
+        "Kaho",
+        "Renge",
+        "Arata",
+        "Nagusa"
+      ],
+      "track": [
+        "OST_55",
+        "OST_22",
+        "OST_15",
+        "OST_135",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_55": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_15": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_MainOffice.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_HyakkiyakoCastleSquare_Night.jpg"
+      ],
+      "OST_18": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_21.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Yukari"
+      ],
+      "OST_22": [
+        "Yukari"
+      ],
+      "OST_15": [
+        "Yukari"
+      ],
+      "OST_135": [
+        "Niya",
+        "Yukari",
+        "Chise",
+        "Kaho",
+        "Renge"
+      ],
+      "OST_18": [
+        "Arata",
+        "Nagusa"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoCastleSquare_Night.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Niya": [
+        "BG_MainOffice.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Kaho": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "Arata": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Kaho": [
+        "Chise",
+        "Niya"
+      ],
+      "Niya": [
+        "Chise",
+        "Kaho"
+      ],
+      "Chise": [
+        "Kaho",
+        "Niya"
+      ],
+      "Nagusa": [
+        "Arata"
+      ],
+      "Arata": [
+        "Nagusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

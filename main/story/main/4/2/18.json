@@ -1,0 +1,158 @@
+{
+  "uuid": "23ca05a8-5890-413d-8d50-1b5a7df80f05",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_18_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_18_DESC_1]",
+    "[STORY_MAIN_4_2_18_DESC_2]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg",
+        "BG_UndergroundPassage_Night.jpg"
+      ],
+      "character": [
+        "Descartes",
+        "Miyako",
+        "Kanna",
+        "Fubuki",
+        "Kirino"
+      ],
+      "track": [
+        "OST_49",
+        "OST_18",
+        "OST_40",
+        "OST_20",
+        "OST_114",
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_49": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "OST_18": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_40": [
+        "BG_CityDowntown.jpg"
+      ],
+      "OST_20": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "OST_114": [
+        "BG_SubwayHall.jpg"
+      ],
+      "OST_65": [
+        "BG_SubwayHall.jpg",
+        "BG_UndergroundPassage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_49": [
+        "Descartes",
+        "Miyako"
+      ],
+      "OST_18": [
+        "Kanna",
+        "Descartes"
+      ],
+      "OST_40": [
+        "Kanna",
+        "Fubuki",
+        "Kirino",
+        "Miyako"
+      ],
+      "OST_20": [
+        "Kirino",
+        "Fubuki",
+        "Descartes"
+      ],
+      "OST_114": [
+        "Descartes",
+        "Fubuki"
+      ],
+      "OST_65": [
+        "Miyako",
+        "Kirino"
+      ]
+    },
+    "char_to_bg": {
+      "Descartes": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "Miyako": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "Kanna": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Fubuki": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ],
+      "Kirino": [
+        "BG_CityDowntown.jpg",
+        "BG_SubwayHall.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyako": [
+        "Descartes",
+        "Kanna",
+        "Kirino",
+        "Fubuki"
+      ],
+      "Kanna": [
+        "Descartes",
+        "Miyako",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Descartes": [
+        "Miyako",
+        "Kanna",
+        "Fubuki",
+        "Kirino"
+      ],
+      "Fubuki": [
+        "Kanna",
+        "Kirino",
+        "Miyako",
+        "Descartes"
+      ],
+      "Kirino": [
+        "Kanna",
+        "Fubuki",
+        "Miyako",
+        "Descartes"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

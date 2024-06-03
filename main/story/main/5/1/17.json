@@ -1,0 +1,251 @@
+{
+  "uuid": "3a8e5e60-90a9-4c3a-a67f-c68f70e45a0f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_17_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_22.jpg",
+        "BG_CS_PV4_5_29.jpg"
+      ],
+      "character": [
+        "Umika",
+        "Pina",
+        "Yukari",
+        "Shizuko",
+        "Kikyou",
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo",
+        "Kaho",
+        "Niya",
+        "Chise"
+      ],
+      "track": [
+        "OST_176",
+        "OST_135",
+        "OST_177",
+        "OST_27",
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "OST_176": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "OST_135": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_177": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_22.jpg"
+      ],
+      "OST_65": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_29.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_176": [
+        "Umika",
+        "Pina",
+        "Yukari",
+        "Shizuko"
+      ],
+      "OST_135": [
+        "Kikyou",
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki",
+        "Yukari"
+      ],
+      "OST_177": [
+        "Renge",
+        "Tsubaki",
+        "Mimori",
+        "Kaede",
+        "Michiru",
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "OST_27": [
+        "Kaho",
+        "Niya"
+      ],
+      "OST_65": [
+        "Chise",
+        "Kaho",
+        "Niya"
+      ]
+    },
+    "char_to_bg": {
+      "Umika": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "Pina": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Shizuko": [
+        "BG_HyakkiyakoLanternSquare_Night.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Kaho": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoMeetingroom2.jpg",
+        "BG_CS_PV4_5_23.jpg",
+        "BG_CS_PV4_5_22.jpg"
+      ],
+      "Chise": [
+        "BG_HyakkiyakoMeetingroom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Pina": [
+        "Umika",
+        "Yukari",
+        "Shizuko"
+      ],
+      "Yukari": [
+        "Umika",
+        "Pina",
+        "Shizuko",
+        "Renge"
+      ],
+      "Shizuko": [
+        "Umika",
+        "Pina",
+        "Yukari"
+      ],
+      "Umika": [
+        "Pina",
+        "Yukari",
+        "Shizuko"
+      ],
+      "Renge": [
+        "Kikyou",
+        "Kaede",
+        "Mimori",
+        "Tsubaki",
+        "Yukari"
+      ],
+      "Kaede": [
+        "Kikyou",
+        "Renge",
+        "Mimori",
+        "Tsubaki"
+      ],
+      "Mimori": [
+        "Kikyou",
+        "Renge",
+        "Kaede",
+        "Tsubaki"
+      ],
+      "Tsubaki": [
+        "Kikyou",
+        "Renge",
+        "Kaede",
+        "Mimori"
+      ],
+      "Kikyou": [
+        "Renge",
+        "Kaede",
+        "Mimori",
+        "Tsubaki"
+      ],
+      "Tsukuyo": [
+        "Izuna",
+        "Michiru"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Tsukuyo"
+      ],
+      "Izuna": [
+        "Tsukuyo",
+        "Michiru"
+      ],
+      "Niya": [
+        "Kaho",
+        "Chise"
+      ],
+      "Kaho": [
+        "Niya",
+        "Chise"
+      ],
+      "Chise": [
+        "Niya",
+        "Kaho"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

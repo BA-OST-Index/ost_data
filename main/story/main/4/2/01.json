@@ -1,0 +1,148 @@
+{
+  "uuid": "39257fae-f5f5-46fd-8b84-f7f86136541d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_S1Final_09.jpg",
+        "BG_CS_Rabbit_10.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_01.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CityDowntown_Night.jpg",
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_CS_PV4_5_03.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_AbandonedWarehouse_Night.jpg",
+        "BG_CS_PV4_5_02.jpg"
+      ],
+      "character": [
+        "Kurumi",
+        "Otogi",
+        "Niko",
+        "Yukino"
+      ],
+      "track": [
+        "OST_53",
+        "OST_93",
+        "OST_33"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CS_S1Final_09.jpg",
+        "BG_CS_Rabbit_10.jpg",
+        "BG_CS_Rabbit_09.jpg",
+        "BG_CS_Rabbit_07.jpg",
+        "BG_CS_Rabbit_04.jpg",
+        "BG_CS_Rabbit_01.jpg",
+        "BG_CS_Rabbit_03.jpg",
+        "BG_CityDowntown_Night.jpg",
+        "BG_CS_PV4_5_03.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_AbandonedWarehouse_Night.jpg"
+      ],
+      "OST_53": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "OST_93": [
+        "BG_AbandonedWarehouse_Night.jpg"
+      ],
+      "OST_33": [
+        "BG_AbandonedWarehouse_Night.jpg",
+        "BG_CS_PV4_5_02.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_53": [
+        "Niko",
+        "Yukino",
+        "Kurumi",
+        "Otogi"
+      ],
+      "OST_93": [
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "OST_33": [
+        "Yukino",
+        "Kurumi",
+        "Otogi",
+        "Niko"
+      ]
+    },
+    "char_to_bg": {
+      "Niko": [
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_CS_PV4_5_03.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_AbandonedWarehouse_Night.jpg"
+      ],
+      "Yukino": [
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_CS_PV4_5_03.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_AbandonedWarehouse_Night.jpg"
+      ],
+      "Kurumi": [
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_AbandonedWarehouse_Night.jpg"
+      ],
+      "Otogi": [
+        "BG_CS_PV4_5_01_2.jpg",
+        "BG_AbandonedWarehouse_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Otogi": [
+        "Kurumi",
+        "Niko",
+        "Yukino"
+      ],
+      "Niko": [
+        "Kurumi",
+        "Otogi",
+        "Yukino"
+      ],
+      "Yukino": [
+        "Kurumi",
+        "Otogi",
+        "Niko"
+      ],
+      "Kurumi": [
+        "Otogi",
+        "Niko",
+        "Yukino"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

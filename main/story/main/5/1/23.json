@@ -1,0 +1,133 @@
+{
+  "uuid": "7c9d71f7-e456-4b41-94d9-354716446699",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_23_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_23_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_CS_PV4_5_19.jpg",
+        "BG_CS_PV4_5_24.jpg",
+        "BG_CS_PV4_5_26.jpg",
+        "BG_CS_PV4_5_21.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg",
+        "BG_CS_Hyakkiyako_05_2.jpg"
+      ],
+      "character": [
+        "Shuro",
+        "Nagusa",
+        "Yukari"
+      ],
+      "track": [
+        "OST_178",
+        "OST_92",
+        "OST_67",
+        "OST_93"
+      ]
+    },
+    "track_to_bg": {
+      "OST_178": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_CS_PV4_5_19.jpg",
+        "BG_CS_PV4_5_24.jpg",
+        "BG_CS_PV4_5_26.jpg",
+        "BG_CS_PV4_5_21.jpg",
+        "BG_CS_PV4_5_27.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_CS_Hyakkiyako_05_2.jpg"
+      ],
+      "OST_92": [
+        "BG_WinterRoad.jpg",
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ],
+      "OST_67": [
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_178": [
+        "Shuro",
+        "Nagusa",
+        "Yukari"
+      ],
+      "OST_92": [
+        "Shuro",
+        "Nagusa"
+      ],
+      "OST_67": [
+        "Yukari",
+        "Nagusa"
+      ],
+      "OST_93": [
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Shuro": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_WinterRoad.jpg",
+        "BG_HyakkiyakoLanternRoad_Ruin.jpg",
+        "BG_HyakkiyakoLanternSquare_Ruin.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoSquareStage_Ruin.jpg",
+        "BG_TatamiRoom.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nagusa": [
+        "Shuro",
+        "Yukari"
+      ],
+      "Yukari": [
+        "Shuro",
+        "Nagusa"
+      ],
+      "Shuro": [
+        "Nagusa",
+        "Yukari"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_178",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

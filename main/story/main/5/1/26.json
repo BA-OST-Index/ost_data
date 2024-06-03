@@ -1,0 +1,285 @@
+{
+  "uuid": "268bd061-5ef6-4932-8289-a07382271ea5",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_26_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_26_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 26
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoLanternSquare.jpg",
+        "BG_View_Sky.jpg",
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_View_Sky2_Night.jpg",
+        "BG_CS_PV4_5_20.jpg",
+        "BG_CS_PV4_5_25.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_RuinClassInside_Night.jpg",
+        "BG_CS_PV4_5_31.jpg",
+        "BG_CS_PV4_5_33.jpg"
+      ],
+      "character": [
+        "Shizuko",
+        "Pina",
+        "Umika",
+        "Izuna",
+        "Kaede",
+        "Michiru",
+        "Tsukuyo",
+        "Tsubaki",
+        "Mimori",
+        "Niya",
+        "Shuro",
+        "Renge",
+        "Kikyou",
+        "Nagusa",
+        "Yukari",
+        "Kokuriko"
+      ],
+      "track": [
+        "OST_176",
+        "OST_22",
+        "OST_105",
+        "OST_7",
+        "OST_195",
+        "OST_145",
+        "OST_178"
+      ]
+    },
+    "track_to_bg": {
+      "OST_176": [
+        "BG_HyakkiyakoLanternRoad.jpg",
+        "BG_HyakkiyakoLanternSquare.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoLookOut_Sunset.jpg",
+        "BG_View_Sky_Sunset.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_RuinClassInside_Night.jpg",
+        "BG_CS_PV4_5_31.jpg",
+        "BG_CS_PV4_5_33.jpg"
+      ],
+      "OST_22": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_105": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_7": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "OST_195": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "OST_145": [
+        "BG_View_Sky2_Night.jpg",
+        "BG_HyakkiyakoLanternRoad_Night.jpg",
+        "BG_CS_PV4_5_20.jpg",
+        "BG_CS_PV4_5_25.jpg"
+      ],
+      "OST_178": [
+        "BG_RuinClassInside_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_176": [
+        "Shizuko",
+        "Pina",
+        "Umika",
+        "Izuna",
+        "Kaede",
+        "Michiru",
+        "Tsukuyo",
+        "Tsubaki",
+        "Mimori"
+      ],
+      "OST_22": [
+        "Niya",
+        "Shuro"
+      ],
+      "OST_105": [
+        "Niya"
+      ],
+      "OST_7": [
+        "Niya"
+      ],
+      "OST_195": [
+        "Renge",
+        "Kikyou",
+        "Nagusa",
+        "Yukari"
+      ],
+      "OST_145": [
+        "Yukari",
+        "Kikyou",
+        "Nagusa",
+        "Renge"
+      ],
+      "OST_178": [
+        "Kokuriko",
+        "Shuro"
+      ]
+    },
+    "char_to_bg": {
+      "Shizuko": [
+        "BG_HyakkiyakoLanternRoad.jpg"
+      ],
+      "Pina": [
+        "BG_HyakkiyakoLanternRoad.jpg"
+      ],
+      "Umika": [
+        "BG_HyakkiyakoLanternRoad.jpg"
+      ],
+      "Izuna": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Kaede": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Michiru": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Tsukuyo": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Tsubaki": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Mimori": [
+        "BG_HyakkiyakoLanternSquare.jpg"
+      ],
+      "Niya": [
+        "BG_HyakkiyakoLookOut_Sunset.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Yukari": [
+        "BG_HyakkiyakoLanternRoad_Night.jpg"
+      ],
+      "Shuro": [
+        "BG_RuinClassInside_Night.jpg"
+      ],
+      "Kokuriko": [
+        "BG_RuinClassInside_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Pina": [
+        "Shizuko",
+        "Umika"
+      ],
+      "Umika": [
+        "Shizuko",
+        "Pina"
+      ],
+      "Shizuko": [
+        "Pina",
+        "Umika"
+      ],
+      "Kaede": [
+        "Izuna",
+        "Michiru",
+        "Tsukuyo",
+        "Tsubaki",
+        "Mimori"
+      ],
+      "Michiru": [
+        "Izuna",
+        "Kaede",
+        "Tsukuyo",
+        "Tsubaki",
+        "Mimori"
+      ],
+      "Tsukuyo": [
+        "Izuna",
+        "Kaede",
+        "Michiru",
+        "Tsubaki",
+        "Mimori"
+      ],
+      "Tsubaki": [
+        "Izuna",
+        "Kaede",
+        "Michiru",
+        "Tsukuyo",
+        "Mimori"
+      ],
+      "Mimori": [
+        "Izuna",
+        "Kaede",
+        "Michiru",
+        "Tsukuyo",
+        "Tsubaki"
+      ],
+      "Izuna": [
+        "Kaede",
+        "Michiru",
+        "Tsukuyo",
+        "Tsubaki",
+        "Mimori"
+      ],
+      "Niya": [
+        "Shuro"
+      ],
+      "Shuro": [
+        "Niya",
+        "Kokuriko"
+      ],
+      "Kikyou": [
+        "Renge",
+        "Nagusa",
+        "Yukari"
+      ],
+      "Nagusa": [
+        "Renge",
+        "Kikyou",
+        "Yukari"
+      ],
+      "Renge": [
+        "Kikyou",
+        "Nagusa",
+        "Yukari"
+      ],
+      "Yukari": [
+        "Renge",
+        "Nagusa",
+        "Kikyou"
+      ],
+      "Kokuriko": [
+        "Shuro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

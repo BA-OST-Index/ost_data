@@ -1,0 +1,215 @@
+{
+  "uuid": "bf2cf6bb-3f17-42ff-9dae-bb676b5dd65c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CS_Rabbit_12.jpg",
+        "BG_CS_PV4_5_05.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "character": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "track": [
+        "OST_13",
+        "OST_129",
+        "OST_33",
+        "OST_155",
+        "OST_135"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_0": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CS_Rabbit_12.jpg",
+        "BG_CS_PV4_5_05.jpg",
+        "BG_SRTCampSite.jpg"
+      ],
+      "OST_129": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_33": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "OST_155": [
+        "BG_CS_Rabbit_12.jpg"
+      ],
+      "OST_135": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako"
+      ],
+      "OST_129": [
+        "Yukino",
+        "Moe",
+        "Saki",
+        "Kurumi",
+        "Otogi",
+        "Niko",
+        "Miyu",
+        "Miyako"
+      ],
+      "OST_33": [
+        "Kurumi",
+        "Saki",
+        "Otogi",
+        "Miyu",
+        "Niko",
+        "Moe"
+      ],
+      "OST_155": [
+        "Yukino",
+        "Miyako"
+      ],
+      "OST_135": [
+        "Saki",
+        "Niko",
+        "Miyu",
+        "Yukino"
+      ]
+    },
+    "char_to_bg": {
+      "Moe": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Miyu": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Saki": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Miyako": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CS_Rabbit_12.jpg",
+        "BG_CS_PV4_5_05.jpg"
+      ],
+      "Yukino": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_CS_Rabbit_12.jpg",
+        "BG_CS_PV4_5_05.jpg"
+      ],
+      "Otogi": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Kurumi": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ],
+      "Niko": [
+        "BG_IndoorPlaza_Night3.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Miyu": [
+        "Moe",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyu",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Miyako": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Yukino": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ],
+      "Otogi": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Kurumi",
+        "Niko"
+      ],
+      "Kurumi": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Niko"
+      ],
+      "Niko": [
+        "Moe",
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Moe": [
+        "Miyu",
+        "Saki",
+        "Miyako",
+        "Yukino",
+        "Otogi",
+        "Kurumi",
+        "Niko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

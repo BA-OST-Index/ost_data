@@ -1,0 +1,144 @@
+{
+  "uuid": "5bf7768a-a756-4f43-befc-811906eda9ce",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_5_1_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_5_1_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": 5,
+    "chapter": 1,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "character": [
+        "Yukari",
+        "Nagusa",
+        "Kikyou",
+        "Renge"
+      ],
+      "track": [
+        "OST_10",
+        "OST_195",
+        "OST_18",
+        "OST_49",
+        "OST_16",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_10": [
+        "BG_HyakkiyakoFestivalRoad.jpg"
+      ],
+      "OST_0": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoObservatory.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_195": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg",
+        "BG_HyakkayouranGarden.jpg"
+      ],
+      "OST_18": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_49": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "OST_92": [
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Yukari"
+      ],
+      "OST_195": [
+        "Yukari",
+        "Renge",
+        "Kikyou"
+      ],
+      "OST_18": [
+        "Yukari"
+      ],
+      "OST_49": [
+        "Nagusa",
+        "Yukari",
+        "Kikyou",
+        "Renge"
+      ],
+      "OST_16": [
+        "Yukari"
+      ],
+      "OST_92": [
+        "Yukari",
+        "Renge"
+      ]
+    },
+    "char_to_bg": {
+      "Yukari": [
+        "BG_HyakkiyakoFestivalRoad.jpg",
+        "BG_HyakkiyakoObservatory.jpg",
+        "BG_HyakkayouranGarden.jpg",
+        "BG_HyakkiyakoFestivalRoad_Night.jpg",
+        "BG_HyakkiyakoMovieStreet2.jpg"
+      ],
+      "Nagusa": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Kikyou": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ],
+      "Renge": [
+        "BG_HyakkiyakoFestivalRoad_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Yukari": [
+        "Nagusa",
+        "Kikyou",
+        "Renge"
+      ],
+      "Nagusa": [
+        "Yukari",
+        "Kikyou",
+        "Renge"
+      ],
+      "Renge": [
+        "Kikyou",
+        "Yukari",
+        "Nagusa"
+      ],
+      "Kikyou": [
+        "Renge",
+        "Yukari",
+        "Nagusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

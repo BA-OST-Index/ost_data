@@ -1,0 +1,207 @@
+{
+  "uuid": "0678d858-e559-49cd-b575-1beb899b4a66",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_4_2_24_NAME]",
+  "desc": [
+    "[STORY_MAIN_4_2_24_DESC_1]"
+  ],
+  "pos": {
+    "volume": 4,
+    "chapter": 2,
+    "segment": 24
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Broadcastingroom.jpg",
+        "BG_Prison.jpg",
+        "BG_SRTBase.jpg",
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CraftChamber.jpg",
+        "BG_View_Sky2.jpg",
+        "BG_CS_PV4_5_04.jpg",
+        "BG_CS_PV4_5_04_2.jpg"
+      ],
+      "character": [
+        "Mai",
+        "Descartes",
+        "Niko",
+        "Miyako",
+        "Rin",
+        "Kanna",
+        "Kirino",
+        "Moe",
+        "Saki",
+        "Otogi",
+        "Kurumi"
+      ],
+      "track": [
+        "OST_11",
+        "OST_3",
+        "OST_16",
+        "OST_113"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "OST_0": [
+        "BG_Broadcastingroom.jpg",
+        "BG_Prison.jpg",
+        "BG_SRTBase.jpg"
+      ],
+      "OST_3": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "OST_16": [
+        "BG_Prison.jpg"
+      ],
+      "OST_113": [
+        "BG_SRTBase.jpg",
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CraftChamber.jpg",
+        "BG_Prison.jpg",
+        "BG_View_Sky2.jpg",
+        "BG_CS_PV4_5_04.jpg",
+        "BG_CS_PV4_5_04_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Mai",
+        "Descartes"
+      ],
+      "OST_3": [
+        "Descartes",
+        "Mai"
+      ],
+      "OST_16": [
+        "Niko"
+      ],
+      "OST_113": [
+        "Miyako",
+        "Rin",
+        "Kanna",
+        "Kirino",
+        "Moe",
+        "Saki",
+        "Niko",
+        "Otogi",
+        "Kurumi"
+      ]
+    },
+    "char_to_bg": {
+      "Mai": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "Descartes": [
+        "BG_Broadcastingroom.jpg"
+      ],
+      "Niko": [
+        "BG_Prison.jpg",
+        "BG_View_Sky2.jpg"
+      ],
+      "Miyako": [
+        "BG_SRTBase.jpg",
+        "BG_GeneralMeetingRoom.jpg",
+        "BG_ReceptionRoom.jpg",
+        "BG_ValkyrieOffice.jpg",
+        "BG_SRTCampSite.jpg",
+        "BG_CraftChamber.jpg",
+        "BG_Prison.jpg"
+      ],
+      "Rin": [
+        "BG_GeneralMeetingRoom.jpg"
+      ],
+      "Kanna": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "Kirino": [
+        "BG_ValkyrieOffice.jpg"
+      ],
+      "Moe": [
+        "BG_CraftChamber.jpg"
+      ],
+      "Saki": [
+        "BG_CraftChamber.jpg"
+      ],
+      "Otogi": [
+        "BG_Prison.jpg"
+      ],
+      "Kurumi": [
+        "BG_Prison.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Descartes": [
+        "Mai"
+      ],
+      "Mai": [
+        "Descartes"
+      ],
+      "Miyako": [
+        "Rin",
+        "Kanna",
+        "Kirino",
+        "Moe",
+        "Saki",
+        "Niko",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Rin": [
+        "Miyako"
+      ],
+      "Kirino": [
+        "Kanna",
+        "Miyako"
+      ],
+      "Kanna": [
+        "Miyako",
+        "Kirino"
+      ],
+      "Saki": [
+        "Moe",
+        "Miyako"
+      ],
+      "Moe": [
+        "Saki",
+        "Miyako"
+      ],
+      "Niko": [
+        "Miyako",
+        "Otogi",
+        "Kurumi"
+      ],
+      "Otogi": [
+        "Miyako",
+        "Niko",
+        "Kurumi"
+      ],
+      "Kurumi": [
+        "Miyako",
+        "Niko",
+        "Otogi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}
