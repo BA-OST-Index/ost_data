@@ -1,0 +1,13 @@
+{
+  "uuid": "5b896ea8-1877-4dad-92da-b667c9c69a1a",
+  "filetype": 71,
+  "filename": "BG_AbydosResidence.jpg",
+  "name": "[BG_AbydosResidence.jpg_NAME]",
+  "desc": "[BG_AbydosResidence.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_AbydosResidence.jpg",
+    "short_desc": ""
+  }
+}

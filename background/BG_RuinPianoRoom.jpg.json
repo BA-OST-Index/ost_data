@@ -1,0 +1,13 @@
+{
+  "uuid": "b7cb4ef5-809b-4619-aedf-0b595184359d",
+  "filetype": 71,
+  "filename": "BG_RuinPianoRoom.jpg",
+  "name": "[BG_RuinPianoRoom.jpg_NAME]",
+  "desc": "[BG_RuinPianoRoom.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_RuinPianoRoom.jpg",
+    "short_desc": ""
+  }
+}

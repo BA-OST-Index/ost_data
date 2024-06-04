@@ -1,0 +1,13 @@
+{
+  "uuid": "7142700e-729c-4f11-b3e2-f71eb9252945",
+  "filetype": 71,
+  "filename": "BG_AbydosCouncilRoom2.jpg",
+  "name": "[BG_AbydosCouncilRoom2.jpg_NAME]",
+  "desc": "[BG_AbydosCouncilRoom2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_AbydosCouncilRoom2.jpg",
+    "short_desc": ""
+  }
+}

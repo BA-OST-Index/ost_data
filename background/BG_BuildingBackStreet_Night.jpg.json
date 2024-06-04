@@ -1,0 +1,13 @@
+{
+  "uuid": "51bbd9d8-88cd-4b19-a1dc-8bbab2c16395",
+  "filetype": 71,
+  "filename": "BG_BuildingBackStreet_Night.jpg",
+  "name": "[BG_BuildingBackStreet_Night.jpg_NAME]",
+  "desc": "[BG_BuildingBackStreet_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_BuildingBackStreet_Night.jpg",
+    "short_desc": ""
+  }
+}

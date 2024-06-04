@@ -1,0 +1,13 @@
+{
+  "uuid": "7ddaf2f8-5442-429d-aeaa-eeb2e71e372f",
+  "filetype": 71,
+  "filename": "BG_OperaHouse.jpg",
+  "name": "[BG_OperaHouse.jpg_NAME]",
+  "desc": "[BG_OperaHouse.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_OperaHouse.jpg",
+    "short_desc": ""
+  }
+}

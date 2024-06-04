@@ -1,0 +1,13 @@
+{
+  "uuid": "31f0a4e6-f818-4d32-a69b-80ea94d6391a",
+  "filetype": 71,
+  "filename": "BG_ShoppingMallInside.jpg",
+  "name": "[BG_ShoppingMallInside.jpg_NAME]",
+  "desc": "[BG_ShoppingMallInside.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_ShoppingMallInside.jpg",
+    "short_desc": ""
+  }
+}

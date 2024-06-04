@@ -1,0 +1,13 @@
+{
+  "uuid": "a01bc021-c1a7-4780-8931-388b80152fdf",
+  "filetype": 71,
+  "filename": "BG_PracticeRoom2.jpg",
+  "name": "[BG_PracticeRoom2.jpg_NAME]",
+  "desc": "[BG_PracticeRoom2.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_PracticeRoom2.jpg",
+    "short_desc": ""
+  }
+}

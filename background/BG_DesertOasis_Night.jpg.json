@@ -1,0 +1,13 @@
+{
+  "uuid": "4cb71f27-f655-4b56-88e1-512fb8e28972",
+  "filetype": 71,
+  "filename": "BG_DesertOasis_Night.jpg",
+  "name": "[BG_DesertOasis_Night.jpg_NAME]",
+  "desc": "[BG_DesertOasis_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_DesertOasis_Night.jpg",
+    "short_desc": ""
+  }
+}

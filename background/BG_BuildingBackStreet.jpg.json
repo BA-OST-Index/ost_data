@@ -1,0 +1,13 @@
+{
+  "uuid": "051f3f91-fab1-4bfb-8ce5-9728a625748a",
+  "filetype": 71,
+  "filename": "BG_BuildingBackStreet.jpg",
+  "name": "[BG_BuildingBackStreet.jpg_NAME]",
+  "desc": "[BG_BuildingBackStreet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_BuildingBackStreet.jpg",
+    "short_desc": ""
+  }
+}

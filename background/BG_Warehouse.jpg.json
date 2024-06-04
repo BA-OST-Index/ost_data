@@ -1,0 +1,13 @@
+{
+  "uuid": "e8cd895d-29d8-4248-9485-a048c573d7f7",
+  "filetype": 71,
+  "filename": "BG_Warehouse.jpg",
+  "name": "[BG_Warehouse.jpg_NAME]",
+  "desc": "[BG_Warehouse.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_Warehouse.jpg",
+    "short_desc": ""
+  }
+}

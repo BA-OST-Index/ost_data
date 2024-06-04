@@ -1,0 +1,13 @@
+{
+  "uuid": "147b0e5f-e659-4df6-945e-af6f1277a120",
+  "filetype": 71,
+  "filename": "BG_GehennaPartyRoom_Night.jpg",
+  "name": "[BG_GehennaPartyRoom_Night.jpg_NAME]",
+  "desc": "[BG_GehennaPartyRoom_Night.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_GehennaPartyRoom_Night.jpg",
+    "short_desc": ""
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "uuid": "a945a898-bd7d-40f8-91e8-18fdc674becc",
+  "filetype": 71,
+  "filename": "BG_GehennaCorridor.jpg",
+  "name": "[BG_GehennaCorridor.jpg_NAME]",
+  "desc": "[BG_GehennaCorridor.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_GehennaCorridor.jpg",
+    "short_desc": ""
+  }
+}

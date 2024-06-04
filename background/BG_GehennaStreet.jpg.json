@@ -1,0 +1,13 @@
+{
+  "uuid": "eea6d4c4-5e67-4ff1-837f-d6bdc44d1921",
+  "filetype": 71,
+  "filename": "BG_GehennaStreet.jpg",
+  "name": "[BG_GehennaStreet.jpg_NAME]",
+  "desc": "[BG_GehennaStreet.jpg_DESC]",
+  "tag": [],
+  "image": {
+    "platform": -1,
+    "value": "/static/images/background/BG_GehennaStreet.jpg",
+    "short_desc": ""
+  }
+}
