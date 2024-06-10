@@ -1,20 +1,17 @@
 {
   "uuid": "64a38ddf-ce4a-4361-b44b-cd8b70ee28c1",
-  "filetype": -42,
-  "name": "[EVENT_801_NAME]",
-  "namespace": "801",
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
   "desc": "[EVENT_801_DESC]",
-
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
     "enable_export": false
   },
-
   "image": {
     "value": "",
     "short_desc": "",

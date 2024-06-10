@@ -1,20 +1,17 @@
 {
   "uuid": "71dd588b-e463-4b19-a0b8-e2a94752dffe",
-  "filetype": -42,
-  "name": "[EVENT_817_NAME]",
-  "namespace": "817",
+  "filetype": -43,
+  "name": "[EVENT_STORY_NAME]",
+  "namespace": "story",
   "desc": "[EVENT_817_DESC]",
-
   "include": [
     "[AUTO]"
   ],
-
   "parent_data": {
     "enable": true,
     "extra_data": {},
     "enable_export": false
   },
-
   "image": {
     "value": "",
     "short_desc": "",
