@@ -1,0 +1,120 @@
+{
+  "uuid": "3f774d45-beaf-4949-831b-b3d19a09d4a3",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_10_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg",
+        "BG_Campus.jpg"
+      ],
+      "character": [
+        "Hanako",
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ],
+      "track": [
+        "OST_10",
+        "OST_4",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg"
+      ],
+      "OST_10": [
+        "BG_Dormitory.jpg"
+      ],
+      "OST_4": [
+        "BG_Dormitory.jpg"
+      ],
+      "OST_3": [
+        "BG_SchoolGround.jpg",
+        "BG_Campus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hanako",
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_4": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ],
+      "OST_3": [
+        "Koharu",
+        "Hanako",
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hanako": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg"
+      ],
+      "Hifumi": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg"
+      ],
+      "Koharu": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg"
+      ],
+      "Azusa": [
+        "BG_Dormitory.jpg",
+        "BG_SchoolGround.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hifumi": [
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "Koharu": [
+        "Hanako",
+        "Hifumi",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,198 @@
+{
+  "uuid": "ac58ce63-9277-45e2-832c-8b84104318da",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_18_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_18_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Ward_Night.jpg",
+        "BG_Infirmary_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_View_DawnSky.jpg"
+      ],
+      "character": [
+        "Hasumi",
+        "Tsurugi",
+        "Hanae",
+        "Sena",
+        "Chinatsu",
+        "Ako",
+        "Iori",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Seia",
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa"
+      ],
+      "track": [
+        "OST_32"
+      ]
+    },
+    "track_to_bg": {
+      "OST_32": [
+        "BG_Ward_Night.jpg",
+        "BG_Infirmary_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_View_DawnSky.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_32": [
+        "Hasumi",
+        "Tsurugi",
+        "Hanae",
+        "Sena",
+        "Chinatsu",
+        "Ako",
+        "Iori",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Tsurugi": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Hanae": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Sena": [
+        "BG_Infirmary_Night.jpg"
+      ],
+      "Chinatsu": [
+        "BG_Infirmary_Night.jpg"
+      ],
+      "Ako": [
+        "BG_Infirmary_Night.jpg"
+      ],
+      "Iori": [
+        "BG_Infirmary_Night.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Saori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Azusa": [
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsurugi": [
+        "Hasumi",
+        "Hanae"
+      ],
+      "Hanae": [
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Hasumi": [
+        "Tsurugi",
+        "Hanae"
+      ],
+      "Chinatsu": [
+        "Sena",
+        "Ako",
+        "Iori"
+      ],
+      "Ako": [
+        "Sena",
+        "Chinatsu",
+        "Iori"
+      ],
+      "Iori": [
+        "Sena",
+        "Chinatsu",
+        "Ako"
+      ],
+      "Sena": [
+        "Chinatsu",
+        "Ako",
+        "Iori"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Koharu"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Saori",
+        "Azusa"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Misaki",
+        "Hiyori",
+        "Saori"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

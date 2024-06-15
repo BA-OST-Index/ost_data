@@ -1,0 +1,152 @@
+{
+  "uuid": "4937707a-0788-4d93-b3eb-31d23fb22cfc",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_14_DESC_1]",
+    "[STORY_MAIN_3_4_14_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_PV2_52.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_PV2_67.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa",
+        "Beatrice",
+        "Mika"
+      ],
+      "track": [
+        "OST_73",
+        "OST_92",
+        "OST_122",
+        "OST_118"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_PV2_52.jpg"
+      ],
+      "OST_92": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "OST_122": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_PV2_67.jpg"
+      ],
+      "OST_118": [
+        "BG_AriusStreet_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa"
+      ],
+      "OST_92": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_122": [
+        "Beatrice",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_118": [
+        "Beatrice",
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "Saori": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_CS_PV2_52.jpg"
+      ],
+      "Beatrice": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_PV2_67.jpg"
+      ],
+      "Mika": [
+        "BG_AriusStreet_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Misaki",
+        "Saori",
+        "Beatrice"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Beatrice"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori",
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

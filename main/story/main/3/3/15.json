@@ -1,0 +1,75 @@
+{
+  "uuid": "893aa076-6e0f-4fbe-a143-26ab120c922d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_CS_PV2_51.jpg"
+      ],
+      "character": [
+        "Seia",
+        "Hanako"
+      ],
+      "track": [
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_CS_PV2_51.jpg"
+      ],
+      "OST_0": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Seia",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Hanako": [
+        "BG_Dormitory2_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

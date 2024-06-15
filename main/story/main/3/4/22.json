@@ -1,0 +1,117 @@
+{
+  "uuid": "20776d1f-901c-42ab-b752-20e7422f6283",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_22_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_22_DESC_1]",
+    "[STORY_MAIN_3_4_22_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 22
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_Cathedral_Night.jpg"
+      ],
+      "character": [
+        "Beatrice",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "track": [
+        "OST_122",
+        "OST_105",
+        "OST_110"
+      ]
+    },
+    "track_to_bg": {
+      "OST_122": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "OST_0": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_105": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_110": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_Cathedral_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_122": [
+        "Beatrice",
+        "Saori"
+      ],
+      "OST_105": [
+        "Beatrice",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_110": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Beatrice"
+      ]
+    },
+    "char_to_bg": {
+      "Beatrice": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "Saori": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Hiyori": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Misaki": [
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Beatrice",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Beatrice": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Hiyori": [
+        "Beatrice",
+        "Saori",
+        "Misaki"
+      ],
+      "Misaki": [
+        "Beatrice",
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

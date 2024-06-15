@@ -1,0 +1,228 @@
+{
+  "uuid": "16902b6c-d049-4a87-9810-e964c2634917",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_7_DESC_1]",
+    "[STORY_MAIN_3_3_7_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DestructionFrontPublic_Fire.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_CS_PV2_49.jpg",
+        "BG_CS_PV2_54.jpg",
+        "BG_InSideTank.jpg",
+        "BG_CS_PV2_68.jpg",
+        "BG_CS_PV2_69.jpg",
+        "BG_AronaRoom.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg",
+        "BG_CS_PV2_63.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Hifumi",
+        "Koharu",
+        "Hanako",
+        "Hina",
+        "Hiyori",
+        "Saori",
+        "Makoto",
+        "Iroha",
+        "Ibuki",
+        "Misaki",
+        "Arona",
+        "Maestro",
+        "Hinata",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "track": [
+        "OST_42",
+        "OST_27",
+        "OST_74"
+      ]
+    },
+    "track_to_bg": {
+      "OST_42": [
+        "BG_DestructionFrontPublic_Fire.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_CS_PV2_49.jpg",
+        "BG_CS_PV2_54.jpg",
+        "BG_InSideTank.jpg",
+        "BG_CS_PV2_68.jpg",
+        "BG_CS_PV2_69.jpg"
+      ],
+      "OST_0": [
+        "BG_AronaRoom.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_27": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_74": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg",
+        "BG_CS_PV2_63.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_42": [
+        "Mika",
+        "Hifumi",
+        "Koharu",
+        "Hanako",
+        "Hina",
+        "Hiyori",
+        "Saori",
+        "Makoto",
+        "Iroha",
+        "Ibuki",
+        "Misaki"
+      ],
+      "OST_27": [
+        "Hinata",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "OST_74": [
+        "Misaki",
+        "Hasumi",
+        "Hinata",
+        "Tsurugi"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "Hifumi": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Koharu": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Hanako": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Hina": [
+        "BG_CS_PV2_49.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic_Fire.jpg",
+        "BG_CS_PV2_54.jpg",
+        "BG_CS_PV2_68.jpg"
+      ],
+      "Saori": [
+        "BG_CS_PV2_54.jpg",
+        "BG_CS_PV2_68.jpg",
+        "BG_CS_PV2_69.jpg"
+      ],
+      "Makoto": [
+        "BG_InSideTank.jpg"
+      ],
+      "Iroha": [
+        "BG_InSideTank.jpg"
+      ],
+      "Misaki": [
+        "BG_CS_PV2_68.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Arona": [
+        "BG_AronaRoom.jpg"
+      ],
+      "Maestro": [
+        "BG_DestructionFrontPublic_Fire.jpg"
+      ],
+      "Hinata": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_CS_PV2_63.jpg"
+      ],
+      "Hasumi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Tsurugi": [
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Koharu": [
+        "Hifumi",
+        "Hanako"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Koharu",
+        "Hanako"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Hina",
+        "Misaki"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Misaki",
+        "Arona"
+      ],
+      "Hina": [
+        "Hiyori"
+      ],
+      "Iroha": [
+        "Makoto"
+      ],
+      "Makoto": [
+        "Iroha"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Hasumi",
+        "Hinata"
+      ],
+      "Arona": [
+        "Saori"
+      ],
+      "Hasumi": [
+        "Hinata",
+        "Tsurugi",
+        "Misaki"
+      ],
+      "Tsurugi": [
+        "Hinata",
+        "Hasumi"
+      ],
+      "Hinata": [
+        "Hasumi",
+        "Tsurugi",
+        "Misaki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

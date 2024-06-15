@@ -1,0 +1,146 @@
+{
+  "uuid": "17626793-1033-4918-bedf-4384adfc77e8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_10_DESC_1]",
+    "[STORY_MAIN_3_2_10_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_BlackMarket_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Koharu",
+        "Nagisa"
+      ],
+      "track": [
+        "OST_13",
+        "OST_27",
+        "OST_8",
+        "OST_20"
+      ]
+    },
+    "track_to_bg": {
+      "OST_13": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_8": [
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "OST_20": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "OST_27": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Nagisa",
+        "Azusa"
+      ],
+      "OST_8": [
+        "Hanako",
+        "Hifumi",
+        "Azusa"
+      ],
+      "OST_20": [
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityTerrace_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Nagisa"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Azusa",
+        "Hanako"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Koharu",
+        "Nagisa"
+      ],
+      "Nagisa": [
+        "Hifumi",
+        "Hanako"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

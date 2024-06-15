@@ -1,0 +1,144 @@
+{
+  "uuid": "26847b31-0d83-4b94-a043-3ad4c8653ccf",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_GematriaCorridor.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_SlumFront_Night.jpg"
+      ],
+      "character": [
+        "Beatrice",
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Seia",
+        "Mika",
+        "Saori"
+      ],
+      "track": [
+        "OST_70",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_70": [
+        "BG_GematriaCorridor.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "OST_0": [
+        "BG_GematriaCorridor.jpg",
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_92": [
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_70": [
+        "Beatrice",
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Seia"
+      ],
+      "OST_92": [
+        "Seia",
+        "Mika",
+        "Saori"
+      ]
+    },
+    "char_to_bg": {
+      "Beatrice": [
+        "BG_GematriaCorridor.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "BlackSuit": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Maestro": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Mika": [
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_TrinityPrison2_Night.jpg"
+      ],
+      "Saori": [
+        "BG_CathedralRuins.jpg"
+      ]
+    },
+    "char_to_char": {
+      "BlackSuit": [
+        "Beatrice",
+        "Maestro",
+        "Nonomi_Swimsuit"
+      ],
+      "Maestro": [
+        "Beatrice",
+        "BlackSuit",
+        "Nonomi_Swimsuit"
+      ],
+      "Nonomi_Swimsuit": [
+        "Beatrice",
+        "BlackSuit",
+        "Maestro"
+      ],
+      "Beatrice": [
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit"
+      ],
+      "Mika": [
+        "Saori",
+        "Seia"
+      ],
+      "Saori": [
+        "Mika"
+      ],
+      "Seia": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

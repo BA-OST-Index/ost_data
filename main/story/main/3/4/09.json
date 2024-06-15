@@ -1,0 +1,80 @@
+{
+  "uuid": "fb250ef8-eadc-481f-ba84-535fe2d2ebe9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_9_DESC_1]",
+    "[STORY_MAIN_3_4_9_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront_Night.jpg",
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Saori",
+        "Hiyori"
+      ],
+      "track": [
+        "OST_74"
+      ]
+    },
+    "track_to_bg": {
+      "OST_74": [
+        "BG_SlumFront_Night.jpg",
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_74": [
+        "Misaki",
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Saori": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Misaki",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Saori"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

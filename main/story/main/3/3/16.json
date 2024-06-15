@@ -1,0 +1,268 @@
+{
+  "uuid": "e52cd69d-6abb-4fbd-bb0e-7e53b49ae286",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_Trinity_14_1.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_RuinInside.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_DemolitionCity_Night.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityPrison_Night.jpg",
+        "BG_CS_PV2_51.jpg",
+        "BG_CS_Trinity_14_2.jpg",
+        "BG_CS_PV2_34.jpg"
+      ],
+      "character": [
+        "Seia",
+        "Saori",
+        "Maestro",
+        "Atsuko",
+        "Medical Emergency Club Member B",
+        "Sena",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari",
+        "Hanako",
+        "Ako",
+        "Tea Party Officer",
+        "Mika",
+        "Azusa",
+        "MemberOfJusticeTaskForce",
+        "Koharu",
+        "Hiyori",
+        "Misaki",
+        "Serina",
+        "Hanae"
+      ],
+      "track": [
+        "OST_55",
+        "OST_35",
+        "OST_1"
+      ]
+    },
+    "track_to_bg": {
+      "OST_55": [
+        "BG_CS_Trinity_14_1.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_RuinInside.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_DemolitionCity_Night.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_51.jpg",
+        "BG_Ward_Night.jpg"
+      ],
+      "OST_35": [
+        "BG_CS_PV2_51.jpg",
+        "BG_CS_Trinity_14_1.jpg",
+        "BG_CS_Trinity_14_2.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_1": [
+        "BG_Ward_Night.jpg",
+        "BG_CS_PV2_34.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Seia",
+        "Saori",
+        "Maestro",
+        "Atsuko",
+        "Medical Emergency Club Member B",
+        "Sena",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari",
+        "Hanako",
+        "Ako",
+        "Tea Party Officer",
+        "Mika"
+      ],
+      "OST_35": [
+        "Azusa",
+        "Seia",
+        "MemberOfJusticeTaskForce",
+        "Koharu",
+        "Hiyori",
+        "Misaki",
+        "Saori",
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_CS_Trinity_14_1.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_Trinity_14_2.jpg"
+      ],
+      "Saori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Maestro": [
+        "BG_RuinInside.jpg"
+      ],
+      "Atsuko": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Medical Emergency Club Member B": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Sena": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Sisterhood Admin A": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Sisterhood Admin B": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Ako": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Tea Party Officer": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_CS_PV2_51.jpg",
+        "BG_CS_Trinity_14_2.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Serina": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Hanae": [
+        "BG_Ward_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Atsuko",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Atsuko": [
+        "Saori"
+      ],
+      "Sena": [
+        "Medical Emergency Club Member B"
+      ],
+      "Medical Emergency Club Member B": [
+        "Sena"
+      ],
+      "Sisterhood Admin B": [
+        "Sisterhood Admin A",
+        "Mari",
+        "Hanako"
+      ],
+      "Mari": [
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Hanako"
+      ],
+      "Hanako": [
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari",
+        "Tea Party Officer",
+        "Mika"
+      ],
+      "Sisterhood Admin A": [
+        "Sisterhood Admin B",
+        "Mari",
+        "Hanako"
+      ],
+      "Tea Party Officer": [
+        "Hanako",
+        "Mika"
+      ],
+      "Mika": [
+        "Tea Party Officer",
+        "Hanako",
+        "Koharu"
+      ],
+      "Seia": [
+        "Azusa"
+      ],
+      "Azusa": [
+        "Seia"
+      ],
+      "Koharu": [
+        "MemberOfJusticeTaskForce",
+        "Mika"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Koharu"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Saori"
+      ],
+      "Hanae": [
+        "Serina"
+      ],
+      "Serina": [
+        "Hanae"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

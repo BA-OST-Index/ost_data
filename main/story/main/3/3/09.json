@@ -1,0 +1,163 @@
+{
+  "uuid": "389d4b32-ac8e-4521-ba23-353784fc102b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_9_DESC_1]",
+    "[STORY_MAIN_3_3_9_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DemolitionCity.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_36.jpg"
+      ],
+      "character": [
+        "Hina",
+        "Hiyori",
+        "Misaki",
+        "Atsuko",
+        "Saori",
+        "Sena",
+        "Azusa",
+        "Seia"
+      ],
+      "track": [
+        "OST_65",
+        "OST_93",
+        "OST_49",
+        "OST_42",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_65": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_0": [
+        "BG_DemolitionCity.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_49": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_42": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_36.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_65": [
+        "Hina",
+        "Hiyori"
+      ],
+      "OST_93": [
+        "Misaki",
+        "Hiyori",
+        "Atsuko",
+        "Saori"
+      ],
+      "OST_49": [
+        "Hina",
+        "Saori",
+        "Hiyori",
+        "Sena"
+      ],
+      "OST_42": [
+        "Azusa",
+        "Saori"
+      ],
+      "OST_21": [
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Hiyori": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Misaki": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Atsuko": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Saori": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Sena": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Azusa": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Hina",
+        "Misaki",
+        "Atsuko",
+        "Saori",
+        "Azusa"
+      ],
+      "Hina": [
+        "Hiyori",
+        "Saori"
+      ],
+      "Atsuko": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Atsuko",
+        "Hina",
+        "Azusa"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Atsuko",
+        "Saori",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Atsuko",
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

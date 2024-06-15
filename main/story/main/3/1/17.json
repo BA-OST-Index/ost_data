@@ -1,0 +1,95 @@
+{
+  "uuid": "f7171636-6905-459a-bd63-459707de0ffc",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_17_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SwimmingPool.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_CS_PV2_55.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Azusa",
+        "Saori"
+      ],
+      "track": [
+        "OST_47",
+        "OST_92",
+        "OST_60"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_SwimmingPool.jpg"
+      ],
+      "OST_0": [
+        "BG_SwimmingPool.jpg"
+      ],
+      "OST_92": [
+        "BG_SwimmingPool.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "OST_60": [
+        "BG_CS_PV2_55.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Mika"
+      ],
+      "OST_92": [
+        "Mika",
+        "Azusa",
+        "Saori"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_SwimmingPool.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Saori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Azusa"
+      ],
+      "Azusa": [
+        "Mika",
+        "Saori"
+      ],
+      "Saori": [
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

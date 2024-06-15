@@ -1,0 +1,173 @@
+{
+  "uuid": "6a47a2da-02b9-477e-af86-60b0c50e7573",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_25_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_25_DESC_1]",
+    "[STORY_MAIN_3_4_25_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 25
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_14.jpg",
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_AbandonedCorridor.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Saori",
+        "Hiyori",
+        "Atsuko",
+        "Mika",
+        "Barbara",
+        "MemberOfJusticeTaskForce",
+        "Mine",
+        "Serina",
+        "Hanae"
+      ],
+      "track": [
+        "OST_105",
+        "OST_73",
+        "OST_2",
+        "OST_18"
+      ]
+    },
+    "track_to_bg": {
+      "OST_105": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_14.jpg"
+      ],
+      "OST_0": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg"
+      ],
+      "OST_73": [
+        "BG_AriusBasilica.jpg"
+      ],
+      "OST_2": [
+        "BG_AriusBasilica.jpg"
+      ],
+      "OST_18": [
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_AbandonedCorridor.jpg",
+        "BG_AriusBasilica.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_105": [
+        "Misaki",
+        "Saori",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "OST_73": [
+        "Mika",
+        "Barbara"
+      ],
+      "OST_2": [
+        "Mika",
+        "Barbara"
+      ],
+      "OST_18": [
+        "MemberOfJusticeTaskForce",
+        "Mine",
+        "Serina",
+        "Hanae"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Saori": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Hiyori": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Atsuko": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Mika": [
+        "BG_AriusBasilica.jpg"
+      ],
+      "Barbara": [
+        "BG_AriusBasilica.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_CathedralRuins.jpg"
+      ],
+      "Mine": [
+        "BG_AbandonedCorridor.jpg"
+      ],
+      "Serina": [
+        "BG_AbandonedCorridor.jpg"
+      ],
+      "Hanae": [
+        "BG_AbandonedCorridor.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Saori",
+        "Atsuko"
+      ],
+      "Atsuko": [
+        "Misaki",
+        "Saori",
+        "Hiyori"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Barbara": [
+        "Mika"
+      ],
+      "Mika": [
+        "Barbara"
+      ],
+      "Hanae": [
+        "Serina",
+        "Mine"
+      ],
+      "Serina": [
+        "Hanae",
+        "Mine"
+      ],
+      "Mine": [
+        "Serina",
+        "Hanae"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

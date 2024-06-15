@@ -1,0 +1,107 @@
+{
+  "uuid": "16efc207-11fa-4a4f-bc7f-f94b86170af9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_21_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_21_DESC_1]",
+    "[STORY_MAIN_3_4_21_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Beatrice"
+      ],
+      "track": [
+        "OST_118",
+        "OST_122"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "OST_118": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_122": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_118": [
+        "Mika",
+        "Saori",
+        "Misaki"
+      ],
+      "OST_122": [
+        "Beatrice"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Saori": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Hiyori": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Beatrice": [
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Mika",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Mika": [
+        "Saori"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Misaki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

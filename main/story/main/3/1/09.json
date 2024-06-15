@@ -1,0 +1,72 @@
+{
+  "uuid": "63307fd4-571a-4d94-8ecb-dd9334a8c209",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_27.jpg",
+        "BG_CS_Trinity_04.jpg"
+      ],
+      "character": [
+        "Nagisa"
+      ],
+      "track": [
+        "OST_22",
+        "OST_73",
+        "OST_11"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_27.jpg"
+      ],
+      "OST_11": [
+        "BG_CS_Trinity_04.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_22": [
+        "Nagisa"
+      ],
+      "OST_73": [
+        "Nagisa"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_CS_PV2_27.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

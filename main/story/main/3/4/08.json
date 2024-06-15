@@ -1,0 +1,122 @@
+{
+  "uuid": "9643c40d-c5b7-4cc0-bb9b-48759fc2c212",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_8_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_BigBridge2_Night.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "track": [
+        "OST_3",
+        "OST_73",
+        "OST_43",
+        "OST_105",
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SlumFront_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_BigBridge2_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_43": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_105": [
+        "BG_BigBridge2_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_65": [
+        "BG_BigBridge_Night.jpg",
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Hiyori",
+        "Saori"
+      ],
+      "OST_73": [
+        "Hiyori",
+        "Saori"
+      ],
+      "OST_43": [
+        "Hiyori",
+        "Saori"
+      ],
+      "OST_105": [
+        "Misaki",
+        "Hiyori",
+        "Saori"
+      ],
+      "OST_65": [
+        "Misaki",
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_SlumFront_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_SlumFront_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_BigBridge2_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Saori",
+        "Misaki"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Misaki"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

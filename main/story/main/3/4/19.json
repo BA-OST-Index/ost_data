@@ -1,0 +1,158 @@
+{
+  "uuid": "fa8c1407-6f04-44ab-aeb1-91428b90ceda",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_19_DESC_1]",
+    "[STORY_MAIN_3_4_19_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Mika",
+        "Misaki",
+        "Hiyori",
+        "Beatrice",
+        "Barbara",
+        "Seia",
+        "Kuzunoha"
+      ],
+      "track": [
+        "OST_21",
+        "OST_122",
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "OST_122": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "OST_73": [
+        "BG_HyakkiyakoLookOut.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Saori",
+        "Mika",
+        "Misaki",
+        "Hiyori"
+      ],
+      "OST_122": [
+        "Beatrice",
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Mika",
+        "Barbara"
+      ],
+      "OST_73": [
+        "Kuzunoha",
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "Mika": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "Beatrice": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Barbara": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Seia": [
+        "BG_HyakkiyakoLookOut.jpg"
+      ],
+      "Kuzunoha": [
+        "BG_HyakkiyakoLookOut.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Beatrice",
+        "Barbara"
+      ],
+      "Misaki": [
+        "Saori",
+        "Mika",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Mika",
+        "Misaki"
+      ],
+      "Saori": [
+        "Mika",
+        "Misaki",
+        "Hiyori",
+        "Beatrice",
+        "Barbara"
+      ],
+      "Barbara": [
+        "Beatrice",
+        "Saori",
+        "Mika"
+      ],
+      "Beatrice": [
+        "Saori",
+        "Mika",
+        "Barbara"
+      ],
+      "Seia": [
+        "Kuzunoha"
+      ],
+      "Kuzunoha": [
+        "Seia"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

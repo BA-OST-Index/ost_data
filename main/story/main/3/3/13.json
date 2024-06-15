@@ -1,0 +1,106 @@
+{
+  "uuid": "aa99fcc2-f37d-4912-b3b2-9e87c677e9f7",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_13_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_Trinity_01.jpg",
+        "BG_CS_Trinity_01_Blur.jpg",
+        "BG_CS_Trinity_10.jpg",
+        "BG_CS_Trinity_10_Blur.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Blur.jpg",
+        "BG_CS_Trinity_11_1.jpg",
+        "BG_CS_Trinity_14_2.jpg"
+      ],
+      "character": [
+        "Seia",
+        "Hifumi",
+        "Azusa"
+      ],
+      "track": [
+        "OST_73",
+        "OST_55",
+        "OST_46"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_55": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_46": [
+        "BG_CS_Trinity_01.jpg",
+        "BG_CS_Trinity_01_Blur.jpg",
+        "BG_CS_Trinity_10.jpg",
+        "BG_CS_Trinity_10_Blur.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Blur.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_Trinity_11_1.jpg",
+        "BG_CS_Trinity_14_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Seia"
+      ],
+      "OST_55": [
+        "Azusa",
+        "Hifumi"
+      ],
+      "OST_46": [
+        "Azusa",
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Hifumi": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_BigBridge_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa": [
+        "Hifumi"
+      ],
+      "Hifumi": [
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

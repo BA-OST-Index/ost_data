@@ -1,0 +1,89 @@
+{
+  "uuid": "db6a4b58-dba6-4043-a12a-f3a8e3d5364f",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "character": [
+        "Koharu",
+        "Hasumi"
+      ],
+      "track": [
+        "OST_38",
+        "OST_13",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "OST_13": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "OST_92": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_38": [
+        "Koharu"
+      ],
+      "OST_13": [
+        "Hasumi",
+        "Koharu"
+      ],
+      "OST_92": [
+        "Koharu",
+        "Hasumi"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi": [
+        "Koharu"
+      ],
+      "Koharu": [
+        "Hasumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

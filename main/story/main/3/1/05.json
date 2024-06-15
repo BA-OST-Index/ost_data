@@ -1,0 +1,102 @@
+{
+  "uuid": "29cfd6fc-77ff-40e3-bf54-0c4f00f7a265",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "character": [
+        "Hasumi",
+        "Koharu",
+        "Hifumi",
+        "Hanako",
+        "Azusa"
+      ],
+      "track": [
+        "OST_10",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "OST_10": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_3": [
+        "BG_TrinityClassRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_10": [
+        "Hasumi",
+        "Koharu",
+        "Hifumi"
+      ],
+      "OST_3": [
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Koharu": [
+        "Hasumi",
+        "Hifumi"
+      ],
+      "Hifumi": [
+        "Hasumi",
+        "Koharu"
+      ],
+      "Hasumi": [
+        "Koharu",
+        "Hifumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

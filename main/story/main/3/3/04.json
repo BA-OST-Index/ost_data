@@ -1,0 +1,185 @@
+{
+  "uuid": "c10f60c7-19af-4db2-84c0-6da4cffaa864",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown.jpg",
+        "BG_Cathedral.jpg",
+        "BG_GehennaCampus_Night.jpg",
+        "BG_GehennaClubRoom_Night.jpg",
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_43_1.jpg"
+      ],
+      "character": [
+        "Tsurugi",
+        "Mashiro",
+        "Ichika",
+        "Hasumi",
+        "Hinata",
+        "Hanako",
+        "Mari",
+        "Makoto",
+        "Ako",
+        "Iroha",
+        "Hina"
+      ],
+      "track": [
+        "OST_28",
+        "OST_21",
+        "OST_11"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown.jpg",
+        "BG_GehennaClubRoom_Night.jpg",
+        "BG_ClassCorridor2_Night.jpg"
+      ],
+      "OST_28": [
+        "BG_CityDowntown.jpg",
+        "BG_Cathedral.jpg",
+        "BG_GehennaCampus_Night.jpg",
+        "BG_GehennaClubRoom_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_GehennaCampus_Night.jpg"
+      ],
+      "OST_11": [
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_43_1.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_28": [
+        "Mashiro",
+        "Ichika",
+        "Hasumi",
+        "Tsurugi",
+        "Hinata",
+        "Hanako",
+        "Mari",
+        "Makoto",
+        "Ako",
+        "Iroha"
+      ],
+      "OST_21": [
+        "Hina"
+      ]
+    },
+    "char_to_bg": {
+      "Tsurugi": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Mashiro": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Ichika": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Hasumi": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Hinata": [
+        "BG_Cathedral.jpg"
+      ],
+      "Hanako": [
+        "BG_Cathedral.jpg"
+      ],
+      "Mari": [
+        "BG_Cathedral.jpg"
+      ],
+      "Makoto": [
+        "BG_GehennaClubRoom_Night.jpg"
+      ],
+      "Ako": [
+        "BG_GehennaClubRoom_Night.jpg"
+      ],
+      "Iroha": [
+        "BG_GehennaClubRoom_Night.jpg"
+      ],
+      "Hina": [
+        "BG_GehennaClubRoom_Night.jpg",
+        "BG_ClassCorridor2_Night.jpg",
+        "BG_GehennaCampus_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mashiro": [
+        "Tsurugi",
+        "Ichika",
+        "Hasumi"
+      ],
+      "Ichika": [
+        "Tsurugi",
+        "Mashiro",
+        "Hasumi"
+      ],
+      "Hasumi": [
+        "Tsurugi",
+        "Mashiro",
+        "Ichika"
+      ],
+      "Tsurugi": [
+        "Mashiro",
+        "Ichika",
+        "Hasumi"
+      ],
+      "Hanako": [
+        "Hinata",
+        "Mari"
+      ],
+      "Mari": [
+        "Hinata",
+        "Hanako"
+      ],
+      "Hinata": [
+        "Hanako",
+        "Mari"
+      ],
+      "Ako": [
+        "Makoto",
+        "Iroha",
+        "Hina"
+      ],
+      "Iroha": [
+        "Makoto",
+        "Ako",
+        "Hina"
+      ],
+      "Hina": [
+        "Makoto",
+        "Ako",
+        "Iroha"
+      ],
+      "Makoto": [
+        "Ako",
+        "Iroha",
+        "Hina"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

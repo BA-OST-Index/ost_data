@@ -1,0 +1,105 @@
+{
+  "uuid": "b2cd6e22-6d95-4640-88a6-e324b2fe1f15",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClassRoom2.jpg",
+        "BG_CS_Trinity_03.jpg"
+      ],
+      "character": [
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "track": [
+        "OST_16",
+        "OST_28"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "OST_28": [
+        "BG_TrinityClassRoom2.jpg",
+        "BG_CS_Trinity_03.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "OST_28": [
+        "Hifumi",
+        "Koharu",
+        "Azusa",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClassRoom2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hanako",
+        "Hifumi"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

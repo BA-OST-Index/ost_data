@@ -1,0 +1,134 @@
+{
+  "uuid": "087605b8-8e3b-4bc5-b33d-d25b384eef0b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityPrison2.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_RuinCity.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_BuildingRooftop_Night.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_GematriaCorridor.jpg"
+      ],
+      "character": [
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Mika",
+        "Beatrice"
+      ],
+      "track": [
+        "OST_122",
+        "OST_21",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_122": [
+        "BG_TrinityPrison2.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_RuinCity.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_BuildingRooftop_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityPrison2.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityPrison2.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_92": [
+        "BG_GematriaCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_122": [
+        "Seia",
+        "BlackSuit",
+        "Maestro"
+      ],
+      "OST_21": [
+        "Seia",
+        "Mika"
+      ],
+      "OST_92": [
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Beatrice"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityPrison2.jpg",
+        "BG_CS_PV3_02.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "BlackSuit": [
+        "BG_RuinCity.jpg",
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Maestro": [
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Mika": [
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "Beatrice": [
+        "BG_GematriaCorridor.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Seia": [
+        "Mika"
+      ],
+      "Mika": [
+        "Seia"
+      ],
+      "Maestro": [
+        "BlackSuit",
+        "Beatrice"
+      ],
+      "BlackSuit": [
+        "Maestro",
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "BlackSuit",
+        "Maestro"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

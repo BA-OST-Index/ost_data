@@ -1,0 +1,177 @@
+{
+  "uuid": "212c6bc6-07f1-402d-b5a7-3c5a9937f7e0",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SwimmingPool.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Cathedral.jpg",
+        "BG_TrinityCampusPlaza.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Nagisa",
+        "Hanako",
+        "Hinata",
+        "Koharu",
+        "Hasumi",
+        "Tsurugi",
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Hifumi"
+      ],
+      "track": [
+        "OST_73",
+        "OST_93",
+        "OST_47"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_SwimmingPool.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_Trinity_06.jpg"
+      ],
+      "OST_0": [
+        "BG_SwimmingPool.jpg"
+      ],
+      "OST_93": [
+        "BG_SwimmingPool.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Cathedral.jpg",
+        "BG_TrinityCampusPlaza.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "OST_47": [
+        "BG_SwimmingPool.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Mika",
+        "Nagisa"
+      ],
+      "OST_93": [
+        "Mika",
+        "Hanako",
+        "Hinata",
+        "Koharu",
+        "Hasumi",
+        "Tsurugi",
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Hifumi"
+      ],
+      "OST_47": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_SwimmingPool.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Cathedral.jpg",
+        "BG_TrinityCampusPlaza.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Cathedral.jpg",
+        "BG_TrinityCampusPlaza.jpg"
+      ],
+      "Hinata": [
+        "BG_Cathedral.jpg"
+      ],
+      "Tsurugi": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mashiro": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Nagisa",
+        "Hanako",
+        "Hinata",
+        "Koharu",
+        "Hasumi",
+        "Hifumi"
+      ],
+      "Nagisa": [
+        "Mika"
+      ],
+      "Hanako": [
+        "Mika",
+        "Hinata"
+      ],
+      "Hinata": [
+        "Hanako",
+        "Mika"
+      ],
+      "Hasumi": [
+        "Koharu",
+        "Mika",
+        "Tsurugi",
+        "Mashiro",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Koharu": [
+        "Mika",
+        "Hasumi"
+      ],
+      "Mashiro": [
+        "Tsurugi",
+        "MemberOfJusticeTaskForce",
+        "Hasumi"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Tsurugi",
+        "Mashiro",
+        "Hasumi"
+      ],
+      "Tsurugi": [
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Hasumi"
+      ],
+      "Hifumi": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

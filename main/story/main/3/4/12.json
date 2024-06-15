@@ -1,0 +1,181 @@
+{
+  "uuid": "8cef04f6-7d43-4708-a89f-95509c947399",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_Trinity_20_2.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_GematriaCorridor.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_Arius_03.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_TrinityPrison_Night.jpg",
+        "BG_AriusCampus.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Hiyori",
+        "Misaki",
+        "Saori",
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Beatrice"
+      ],
+      "track": [
+        "OST_93",
+        "OST_73",
+        "OST_55"
+      ]
+    },
+    "track_to_bg": {
+      "OST_93": [
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "OST_0": [
+        "BG_CS_Trinity_20_2.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "OST_55": [
+        "BG_GematriaCorridor.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_Arius_03.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_TrinityPrison_Night.jpg",
+        "BG_AriusCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_93": [
+        "Mika"
+      ],
+      "OST_73": [
+        "Misaki",
+        "Hiyori",
+        "Saori"
+      ],
+      "OST_55": [
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Beatrice",
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_CS_Trinity_20_2.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Saori": [
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Seia": [
+        "BG_GematriaCorridor.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_CS_Arius_03.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "BlackSuit": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Maestro": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_GematriaCorridor.jpg"
+      ],
+      "Beatrice": [
+        "BG_GematriaCorridor.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Mika",
+        "Misaki",
+        "Saori"
+      ],
+      "Mika": [
+        "Hiyori",
+        "Seia"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori"
+      ],
+      "BlackSuit": [
+        "Seia",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Beatrice"
+      ],
+      "Maestro": [
+        "Seia",
+        "BlackSuit",
+        "Nonomi_Swimsuit",
+        "Beatrice"
+      ],
+      "Nonomi_Swimsuit": [
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "Seia",
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit"
+      ],
+      "Seia": [
+        "BlackSuit",
+        "Maestro",
+        "Nonomi_Swimsuit",
+        "Beatrice",
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

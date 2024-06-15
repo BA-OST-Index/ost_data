@@ -1,0 +1,260 @@
+{
+  "uuid": "d749a420-857e-4dda-8e1f-752cc14f9eda",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampus.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_DestructionFront.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Campus.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Hanako",
+        "Mari",
+        "Koharu",
+        "MemberOfJusticeTaskForce",
+        "Mika",
+        "Shinon",
+        "Mai",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Justice Task Force Member D",
+        "Sena",
+        "Serina",
+        "Hanae",
+        "Suzumi",
+        "Reisa"
+      ],
+      "track": [
+        "OST_27",
+        "OST_65",
+        "OST_18",
+        "OST_13"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_TrinityCampus.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_DestructionFront.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Campus.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_65": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_18": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "OST_13": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Hifumi",
+        "Hanako",
+        "Mari",
+        "Koharu",
+        "MemberOfJusticeTaskForce",
+        "Mika",
+        "Shinon",
+        "Mai",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Justice Task Force Member D",
+        "Sena",
+        "Serina",
+        "Hanae"
+      ],
+      "OST_65": [
+        "Hanako",
+        "Mari",
+        "Sisterhood Admin A"
+      ],
+      "OST_18": [
+        "Suzumi",
+        "Hanae",
+        "Serina"
+      ],
+      "OST_13": [
+        "Hanae",
+        "Serina",
+        "Suzumi",
+        "Reisa",
+        "Sena"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityCampus.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityCampus.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityCampus.jpg",
+        "BG_Campus.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityCampus.jpg",
+        "BG_Campus.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "Shinon": [
+        "BG_DestructionFront.jpg"
+      ],
+      "Mai": [
+        "BG_DestructionFront.jpg"
+      ],
+      "Sisterhood Admin A": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Sisterhood Admin B": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Justice Task Force Member D": [
+        "BG_Campus.jpg"
+      ],
+      "Sena": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Serina": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Hanae": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Suzumi": [
+        "BG_TrinityCampus.jpg"
+      ],
+      "Reisa": [
+        "BG_TrinityCampus.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Hifumi",
+        "Mari",
+        "Koharu",
+        "MemberOfJusticeTaskForce",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B"
+      ],
+      "Mari": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "MemberOfJusticeTaskForce",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako",
+        "Mari",
+        "MemberOfJusticeTaskForce",
+        "Justice Task Force Member D"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Mari",
+        "Koharu",
+        "MemberOfJusticeTaskForce"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Koharu",
+        "Hifumi",
+        "Hanako",
+        "Mari",
+        "Justice Task Force Member D"
+      ],
+      "Mai": [
+        "Shinon"
+      ],
+      "Shinon": [
+        "Mai"
+      ],
+      "Sisterhood Admin B": [
+        "Sisterhood Admin A",
+        "Hanako",
+        "Mari"
+      ],
+      "Sisterhood Admin A": [
+        "Sisterhood Admin B",
+        "Hanako",
+        "Mari"
+      ],
+      "Justice Task Force Member D": [
+        "MemberOfJusticeTaskForce",
+        "Koharu"
+      ],
+      "Hanae": [
+        "Serina",
+        "Sena",
+        "Suzumi",
+        "Reisa"
+      ],
+      "Serina": [
+        "Hanae",
+        "Sena",
+        "Suzumi",
+        "Reisa"
+      ],
+      "Sena": [
+        "Serina",
+        "Hanae",
+        "Suzumi",
+        "Reisa"
+      ],
+      "Reisa": [
+        "Suzumi",
+        "Hanae",
+        "Serina",
+        "Sena"
+      ],
+      "Suzumi": [
+        "Hanae",
+        "Serina",
+        "Reisa",
+        "Sena"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

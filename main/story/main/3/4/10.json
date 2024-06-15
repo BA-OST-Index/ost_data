@@ -1,0 +1,100 @@
+{
+  "uuid": "eadc226a-054f-41f7-9c11-3fc27de6e2e1",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_10_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_10_DESC_1]",
+    "[STORY_MAIN_3_4_10_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 10
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Saori",
+        "Hiyori",
+        "Mika"
+      ],
+      "track": [
+        "OST_65",
+        "OST_118"
+      ]
+    },
+    "track_to_bg": {
+      "OST_65": [
+        "BG_RuinUndergroundPassage_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "OST_118": [
+        "BG_CS_Trinity_20_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_65": [
+        "Misaki",
+        "Saori",
+        "Hiyori"
+      ],
+      "OST_118": [
+        "Mika",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "Saori": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "Hiyori": [
+        "BG_RuinUndergroundPassage_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "Mika": [
+        "BG_CS_Trinity_20_2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Misaki",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Saori"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

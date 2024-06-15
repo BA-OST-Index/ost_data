@@ -1,0 +1,84 @@
+{
+  "uuid": "7e592ab5-eb62-4da4-b4f8-df3fc7e16a30",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Nagisa",
+        "Hifumi"
+      ],
+      "track": [
+        "OST_47",
+        "OST_8"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "OST_8": [
+        "BG_TrinityClassRoom.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Mika",
+        "Nagisa"
+      ],
+      "OST_8": [
+        "Hifumi"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClassRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Nagisa": [
+        "Mika"
+      ],
+      "Mika": [
+        "Nagisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,100 @@
+{
+  "uuid": "83f7e32d-cd9a-4354-a71f-01ad2559ac5b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusCampus_Night.jpg",
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_05.jpg",
+        "BG_CS_Arius_05_2.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Mika"
+      ],
+      "track": [
+        "OST_73",
+        "OST_122"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_AriusCampus_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_122": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_05.jpg",
+        "BG_CS_Arius_05_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_122": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_AriusCampus_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusCampus_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusCampus_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Mika": [
+        "BG_CS_Arius_05_2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Saori",
+        "Misaki"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Misaki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

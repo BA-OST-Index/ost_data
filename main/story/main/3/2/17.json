@@ -1,0 +1,156 @@
+{
+  "uuid": "1dfa0407-d796-4458-9ac9-c9a02e8edde8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_17_DESC_1]",
+    "[STORY_MAIN_3_2_17_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Gym_Night2.jpg",
+        "BG_CS_Trinity_07.jpg",
+        "BG_CS_Trinity_08.jpg",
+        "BG_CS_Trinity_09.jpg",
+        "BG_CS_PV2_57.jpg",
+        "BG_CS_PV2_58.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ],
+      "character": [
+        "Koharu",
+        "Azusa",
+        "Hifumi",
+        "Hanako",
+        "Mika"
+      ],
+      "track": [
+        "OST_32",
+        "OST_29",
+        "OST_93",
+        "OST_65",
+        "OST_76"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Gym_Night2.jpg",
+        "BG_CS_Trinity_09.jpg"
+      ],
+      "OST_32": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "OST_29": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "OST_93": [
+        "BG_Gym_Night2.jpg",
+        "BG_CS_Trinity_07.jpg",
+        "BG_CS_Trinity_08.jpg"
+      ],
+      "OST_65": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "OST_76": [
+        "BG_CS_PV2_57.jpg",
+        "BG_CS_PV2_58.jpg",
+        "BG_View_Sky_Sunset.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_32": [
+        "Koharu",
+        "Azusa",
+        "Hifumi",
+        "Hanako"
+      ],
+      "OST_29": [
+        "Hanako",
+        "Koharu",
+        "Azusa",
+        "Hifumi"
+      ],
+      "OST_93": [
+        "Mika",
+        "Hanako",
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_65": [
+        "Mika",
+        "Azusa",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "Azusa": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "Hifumi": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "Hanako": [
+        "BG_Gym_Night2.jpg",
+        "BG_CS_Trinity_07.jpg"
+      ],
+      "Mika": [
+        "BG_Gym_Night2.jpg",
+        "BG_CS_Trinity_07.jpg",
+        "BG_CS_Trinity_08.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa": [
+        "Koharu",
+        "Hifumi",
+        "Hanako",
+        "Mika"
+      ],
+      "Hifumi": [
+        "Koharu",
+        "Azusa",
+        "Hanako",
+        "Mika"
+      ],
+      "Hanako": [
+        "Koharu",
+        "Azusa",
+        "Hifumi",
+        "Mika"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hifumi",
+        "Hanako",
+        "Mika"
+      ],
+      "Mika": [
+        "Hanako",
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

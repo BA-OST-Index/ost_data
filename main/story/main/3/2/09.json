@@ -1,0 +1,56 @@
+{
+  "uuid": "a343641d-51c2-4926-b556-f4005d0b3191",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_9_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_9_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 9
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ],
+      "character": [
+        "Nagisa"
+      ],
+      "track": [
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_TrinityTerrace.jpg",
+        "BG_BlackMarket_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Nagisa"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityTerrace.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,102 @@
+{
+  "uuid": "67dd4af3-66d5-4e90-b248-800d4ce42ac7",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_23_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_23_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_Cathedral_Night.jpg",
+        "BG_TrinityPrison_Night.jpg",
+        "BG_CS_Arius_07.jpg",
+        "BG_CS_Arius_08.jpg",
+        "BG_CS_Arius_09.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Koharu",
+        "Barbara"
+      ],
+      "track": [
+        "OST_55",
+        "OST_46",
+        "OST_136"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_Cathedral_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_55": [
+        "BG_Cathedral_Night.jpg"
+      ],
+      "OST_46": [
+        "BG_Cathedral_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_136": [
+        "BG_Cathedral_Night.jpg",
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_07.jpg",
+        "BG_CS_Arius_08.jpg",
+        "BG_CS_Arius_09.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Mika"
+      ],
+      "OST_46": [
+        "Mika"
+      ],
+      "OST_136": [
+        "Mika",
+        "Barbara"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_Cathedral_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "Barbara": [
+        "BG_AriusBasilica_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Barbara"
+      ],
+      "Barbara": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

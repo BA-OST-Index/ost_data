@@ -1,0 +1,289 @@
+{
+  "uuid": "7dabea47-0693-4567-b3a7-635848aba5ed",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_11_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_11_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 11
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg",
+        "BG_CS_PV2_55.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Nagisa"
+      ],
+      "track": [
+        "OST_13",
+        "OST_30",
+        "OST_8",
+        "OST_60",
+        "OST_65",
+        "OST_27"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_55.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_13": [
+        "BG_BigBridge_Night.jpg",
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_30": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_8": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_60": [
+        "BG_CS_PV2_56.jpg",
+        "BG_CS_PV2_55.jpg"
+      ],
+      "OST_65": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_27": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_13": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_30": [
+        "Koharu",
+        "Azusa",
+        "Hifumi"
+      ],
+      "OST_8": [
+        "Akari",
+        "Haruna",
+        "Koharu",
+        "Hanako",
+        "Hifumi",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Azusa"
+      ],
+      "OST_60": [
+        "Hifumi",
+        "Koharu",
+        "Izumi",
+        "Junko",
+        "Haruna",
+        "Akari",
+        "Fuuka",
+        "Azusa"
+      ],
+      "OST_65": [
+        "Nagisa",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_27": [
+        "Koharu",
+        "Azusa",
+        "Hifumi",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg",
+        "BG_CS_PV2_55.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hanako": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Azusa": [
+        "BG_CityDowntown_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_55.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Koharu": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_55.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Akari": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "Haruna": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "Fuuka": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "Junko": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "Izumi": [
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_PV2_56.jpg"
+      ],
+      "Nagisa": [
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Nagisa"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Nagisa"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Nagisa"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako",
+        "Azusa",
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Junko",
+        "Izumi",
+        "Nagisa"
+      ],
+      "Akari": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Haruna",
+        "Koharu",
+        "Fuuka",
+        "Junko",
+        "Izumi"
+      ],
+      "Haruna": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Akari",
+        "Koharu",
+        "Fuuka",
+        "Junko",
+        "Izumi"
+      ],
+      "Fuuka": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Akari",
+        "Haruna",
+        "Koharu",
+        "Junko",
+        "Izumi"
+      ],
+      "Junko": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Akari",
+        "Haruna",
+        "Koharu",
+        "Fuuka",
+        "Izumi"
+      ],
+      "Izumi": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Akari",
+        "Haruna",
+        "Koharu",
+        "Fuuka",
+        "Junko"
+      ],
+      "Nagisa": [
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Hifumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

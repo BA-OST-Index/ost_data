@@ -10,7 +10,7 @@
   "parent_data": {
     "enable": true,
     "extra_data": {},
-    "enable_export": false
+    "enable_export": true
   },
   "image": {
     "value": "",

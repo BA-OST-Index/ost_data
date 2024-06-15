@@ -1,0 +1,73 @@
+{
+  "uuid": "6628bd31-811f-414f-ac66-b406e1653b20",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_View_Trinity_Night.jpg",
+        "BG_CS_PV2_34.jpg",
+        "BG_CS_PV2_33.jpg",
+        "BG_CS_PV2_41.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_CS_Trinity_02.jpg"
+      ],
+      "character": [
+        "Seia"
+      ],
+      "track": [
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_View_Trinity_Night.jpg",
+        "BG_CS_PV2_34.jpg",
+        "BG_CS_PV2_33.jpg",
+        "BG_CS_PV2_41.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_CS_Trinity_02.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityTerrace_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_View_Sky_Night.jpg",
+        "BG_View_Trinity_Night.jpg"
+      ]
+    },
+    "char_to_char": {},
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

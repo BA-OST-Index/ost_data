@@ -1,0 +1,165 @@
+{
+  "uuid": "e40fed60-7530-4b7b-8eaa-e6e02b3df031",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_16_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_SwimmingPool.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Koharu",
+        "Mika"
+      ],
+      "track": [
+        "OST_16",
+        "OST_92",
+        "OST_3",
+        "OST_73",
+        "OST_10",
+        "OST_47"
+      ]
+    },
+    "track_to_bg": {
+      "OST_16": [
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_SwimmingPool.jpg"
+      ],
+      "OST_92": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg"
+      ],
+      "OST_3": [
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_10": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "OST_47": [
+        "BG_SwimmingPool.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_16": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "OST_92": [
+        "Koharu",
+        "Hanako",
+        "Hifumi",
+        "Azusa"
+      ],
+      "OST_3": [
+        "Koharu",
+        "Hanako"
+      ],
+      "OST_73": [
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "OST_10": [
+        "Hifumi",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "OST_47": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Azusa": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Hanako": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Koharu": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Mika": [
+        "BG_SwimmingPool.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Azusa",
+        "Hanako"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,313 @@
+{
+  "uuid": "caa11bba-edb7-46cb-8b14-71fa1d9930f8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Cathedral.jpg",
+        "BG_AbandonedCorridor.jpg",
+        "BG_GehennaCouncilHall.jpg",
+        "BG_CS_PV2_37.jpg",
+        "BG_CS_PV2_39.jpg",
+        "BG_CS_PV2_40.jpg",
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_28_2.jpg",
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_CS_PV2_36.jpg",
+        "BG_CS_PV2_35.jpg",
+        "BG_CS_PV2_42_1.jpg",
+        "BG_CS_PV2_42_2.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_CS_PV2_47.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_30.jpg",
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_41.jpg",
+        "BG_CS_PV2_46.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg"
+      ],
+      "character": [
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Hinata",
+        "Hina",
+        "Ako",
+        "Shinon",
+        "Makoto",
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Atsuko",
+        "Hasumi",
+        "Iori",
+        "Chinatsu",
+        "Sena",
+        "Mika",
+        "Azusa",
+        "Hifumi",
+        "Koharu",
+        "Hanako"
+      ],
+      "track": [
+        "OST_33",
+        "OST_11",
+        "OST_93",
+        "OST_74",
+        "OST_42"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_Cathedral.jpg",
+        "BG_AbandonedCorridor.jpg",
+        "BG_GehennaCouncilHall.jpg"
+      ],
+      "OST_0": [
+        "BG_GehennaCouncilHall.jpg",
+        "BG_CS_PV2_28_2.jpg",
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_CS_PV2_47.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_30.jpg"
+      ],
+      "OST_11": [
+        "BG_CS_PV2_37.jpg",
+        "BG_CS_PV2_39.jpg",
+        "BG_CS_PV2_40.jpg",
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_28_2.jpg"
+      ],
+      "OST_93": [
+        "BG_RuinBuildingCorridor.jpg"
+      ],
+      "OST_74": [
+        "BG_CS_PV2_48.jpg",
+        "BG_Cathedral.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_CS_PV2_36.jpg",
+        "BG_CS_PV2_35.jpg",
+        "BG_CS_PV2_42_1.jpg",
+        "BG_CS_PV2_42_2.jpg",
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "OST_42": [
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_41.jpg",
+        "BG_CS_PV2_46.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Hinata",
+        "Hina",
+        "Ako"
+      ],
+      "OST_11": [
+        "Shinon",
+        "Makoto"
+      ],
+      "OST_93": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "OST_74": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Atsuko",
+        "Hasumi",
+        "Tsurugi",
+        "MemberOfJusticeTaskForce",
+        "Iori",
+        "Chinatsu",
+        "Sena",
+        "Mika",
+        "Azusa",
+        "Hifumi",
+        "Koharu",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "MemberOfJusticeTaskForce": [
+        "BG_Cathedral.jpg"
+      ],
+      "Tsurugi": [
+        "BG_Cathedral.jpg"
+      ],
+      "Hinata": [
+        "BG_Cathedral.jpg",
+        "BG_AbandonedCorridor.jpg"
+      ],
+      "Hina": [
+        "BG_GehennaCouncilHall.jpg"
+      ],
+      "Ako": [
+        "BG_GehennaCouncilHall.jpg"
+      ],
+      "Shinon": [
+        "BG_CS_PV2_37.jpg",
+        "BG_CS_PV2_40.jpg",
+        "BG_CS_PV2_28_2.jpg"
+      ],
+      "Makoto": [
+        "BG_CS_PV2_40.jpg"
+      ],
+      "Saori": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Misaki": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Hiyori": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Atsuko": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_CS_PV2_48.jpg"
+      ],
+      "Hasumi": [
+        "BG_Cathedral.jpg"
+      ],
+      "Iori": [
+        "BG_Cathedral.jpg"
+      ],
+      "Chinatsu": [
+        "BG_Cathedral.jpg"
+      ],
+      "Sena": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "Azusa": [
+        "BG_FamilyRestaurant.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_30.jpg"
+      ],
+      "Hifumi": [
+        "BG_FamilyRestaurant.jpg",
+        "BG_CS_PV2_47.jpg"
+      ],
+      "Koharu": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Hanako": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Tsurugi": [
+        "MemberOfJusticeTaskForce",
+        "Hinata",
+        "Hasumi"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Tsurugi",
+        "Hinata",
+        "Hasumi"
+      ],
+      "Hinata": [
+        "Tsurugi",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Ako": [
+        "Hina"
+      ],
+      "Hina": [
+        "Ako"
+      ],
+      "Makoto": [
+        "Shinon"
+      ],
+      "Shinon": [
+        "Makoto"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Misaki",
+        "Atsuko"
+      ],
+      "Atsuko": [
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Hasumi": [
+        "Tsurugi",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Chinatsu": [
+        "Iori"
+      ],
+      "Iori": [
+        "Chinatsu"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Koharu",
+        "Hanako"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hifumi",
+        "Hanako"
+      ],
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Koharu",
+        "Hanako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,112 @@
+{
+  "uuid": "84a6aefb-8b78-4257-9324-eb55b721e275",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_CS_Arius_01.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_DestructionFront_Fire.jpg",
+        "BG_CS_PV2_69.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Saori",
+        "Seia"
+      ],
+      "track": [
+        "OST_73",
+        "OST_105",
+        "OST_118"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_CS_Arius_01.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_DestructionFront_Fire.jpg",
+        "BG_CS_PV2_69.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "OST_105": [
+        "BG_CS_Arius_01.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_118": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Mika",
+        "Seia"
+      ],
+      "OST_105": [
+        "Saori"
+      ],
+      "OST_118": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Saori": [
+        "BG_SlumFront_Night.jpg",
+        "BG_CS_Arius_01.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CathedralRuins.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Saori"
+      ],
+      "Saori": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

@@ -1,0 +1,97 @@
+{
+  "uuid": "e99390fc-6b18-44c2-bc51-dce2483f26b6",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_20_DESC_1]",
+    "[STORY_MAIN_3_4_20_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02_2.jpg"
+      ],
+      "character": [
+        "Barbara",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "track": [
+        "OST_122",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_122": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_12": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_02_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_122": [
+        "Barbara",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Barbara": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Saori": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusBasilica_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Barbara",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Hiyori": [
+        "Barbara",
+        "Saori",
+        "Misaki"
+      ],
+      "Misaki": [
+        "Barbara",
+        "Saori",
+        "Hiyori"
+      ],
+      "Barbara": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

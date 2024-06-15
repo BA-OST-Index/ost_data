@@ -1,0 +1,109 @@
+{
+  "uuid": "c5106177-c1d1-4f06-ba5c-5ba186356b16",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_1_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_1_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 1
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SlumFront_Night.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Hiyori",
+        "Atsuko",
+        "Misaki",
+        "Beatrice"
+      ],
+      "track": [
+        "OST_118"
+      ]
+    },
+    "track_to_bg": {
+      "OST_118": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_SlumFront_Night.jpg",
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_118": [
+        "Saori",
+        "Hiyori",
+        "Atsuko",
+        "Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Atsuko": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_SlumFront_Night.jpg"
+      ],
+      "Beatrice": [
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Saori",
+        "Atsuko",
+        "Misaki",
+        "Beatrice"
+      ],
+      "Atsuko": [
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Beatrice"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Atsuko",
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "Saori",
+        "Hiyori",
+        "Atsuko",
+        "Misaki"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Atsuko",
+        "Misaki",
+        "Beatrice"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

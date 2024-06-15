@@ -1,0 +1,167 @@
+{
+  "uuid": "09ca18cf-666f-4f60-97d6-cc1f1446fa47",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_17_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_StudentRoom_Night.jpg"
+      ],
+      "character": [
+        "Koharu",
+        "Mika",
+        "Seia",
+        "Nagisa",
+        "MemberOfJusticeTaskForce",
+        "Hanako",
+        "Mari"
+      ],
+      "track": [
+        "OST_73",
+        "OST_12",
+        "OST_35",
+        "OST_37",
+        "OST_32"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "OST_12": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_35": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_AbandonedCorridor_Night.jpg"
+      ],
+      "OST_37": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_32": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_StudentRoom_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Koharu"
+      ],
+      "OST_12": [
+        "Koharu",
+        "Mika"
+      ],
+      "OST_35": [
+        "Seia",
+        "Nagisa",
+        "Mika"
+      ],
+      "OST_37": [
+        "Mika",
+        "Seia",
+        "Koharu"
+      ],
+      "OST_32": [
+        "MemberOfJusticeTaskForce",
+        "Hanako",
+        "Mari",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Koharu": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_AbandonedCorridor_Night.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Koharu",
+        "Nagisa",
+        "Seia"
+      ],
+      "Koharu": [
+        "Mika",
+        "MemberOfJusticeTaskForce",
+        "Hanako",
+        "Mari"
+      ],
+      "Seia": [
+        "Nagisa",
+        "Mika"
+      ],
+      "Nagisa": [
+        "Mika",
+        "Seia"
+      ],
+      "Hanako": [
+        "MemberOfJusticeTaskForce",
+        "Mari",
+        "Koharu"
+      ],
+      "Mari": [
+        "MemberOfJusticeTaskForce",
+        "Hanako",
+        "Koharu"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Hanako",
+        "Mari",
+        "Koharu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

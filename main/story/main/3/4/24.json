@@ -1,0 +1,168 @@
+{
+  "uuid": "542aa1ca-d474-40fd-8427-52bc8fb95de9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_24_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_24_DESC_1]",
+    "[STORY_MAIN_3_4_24_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 24
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_10.jpg",
+        "BG_CS_Arius_11.jpg",
+        "BG_CS_Arius_12.jpg",
+        "BG_CS_Arius_13.jpg",
+        "BG_CS_Arius_13_2.jpg",
+        "BG_AriusBasilica.jpg"
+      ],
+      "character": [
+        "Beatrice",
+        "Hiyori",
+        "Misaki",
+        "Saori",
+        "Atsuko",
+        "Nonomi_Swimsuit"
+      ],
+      "track": [
+        "OST_136",
+        "OST_119",
+        "OST_67",
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_10.jpg"
+      ],
+      "OST_136": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_119": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_67": [
+        "BG_CS_Arius_10.jpg",
+        "BG_CS_Arius_11.jpg",
+        "BG_CS_Arius_12.jpg",
+        "BG_CS_Arius_13.jpg",
+        "BG_CS_Arius_13_2.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_73": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_AriusBasilica.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_136": [
+        "Beatrice",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_119": [
+        "Hiyori",
+        "Beatrice",
+        "Saori",
+        "Misaki"
+      ],
+      "OST_67": [
+        "Hiyori",
+        "Saori",
+        "Misaki",
+        "Atsuko"
+      ],
+      "OST_73": [
+        "Beatrice",
+        "Nonomi_Swimsuit"
+      ]
+    },
+    "char_to_bg": {
+      "Beatrice": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Hiyori": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_10.jpg",
+        "BG_CS_Arius_11.jpg",
+        "BG_CS_Arius_12.jpg"
+      ],
+      "Misaki": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_11.jpg",
+        "BG_CS_Arius_12.jpg"
+      ],
+      "Saori": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_11.jpg",
+        "BG_CS_Arius_12.jpg",
+        "BG_CS_Arius_13.jpg"
+      ],
+      "Atsuko": [
+        "BG_CS_Arius_12.jpg",
+        "BG_CS_Arius_13.jpg",
+        "BG_CS_Arius_13_2.jpg"
+      ],
+      "Nonomi_Swimsuit": [
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Beatrice",
+        "Misaki",
+        "Saori",
+        "Atsuko"
+      ],
+      "Misaki": [
+        "Beatrice",
+        "Hiyori",
+        "Saori",
+        "Atsuko"
+      ],
+      "Beatrice": [
+        "Hiyori",
+        "Misaki",
+        "Saori",
+        "Nonomi_Swimsuit"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Beatrice",
+        "Misaki",
+        "Atsuko"
+      ],
+      "Atsuko": [
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Nonomi_Swimsuit": [
+        "Beatrice"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

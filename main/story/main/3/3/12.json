@@ -1,0 +1,131 @@
+{
+  "uuid": "05d51a03-e59c-41d7-b231-ff3861f7f3de",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_12_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_12_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 12
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg",
+        "BG_CS_PV2_63.jpg",
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_34.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_PV2_43_2.jpg",
+        "BG_CS_PV2_42_2.jpg",
+        "BG_CS_PV2_47.jpg",
+        "BG_RuinInside.jpg",
+        "BG_Amusement_Night2.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_46.jpg",
+        "BG_CS_PV2_27.jpg",
+        "BG_CS_Trinity_11_2.jpg"
+      ],
+      "character": [
+        "Hanako",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari"
+      ],
+      "track": [
+        "OST_27",
+        "OST_42"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_DestructionFrontPublic_Fire.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_CS_Trinity_11_2.jpg"
+      ],
+      "OST_42": [
+        "BG_CS_PV2_63.jpg",
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_34.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_CS_Trinity_05.jpg",
+        "BG_CS_PV2_43_2.jpg",
+        "BG_CS_PV2_42_2.jpg",
+        "BG_CS_PV2_47.jpg",
+        "BG_RuinInside.jpg",
+        "BG_Amusement_Night2.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_46.jpg",
+        "BG_CS_PV2_27.jpg",
+        "BG_TrinityOldLibrary.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Hanako",
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari"
+      ],
+      "OST_42": [
+        "Hanako",
+        "Mari"
+      ]
+    },
+    "char_to_bg": {
+      "Hanako": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Sisterhood Admin A": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Sisterhood Admin B": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityOldLibrary.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sisterhood Admin A": [
+        "Hanako",
+        "Sisterhood Admin B"
+      ],
+      "Sisterhood Admin B": [
+        "Hanako",
+        "Sisterhood Admin A"
+      ],
+      "Hanako": [
+        "Sisterhood Admin A",
+        "Sisterhood Admin B",
+        "Mari"
+      ],
+      "Mari": [
+        "Hanako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

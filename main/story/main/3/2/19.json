@@ -1,0 +1,147 @@
+{
+  "uuid": "b9a1723e-3273-4613-a31a-5edafe35b251",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_19_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_TrinityClassRoom_Blur.jpg",
+        "BG_TrinityClassRoom2_Blur.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_TrinityClassRoom2_Sunset_Blur.jpg",
+        "BG_CS_Trinity_03.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Night.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa",
+        "MemberOfJusticeTaskForce"
+      ],
+      "track": [
+        "OST_50",
+        "OST_5",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "OST_50": [
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "OST_5": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg"
+      ],
+      "OST_12": [
+        "BG_TrinityClassRoom_Blur.jpg",
+        "BG_TrinityClassRoom2_Blur.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_TrinityClassRoom2_Sunset_Blur.jpg",
+        "BG_CS_Trinity_03.jpg",
+        "BG_View_Sky.jpg",
+        "BG_View_Sky_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_50": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "OST_5": [
+        "Azusa",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityCampusPlaza_Night.jpg",
+        "BG_Campus.jpg",
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_Campus.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Hifumi",
+        "Koharu",
+        "Azusa",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako",
+        "Azusa",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Koharu",
+        "Azusa",
+        "MemberOfJusticeTaskForce"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Koharu",
+        "Hifumi",
+        "Hanako",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

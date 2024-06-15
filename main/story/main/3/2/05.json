@@ -1,0 +1,270 @@
+{
+  "uuid": "8d2f4444-62d2-4d12-95d6-1e084a3dd37b",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_GehennaClubRoom.jpg",
+        "BG_ModernCafe.jpg",
+        "BG_DemolitionCity_Night.jpg",
+        "BG_BigPlaza_Night.jpg"
+      ],
+      "character": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Tsurugi",
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Makoto",
+        "Iroha",
+        "Ichika",
+        "Haruna",
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Izumi"
+      ],
+      "track": [
+        "OST_33",
+        "OST_3",
+        "OST_47",
+        "OST_29"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_TrinityStreet_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_GehennaClubRoom.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "OST_3": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "OST_47": [
+        "BG_ModernCafe.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "OST_29": [
+        "BG_ModernCafe.jpg",
+        "BG_DemolitionCity_Night.jpg",
+        "BG_BigPlaza_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ],
+      "OST_3": [
+        "Hasumi",
+        "Tsurugi",
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Makoto",
+        "Iroha"
+      ],
+      "OST_47": [
+        "Hifumi",
+        "Azusa",
+        "Hasumi",
+        "Koharu",
+        "Hanako"
+      ],
+      "OST_29": [
+        "Ichika",
+        "Hasumi",
+        "Haruna",
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Izumi"
+      ]
+    },
+    "char_to_bg": {
+      "Hanako": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_ModernCafe.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Tsurugi": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mashiro": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_GehennaClubRoom.jpg",
+        "BG_ModernCafe.jpg"
+      ],
+      "Makoto": [
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "Iroha": [
+        "BG_GehennaClubRoom.jpg"
+      ],
+      "Ichika": [
+        "BG_ModernCafe.jpg"
+      ],
+      "Junko": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Akari": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Haruna": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Fuuka": [
+        "BG_DemolitionCity_Night.jpg"
+      ],
+      "Izumi": [
+        "BG_DemolitionCity_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hifumi": [
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Hasumi"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Hasumi",
+        "Ichika"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Hasumi"
+      ],
+      "Mashiro": [
+        "Tsurugi",
+        "MemberOfJusticeTaskForce",
+        "Hasumi"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Tsurugi",
+        "Mashiro",
+        "Hasumi"
+      ],
+      "Hasumi": [
+        "Tsurugi",
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Makoto",
+        "Iroha",
+        "Koharu",
+        "Hanako",
+        "Hifumi",
+        "Ichika"
+      ],
+      "Tsurugi": [
+        "Mashiro",
+        "MemberOfJusticeTaskForce",
+        "Hasumi"
+      ],
+      "Makoto": [
+        "Hasumi",
+        "Iroha"
+      ],
+      "Iroha": [
+        "Hasumi",
+        "Makoto"
+      ],
+      "Ichika": [
+        "Koharu",
+        "Hasumi",
+        "Haruna"
+      ],
+      "Haruna": [
+        "Ichika",
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Izumi"
+      ],
+      "Akari": [
+        "Junko",
+        "Haruna",
+        "Fuuka",
+        "Izumi"
+      ],
+      "Fuuka": [
+        "Junko",
+        "Akari",
+        "Haruna",
+        "Izumi"
+      ],
+      "Izumi": [
+        "Junko",
+        "Akari",
+        "Haruna",
+        "Fuuka"
+      ],
+      "Junko": [
+        "Akari",
+        "Haruna",
+        "Fuuka",
+        "Izumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

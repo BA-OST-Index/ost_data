@@ -1,0 +1,110 @@
+{
+  "uuid": "42a01c3f-fb64-43b6-9a17-da88cc16a1a0",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_16_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_16_DESC_1]",
+    "[STORY_MAIN_3_2_16_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 16
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Campus_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityClassRoom2_Night2.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_Dormitory2_Night2.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Gym_Night2.jpg"
+      ],
+      "character": [
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "track": [
+        "OST_74",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_74": [
+        "BG_Campus_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityClassRoom2_Night2.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_Dormitory2_Night2.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Gym_Night2.jpg"
+      ],
+      "OST_12": [
+        "BG_Gym_Night2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_74": [
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Gym_Night2.jpg"
+      ],
+      "Hanako": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_Gym_Night2.jpg"
+      ],
+      "Hifumi": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "Koharu": [
+        "BG_Gym_Night2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hanako",
+        "Hifumi"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

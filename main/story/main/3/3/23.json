@@ -1,0 +1,146 @@
+{
+  "uuid": "2407f606-5075-4db0-9738-974f700108ce",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_23_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_23_DESC_1]",
+    "[STORY_MAIN_3_3_23_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 23
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg",
+        "BG_RuinBuildingCorridor.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "track": [
+        "OST_27",
+        "OST_42",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_0": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "OST_42": [
+        "BG_RuinInside.jpg"
+      ],
+      "OST_12": [
+        "BG_RuinInside.jpg",
+        "BG_RuinBuildingCorridor.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Azusa",
+        "Hanako",
+        "Hifumi"
+      ],
+      "OST_42": [
+        "Saori",
+        "Azusa"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Saori": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "Azusa": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "Hanako": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hifumi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Koharu": [
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Misaki",
+        "Saori"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Azusa",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori"
+      ],
+      "Azusa": [
+        "Saori",
+        "Hanako",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Saori",
+        "Azusa",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Saori",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Saori",
+        "Azusa",
+        "Hanako",
+        "Hifumi"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

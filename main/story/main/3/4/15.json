@@ -1,0 +1,113 @@
+{
+  "uuid": "70e526c2-8737-43a6-b163-11c021019874",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_15_DESC_1]",
+    "[STORY_MAIN_3_4_15_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Arius_04_2.jpg",
+        "BG_CS_Arius_04.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "track": [
+        "OST_118",
+        "OST_105"
+      ]
+    },
+    "track_to_bg": {
+      "OST_118": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Arius_04_2.jpg"
+      ],
+      "OST_105": [
+        "BG_CS_Arius_04_2.jpg",
+        "BG_CS_Arius_04.jpg",
+        "BG_AriusStreet_Night.jpg",
+        "BG_AriusBasilica_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_118": [
+        "Mika",
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "OST_105": [
+        "Mika",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Arius_04_2.jpg",
+        "BG_CS_Arius_04.jpg"
+      ],
+      "Saori": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusStreet_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Mika",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Misaki": [
+        "Mika",
+        "Saori",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Mika",
+        "Saori",
+        "Misaki"
+      ],
+      "Mika": [
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

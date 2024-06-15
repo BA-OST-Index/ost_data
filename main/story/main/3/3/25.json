@@ -1,0 +1,382 @@
+{
+  "uuid": "f66128f4-5c4d-44ec-97ee-a2ca14892d94",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_25_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_25_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 25
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Infirmary.jpg",
+        "BG_Ward.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityStreet.jpg",
+        "BG_BigBridge.jpg",
+        "BG_GehennaCampus.jpg",
+        "BG_GehennaCouncilHall.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_CS_Trinity_20_1.jpg",
+        "BG_CS_Trinity_20_2.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_CS_PV2_32_3.jpg",
+        "BG_CS_Trinity_21.jpg"
+      ],
+      "character": [
+        "Makoto",
+        "Iroha",
+        "Nagisa",
+        "Mika",
+        "Sakurako",
+        "Mari",
+        "Hinata",
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Tsurugi",
+        "Hasumi",
+        "Suzumi",
+        "Sena",
+        "Iori",
+        "Chinatsu",
+        "Hina",
+        "Ako",
+        "Juri",
+        "Fuuka",
+        "Izumi",
+        "Junko",
+        "Haruna",
+        "Akari",
+        "Serina",
+        "Hanae",
+        "Mine",
+        "Seia",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa",
+        "Atsuko"
+      ],
+      "track": [
+        "OST_31",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_31": [
+        "BG_Infirmary.jpg",
+        "BG_Ward.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityStreet.jpg",
+        "BG_BigBridge.jpg",
+        "BG_GehennaCampus.jpg",
+        "BG_GehennaCouncilHall.jpg",
+        "BG_SchoolCafeteria.jpg",
+        "BG_CityDowntown.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_CS_Trinity_20_1.jpg"
+      ],
+      "OST_0": [
+        "BG_CS_Trinity_20_1.jpg",
+        "BG_CS_Trinity_21.jpg"
+      ],
+      "OST_21": [
+        "BG_CS_Trinity_20_1.jpg",
+        "BG_CS_Trinity_20_2.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_CS_PV2_32_3.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_31": [
+        "Makoto",
+        "Iroha",
+        "Nagisa",
+        "Mika",
+        "Sakurako",
+        "Mari",
+        "Hinata",
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Tsurugi",
+        "Hasumi",
+        "Suzumi",
+        "Sena",
+        "Iori",
+        "Chinatsu",
+        "Hina",
+        "Ako",
+        "Juri",
+        "Fuuka",
+        "Izumi",
+        "Junko",
+        "Haruna",
+        "Akari",
+        "Serina",
+        "Hanae",
+        "Mine",
+        "Seia",
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_21": [
+        "Atsuko"
+      ]
+    },
+    "char_to_bg": {
+      "Makoto": [
+        "BG_Infirmary.jpg"
+      ],
+      "Iroha": [
+        "BG_Infirmary.jpg"
+      ],
+      "Nagisa": [
+        "BG_Ward.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Sakurako": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Hinata": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Mashiro": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Tsurugi": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Suzumi": [
+        "BG_TrinityStreet.jpg"
+      ],
+      "Sena": [
+        "BG_BigBridge.jpg"
+      ],
+      "Iori": [
+        "BG_GehennaCampus.jpg"
+      ],
+      "Chinatsu": [
+        "BG_GehennaCampus.jpg"
+      ],
+      "Hina": [
+        "BG_GehennaCouncilHall.jpg"
+      ],
+      "Ako": [
+        "BG_GehennaCouncilHall.jpg"
+      ],
+      "Juri": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "Fuuka": [
+        "BG_SchoolCafeteria.jpg"
+      ],
+      "Izumi": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Junko": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Haruna": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Akari": [
+        "BG_CityDowntown.jpg"
+      ],
+      "Serina": [
+        "BG_Ward.jpg"
+      ],
+      "Hanae": [
+        "BG_Ward.jpg"
+      ],
+      "Mine": [
+        "BG_Ward.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClassRoom.jpg"
+      ],
+      "Atsuko": [
+        "BG_CS_Trinity_20_1.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Iroha": [
+        "Makoto"
+      ],
+      "Makoto": [
+        "Iroha"
+      ],
+      "Mari": [
+        "Sakurako",
+        "Hinata"
+      ],
+      "Hinata": [
+        "Sakurako",
+        "Mari"
+      ],
+      "Sakurako": [
+        "Mari",
+        "Hinata"
+      ],
+      "Mashiro": [
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Hasumi"
+      ],
+      "Tsurugi": [
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Hasumi"
+      ],
+      "Hasumi": [
+        "MemberOfJusticeTaskForce",
+        "Mashiro",
+        "Tsurugi"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Mashiro",
+        "Tsurugi",
+        "Hasumi",
+        "Mika",
+        "Nagisa",
+        "Seia"
+      ],
+      "Chinatsu": [
+        "Iori"
+      ],
+      "Iori": [
+        "Chinatsu"
+      ],
+      "Ako": [
+        "Hina"
+      ],
+      "Hina": [
+        "Ako"
+      ],
+      "Fuuka": [
+        "Juri"
+      ],
+      "Juri": [
+        "Fuuka"
+      ],
+      "Junko": [
+        "Izumi",
+        "Haruna",
+        "Akari"
+      ],
+      "Haruna": [
+        "Izumi",
+        "Junko",
+        "Akari"
+      ],
+      "Akari": [
+        "Izumi",
+        "Junko",
+        "Haruna"
+      ],
+      "Izumi": [
+        "Junko",
+        "Haruna",
+        "Akari"
+      ],
+      "Hanae": [
+        "Serina",
+        "Mine"
+      ],
+      "Mine": [
+        "Serina",
+        "Hanae"
+      ],
+      "Serina": [
+        "Hanae",
+        "Mine"
+      ],
+      "Mika": [
+        "MemberOfJusticeTaskForce",
+        "Nagisa",
+        "Seia"
+      ],
+      "Nagisa": [
+        "MemberOfJusticeTaskForce",
+        "Mika",
+        "Seia"
+      ],
+      "Seia": [
+        "MemberOfJusticeTaskForce",
+        "Mika",
+        "Nagisa"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

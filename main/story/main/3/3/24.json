@@ -1,0 +1,138 @@
+{
+  "uuid": "54dbb4fe-0445-4f2b-ada8-ba3d4f40c042",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_24_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_24_DESC_1]",
+    "[STORY_MAIN_3_3_24_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 24
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_RuinInside.jpg",
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Azusa",
+        "Atsuko",
+        "Maestro",
+        "Hiyori",
+        "Misaki"
+      ],
+      "track": [
+        "OST_55",
+        "OST_85",
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_RuinInside.jpg",
+        "BG_RuinBuildingCorridor.jpg"
+      ],
+      "OST_55": [
+        "BG_RuinInside.jpg"
+      ],
+      "OST_85": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "OST_73": [
+        "BG_RuinBuildingCorridor.jpg",
+        "BG_RuinInside.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_CS_Trinity_20_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Atsuko",
+        "Azusa",
+        "Saori"
+      ],
+      "OST_85": [
+        "Maestro",
+        "Azusa",
+        "Atsuko",
+        "Saori"
+      ],
+      "OST_73": [
+        "Maestro",
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Atsuko"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_RuinInside.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_RuinInside.jpg"
+      ],
+      "Atsuko": [
+        "BG_RuinInside.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Maestro": [
+        "BG_RuinBuildingCorridor.jpg"
+      ],
+      "Hiyori": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_BigBridge_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Atsuko": [
+        "Azusa",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Saori": [
+        "Azusa",
+        "Atsuko",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Azusa": [
+        "Atsuko",
+        "Saori"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Misaki",
+        "Atsuko"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Atsuko"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

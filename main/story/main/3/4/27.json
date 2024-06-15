@@ -1,0 +1,206 @@
+{
+  "uuid": "cf7e436b-dbec-4018-93a0-17c2af0a7d8a",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_27_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_27_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 27
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_ForestRailRoad_Fog.jpg",
+        "BG_BlackMarket_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_AbandonedCorridor.jpg",
+        "BG_AriusBasilica_FineDay.jpg",
+        "BG_AriusStreet_FineDay.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_AriusCampus_FineDay.jpg",
+        "BG_TrinityMeetingRoom.jpg",
+        "BG_CS_PR_08.jpg",
+        "BG_CS_PR_09.jpg",
+        "BG_CS_PV_29.jpg",
+        "BG_View_Trinity.jpg",
+        "BG_CS_Arius_15.jpg",
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "character": [
+        "Hiyori",
+        "Atsuko",
+        "Misaki",
+        "Saori",
+        "Mika",
+        "Nagisa",
+        "Seia",
+        "Kayoko",
+        "Mutsuki",
+        "Haruka",
+        "Aru"
+      ],
+      "track": [
+        "OST_87",
+        "OST_130",
+        "OST_7"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_ForestRailRoad_Fog.jpg",
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "OST_87": [
+        "BG_ForestRailRoad_Fog.jpg",
+        "BG_BlackMarket_Night.jpg",
+        "BG_UpperOffice_Night.jpg",
+        "BG_View_Sky.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_AbandonedCorridor.jpg",
+        "BG_AriusBasilica_FineDay.jpg",
+        "BG_AriusStreet_FineDay.jpg",
+        "BG_CS_PV2_32.jpg",
+        "BG_AriusCampus_FineDay.jpg",
+        "BG_TrinityMeetingRoom.jpg",
+        "BG_CS_PR_08.jpg",
+        "BG_CS_PR_09.jpg",
+        "BG_CS_PV_29.jpg",
+        "BG_View_Trinity.jpg",
+        "BG_CS_Arius_15.jpg"
+      ],
+      "OST_130": [
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "OST_7": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_87": [
+        "Hiyori",
+        "Atsuko",
+        "Misaki",
+        "Saori",
+        "Mika",
+        "Nagisa",
+        "Seia"
+      ],
+      "OST_130": [
+        "Saori",
+        "Haruka"
+      ],
+      "OST_7": [
+        "Haruka",
+        "Saori",
+        "Aru",
+        "Kayoko",
+        "Mutsuki"
+      ]
+    },
+    "char_to_bg": {
+      "Hiyori": [
+        "BG_ForestRailRoad_Fog.jpg"
+      ],
+      "Atsuko": [
+        "BG_ForestRailRoad_Fog.jpg"
+      ],
+      "Misaki": [
+        "BG_ForestRailRoad_Fog.jpg"
+      ],
+      "Saori": [
+        "BG_BlackMarket_Night.jpg",
+        "BG_UpperOffice_Night.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityMeetingRoom.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityMeetingRoom.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityMeetingRoom.jpg"
+      ],
+      "Haruka": [
+        "BG_UpperOffice_Night.jpg",
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Aru": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Kayoko": [
+        "BG_KohshinjoRoom.jpg"
+      ],
+      "Mutsuki": [
+        "BG_KohshinjoRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Atsuko": [
+        "Hiyori",
+        "Misaki"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Hiyori": [
+        "Atsuko",
+        "Misaki"
+      ],
+      "Nagisa": [
+        "Mika",
+        "Seia"
+      ],
+      "Seia": [
+        "Mika",
+        "Nagisa"
+      ],
+      "Mika": [
+        "Nagisa",
+        "Seia"
+      ],
+      "Mutsuki": [
+        "Kayoko",
+        "Aru",
+        "Haruka"
+      ],
+      "Kayoko": [
+        "Mutsuki",
+        "Aru",
+        "Haruka"
+      ],
+      "Haruka": [
+        "Saori",
+        "Aru",
+        "Kayoko",
+        "Mutsuki"
+      ],
+      "Saori": [
+        "Haruka"
+      ],
+      "Aru": [
+        "Haruka",
+        "Kayoko",
+        "Mutsuki"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

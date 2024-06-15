@@ -1,0 +1,133 @@
+{
+  "uuid": "61f25b05-e500-464c-a81e-b1b128d15bbf",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_2_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CS_Trinity_06.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "character": [
+        "Nagisa",
+        "Sakurako",
+        "Mine",
+        "Makoto",
+        "Mika",
+        "Saori"
+      ],
+      "track": [
+        "OST_47",
+        "OST_73",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_47": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_73": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CS_Trinity_06.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_47": [
+        "Nagisa",
+        "Sakurako",
+        "Mine"
+      ],
+      "OST_73": [
+        "Nagisa",
+        "Makoto",
+        "Mika",
+        "Sakurako",
+        "Mine",
+        "Saori"
+      ],
+      "OST_21": [
+        "Nagisa",
+        "Sakurako",
+        "Mine"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_CS_Trinity_06.jpg"
+      ],
+      "Sakurako": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Mine": [
+        "BG_TrinityClubRoom.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Sakurako": [
+        "Nagisa",
+        "Mine",
+        "Saori",
+        "Mika"
+      ],
+      "Mine": [
+        "Nagisa",
+        "Sakurako",
+        "Saori",
+        "Mika"
+      ],
+      "Nagisa": [
+        "Sakurako",
+        "Mine",
+        "Makoto",
+        "Mika",
+        "Saori"
+      ],
+      "Mika": [
+        "Makoto",
+        "Nagisa",
+        "Saori",
+        "Sakurako",
+        "Mine"
+      ],
+      "Makoto": [
+        "Mika",
+        "Nagisa"
+      ],
+      "Saori": [
+        "Sakurako",
+        "Mine",
+        "Nagisa",
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

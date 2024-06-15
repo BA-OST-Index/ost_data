@@ -1,0 +1,192 @@
+{
+  "uuid": "66eb97e4-8f74-4516-bec8-5f72d1590dac",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_2_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_2_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 2
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityPrison_Night.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "character": [
+        "Azusa",
+        "Seia",
+        "Hanako",
+        "Hifumi",
+        "Sakurako",
+        "Mari",
+        "Nagisa",
+        "Koharu",
+        "Hasumi",
+        "Mika"
+      ],
+      "track": [
+        "OST_73",
+        "OST_31",
+        "OST_47",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_73": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_31": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "OST_47": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_Gym_Night2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Azusa",
+        "Seia",
+        "Hanako",
+        "Hifumi"
+      ],
+      "OST_31": [
+        "Sakurako",
+        "Hanako",
+        "Mari"
+      ],
+      "OST_47": [
+        "Nagisa",
+        "Hifumi",
+        "Mika"
+      ],
+      "OST_21": [
+        "Koharu",
+        "Nagisa",
+        "Hasumi",
+        "Hanako",
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityOldLibrary.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Sakurako": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Mari": [
+        "BG_TrinityOldLibrary.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityPrison.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "Mika": [
+        "BG_Gym_Night2.jpg",
+        "BG_TrinityPrison.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Sakurako",
+        "Mari",
+        "Nagisa"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Nagisa"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Hifumi"
+      ],
+      "Mari": [
+        "Sakurako",
+        "Hanako"
+      ],
+      "Sakurako": [
+        "Hanako",
+        "Mari"
+      ],
+      "Nagisa": [
+        "Hifumi",
+        "Koharu",
+        "Hasumi",
+        "Hanako",
+        "Mika"
+      ],
+      "Koharu": [
+        "Nagisa"
+      ],
+      "Hasumi": [
+        "Nagisa"
+      ],
+      "Mika": [
+        "Nagisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

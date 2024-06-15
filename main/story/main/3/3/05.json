@@ -1,0 +1,154 @@
+{
+  "uuid": "1ef8d54c-ba2d-43f8-9db6-b576f53eea06",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_5_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_5_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 5
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_28_2.jpg",
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_43_2.jpg",
+        "BG_CS_PV2_27.jpg",
+        "BG_CS_PV2_04.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_Cathedral.jpg",
+        "BG_CS_PV2_37.jpg"
+      ],
+      "character": [
+        "Shinon",
+        "Rin",
+        "Momoka",
+        "Ayumu",
+        "Azusa",
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "track": [
+        "OST_11",
+        "OST_10"
+      ]
+    },
+    "track_to_bg": {
+      "OST_11": [
+        "BG_CS_PV2_28.jpg",
+        "BG_CS_PV2_28_2.jpg",
+        "BG_CS_PV2_43_1.jpg",
+        "BG_CS_PV2_44.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_43_2.jpg",
+        "BG_CS_PV2_27.jpg",
+        "BG_CS_PV2_04.jpg"
+      ],
+      "OST_0": [
+        "BG_CS_PV2_28_2.jpg",
+        "BG_FamilyRestaurant.jpg",
+        "BG_Cathedral.jpg",
+        "BG_CS_PV2_37.jpg"
+      ],
+      "OST_10": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_11": [
+        "Shinon",
+        "Rin",
+        "Momoka",
+        "Ayumu"
+      ],
+      "OST_10": [
+        "Azusa",
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Shinon": [
+        "BG_CS_PV2_28_2.jpg",
+        "BG_CS_PV2_45.jpg",
+        "BG_CS_PV2_43_2.jpg",
+        "BG_CS_PV2_27.jpg"
+      ],
+      "Rin": [
+        "BG_CS_PV2_04.jpg"
+      ],
+      "Momoka": [
+        "BG_CS_PV2_04.jpg"
+      ],
+      "Ayumu": [
+        "BG_CS_PV2_04.jpg"
+      ],
+      "Azusa": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Hifumi": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Hanako": [
+        "BG_FamilyRestaurant.jpg"
+      ],
+      "Koharu": [
+        "BG_FamilyRestaurant.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Momoka": [
+        "Rin",
+        "Ayumu"
+      ],
+      "Ayumu": [
+        "Rin",
+        "Momoka"
+      ],
+      "Rin": [
+        "Momoka",
+        "Ayumu"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Koharu"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hifumi",
+        "Hanako"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

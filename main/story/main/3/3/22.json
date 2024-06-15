@@ -1,0 +1,121 @@
+{
+  "uuid": "a132562a-4935-466f-906f-25bbdbf34433",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_22_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_22_DESC_1]",
+    "[STORY_MAIN_3_3_22_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 22
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "track": [
+        "OST_74",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_74": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_12": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_74": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Misaki": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Azusa": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hanako": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Koharu": [
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Azusa"
+      ],
+      "Hiyori": [
+        "Saori",
+        "Misaki",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Hanako",
+        "Koharu"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori",
+        "Azusa",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hanako": [
+        "Saori",
+        "Koharu",
+        "Azusa"
+      ],
+      "Koharu": [
+        "Saori",
+        "Hanako",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

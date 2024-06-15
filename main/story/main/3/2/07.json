@@ -1,0 +1,275 @@
+{
+  "uuid": "76709c74-5626-45b1-8cb0-3e95e8795498",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_7_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_7_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 7
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_VillaComplex_Night2.jpg",
+        "BG_TrinityStreet_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_SwimmingPool.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ],
+      "character": [
+        "Haruna",
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Izumi",
+        "Hasumi",
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Hanako",
+        "Sena",
+        "Hina",
+        "Mika",
+        "Nagisa"
+      ],
+      "track": [
+        "OST_3",
+        "OST_13",
+        "OST_33",
+        "OST_73",
+        "OST_22"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_VillaComplex_Night2.jpg",
+        "BG_TrinityStreet_Night.jpg",
+        "BG_BigBridge_Night.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_3": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_VillaComplex_Night2.jpg"
+      ],
+      "OST_13": [
+        "BG_TrinityStreet_Night.jpg"
+      ],
+      "OST_33": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_SwimmingPool.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "OST_22": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityClassRoom2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_3": [
+        "Haruna",
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Izumi"
+      ],
+      "OST_13": [
+        "Hasumi",
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Hanako"
+      ],
+      "OST_33": [
+        "Hina",
+        "Sena",
+        "Haruna",
+        "Akari",
+        "Junko",
+        "Fuuka"
+      ],
+      "OST_73": [
+        "Mika",
+        "Nagisa",
+        "Hanako",
+        "Koharu",
+        "Azusa",
+        "Hina",
+        "Sena"
+      ],
+      "OST_22": [
+        "Hifumi",
+        "Hanako",
+        "Azusa",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Haruna": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Junko": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Akari": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Fuuka": [
+        "BG_IndoorPlaza_Night3.jpg",
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Izumi": [
+        "BG_VillaComplex_Night2.jpg"
+      ],
+      "Hasumi": [
+        "BG_TrinityStreet_Night.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityStreet_Night.jpg",
+        "BG_TrinityClassRoom.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Sena": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Hina": [
+        "BG_BigBridge_Night.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityTerrace.jpg",
+        "BG_SwimmingPool.jpg"
+      ],
+      "Nagisa": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Junko": [
+        "Haruna",
+        "Akari",
+        "Fuuka",
+        "Sena",
+        "Hina"
+      ],
+      "Akari": [
+        "Haruna",
+        "Junko",
+        "Fuuka",
+        "Sena",
+        "Hina"
+      ],
+      "Fuuka": [
+        "Haruna",
+        "Junko",
+        "Akari",
+        "Sena",
+        "Hina"
+      ],
+      "Haruna": [
+        "Junko",
+        "Akari",
+        "Fuuka",
+        "Sena",
+        "Hina"
+      ],
+      "Hifumi": [
+        "Hasumi",
+        "Azusa",
+        "Koharu",
+        "Hanako"
+      ],
+      "Azusa": [
+        "Hasumi",
+        "Hifumi",
+        "Koharu",
+        "Hanako"
+      ],
+      "Koharu": [
+        "Hasumi",
+        "Hifumi",
+        "Azusa",
+        "Hanako"
+      ],
+      "Hanako": [
+        "Hasumi",
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ],
+      "Hasumi": [
+        "Hifumi",
+        "Azusa",
+        "Koharu",
+        "Hanako"
+      ],
+      "Hina": [
+        "Sena",
+        "Haruna",
+        "Akari",
+        "Junko",
+        "Fuuka"
+      ],
+      "Sena": [
+        "Hina",
+        "Haruna",
+        "Akari",
+        "Junko",
+        "Fuuka"
+      ],
+      "Nagisa": [
+        "Mika"
+      ],
+      "Mika": [
+        "Nagisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

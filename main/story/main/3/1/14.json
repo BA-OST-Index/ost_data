@@ -1,0 +1,113 @@
+{
+  "uuid": "90d33151-2400-434e-8ae0-d999e4d2f25e",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_1_14_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_1_14_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 1,
+    "segment": 14
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "character": [
+        "Azusa",
+        "Koharu",
+        "Hanako",
+        "Hifumi"
+      ],
+      "track": [
+        "OST_33",
+        "OST_91",
+        "OST_38"
+      ]
+    },
+    "track_to_bg": {
+      "OST_33": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "OST_91": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_33": [
+        "Azusa",
+        "Koharu",
+        "Hanako",
+        "Hifumi"
+      ],
+      "OST_91": [
+        "Koharu",
+        "Hanako",
+        "Azusa"
+      ],
+      "OST_38": [
+        "Koharu",
+        "Hifumi",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ],
+      "Hifumi": [
+        "BG_TrinityClassRoom2_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Koharu": [
+        "Azusa",
+        "Hanako",
+        "Hifumi"
+      ],
+      "Hanako": [
+        "Azusa",
+        "Koharu",
+        "Hifumi"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Koharu",
+        "Hanako"
+      ],
+      "Azusa": [
+        "Koharu",
+        "Hanako",
+        "Hifumi"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

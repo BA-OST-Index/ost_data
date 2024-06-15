@@ -1,0 +1,112 @@
+{
+  "uuid": "743c7ebc-0714-48bd-bfeb-6ce30b3fee3c",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_6_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_6_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 6
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_PV3_02_2.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "character": [
+        "Seia",
+        "Mika",
+        "Beatrice",
+        "MemberOfJusticeTaskForce",
+        "Saori"
+      ],
+      "track": [
+        "OST_105",
+        "OST_122"
+      ]
+    },
+    "track_to_bg": {
+      "OST_105": [
+        "BG_TrinityPrison2_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_SlumFront_Night.jpg",
+        "BG_TrinityPrison_Night.jpg"
+      ],
+      "OST_122": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_02.jpg",
+        "BG_CS_PV3_02_2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_105": [
+        "Seia",
+        "Mika"
+      ],
+      "OST_122": [
+        "Seia",
+        "Beatrice",
+        "Mika",
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityPrison2_Night.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_02_2.jpg",
+        "BG_CS_Arius_02.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison2_Night.jpg"
+      ],
+      "Beatrice": [
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "Saori": [
+        "BG_SlumFront_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Mika": [
+        "Seia",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Seia": [
+        "Mika",
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "Seia"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

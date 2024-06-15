@@ -1,0 +1,108 @@
+{
+  "uuid": "46ea6a34-0e04-4708-802b-8e28814a9abe",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_13_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CathedralRuins_Night.jpg",
+        "BG_AriusCampus.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CS_Arius_01.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_AriusStreet_Night.jpg"
+      ],
+      "character": [
+        "Misaki",
+        "Hiyori",
+        "Saori",
+        "Mika"
+      ],
+      "track": [
+        "OST_105",
+        "OST_73"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_CathedralRuins_Night.jpg",
+        "BG_AbandonedCorridor_Night.jpg"
+      ],
+      "OST_105": [
+        "BG_CathedralRuins_Night.jpg",
+        "BG_AriusCampus.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_CS_PV2_31.jpg",
+        "BG_CS_Arius_01.jpg"
+      ],
+      "OST_73": [
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_AriusStreet_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_105": [
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "OST_73": [
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Misaki": [
+        "BG_CathedralRuins_Night.jpg",
+        "BG_AriusCampus.jpg",
+        "BG_CS_PV2_31.jpg"
+      ],
+      "Hiyori": [
+        "BG_CathedralRuins_Night.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_CS_PV2_31.jpg"
+      ],
+      "Saori": [
+        "BG_CS_Arius_01.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "Mika": [
+        "BG_AbandonedCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Misaki",
+        "Saori"
+      ],
+      "Misaki": [
+        "Hiyori",
+        "Saori"
+      ],
+      "Saori": [
+        "Misaki",
+        "Hiyori"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

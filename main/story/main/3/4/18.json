@@ -1,0 +1,207 @@
+{
+  "uuid": "9190de4a-104d-4b5d-b846-1bf3c28ec284",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_18_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_18_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 18
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AbandonedCorridor.jpg",
+        "BG_AriusCampus.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_Prison.jpg",
+        "BG_CS_Trinity_09.jpg",
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Trinity_01.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_CS_Trinity_12.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_53.jpg",
+        "BG_CS_PV2_52.jpg",
+        "BG_CS_Arius_06.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_CS_PV2_53GF_01.jpg",
+        "BG_CS_PV2_68.jpg",
+        "BG_CS_PV2_69.jpg",
+        "BG_CS_PV2_51_2.jpg",
+        "BG_CS_Arius_01.jpg",
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "character": [
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Azusa",
+        "Mika",
+        "Beatrice",
+        "MemberOfJusticeTaskForce"
+      ],
+      "track": [
+        "OST_55",
+        "OST_105",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_55": [
+        "BG_AbandonedCorridor.jpg",
+        "BG_AriusCampus.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_Prison.jpg",
+        "BG_CS_Trinity_09.jpg",
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_AriusStreet_Night.jpg",
+        "BG_CS_Trinity_01.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_CS_Trinity_12.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_53.jpg",
+        "BG_CS_PV2_52.jpg",
+        "BG_CS_Arius_06.jpg",
+        "BG_CS_PV2_48.jpg",
+        "BG_CS_PV2_53GF_01.jpg",
+        "BG_CS_PV2_68.jpg",
+        "BG_CS_PV2_69.jpg",
+        "BG_CS_PV2_51_2.jpg",
+        "BG_CS_Arius_01.jpg"
+      ],
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_105": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "OST_21": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_06.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_55": [
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Azusa",
+        "Mika",
+        "Beatrice"
+      ],
+      "OST_105": [
+        "Mika",
+        "MemberOfJusticeTaskForce",
+        "Saori"
+      ],
+      "OST_21": [
+        "Saori",
+        "Mika"
+      ]
+    },
+    "char_to_bg": {
+      "Saori": [
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg",
+        "BG_Prison.jpg",
+        "BG_CS_Trinity_09.jpg",
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CathedralRuins_Night.jpg",
+        "BG_CS_Trinity_21.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_53.jpg",
+        "BG_CS_PV2_52.jpg",
+        "BG_CS_Arius_06.jpg",
+        "BG_CS_PV2_51_2.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_RuinSchoolCorridor_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_CathedralRuins.jpg"
+      ],
+      "Mika": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_AbandonedCorridor_Night.jpg",
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ],
+      "Beatrice": [
+        "BG_CS_Trinity_21.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityCampusPlaza_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Saori",
+        "Misaki",
+        "Azusa"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Azusa"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Misaki",
+        "Azusa",
+        "Mika",
+        "Beatrice"
+      ],
+      "Azusa": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Mika": [
+        "Saori",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Beatrice": [
+        "Saori"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

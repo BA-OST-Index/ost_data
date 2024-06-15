@@ -1,0 +1,148 @@
+{
+  "uuid": "6dd2290d-a850-4ebf-a05c-b6722e7d7c80",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_20_DESC_1]",
+    "[STORY_MAIN_3_3_20_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DemolitionCity.jpg",
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "character": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ],
+      "track": [
+        "OST_18",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_18": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_12": [
+        "BG_DemolitionCity.jpg",
+        "BG_CityOffice_Ruin.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_18": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ]
+    },
+    "char_to_bg": {
+      "Hina": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Iori": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Hasumi": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Chinatsu": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Tsurugi": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Hoshino": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Serika": [
+        "BG_DemolitionCity.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Iori": [
+        "Hina",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ],
+      "Hasumi": [
+        "Hina",
+        "Iori",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ],
+      "Chinatsu": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ],
+      "Tsurugi": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Hoshino",
+        "Serika"
+      ],
+      "Hoshino": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Serika"
+      ],
+      "Serika": [
+        "Hina",
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino"
+      ],
+      "Hina": [
+        "Iori",
+        "Hasumi",
+        "Chinatsu",
+        "Tsurugi",
+        "Hoshino",
+        "Serika"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

@@ -1,0 +1,162 @@
+{
+  "uuid": "94db8103-a8f1-42f5-8225-89b8d65422f9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_8_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_8_DESC_1]",
+    "[STORY_MAIN_3_3_8_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 8
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CS_PV2_63.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg",
+        "BG_DemolitionCity.jpg"
+      ],
+      "character": [
+        "Hinata",
+        "Hasumi",
+        "Misaki",
+        "Atsuko",
+        "Maestro",
+        "Tsurugi",
+        "Hina",
+        "Hiyori"
+      ],
+      "track": [
+        "OST_27",
+        "OST_65",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_CS_PV2_63.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_RuinInside.jpg"
+      ],
+      "OST_0": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_65": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_12": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_DemolitionCity.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Hinata",
+        "Hasumi",
+        "Misaki",
+        "Atsuko",
+        "Maestro",
+        "Tsurugi"
+      ],
+      "OST_65": [
+        "Hina",
+        "Hasumi",
+        "Misaki",
+        "Hiyori",
+        "Tsurugi",
+        "Hinata"
+      ]
+    },
+    "char_to_bg": {
+      "Hinata": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hasumi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Misaki": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Atsuko": [
+        "BG_RuinInside.jpg"
+      ],
+      "Maestro": [
+        "BG_RuinInside.jpg"
+      ],
+      "Tsurugi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hina": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hasumi": [
+        "Hinata",
+        "Misaki",
+        "Tsurugi",
+        "Hina",
+        "Hiyori"
+      ],
+      "Misaki": [
+        "Hinata",
+        "Hasumi",
+        "Hina",
+        "Hiyori",
+        "Tsurugi"
+      ],
+      "Hinata": [
+        "Hasumi",
+        "Misaki",
+        "Tsurugi",
+        "Hina",
+        "Hiyori"
+      ],
+      "Maestro": [
+        "Atsuko"
+      ],
+      "Atsuko": [
+        "Maestro"
+      ],
+      "Tsurugi": [
+        "Hasumi",
+        "Hinata",
+        "Misaki",
+        "Hina",
+        "Hiyori"
+      ],
+      "Hina": [
+        "Misaki",
+        "Hasumi",
+        "Hiyori",
+        "Tsurugi",
+        "Hinata"
+      ],
+      "Hiyori": [
+        "Misaki",
+        "Hina",
+        "Hasumi",
+        "Tsurugi",
+        "Hinata"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

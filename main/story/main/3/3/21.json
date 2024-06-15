@@ -1,0 +1,181 @@
+{
+  "uuid": "feae6e22-7456-439e-a848-f6a4269797e9",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_21_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_21_DESC_1]",
+    "[STORY_MAIN_3_3_21_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 21
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_CityOffice_Ruin.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "character": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu",
+        "Seia"
+      ],
+      "track": [
+        "OST_49",
+        "OST_21"
+      ]
+    },
+    "track_to_bg": {
+      "OST_49": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "OST_0": [
+        "BG_CityOffice_Ruin.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityTerrace.jpg",
+        "BG_DestructionFrontPublic.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_49": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "OST_21": [
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Hoshino": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Shiroko": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Serika": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Ako": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Ayane": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Iori": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Nonomi": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Chinatsu": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Shiroko": [
+        "Hoshino",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "Serika": [
+        "Hoshino",
+        "Shiroko",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "Ako": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "Ayane": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "Iori": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Nonomi",
+        "Chinatsu"
+      ],
+      "Nonomi": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Chinatsu"
+      ],
+      "Chinatsu": [
+        "Hoshino",
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi"
+      ],
+      "Hoshino": [
+        "Shiroko",
+        "Serika",
+        "Ako",
+        "Ayane",
+        "Iori",
+        "Nonomi",
+        "Chinatsu"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

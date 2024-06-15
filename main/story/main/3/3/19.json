@@ -1,0 +1,441 @@
+{
+  "uuid": "bff96bb5-c285-4798-83c3-1d84f1c2ec4d",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_3_19_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_3_19_DESC_1]",
+    "[STORY_MAIN_3_3_19_DESC_2]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 3,
+    "segment": 19
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_CityOffice_Ruin.jpg",
+        "BG_DemolitionCity.jpg",
+        "BG_StudentRoom_Night.jpg",
+        "BG_CS_Trinity_15.jpg",
+        "BG_CS_Trinity_16.jpg",
+        "BG_CS_Trinity_17.jpg",
+        "BG_CS_Trinity_18.jpg",
+        "BG_CS_Trinity_19_1.jpg",
+        "BG_CS_Trinity_19_2.jpg",
+        "BG_View_DawnSky.jpg",
+        "BG_View_Sky.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "character": [
+        "Azusa",
+        "Saori",
+        "Hifumi",
+        "Hiyori",
+        "Misaki",
+        "Hanako",
+        "Koharu",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane",
+        "Hinata",
+        "Mari",
+        "Hasumi",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Iori",
+        "Chinatsu",
+        "Ako",
+        "Hina",
+        "Seia"
+      ],
+      "track": [
+        "OST_60",
+        "OST_45",
+        "OST_18",
+        "OST_67",
+        "OST_65",
+        "OST_87",
+        "OST_1",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_StudentRoom_Night.jpg",
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_60": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_45": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "OST_18": [
+        "BG_CityOffice_Ruin.jpg",
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_67": [
+        "BG_StudentRoom_Night.jpg"
+      ],
+      "OST_65": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "OST_87": [
+        "BG_CS_Trinity_15.jpg",
+        "BG_CS_Trinity_16.jpg",
+        "BG_CS_Trinity_17.jpg",
+        "BG_CS_Trinity_18.jpg",
+        "BG_CS_Trinity_19_1.jpg",
+        "BG_CS_Trinity_19_2.jpg"
+      ],
+      "OST_1": [
+        "BG_View_DawnSky.jpg",
+        "BG_View_Sky.jpg",
+        "BG_DestructionFrontPublic.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_12": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_DemolitionCity.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_60": [
+        "Hifumi",
+        "Azusa",
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "OST_45": [
+        "Hifumi",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Ayane",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "OST_18": [
+        "Hinata",
+        "Mari",
+        "Hasumi",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Iori",
+        "Chinatsu",
+        "Ako"
+      ],
+      "OST_67": [
+        "Hina"
+      ],
+      "OST_65": [
+        "Hina",
+        "Ako"
+      ],
+      "OST_1": [
+        "Hiyori",
+        "Misaki",
+        "Saori",
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Azusa": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Saori": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hifumi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hiyori": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "Misaki": [
+        "BG_DestructionFrontPublic.jpg",
+        "BG_View_Sky.jpg"
+      ],
+      "Hanako": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Koharu": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Nonomi": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Serika": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Shiroko": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hoshino": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Ayane": [
+        "BG_DestructionFrontPublic.jpg"
+      ],
+      "Hinata": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Mari": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Hasumi": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Tsurugi": [
+        "BG_CityOffice_Ruin.jpg"
+      ],
+      "Iori": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Chinatsu": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Ako": [
+        "BG_DemolitionCity.jpg"
+      ],
+      "Hina": [
+        "BG_StudentRoom_Night.jpg",
+        "BG_DemolitionCity.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Azusa": [
+        "Saori",
+        "Hifumi",
+        "Hiyori",
+        "Misaki",
+        "Hanako",
+        "Koharu",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Saori": [
+        "Azusa",
+        "Hifumi",
+        "Hiyori",
+        "Misaki",
+        "Hanako",
+        "Koharu",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Hifumi": [
+        "Azusa",
+        "Hiyori",
+        "Misaki",
+        "Hanako",
+        "Koharu",
+        "Saori",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Hiyori": [
+        "Azusa",
+        "Hifumi",
+        "Misaki",
+        "Hanako",
+        "Koharu",
+        "Saori",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Misaki": [
+        "Azusa",
+        "Hifumi",
+        "Hiyori",
+        "Hanako",
+        "Koharu",
+        "Saori",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Hanako": [
+        "Azusa",
+        "Hifumi",
+        "Hiyori",
+        "Misaki",
+        "Koharu",
+        "Saori",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Koharu": [
+        "Azusa",
+        "Hifumi",
+        "Hiyori",
+        "Misaki",
+        "Hanako",
+        "Saori",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Ayane"
+      ],
+      "Nonomi": [
+        "Hifumi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Ayane",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "Serika": [
+        "Hifumi",
+        "Nonomi",
+        "Shiroko",
+        "Hoshino",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Ayane",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "Shiroko": [
+        "Hifumi",
+        "Nonomi",
+        "Serika",
+        "Hoshino",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Ayane",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "Hoshino": [
+        "Hifumi",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Ayane",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "Ayane": [
+        "Hifumi",
+        "Nonomi",
+        "Serika",
+        "Shiroko",
+        "Hoshino",
+        "Hanako",
+        "Azusa",
+        "Koharu",
+        "Hiyori",
+        "Misaki",
+        "Saori"
+      ],
+      "Mari": [
+        "Hinata",
+        "Hasumi",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi"
+      ],
+      "Hasumi": [
+        "Hinata",
+        "Mari",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "Hinata",
+        "Mari",
+        "Hasumi",
+        "Tsurugi"
+      ],
+      "Tsurugi": [
+        "Hinata",
+        "Mari",
+        "Hasumi",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Hinata": [
+        "Mari",
+        "Hasumi",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi"
+      ],
+      "Chinatsu": [
+        "Iori",
+        "Ako"
+      ],
+      "Ako": [
+        "Iori",
+        "Chinatsu",
+        "Hina"
+      ],
+      "Iori": [
+        "Chinatsu",
+        "Ako"
+      ],
+      "Hina": [
+        "Ako"
+      ]
+    },
+    "special": {
+      "flag": true,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": true
+}

@@ -1,0 +1,112 @@
+{
+  "uuid": "d984532c-8fdb-46f8-a697-738f14e4d425",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_20_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_20_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 20
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_30.jpg"
+      ],
+      "character": [
+        "Seia",
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Atsuko"
+      ],
+      "track": [
+        "OST_21",
+        "OST_93",
+        "OST_1"
+      ]
+    },
+    "track_to_bg": {
+      "OST_21": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "OST_93": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "OST_1": [
+        "BG_CS_PV2_29.jpg",
+        "BG_CS_PV2_30.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_21": [
+        "Seia"
+      ],
+      "OST_93": [
+        "Saori",
+        "Hiyori",
+        "Misaki",
+        "Atsuko"
+      ]
+    },
+    "char_to_bg": {
+      "Seia": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Saori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Atsuko": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hiyori": [
+        "Saori",
+        "Misaki",
+        "Atsuko"
+      ],
+      "Misaki": [
+        "Saori",
+        "Hiyori",
+        "Atsuko"
+      ],
+      "Atsuko": [
+        "Saori",
+        "Hiyori",
+        "Misaki"
+      ],
+      "Saori": [
+        "Hiyori",
+        "Misaki",
+        "Atsuko"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

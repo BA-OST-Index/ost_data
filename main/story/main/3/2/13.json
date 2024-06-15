@@ -1,0 +1,155 @@
+{
+  "uuid": "7025586c-36a7-4a5d-b897-1f944c54b2e8",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_13_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_13_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 13
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityClassRoom2_Night2.jpg",
+        "BG_CS_Trinity_03.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_TrinityClassRoom2_Sunset_Blur.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_SwimmingPool.jpg",
+        "BG_SwimmingPool_Night.jpg",
+        "BG_Dormitory2_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_Dormitory_Night.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Koharu",
+        "Azusa",
+        "Hanako",
+        "Saori"
+      ],
+      "track": [
+        "OST_37",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_37": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityClassRoom2_Night2.jpg",
+        "BG_CS_Trinity_03.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_TrinityClassRoom2_Sunset_Blur.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_SwimmingPool.jpg",
+        "BG_SwimmingPool_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_Dormitory2_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg",
+        "BG_Dormitory_Night.jpg"
+      ],
+      "OST_92": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_37": [
+        "Hifumi",
+        "Koharu",
+        "Azusa",
+        "Hanako"
+      ],
+      "OST_92": [
+        "Azusa",
+        "Saori"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityClassRoom2_Night2.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory2_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_Dormitory2.jpg",
+        "BG_TrinityClassRoom2.jpg",
+        "BG_TrinityClassRoom2_Night.jpg",
+        "BG_TrinityClassRoom2_Sunset.jpg",
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory2_Night2.jpg",
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ],
+      "Saori": [
+        "BG_RuinBuildingCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Koharu": [
+        "Hifumi",
+        "Azusa",
+        "Hanako"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Koharu",
+        "Hanako",
+        "Saori"
+      ],
+      "Hanako": [
+        "Hifumi",
+        "Koharu",
+        "Azusa",
+        "Saori"
+      ],
+      "Hifumi": [
+        "Koharu",
+        "Azusa",
+        "Hanako"
+      ],
+      "Saori": [
+        "Azusa",
+        "Hanako"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

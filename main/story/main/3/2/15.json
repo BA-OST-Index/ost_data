@@ -1,0 +1,102 @@
+{
+  "uuid": "edcfe6e6-b32a-4e20-8204-59e054103652",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_15_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_15_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 15
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityCampus_Night.jpg",
+        "BG_View_Trinity_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Campus_Night.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_Gym_Night2.jpg"
+      ],
+      "character": [
+        "Nagisa",
+        "Hanako",
+        "Azusa"
+      ],
+      "track": [
+        "OST_73",
+        "OST_65"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_TrinityCampus_Night.jpg",
+        "BG_View_Trinity_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Campus_Night.jpg"
+      ],
+      "OST_73": [
+        "BG_TrinityClubRoom_Night2.jpg"
+      ],
+      "OST_65": [
+        "BG_Campus_Night.jpg",
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_BuildingCorridor_Night.jpg",
+        "BG_Gym_Night2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_73": [
+        "Hanako",
+        "Nagisa",
+        "Azusa"
+      ],
+      "OST_65": [
+        "Azusa",
+        "Hanako"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityClubRoom_Night2.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Campus_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClubRoom_Night2.jpg",
+        "BG_Campus_Night.jpg",
+        "BG_BuildingCorridor_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Nagisa",
+        "Azusa"
+      ],
+      "Nagisa": [
+        "Hanako",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Hanako",
+        "Nagisa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

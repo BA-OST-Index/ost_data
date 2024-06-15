@@ -1,0 +1,250 @@
+{
+  "uuid": "64fbb319-0a74-4d3d-bdd2-c0ee6c9deb86",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_26_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_26_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 26
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_TrinityMeetingRoom.jpg"
+      ],
+      "character": [
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Ichika",
+        "Tsurugi",
+        "Mika",
+        "Nagisa",
+        "Seia",
+        "Kuzunoha",
+        "Hanae",
+        "Serina",
+        "Sakurako",
+        "Mine",
+        "Azusa",
+        "Ui",
+        "Hanako",
+        "Koharu"
+      ],
+      "track": [
+        "OST_65",
+        "OST_12"
+      ]
+    },
+    "track_to_bg": {
+      "OST_65": [
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg",
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg",
+        "BG_TrinityOldLibrary_Night.jpg",
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_CathedralRuins.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "OST_12": [
+        "BG_CathedralRuins.jpg",
+        "BG_TrinityMeetingRoom.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_65": [
+        "MemberOfJusticeTaskForce",
+        "Hasumi",
+        "Ichika",
+        "Tsurugi",
+        "Mika",
+        "Seia",
+        "Nagisa",
+        "Sakurako",
+        "Mine",
+        "Azusa",
+        "Ui",
+        "Hanako",
+        "Koharu"
+      ],
+      "OST_12": [
+        "Mika",
+        "Nagisa",
+        "Seia",
+        "Kuzunoha",
+        "Ichika"
+      ]
+    },
+    "char_to_bg": {
+      "Hasumi": [
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_AriusBasilica.jpg",
+        "BG_TrinityCampus_Night.jpg"
+      ],
+      "Ichika": [
+        "BG_AriusBasilica.jpg",
+        "BG_AriusStreet.jpg",
+        "BG_TrinityCampus_Night.jpg",
+        "BG_CathedralRuins.jpg"
+      ],
+      "Tsurugi": [
+        "BG_AriusStreet.jpg"
+      ],
+      "Mika": [
+        "BG_AriusStreet.jpg",
+        "BG_CathedralRuins.jpg"
+      ],
+      "Nagisa": [
+        "BG_CathedralRuins.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Seia": [
+        "BG_CathedralRuins.jpg",
+        "BG_Ward_Night.jpg",
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Hanae": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Serina": [
+        "BG_Ward_Night.jpg"
+      ],
+      "Sakurako": [
+        "BG_TrinityTerrace_Night.jpg",
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Mine": [
+        "BG_TrinityTerrace_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_TrinityClubRoom_Night.jpg"
+      ],
+      "Ui": [
+        "BG_TrinityOldLibrary_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_TrinityOldLibrary_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_TrinityCampus_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "MemberOfJusticeTaskForce": [
+        "Hasumi",
+        "Ichika",
+        "Koharu"
+      ],
+      "Ichika": [
+        "Hasumi",
+        "MemberOfJusticeTaskForce",
+        "Tsurugi",
+        "Mika",
+        "Koharu",
+        "Seia",
+        "Nagisa"
+      ],
+      "Hasumi": [
+        "MemberOfJusticeTaskForce",
+        "Ichika",
+        "Mika",
+        "Nagisa",
+        "Seia",
+        "Sakurako",
+        "Mine"
+      ],
+      "Tsurugi": [
+        "Ichika"
+      ],
+      "Mika": [
+        "Ichika",
+        "Hasumi",
+        "Nagisa",
+        "Seia"
+      ],
+      "Nagisa": [
+        "Mika",
+        "Seia",
+        "Sakurako",
+        "Hasumi",
+        "Mine",
+        "Ichika"
+      ],
+      "Seia": [
+        "Mika",
+        "Hanae",
+        "Serina",
+        "Nagisa",
+        "Sakurako",
+        "Hasumi",
+        "Mine",
+        "Ichika"
+      ],
+      "Serina": [
+        "Hanae",
+        "Seia"
+      ],
+      "Hanae": [
+        "Seia",
+        "Serina"
+      ],
+      "Sakurako": [
+        "Nagisa",
+        "Seia",
+        "Hasumi",
+        "Mine",
+        "Azusa"
+      ],
+      "Mine": [
+        "Nagisa",
+        "Seia",
+        "Sakurako",
+        "Hasumi"
+      ],
+      "Azusa": [
+        "Sakurako"
+      ],
+      "Hanako": [
+        "Ui"
+      ],
+      "Ui": [
+        "Hanako"
+      ],
+      "Koharu": [
+        "Ichika",
+        "MemberOfJusticeTaskForce"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

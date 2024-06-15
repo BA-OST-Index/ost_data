@@ -1,0 +1,140 @@
+{
+  "uuid": "deb35f75-ed93-40f8-b316-b304ba3f9308",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_2_4_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_2_4_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 2,
+    "segment": 4
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_Gym_Night.jpg",
+        "BG_TrinityStreet_Night.jpg"
+      ],
+      "character": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "track": [
+        "OST_26",
+        "OST_16",
+        "OST_38",
+        "OST_3"
+      ]
+    },
+    "track_to_bg": {
+      "OST_0": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Dormitory_Night.jpg",
+        "BG_Gym_Night.jpg"
+      ],
+      "OST_26": [
+        "BG_Dormitory2_Night.jpg"
+      ],
+      "OST_16": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Dormitory_Night.jpg"
+      ],
+      "OST_38": [
+        "BG_Gym_Night2.jpg"
+      ],
+      "OST_3": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_TrinityStreet_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_26": [
+        "Hifumi",
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ],
+      "OST_16": [
+        "Azusa",
+        "Hanako",
+        "Koharu",
+        "Hifumi"
+      ],
+      "OST_38": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ],
+      "OST_3": [
+        "Hanako",
+        "Hifumi",
+        "Azusa",
+        "Koharu"
+      ]
+    },
+    "char_to_bg": {
+      "Hifumi": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Gym_Night.jpg"
+      ],
+      "Hanako": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Gym_Night.jpg"
+      ],
+      "Koharu": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Gym_Night.jpg"
+      ],
+      "Azusa": [
+        "BG_Dormitory2_Night.jpg",
+        "BG_Gym_Night2.jpg",
+        "BG_Gym_Night.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Hanako": [
+        "Hifumi",
+        "Koharu",
+        "Azusa"
+      ],
+      "Koharu": [
+        "Hifumi",
+        "Hanako",
+        "Azusa"
+      ],
+      "Azusa": [
+        "Hifumi",
+        "Hanako",
+        "Koharu"
+      ],
+      "Hifumi": [
+        "Hanako",
+        "Koharu",
+        "Azusa"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

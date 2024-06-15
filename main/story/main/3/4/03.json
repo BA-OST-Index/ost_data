@@ -1,0 +1,130 @@
+{
+  "uuid": "d8cd8b59-96fc-47be-b1c0-1d88bf5e1791",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_3_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_3_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 3
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityCampusPlaza.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityPrison2.jpg",
+        "BG_CS_PV3_02_2.jpg"
+      ],
+      "character": [
+        "Nagisa",
+        "MemberOfJusticeTaskForce",
+        "Mika",
+        "Seia"
+      ],
+      "track": [
+        "OST_27",
+        "OST_22",
+        "OST_125",
+        "OST_47",
+        "OST_21",
+        "OST_105"
+      ]
+    },
+    "track_to_bg": {
+      "OST_27": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_0": [
+        "BG_TrinityClubRoom.jpg",
+        "BG_TrinityCampusPlaza.jpg",
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityPrison2.jpg",
+        "BG_CS_PV3_02_2.jpg"
+      ],
+      "OST_22": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "OST_125": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_47": [
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "OST_21": [
+        "BG_TrinityPrison.jpg"
+      ],
+      "OST_105": [
+        "BG_TrinityPrison2.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_27": [
+        "Nagisa"
+      ],
+      "OST_22": [
+        "Nagisa"
+      ],
+      "OST_47": [
+        "Mika",
+        "MemberOfJusticeTaskForce",
+        "Seia"
+      ],
+      "OST_21": [
+        "Mika"
+      ],
+      "OST_105": [
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Nagisa": [
+        "BG_TrinityClubRoom.jpg"
+      ],
+      "MemberOfJusticeTaskForce": [
+        "BG_TrinityCampusPlaza.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Mika": [
+        "BG_TrinityPrison.jpg",
+        "BG_TrinityTerrace.jpg"
+      ],
+      "Seia": [
+        "BG_TrinityTerrace.jpg",
+        "BG_TrinityPrison2.jpg"
+      ]
+    },
+    "char_to_char": {
+      "MemberOfJusticeTaskForce": [
+        "Seia",
+        "Mika"
+      ],
+      "Mika": [
+        "Seia",
+        "MemberOfJusticeTaskForce"
+      ],
+      "Seia": [
+        "MemberOfJusticeTaskForce",
+        "Mika"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}

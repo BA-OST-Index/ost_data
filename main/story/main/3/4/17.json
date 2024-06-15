@@ -1,0 +1,143 @@
+{
+  "uuid": "a3046fa4-ec14-4a29-b888-d742a2ab35c2",
+  "filetype": 11,
+  "filetype_sub": 1,
+  "name": "[STORY_MAIN_3_4_17_NAME]",
+  "desc": [
+    "[STORY_MAIN_3_4_17_DESC_1]"
+  ],
+  "pos": {
+    "volume": 3,
+    "chapter": 4,
+    "segment": 17
+  },
+  "image": {
+    "platform": -1,
+    "value": "",
+    "short_desc": ""
+  },
+  "data": {
+    "all": {
+      "background": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_05_3.jpg",
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_03.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ],
+      "character": [
+        "Mika",
+        "Saori",
+        "Misaki",
+        "Hiyori",
+        "Beatrice",
+        "Barbara",
+        "Seia"
+      ],
+      "track": [
+        "OST_122",
+        "OST_73",
+        "OST_74",
+        "OST_92"
+      ]
+    },
+    "track_to_bg": {
+      "OST_122": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_0": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_05_3.jpg",
+        "BG_SanctumOfBeatrice.jpg"
+      ],
+      "OST_73": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "OST_74": [
+        "BG_AriusBasilica_Night.jpg",
+        "BG_CS_Arius_05_3.jpg"
+      ],
+      "OST_92": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_03.jpg",
+        "BG_CathedralRuins_Night.jpg"
+      ]
+    },
+    "track_to_char": {
+      "OST_122": [
+        "Mika",
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "OST_73": [
+        "Saori",
+        "Mika"
+      ],
+      "OST_74": [
+        "Mika",
+        "Saori"
+      ],
+      "OST_92": [
+        "Beatrice",
+        "Barbara",
+        "Seia"
+      ]
+    },
+    "char_to_bg": {
+      "Mika": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Saori": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Misaki": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Hiyori": [
+        "BG_AriusBasilica_Night.jpg"
+      ],
+      "Beatrice": [
+        "BG_SanctumOfBeatrice.jpg",
+        "BG_CS_Arius_03.jpg"
+      ],
+      "Barbara": [
+        "BG_SanctumOfBeatrice.jpg"
+      ]
+    },
+    "char_to_char": {
+      "Saori": [
+        "Mika",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Misaki": [
+        "Mika",
+        "Saori",
+        "Hiyori"
+      ],
+      "Hiyori": [
+        "Mika",
+        "Saori",
+        "Misaki"
+      ],
+      "Mika": [
+        "Saori",
+        "Misaki",
+        "Hiyori"
+      ],
+      "Barbara": [
+        "Beatrice"
+      ],
+      "Beatrice": [
+        "Barbara"
+      ]
+    },
+    "special": {
+      "flag": false,
+      "track": "OST_0",
+      "char": []
+    }
+  },
+  "is_battle": false
+}
